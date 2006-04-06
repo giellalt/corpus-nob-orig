@@ -4,8 +4,8 @@
 <xsl:stylesheet version="1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
-  <xsl:variable name="filename" select="'AMU_m__�_teprotokoll_17.01.05.doc'"/>
-  <xsl:variable name="title" select="'Møteprotokoll'"/>
+  <xsl:variable name="filename" select="'AMU_møteprotokoll_17.01.05.doc'"/>
+  <xsl:variable name="title" select="''"/>
   <xsl:variable name="author1_fn" select="''"/>
   <xsl:variable name="author1_ln" select="''"/>
   <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -46,7 +46,7 @@
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.3 $'"/>
   <!-- The main language of the document -->
   <xsl:variable name="mainlang" select="'nob'"/>
   <!-- Other languages, in case of multilingual document. -->

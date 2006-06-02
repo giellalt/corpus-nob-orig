@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0"?>
 <!-- Format query results for display -->
-<xsl:stylesheet version="1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'varsi_n.htm'"/>
-  <xsl:variable name="title" select="'- Tenk at lærerne våre virkelig var mot fornorskinga!'"/>
+  <xsl:variable name="title" select="'- Tenk at l&#xE6;rerne v&#xE5;re virkelig var mot fornorskinga!'"/>
   <xsl:variable name="author1_fn" select="'Per Edvin'"/>
   <xsl:variable name="author1_ln" select="'Varsi'"/>
   <xsl:variable name="author1_gender" select="'m'"/>
@@ -41,18 +40,21 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
+  <xsl:variable name="sub_name" select="'B&#xF8;rre Gaup'"/>
   <xsl:variable name="sub_email" select="'boerre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="''"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
-  <xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+  <xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
   <!-- The main language of the document -->
   <xsl:variable name="mainlang" select="'nno'"/>
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
-  <xsl:variable name="multilingual" select="''"/>
+  <!--Select "1" for monolingual to turn language recog off-->
+<xsl:variable name="monolingual" select="''"/>
+<xsl:variable name="multilingual" select="''"/>
+
   <xsl:variable name="mlang_sme" select="''"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>

@@ -59,7 +59,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.14 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -87,8 +87,8 @@
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
-<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="parallel_texts" select="'1'"/>
+<xsl:variable name="para_sme" select="'NAC_1994_21.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
@@ -150,6 +150,9 @@
 </xsl:template>
 -->
 
+<xsl:variable name="main_sizes" select="'12pt'"/>
+<xsl:variable name="title_sizes" select="'12pt,16pt'"/>
+<xsl:variable name="title_styles" select="'Bold'"/>
 
 <xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
 

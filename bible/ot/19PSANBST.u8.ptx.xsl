@@ -47,14 +47,14 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.9 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.5 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.6 $'"/>
 
 
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="'Replaced with better formatted file 19PSANBST.bible.xml'"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'nob'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->

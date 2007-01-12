@@ -59,22 +59,22 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.18 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.1 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.2 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'nob'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="''"/> <!--this is default-->
+<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
 <!-- checked for all the languages below. -->
-<xsl:variable name="mlang_sme" select="''"/>
+<xsl:variable name="mlang_sme" select="'1'"/>
 <xsl:variable name="mlang_smj" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_nob" select="''"/>
@@ -88,7 +88,7 @@
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="''"/>
-<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_sme" select="'samisk_strategiplan_samisk.doc'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_nob" select="''"/>

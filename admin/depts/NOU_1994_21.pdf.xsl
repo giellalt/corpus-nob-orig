@@ -59,7 +59,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.14 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.7 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.8 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -128,7 +128,7 @@
 <!-- Change or remove problematic characters from the text. -->
 <!-- add the template to match (here all p:s), and write the -->
 <!-- replaced characters and the replacements. -->
-<!--
+
 <xsl:template match="p">
 <xsl:variable name="text" select='current()' />
 <xsl:variable name="type" select='@type' />
@@ -145,10 +145,16 @@
             </xsl:attribute>
             </xsl:if>
 
-			<xsl:value-of select="translate($text,'ð','đ') "/>
+            <xsl:call-template name="globalTextReplace">
+               <xsl:with-param name="inputString" select="$text" />
+<xsl:with-param name="target" select="bae/fae/gael/haen/haer/haev/jae/kae/laet/laere/laera/laert/laese/laeri/laen/klaer/laep/laeg/Bomaen/maend/mael/maer/maes/klimaet/nae/pae/rae/sae/taer/taet/taed/taes/taenk/tael/vae/Bae/Dae/Fae/Gae/Hae/Jae/Kae/Lae/Mae/Nae/Pae/Rae/Sae/Tae/Vae/'"/>
+<xsl:with-param name="replacement" select="'bæ/fæ/gæl/hæn/hær/hæv/jæ/kæ/læt/læere/læera/læert/læese/læeri/læen/klær/læep/læg/Bomæn/mænd/mæl/mær/mæs/klimæt/næ/pæ/ræ/sæ/tær/tæt/tæd/tæs/tænk/tæl/væ/Bæ/Dæ/Fæ/Gæ/Hæ/Jæ/Kæ/Læ/Mæ/Næ/Pæ/Ræ/Sæ/Tæ/Væ/'"/>
+            <xsl:with-param name="continue" select="1"/>
+            </xsl:call-template>
+
 </xsl:element>
 </xsl:template>
--->
+
 
 <xsl:variable name="main_sizes" select="'12pt'"/>
 <xsl:variable name="title_sizes" select="'12pt,14pt,16pt,18pt,22pt,25pt'"/>

@@ -59,7 +59,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.14 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.9 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.10 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -161,7 +161,7 @@
 <xsl:variable name="title_styles" select="'Times-Bold'"/>
 <xsl:variable name="excluded" select="'150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,258'"/>
 
-<xsl:include href="/usr/local/share/corp/bin/common.xsl"/>
+<xsl:include href="/home/saara/gt/script/common.xsl"/>
 
 
 </xsl:stylesheet>

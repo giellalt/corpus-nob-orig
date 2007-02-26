@@ -59,7 +59,7 @@
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="' 1.14 '"/>
-<xsl:variable name="current_version" select="'$Revision: 1.12 $'"/>
+<xsl:variable name="current_version" select="'$Revision: 1.13 $'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
@@ -147,8 +147,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text" />
-<xsl:with-param name="target" select="'bae/kundaer/fae/gael/haen/haer/haev/jae/kae/laed/laet/laere/laera/laert/laese/laeri/laen/klaer/laep/laeg/Bomaen/maend/mael/maer/maes/klimaet/nae/pae/rae/sae/taer/taet/taed/taes/taenk/tael/taene/taeg/taeng/vae/Bae/Dae/Fae/Gae/Hae/Jae/Kae/Lae/Mae/Nae/Pae/Rae/Sae/Tae/Vae/'"/>
-<xsl:with-param name="replacement" select="'bæ/kundær/fæ/gæl/hæn/hær/hæv/jæ/kæ/læd/læt/læere/læera/læert/læese/læri/læen/klær/læep/læg/Bomæn/mænd/mæl/mær/mæs/klimæt/næ/pæ/ræ/sæ/tær/tæt/tæd/tæs/tænk/tæl/tæne/tæg/tæng/væ/Bæ/Dæ/Fæ/Gæ/Hæ/Jæ/Kæ/Læ/Mæ/Næ/Pæ/Ræ/Sæ/Tæ/Væ/'"/>
+<xsl:with-param name="target" select="'bae/kundaer/fae/gael/haen/haer/haev/jae/kae/laed/laet/laere/laera/laert/laese/laeri/laen/klaer/laep/laeg/Bomaen/maend/mael/maer/maes/klimaet/nae/pae/rae/sae/taer/taet/taed/taes/taenk/tael/taene/taeg/taeng/vae/Bae/Dae/Fae/Gae/Hae/Jae/Kae/Lae/Mae/Nae/Pae/Rae/Sae/Tae/Vae/AEl/AEt/'"/>
+<xsl:with-param name="replacement" select="'bæ/kundær/fæ/gæl/hæn/hær/hæv/jæ/kæ/læd/læt/læere/læera/læert/læese/læri/læen/klær/læep/læg/Bomæn/mænd/mæl/mær/mæs/klimæt/næ/pæ/ræ/sæ/tær/tæt/tæd/tæs/tænk/tæl/tæne/tæg/tæng/væ/Bæ/Dæ/Fæ/Gæ/Hæ/Jæ/Kæ/Læ/Mæ/Næ/Pæ/Ræ/Sæ/Tæ/Væ/Æl/Æt/'"/>
             <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 

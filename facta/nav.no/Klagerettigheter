@@ -1,0 +1,372 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="no"><head><base href="http://www.nav.no/"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>NAV - Klagerettigheter - </title><link href="/_public/shared/bilder/favicon.ico" rel="icon" type="image/x-icon" /><link href="/_public/shared/bilder/favicon.ico" rel="shortcut icon" type="image/x-icon" /><link href="http://www.nav.no/_public/www.nav.no/styles/main.css" rel="stylesheet" type="text/css" /><link href="http://www.nav.no/_public/www.nav.no/styles/content.css" rel="stylesheet" type="text/css" /><link href="http://www.nav.no/_public/www.nav.no/styles/ui.all.css" rel="stylesheet" type="text/css" />
+				<!--[if IE]>
+				<link type="text/css" rel="stylesheet" href="http://www.nav.no/_public/www.nav.no/styles/ie.css" />
+				<![endif]-->
+				<link href="http://www.nav.no/_public/www.nav.no/styles/print.css" media="print" rel="stylesheet" type="text/css" /><link href="http://www.nav.no/_public/www.nav.no/styles/empty.css" id="contrast" rel="stylesheet" type="text/css" /><link href="http://www.nav.no/_public/www.nav.no/styles/empty.css" id="fontsize" rel="stylesheet" type="text/css" /><link href="http://www.nav.no/_public/www.nav.no/styles/rotatingBannerTop.css" rel="stylesheet" type="text/css" /><script src="http://www.nav.no/_public/shared/scripts/cookieLib.js" type="text/javascript">//</script><script src="http://www.nav.no/_public/www.nav.no/scripts/setActiveCSS.js" type="text/javascript"> //</script><script src="http://www.nav.no/_public/shared/scripts/calculators.js" type="text/javascript">//</script></head><body><div class="noindex"><map id="map"><area accesskey="h" alt="Gå til hovedmeny Alt+h+enter" coords="1,1,2,2" href="http://www.nav.no/Om+NAV/NAV/Klagerettigheter#mainmenu" shape="rect"/><area accesskey="u" alt="Gå til undermeny Alt+u+enter" coords="5,1,2,2" href="http://www.nav.no/Om+NAV/NAV/Klagerettigheter#leftmenu" shape="rect"/><area accesskey="i" alt="Gå til innhold Alt+i+enter" coords="10,1,2,2" href="http://www.nav.no/Om+NAV/NAV/Klagerettigheter#content" shape="rect"/><area accesskey="r" alt="Gå til relatert innhold Alt+r+enter" coords="14,1,2,2" href="http://www.nav.no/Om+NAV/NAV/Klagerettigheter#related" shape="rect"/><area accesskey="b" alt="Gå til informasjon om tilgjengelighet Alt+b+enter" coords="2,2,2,2" href="http://www.nav.no/Om+NAV/Om+nav.no/Tilgjengelighet" shape="rect"/><area alt="NAV" coords="46,30,40" href="http://www.nav.no/Forsiden" shape="circle" title="NAV"/></map></div>
+						<div id="NAVheaderContainer">
+						<div class="noindex">
+<script language="javascript" type="text/javascript">
+				var newWin = null;
+				function popUp(strURL, strType, strHeight, strWidth) {
+					if (newWin != null )
+						if (!newWin.closed)
+							newWin.close();
+					
+					var strOptions="";
+						if (strType=="popup")
+						strOptions="location=0,menubar=1,resizable=1,scrollbars=1,status=0,titlebar=0,toolbar=0,height="+strHeight+",width="+strWidth;
+						newWin = window.open(strURL, 'newWin', strOptions);
+						newWin.focus();
+				}
+				
+					function changeLocation(elmId) {
+					var location = document.getElementById(elmId).value;
+					if (location.indexOf('|new') != -1) {
+						popUp(location.substring(0, location.indexOf('|new')), 'full', 600, 800);
+					} else if (location != '') {
+						document.location = location;
+					}
+				}
+									</script></div><div id="NAVheaderContentContainer"><div class="NAVlogoContainer"><div class="noindex"><a href="http://www.nav.no/Forsiden"><img alt="Forsiden" src="/_public/www.nav.no/bilder/global/navlogo.gif" usemap="#map" /></a></div></div><div id="NAVheaderContent">
+<div class="noindex">
+   <div class="NAVavailabilityLinksRight">
+      <span class="NAVlinksContainer" style="margin-left: 15px;" id="hoykontrast"> // <a href="#" onclick="javascript:changeContrast(); return false;"
+            style="margin-left: 0;">Høykontrast</a>
+      </span>
+      <span class="NAVlinksContainer" style="margin-left: 15px;" id="skriftstr"> // <a class="NAVswitchFontLink" href="#"
+            onclick="javascript:changeFontSize(); return false;"
+            style="margin-left: 0;">Skriftstørrelse</a>
+         <a class="NAVsizeLinks" href="#"
+            onclick="javascript:setFontSize('normal'); return false;">
+            <span class="NAVsmall">A</span>
+         </a>
+         <a class="NAVsizeLinks" href="#"
+            onclick="javascript:setFontSize('large'); return false;">
+            <span class="NAVmedium">A</span>
+         </a>
+         <a class="NAVsizeLinks" href="#"
+            onclick="javascript:setFontSize('largest'); return false;">
+            <span class="NAVlarge">A</span>
+         </a>
+      </span>
+      <span class="NAVlinksContainer" style="margin-left: 15px;"> // <a href="http://www.nav.no/English" lang="en" style="margin-left: 0;">English</a>
+      </span>
+      <span class="NAVlinksContainer" style="margin-left: 15px;"> // <a href="http://www.nav.no/Polsk" lang="pl" style="margin-left: 0;">Polski</a>
+      </span>
+      <span class="NAVlinksContainer" style="margin-left: 15px;"> // <a href="http://www.nav.no/Samisk" lang="se" style="margin-left: 0;">Sámegiella</a>
+      </span>
+   </div>
+</div>
+<div class="noindex">
+   <div class="NAVservicesTop"> // <a href="http://www.nav.no/Om+NAV">Om NAV</a> // <a href="http://www.nav.no/Om+NAV/Kontakt+oss">Kontakt oss</a>
+      <script language="javascript" type="text/javascript"><!--
+				function formEnterSubmit(e, paramn)
+				{
+					if (navigator.appName == 'Microsoft Internet Explorer') {
+						if (window.event.keyCode == '13'){
+							changeLocation(paramn);
+						}
+					}
+					else {
+						if (e.keyCode == '13') {
+							changeLocation(paramn);
+						}
+					}
+				}
+				--></script>
+      <form action="http://www.nav.no/Om+NAV/NAV/Klagerettigheter" method="get">
+         <select name="ddServices" title="Snarveier til tjenester" id="ddServices"
+                 onkeypress="formEnterSubmit(event, 'ddServices');">
+            <option value="">Snarvei til tjenester</option>
+            <option value="https://www.nav.no/jobbsok" title="Ledige jobber">Ledige jobber</option>
+            <option value="https://www.nav.no/sbl/loginBoks.do" title="Logg inn Din side">Logg inn Din side</option>
+            <option value="https://www.nav.no/sbl/arbeid/registrering"
+                    title="Registrering arbeidssøker">Registrering arbeidssøker</option>
+            <option value="https://www.nav.no/sbl/loginBoks.do" title="Send meldekort">Send meldekort</option>
+            <option value="http://www.nav.no/page?id=318" title="Veiledningsverktøy og tester">Veiledningsverktøy og tester</option>
+            <option value="/" title="-----------------------------">-----------------------------</option>
+            <option value="https://tjenester.nav.no/sbl/dineutbetalinger/"
+                    title="Dine utbetalinger">Dine utbetalinger</option>
+            <option value="/" title="-----------------------------">-----------------------------</option>
+            <option value="https://www.nav.no/dinpensjon" title="Logg inn Din pensjon">Logg inn Din pensjon</option>
+            <option value="https://applikasjoner.nav.no/dinpensjon/pselv/simulering/forenkletsimulering.jsf"
+                    title="Forenklet pensjonskalkulator">Forenklet pensjonskalkulator</option>
+            <option value="/" title="-----------------------------">-----------------------------</option>
+            <option value="http://tjenester.nav.no/foreldrepengeveilederen/fpenger/fpengerWizard.do"
+                    title="Foreldrepengeveilederen">Foreldrepengeveilederen</option>
+            <option value="http://www.nav.no/page?id=337" title="Bidragsveileder">Bidragsveileder</option>
+            <option value="/" title="-----------------------------">-----------------------------</option>
+            <option value="https://www.nav.no/sbl/loginBoks.do" title="Logg inn Din side">Logg inn Din side</option>
+            <option value="/sbl/ag/vilkaar.do" title="Registrering arbeidsgiver">Registrering arbeidsgiver</option>
+            <option value="https://www.nav.no/sbl/ag/sok/enkelt.do" title="Søk kandidat">Søk kandidat</option>
+            <option value="/sbl/ag/stillingsutlysning/stillingsutlysningsinformasjon.do"
+                    title="Utlys stilling">Utlys stilling</option>
+            <option value=" " title="---------------------------">---------------------------</option>
+            <option value="https://www.altinn.no/no/Skjema-og-tjenester/Etater/NAV/Aa-melding/"
+                    title="Aa-melding">Aa-melding</option>
+            <option value="https://www.altinn.no/nn/Skjema-og-tenester/Etater/NAV/Oppgjersrapport-K27/|new"
+                    title="Oppgjersrapport K27">Oppgjersrapport K27</option>
+            <option value="https://www.altinn.no/nn/Skjema-og-tenester/Etater/NAV/Oppgjersrapport-K37/|new"
+                    title="Oppgjersrapport K37">Oppgjersrapport K37</option>
+            <option value="http://www.nav.no/iasykefravaer|new" title="Sykefravær i bedrift">Sykefravær i bedrift</option>
+            <option value="/" title="-----------------------------">-----------------------------</option>
+            <option value="http://www.nav.no/page?id=1073743084" title="Finn ditt kontor">Finn ditt kontor</option>
+         </select>
+         <input class="NAVbtn NAVheadBtn" type="button" value="Vis"
+                onclick="changeLocation('ddServices');"/>
+      </form>
+      <form action="http://www.nav.no/systemsider/S%C3%B8k" method="get"
+            name="searchFieldHeader"
+            accept-charset="UTF-8">
+         <input name="queryparameter" type="text"/>
+         <input class="NAVbtn" type="submit" value="Søk"/>
+      </form>
+   </div>
+</div></div></div><div id="NAVmenu">
+<a id="mainmenu"></a><div class="noindex">
+   <ul>
+      <li>
+         <a href="http://www.nav.no/Forsiden">
+            <img src="/_public/www.nav.no/bilder/menu/forsiden.gif" alt="Forsiden"/>
+         </a>
+      </li>
+      <li>
+         <a href="http://www.nav.no/Arbeid">
+            <img src="/_public/www.nav.no/bilder/menu/jobbogarbeidsliv.gif" alt="Arbeid"/>
+         </a>
+      </li>
+      <li>
+         <a href="http://www.nav.no/Familie">
+            <img src="/_public/www.nav.no/bilder/menu/familieogomsorg.gif" alt="Familie"/>
+         </a>
+      </li>
+      <li>
+         <a href="http://www.nav.no/Pensjon">
+            <img src="/_public/www.nav.no/bilder/menu/pensjon.gif" alt="Pensjon"/>
+         </a>
+      </li>
+      <li>
+         <a href="http://www.nav.no/Helse">
+            <img src="/_public/www.nav.no/bilder/menu/helse.gif" alt="Helse"/>
+         </a>
+      </li>
+   </ul>
+</div></div></div><div id="NAVcenterContainer"><div id="NAVborderLeft"><div id="NAVborderRight"><div id="NAVcontentSpacerOperaFix"><div id="NAVcontentSpacerContainer">
+<div id="NAVpageTitleContainer">
+   <div class="noindex">
+      <div id="NAViconOmNav">
+         <h1>Klagerettigheter</h1>
+      </div>
+   </div>
+</div>
+<div id="NAVpageContainer">
+<div id="NAVbreadcrumbContainer"><input name="isLocalPageForSearch" type="hidden" value="false" /><input name="county" type="hidden" value="" /><div class="noindex"><span>Du er her: </span> // <a href="http://www.nav.no/Forsiden">NAV</a> // <a href="http://www.nav.no/Om+NAV">Om NAV</a> // <a href="http://www.nav.no/Om+NAV/NAV">NAV</a> // <a href="http://www.nav.no/Om+NAV/NAV/Klagerettigheter">Klagerettigheter</a></div></div><div class="NAVtopSpacing">&nbsp;</div><div id="NAVsubmenuContainer"><a id="leftmenu"></a><div class="noindex">
+   <ul class="NAVsubmenu">
+      <li class="NAVselected">
+         <div>
+            <a href="http://www.nav.no/Om+NAV/NAV" class="NAVlevelOne">NAV</a>
+            <ol>
+               <li>
+                  <div>
+                     <a href="http://www.nav.no/Om+NAV/NAV/%C3%85rsmeldinger">Årsmeldinger</a>
+                  </div>
+               </li>
+               <li>
+                  <div>
+                     <a href="http://www.nav.no/Om+NAV/NAV/Etableringskart">Etableringskart</a>
+                  </div>
+               </li>
+               <li>
+                  <div>
+                     <a href="http://www.nav.no/Om+NAV/NAV/Organisasjonskart">Organisasjonskart</a>
+                  </div>
+               </li>
+               <li>
+                  <div>
+                     <a href="http://www.nav.no/Om+NAV/NAV/Folketrygdens+form%C3%A5l">Folketrygdens formål</a>
+                  </div>
+               </li>
+               <li>
+                  <div>
+                     <a href="http://www.nav.no/Om+NAV/NAV/H%C3%B8ringsuttalelser+fra+NAV">Høringsuttalelser fra NAV</a>
+                  </div>
+               </li>
+               <li>
+                  <div>
+                     <a href="http://www.nav.no/Om+NAV/NAV/Klagerettigheter" class="NAVlevelTwo">Klagerettigheter</a>
+                  </div>
+               </li>
+               <li>
+                  <div>
+                     <a href="http://www.nav.no/Om+NAV/NAV/MEMU+-+internmagasin">MEMU - internmagasin</a>
+                  </div>
+               </li>
+            </ol>
+         </div>
+      </li>
+      <li>
+         <div>
+            <a href="http://www.nav.no/Om+NAV/Jobbe+i+NAV">Jobbe i NAV</a>
+         </div>
+      </li>
+      <li>
+         <div>
+            <a href="http://www.nav.no/Om+NAV/Tall+og+analyse">Tall og analyse</a>
+         </div>
+      </li>
+      <li>
+         <div>
+            <a href="http://www.nav.no/Om+NAV/Anskaffelser">Anskaffelser</a>
+         </div>
+      </li>
+      <li>
+         <div>
+            <a href="http://www.nav.no/Om+NAV/Om+nav.no">Om nav.no</a>
+         </div>
+      </li>
+      <li>
+         <div>
+            <a href="http://www.nav.no/Om+NAV/Presserom">Presserom</a>
+         </div>
+      </li>
+      <li>
+         <div>
+            <a href="http://www.nav.no/Om+NAV/Kontakt+oss">Kontakt oss</a>
+         </div>
+      </li>
+      <li>
+         <div>
+            <a href="http://www.nav.no/Om+NAV/Satser+og+datoer">Satser og datoer</a>
+         </div>
+      </li>
+      <li>
+         <div>
+            <a href="http://www.nav.no/Om+NAV/Skjemaer">Skjemaer</a>
+         </div>
+      </li>
+      <li>
+         <div>
+            <a href="http://www.nav.no/Om+NAV/Brukermedvirkning">Brukermedvirkning</a>
+         </div>
+      </li>
+   </ul>
+</div>
+<div class="NAVportletSeperator">&nbsp;</div><div class="noindex">
+   <h5>Innhold a til å</h5>
+   <div class="NAValfabet">
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=a">a</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=b">b</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=c">c</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=d">d</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=e">e</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=f">f</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=g">g</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=h">h</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=i">i</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=j">j</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=k">k</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=l">l</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=m">m</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=n">n</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=o">o</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=p">p</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=q">q</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=r">r</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=s">s</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=t">t</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=u">u</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=v">v</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=w">w</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=x">x</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=y">y</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=z">z</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=%C3%A6">&aelig;</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=%C3%B8">&oslash;</a>
+      <a href="http://www.nav.no/Innhold+a+til+%C3%A5?letter=%C3%A5">&aring;</a>
+   </div>
+</div>
+<div class="NAVportletSeperator">&nbsp;</div>&nbsp;</div><div id="NAVcontentContainer"><a id="content"></a><h2>Klagerettigheter</h2>
+<p class="ingress">Dersom du får helt eller delvis avslag på søknaden din, kan du klage til NAV.</p>
+<div class="NAVtextController">
+        <p>I vedtaket vil det fremgå hvilke formkrav som gjelder for klagen. NAV-kontoret ditt har plikt til å hjelpe deg med å utforme klagen. Du kan også benytte deg av NAVs hjelpeskjema for klage.</p>
+        <p>Når du oppsøker NAV-kontoret, har du rett til å ha med deg en person du har tillit til. Du kan også gi fullmakt til en advokat eller en venn som håndterer klagen på dine vegne.</p>
+        <p>Du sender klagen til NAV-kontoret ditt. Hvis vedtaket er fattet av NAV Hjelpemiddelsentral, skal du sende klagen dit.</p>
+        <p>Når du klager, vil kontoret som har fattet vedtaket vurdere saken din på nytt. Dersom vedtaket ikke endres her, blir klagen sendt videre til behandling hos NAV Klageinstans som vil overprøve saken i sin helhet.</p>
+        <h3>Klagefrister</h3>
+        <p>Klagefristene varierer avhengig av hva slags sak du ønsker å påklage. Klagefristen skal fremgå av vedtaket.</p>
+        <h3>Klagefrist på vedtak etter folketrygdloven</h3>
+        <p>Klagefristen er seks uker fra du mottar melding om vedtaket. Eksempler på saker som behandles etter folketrygdloven er sykepenger, dagpenger og uførepensjon.</p>
+        <h3>Klagefrist på vedtak etter andre lover enn folketrygden</h3>
+        <p>Som hovedregel følges forvaltningslovens klagefrist, som er tre uker fra den datoen du mottar melding om vedtaket. Eksempel er vedtak om saksomkostninger. Forvaltningslovens frist gjelder så lenge ikke annet er bestemt i den aktuelle loven vedtaket er fattet etter. Eksempler på lengre klagefrist etter loven er saker om bidragsforskudd og saker om individstønad hvor klagefristen er seks uker.</p>
+        <h3>Anke til Trygderetten</h3>
+        <p>Dersom du får avslag på klagen din i NAV, kan du anke saken inn for Trygderetten. Vedtak som fattes etter folketrygdloven, kan med få unntak ankes inn for Trygderetten. Fristen for å anke er seks uker fra den datoen du mottar melding om vedtaket fra NAV Klageinstans.</p>
+        <p>Anken sender du til NAV-kontoret ditt. NAV Klageinstans behandler da saken din på nytt. Hvis vedtaket ikke endres, blir anken sendt til behandling i Trygderetten.</p>
+        <p>I tillegg til saker etter folketrygdloven kan også saker etter følgende lover/ordninger ankes inn for Trygderetten:</p>
+        <ul>
+            <li>Lov om barnetrygd</li>
+            <li>Lov om samordning av pensjons- og trygdeytelser</li>
+            <li>Bestemmelser om supplerende pensjonsordninger i medhold av lov eller vedtak fra Stortinget</li>
+            <li>Yrkesskadeloven</li>
+            <li>Kommunale pensjonsordninger</li>
+            <li>Avtalefestet pensjon for arbeidstakere mellom 64 og 67 år</li>
+        </ul>
+        <p>I saker om barnebidrag og individstønad er vedtaket i NAV Klageinstans endelig og kan ikke ankes inn for Trygderetten.</p>
+        <h3>Dekning av saksomkostninger</h3>
+        <p>Hvis du får medhold i klagen, kan du ha rett til å få dekket  vesentlige utgifter som har vært nødvendige for å få endret vedtaket, for eksempel utgifter til advokat. Krav om saksomkostninger sender du til NAV-kontoret ditt.</p>
+        <h3>Sivilombudsmannen</h3>
+        <p>Hvis du ikke er fornøyd med utfallet av saken din eller selve saksbehandlingen i NAV, kan du klage til Sivilombudsmannen.</p>
+        <h3>Domstolene</h3>
+        <p>Hvis du ikke er fornøyd med Trygderettens kjennelse, kan du bringe saken inn for Lagmannsretten. Fristen for å anlegge søksmål er seks måneder etter at du har mottatt melding om Trygderettens kjennelse.</p>
+        <p>I saker hvor NAV Klageinstans har fattet endelig vedtak i saken, må du sjekke hvilke frister som gjelder for å reise søksmål for tingretten eller namsretten.</p>
+        <h3>Fri rettshjelp</h3>
+        <p>Du kan også ha krav på fri rettshjelp fra advokat. Advokater har plikt til å gi deg gratis orientering om denne ordningen. Du kan selv søke Fylkesmannen om fri rettshjelp eller be advokaten din søke for deg. Det gjelder visse inntekts- og formuesgrenser.</p>
+    </div>
+<input name="innholdstype" type="hidden" value="Fag og fakta"/>
+<input name="emneord" type="hidden" value="Kommunikasjon"/></div><div id="NAVrelevantContentContainer"><!--Start tab navigasjon--><a id="related"></a><!--End tab navigasjon--><h5 class="related">Målform/språk</h5>
+<ul>
+   <li>
+      <a href="http://www.nav.no/Om+NAV/Om+NAV+-+relatert+innhold/805382789.cms">Klagerettar</a> (Nynorsk)</li>
+   <li>
+      <a href="http://www.nav.no/Samisk/Familie/Familie/228193.cms">Váidinvuoigatvuođat</a> (Samisk)</li>
+   <li>
+      <a href="http://www.nav.no/English/Stay+in+Norway/228069.cms">Appeals </a> (Engelsk)</li>
+</ul>
+<div class="NAVportletSeperator">&nbsp;</div>
+<h5 class="related">Skjema</h5>
+<ul>
+   <li>Klage/anke (<a href="http://www.nav.no/_binary?download=true&amp;id=379759">Bokmål</a> | <a href="http://www.nav.no/_binary?download=true&amp;id=379760">Nynorsk</a>)</li>
+</ul>
+<div class="NAVportletSeperator">&nbsp;</div>
+<h5 class="related">Regelverk</h5>
+<ul>
+   <li>
+      <a href="http://www.lovdata.no/all/tl-19970228-019-052.html#21-12" target="_blank">Folketrygdloven § 21-12</a>
+   </li>
+   <li>
+      <a href="http://www.nav.no/rettskildene/lov/L19661216-9" target="_blank">Trygderettsloven</a>
+   </li>
+   <li>
+      <a href="http://www.nav.no/rettskildene/lov/L19670210_P29#L19670210_P29"
+         target="_blank">Forvaltningsloven § 29</a>
+   </li>
+</ul></div><!--End NAVrelevantContentContainer-->
+<div id="NAVfooterContainer">
+<div class="noindex">
+			// <a href="http://www.nav.no/Om+NAV/Kontakt+oss">Kontakt oss</a> // <a
+      href="http://www.nav.no/Om+NAV/Om+nav.no/Personvern+og+sikkerhet">Personvern og sikkerhet</a> // <a
+      href="http://www.nav.no/Om+NAV/Om+nav.no/Tilbakemeldingsskjema">Tilbakemelding nav.no</a> // <a
+      href="http://www.nav.no/Om+NAV/Om+nav.no/Tilgjengelighet">Tilgjengelighet</a> © 2010 Arbeids- og velferdsetaten
+
+			<script src="/_public/shared/scripts/spring.js" type="text/javascript"> // </script>
+   <script type="text/javascript">var sp_e0 = {"s":"nav","cp":"nav.no","url": window.location.toString()}; spring.c(sp_e0);</script>
+   <noscript>
+      <div>
+         <img alt="" src="http://nav.tns-cs.net/j0=,,,;+,cp=nav.no+url=nav.no;;;"/>
+      </div>
+   </noscript>
+   <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script>
+   <script type="text/javascript">try { var pageTracker = _gat._getTracker("UA-9127381-1"); pageTracker._trackPageview(); } catch(err) {}</script>
+</div></div></div></div></div></div></div></div><!--End mainContainer--><!--Start bottomSpacer--><!--End bottomSpacer--><div id="NAVborderBottomContainer"><div id="NAVborderBottomCenter"><div id="borderBottomLeft"></div><div id="NAVborderBottomLeft"><div id="NAVborderBottomRight">&nbsp;</div></div></div></div></body></html>

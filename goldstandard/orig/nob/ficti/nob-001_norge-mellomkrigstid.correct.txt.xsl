@@ -25,10 +25,10 @@ Language Norsk Bokmål
  -->
 
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
-<xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="filename" select="'nob-001_norge-mellomkrigstid.correct.txt.xsl'"/>
+<xsl:variable name="title" select="'Antidemokratiske strømninger'"/>
+<xsl:variable name="author1_fn" select="'Fred M'"/>
+<xsl:variable name="author1_ln" select="'Kaaby'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
@@ -49,7 +49,7 @@ Language Norsk Bokmål
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="publisher" select="''"/>
-<xsl:variable name="publChannel" select="''"/>
+<xsl:variable name="publChannel" select="'http://home.c2i.net/kaaby/historie/antidemo.htm'"/>
 <xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
@@ -73,7 +73,7 @@ Language Norsk Bokmål
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'nob'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->

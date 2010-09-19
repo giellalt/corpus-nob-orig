@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Sámedikki_dásseárvodoaibmaplána_2009_2013.pdf '"/>
+<xsl:variable name="para_sme" select="'Sámedikki_dásseárvodoaibmaplána_2009_2013.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

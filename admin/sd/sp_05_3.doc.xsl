@@ -3,7 +3,7 @@
 <xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
-  <xsl:variable name="filename" select="'sp_3_05.doc'"/>
+  <xsl:variable name="filename" select="'sp_05_3.doc'"/>
   <xsl:variable name="title" select="'Sametingets plenum'"/>
   <xsl:variable name="author1_fn" select="'Mari'"/>
   <xsl:variable name="author1_ln" select="'Moen Erlandsen'"/>
@@ -95,7 +95,7 @@
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
-<xsl:variable name="para_sme" select="'dc_3_05.doc'"/>
+<xsl:variable name="para_sme" select="'dc_05_3.doc'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_nob" select="''"/>

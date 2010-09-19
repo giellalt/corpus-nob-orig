@@ -75,7 +75,7 @@
   <xsl:variable name="mlang_oth" select="''"/>
   <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-  <xsl:variable name="parallel_texts" select="''"/>
+  <xsl:variable name="parallel_texts" select="'1'"/>
   <xsl:variable name="para_sme" select="'STM_TS007SA.pdf'"/>
   <xsl:variable name="para_smj" select="''"/>
   <xsl:variable name="para_sma" select="''"/>

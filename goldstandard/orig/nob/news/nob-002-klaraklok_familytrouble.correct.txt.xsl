@@ -19,7 +19,7 @@
 <xsl:variable name="filename" select="'nob-002-klaraklok_familytrouble.correct.txt.xsl'"/>
 <xsl:variable name="title" select="'Klara Klok: Trøbbel i familien'"/>
 <xsl:variable name="author1_fn" select="'Jente 16 år'"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="' '"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
@@ -39,8 +39,8 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="publisher" select="''"/>
-<xsl:variable name="publChannel" select="'http://www.klara-klok.no/wips/440185332/caseId/859713681/ '"/>
+<xsl:variable name="publisher" select="'http://www.klara-klok.no/wips/440185332/caseId/859713681/'"/>
+<xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>

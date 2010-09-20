@@ -48,8 +48,8 @@ Language Norsk Bokmål
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="publisher" select="''"/>
-<xsl:variable name="publChannel" select="'http://home.c2i.net/kaaby/historie/antidemo.htm'"/>
+<xsl:variable name="publisher" select="'http://home.c2i.net/kaaby/historie/antidemo.htm'"/>
+<xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>

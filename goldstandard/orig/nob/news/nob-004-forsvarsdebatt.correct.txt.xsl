@@ -7,8 +7,6 @@
     xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
     version="1.0">
 
-<xsl:import href="/usr/local/share/corp/bin/common.xsl"/>
-
 <xsl:output method="xml" 
             version="1.0" 
             encoding="UTF-8" 
@@ -18,10 +16,10 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
-<xsl:variable name="title" select="''"/>
-<xsl:variable name="author1_fn" select="'Sofi'"/>
-<xsl:variable name="author1_ln" select="'Kloos Fahlberg'"/>
+<xsl:variable name="filename" select="'nob-004-forsvarsdebatt.correct.txt.xsl'"/>
+<xsl:variable name="title" select="'Norsk forsvarsdebatt'"/>
+<xsl:variable name="author1_fn" select="'Trasherhead'"/>
+<xsl:variable name="author1_ln" select="' '"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_born" select="''"/>
 <xsl:variable name="author1_nat" select="''"/>
@@ -41,7 +39,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
-<xsl:variable name="publisher" select="'http://www.essay.org/school/norwegian/beatels.doc'"/>
+<xsl:variable name="publisher" select="'http://vgd.no/samfunn/forsvar/tema/1438653/tittel/norks-forsvarspolitikk'"/>
 <xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
@@ -60,7 +58,7 @@
 <xsl:variable name="sub_email" select="''"/>
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 31551 $'"/>
+<xsl:variable name="template_version" select="'$Revision: 32948 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>

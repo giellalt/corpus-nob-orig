@@ -4,13 +4,13 @@
 <xsl:stylesheet version="1.0" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
-  <xsl:variable name="filename" select="'Ma___�ret_Guhttor._Innlegg_pa___�_forskningskonferanse.doc'"/>
-  <xsl:variable name="title" select="'Innlegg på forskningskonferanse på Árran lulesamisk senter, Drag i Tysfjord – '"/>
+  <xsl:variable name="filename" select="'Máret_Guhttor._Innlegg_på_forskningskonferanse.doc'"/>
+  <xsl:variable name="title" select="'Innlegg på forskningskonferanse på Árran lulesamisk senter, Drag i Tysfjord'"/>
   <xsl:variable name="author1_fn" select="'Máret'"/>
   <xsl:variable name="author1_ln" select="'Guhtor'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
   <xsl:variable name="author1_born" select="''"/>
-  <xsl:variable name="author1_nat" select="'nor'"/>
+  <xsl:variable name="author1_nat" select="'NO'"/>
   <xsl:variable name="author2_fn" select="''"/>
   <xsl:variable name="author2_ln" select="''"/>
   <xsl:variable name="author2_gender" select="''"/>
@@ -51,6 +51,7 @@
 <xsl:variable name="note" select="''"/>
 
   <!-- The main language of the document -->
+  <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
   <xsl:variable name="mainlang" select="'nob'"/>
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->

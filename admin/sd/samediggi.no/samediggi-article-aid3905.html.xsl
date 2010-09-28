@@ -17,47 +17,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.sametinget.no/artikkel.aspx?MId1=3450&amp;AId=3905&amp;Print=1'"/>
-<xsl:variable name="title" select="'Ledig stilling i Sametinget med søknadsfrist 08.10.10 - Sámediggi Sametinget
-</title></head>
-
-<body id=ctl00_Body style=background-color:white>
-	<form name=aspnetForm method=post action=artikkel.aspx?MId1=3450&amp;amp;AId=3905&amp;amp;Print=1 id=aspnetForm style=width:90%>
-<input type=hidden name=__VIEWSTATE id=__VIEWSTATE value=/wEPDwULLTEyNjc4NzYyNTRkZEkMIuLnkhdN8Mp0HwwL2r5EvrKX />
-
-
-<script type=text/javascript>
-//<![CDATA[
-function addLoadEvent(func) {
-var oldonload = window.onload;
-if (typeof window.onload != 'function') {
-window.onload = func;
-} else {
-window.onload = function() {
-if (oldonload) {
-oldonload();
-}
-func();
-}
-}
-}   
-//]]>
-</script>
-<script type=text/javascript>
-var gaJsHost = ((https: == document.location.protocol) ? https://ssl. : http://www.);
-document.write(unescape(%3Cscript src=' + gaJsHost + google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E));
-</script>
-<script type=text/javascript>
-var pageTracker = _gat._getTracker(UA-13172157-1);
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-		
-    
-
-<div id=ctl00_MidtSone_ucArtikkel_ctl00_pnlArtikkel class=artikkel artikkelmal_4>
-	<h1 id=tittel class=InnholdOverskrift >
-Ledig stilling i Sametinget med søknadsfrist 08.10.10'"/>
+<xsl:variable name="title" select="'Ledig stilling i Sametinget med søknadsfrist 08.10.10 - Sámediggi Sametinget'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -98,13 +58,13 @@ Ledig stilling i Sametinget med søknadsfrist 08.10.10'"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 32948 $'"/>
+<xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="'sme'"/>
+<xsl:variable name="mainlang" select="'nob'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->

@@ -5,7 +5,7 @@
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'HANDL.PROGRAM___NORSK.doc'"/>
-  <xsl:variable name="title" select="'Handlingsprogram - Tospr嫬ighetstilskudd'"/>
+  <xsl:variable name="title" select="'Handlingsprogram - Tospråklighetstilskudd'"/>
   <xsl:variable name="author1_fn" select="'Inger Marie'"/>
   <xsl:variable name="author1_ln" select="'Åsli'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
@@ -52,6 +52,7 @@
 
   <!-- The main language of the document -->
   <xsl:variable name="mainlang" select="'nob'"/>
+  <xsl:variable name="monolingual" select="''"/>
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
@@ -66,6 +67,17 @@
   <xsl:variable name="mlang_ger" select="''"/>
   <xsl:variable name="mlang_eng" select="''"/>
   <xsl:variable name="mlang_oth" select="''"/>
+<!-- Add the locations of the parallel files to the variables-->
+  <xsl:variable name="parallel_texts" select="''"/>
+  <xsl:variable name="para_sme" select="''"/>
+  <xsl:variable name="para_smj" select="''"/>
+  <xsl:variable name="para_sma" select="''"/>
+  <xsl:variable name="para_nob" select="''"/>
+  <xsl:variable name="para_nno" select="''"/>
+  <xsl:variable name="para_swe" select="''"/>
+  <xsl:variable name="para_fin" select="''"/>
+  <xsl:variable name="para_ger" select="''"/>
+  <xsl:variable name="para_eng" select="''"/>
   <!-- Tag the specified elements with the specified language: -->
   <xsl:variable name="smelang" select="'sme'"/>
   <xsl:variable name="smjlang" select="'smj'"/>

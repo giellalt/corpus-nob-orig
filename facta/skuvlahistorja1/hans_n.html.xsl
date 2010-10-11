@@ -55,7 +55,7 @@
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
   <!--Select "1" for monolingual to turn language recog off-->
-<xsl:variable name="monolingual" select="''"/>
+<xsl:variable name="monolingual" select="'1'"/>
 <xsl:variable name="multilingual" select="''"/>
 
   <xsl:variable name="mlang_sme" select="''"/>
@@ -94,8 +94,8 @@
 -->
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-<xsl:variable name="parallel_texts" select="''"/>
-<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="parallel_texts" select="'1'"/>
+<xsl:variable name="para_sme" select="'hans-s.htm'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_nob" select="''"/>

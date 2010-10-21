@@ -18,6 +18,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://samediggi.no/Filnedlasting.aspx?MId1=3434&amp;FilId=2424'"/>
 <xsl:variable name="title" select="'MØTEBOK 1/91'"/>
+<xsl:variable name="text_encoding" select="'UTF-8'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>

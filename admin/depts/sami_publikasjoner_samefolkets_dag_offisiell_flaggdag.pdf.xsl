@@ -16,7 +16,8 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://www.regjeringen.no/upload/LMD/Vedlegg/Regelverk/Reindrift_konvensjon_Norge_Sverige_260209.pdf'"/>
+<xsl:variable name="filename" select="'http://www.regjeringen.no/Upload/AID/temadokumenter/sami/sami_publikasjoner_samefolkets_dag_offisiell_flaggdag.pdf'"/>
+<xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -39,7 +40,7 @@
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
-<xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
+<xsl:variable name="publChannel" select="''"/>
 <xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
@@ -53,9 +54,9 @@
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="'free'"/>
+<xsl:variable name="license_type" select="''"/>
 <xsl:variable name="sub_name" select="''"/>
-<xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
+<xsl:variable name="sub_email" select="''"/>
 <xsl:variable name="wordcount" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision$'"/>
@@ -64,12 +65,12 @@
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="''"/>
+<xsl:variable name="mainlang" select="'nob'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-<xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
+<xsl:variable name="monolingual" select="'1'"/> <!--lg rec is off!-->
+<xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
@@ -82,11 +83,11 @@
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="'1'"/>
+<xsl:variable name="mlang_nob" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
-<xsl:variable name="mlang_swe" select="'1'"/>
+<xsl:variable name="mlang_swe" select="''"/>
 <xsl:variable name="mlang_oth" select="''"/>
 
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
@@ -101,9 +102,9 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
-<xsl:variable name="para_sma" select="'Reindrift_konvensjon_Norge_Sverige_soersamisk_070710.pdf'"/>
-<xsl:variable name="para_sme" select="'Reindrift_konvensjon_Norge_Sverige_nordsamisk_070710.pdf'"/>
-<xsl:variable name="para_smj" select="'Reindrift_konvensjon_Norge_Sverige_lulesamisk_070710.pdf'"/>
+<xsl:variable name="para_sma" select="''"/>
+<xsl:variable name="para_sme" select="'sami_publikasjoner_samefolkets_dag_offisiell_flaggdag_SA.pdf'"/>
+<xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
 

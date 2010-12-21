@@ -16,8 +16,8 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="''"/>
-<xsl:variable name="title" select="''"/>
+<xsl:variable name="filename" select="'http://www.regjeringen.no/Rpub/NOU/19941994/021/PDFA/NOU199419940021000DDDPDFA.pdf'"/>
+<xsl:variable name="title" select="'NOU 1994:21 Bruk av land og vann i Finnmark i historisk perspektiv '"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -46,7 +46,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="'sme'"/>
+<xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>

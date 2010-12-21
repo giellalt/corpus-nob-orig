@@ -18,7 +18,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.regjeringen.no/Rpub/OTP/20042005/021/PDFS/OTP200420050021000DDDPDFS.pdf'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="''"/>
+<xsl:variable name="title" select="'Ot.prp. nr. 21 (2004–2005)'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>

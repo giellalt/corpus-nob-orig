@@ -17,7 +17,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.regjeringen.no/pages/13403713/PDFS/STM200920100022000DDDPDFS.pdf'"/>
-<xsl:variable name="text_encoding" select="''"/>
+<xsl:variable name="text_encoding" select="'Meld. St. 22 (2009–2010)'"/>
 <xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>

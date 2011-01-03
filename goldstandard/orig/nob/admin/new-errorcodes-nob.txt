@@ -1,0 +1,46 @@
+==Additional error codes for Norwegian Bokmål==
+(the error codes try to follow the "mark what it is supposed to be" philosophy)
+
+comps = sinnsyke (missing compounding letter or symbol, correct is  sinn/s/syke). Also used for missing hyphen, as in "MENY knappen", should be "MENY-knappen"
+compe = kjørglede (missing e, kjør/e/glede)
+
+The two could probably be merged into one "there should be a coumpounding letter/symbol"-errorcode. Originally i split the two because I thought the latter gave more difference in pronounciation, while the first didn't give much difference.
+
+comp0 = "potet/s/koker" (should be no compounding symbol here, potetkoker is correct)
+
+[comp = I have NOT used "comp" for "compounding error", as I found it too general. I preferred using "nosplit" which is a very common error in Norwegian, and "split" which is not-as-common. See below.]
+nosplit = "annen hver" should not be split, "annenhver" is correct. A common and difficult error to check for, as "annen" and "hver" separately are correctly spelled. 
+split = "dengang" should have been split: "den gang"
+
+redup = "det var ingen ingen hjemme", here ingen is duplicate. Note that "det var det det gjaldt" is not wrong, "det" having different meanings.
+
+syll = "ekspan/sa/sjon" is having an extra syllable, "ekspansjon" is correct. Used it also for "fly/ve/" which should be "fly", although it should probably be marked with "dial[ect]", see below under NOT USED error codes. I have also used this error code for MISSING syllables, like "istedfor" that should be "isted/en/for"
+
+doubc = "eterpå": double consonant missing, common error in norwegian, should be "et/t/erpå"
+
+onec = "mi/s/stanker": should be one consonant, common error in norwegian, should be "mistanker"
+
+nosilent = "aldri/g/": should be no silent letter in the word, "aldri" is correct. I have used the same code for errors like "S/k/jømannsvis" which should be "sjømannsvis" but it should probably be marked with dial[ect] or "slang", see below under NOT USED error codes.
+
+silent = "allti": there should be a silent letter, "allti/d/" is correct
+
+doubsyl = "illustre": a [repeated] syllable is missing, "illust/re/re". Somewhat like doubc, but here the writer possibly thought that the repetition was bad.
+
+create = "utskjeller": new or creative words not in the dictionary. This word is not in the dictionary, while google's got about 224 hits. Mostly bad conjugations like "han utskjeller" instead of "han skjeller ut", but there are also occurences of "han er en utskjeller", which is technically correct for a guy that constantly is yelling at people. I have used that code as "error" since the word is not in the dictionaries (though maybe it should find its way in there).
+
+hyper= "går I veien": the word "i" is most probably corrected in error by a wordprocessor in "english" mode. Should have been left in peace, but has been hypercorrected.
+ 
+==Extra error codes/proposals I have NOT USED due to low frequency or other concerns==
+"BEWS"=I have not invented error codes for "best effort word split": (writer thinking:) 'fotballlaget is bad with its 3 l's, so I split it into fotball laget instead')
+"expr[ession]"=Maybe there should be an error code for "error in fixed expression"?: "men det er litt både også" should be "… både og"
+"og/å"=Maybe there should be a separate error code for og/å. Then again, maybe not just since it's a "popular" error it deserves its own code. I used "morphosyntactic error" instead.
+"inco[herent]"=Maybe there should be a markup for [parts of] sentences that are beyond interpretation: "…, denne generasjon som ble mistet da alle sine idealer som skal til for unge mennesker." (period) makes no sense to me, I have to invent an excuse to understand it, or split it into two different meanings expressed at once with the very same words.
+"foreign"=Difficult to say what went wrong, but here it seems the plural is borrowed from english: "…fikk Moe av brødrene Grimms". "the Grimms" maybe? Could also just be a typo.
+"dial[ect]"=Words written as they sound, and when sound is based on dialect, strange things can happen: "selvgift", should be "cellegift"; "Eksprimentere" should be "Eksperimentere". Not 100% sure but probably "venna mine" dialect for "vennene mine" could be marked up with the same.
+ 
+==Ekstra attributes==
+art="article", like in Norwegian the undefined articles "en", "ei", "et" and the defined "den", "den", "det" for the three sexes correspondingly. Seems the "article" word class has been taken out of norwegian grammar since 1997 (after I left school ;) - now it seems "determinative" is the correct word to describe articles.
+pfct="[past] ferfect with or without its participle". Couldn't find it in Lene Antonsen's pdf, so created this one. [The only example]: "jeg at jeg hele livet (hadde tror)£(v,gf,pfct,sg1prs,tense|hadde trodd) jeg skulle dø"
+
+best
+arno@teigseth.no

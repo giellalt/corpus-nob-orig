@@ -315,7 +315,7 @@ denne måten i et dikt hos Jens Bjørneboe:
 
 
 Denne spurven dukker frem flere ganger igjennom hele romanen 'Jonas'. (Snar er det)$(v,con,v,adj|Snart er det) direkte
-(ne gutt)$(acle,typo|en gutt) som tar fuglen varmende opp i sine hender, snart er det gutten selv, Jonas, som er
+(ne gutt)$(art,typo|en gutt) som tar fuglen varmende opp i sine hender, snart er det gutten selv, Jonas, som er
 fuglen, og det finnes noe større enn ham som skal bringe   h a m   varme.
 
 

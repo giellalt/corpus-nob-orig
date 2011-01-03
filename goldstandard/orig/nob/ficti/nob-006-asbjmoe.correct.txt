@@ -126,7 +126,7 @@ annen magi. Det er de gode og de svake som alltid vinner. De fleste eventyr begy
 
 	Johan Borgen og Sigurd Hoel, var begge enige om at Asbjørnsen og Moe gjorde en bra (innsamlings jobb)$(noun,nosplit,noun,gen|innsamlingsjobb). 
 
-	Jeg har fått et (bedre bilde av Asbjørnsen en av Moe)$(conj,doubc,conj,acle|bedre bilde av Asbjørnsen enn av Moe) når jeg har drevet med særoppgava. Det virker som om Asbjørnsen har bedre personlighet. Moe er mere som en "robot", han går på skole og får bra karakterer, bra utdannelse. I bøkene står det veldig lite om Moes personlighet.
+	Jeg har fått et (bedre bilde av Asbjørnsen en av Moe)$(conj,doubc,conj,art|bedre bilde av Asbjørnsen enn av Moe) når jeg har drevet med særoppgava. Det virker som om Asbjørnsen har bedre personlighet. Moe er mere som en "robot", han går på skole og får bra karakterer, bra utdannelse. I bøkene står det veldig lite om Moes personlighet.
  
 	Asbjørnsen og Moe kunne gå to veier når de gjaldt (skrivemåten på eventyrene)€(prep,w|skrivemåten i eventyrene). Den ene veien var dialekt, slik folk fortalte dem. Den andre veien var vanlig bokmål (dansk). Men Asbjørnsen og Moe valgte en mellomvei, de 
 skrev eventyrene på dansk skriftform, men de brukte mange norske ord, og særlig gjorde de setningsbygningene norske. Mange syntes det språket var simpelt, særlig folk med høy utdannelse. (De måtte dra til Danmark for å studere, og (da vendte de seg til dansk)$(v,nosilent,v,v|da vente de seg til dansk)). Det er Moe som skal ha den største æren for den valgte målformen. 

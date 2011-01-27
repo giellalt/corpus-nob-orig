@@ -28,7 +28,7 @@
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
   <xsl:variable name="translated_from" select="''"/>
-  <xsl:variable name="publisher" select="'GÃ¡ivuona suohkan'"/>
+  <xsl:variable name="publisher" select="'Gáivuona suohkan'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'2000'"/>
   <xsl:variable name="ISBN" select="''"/>

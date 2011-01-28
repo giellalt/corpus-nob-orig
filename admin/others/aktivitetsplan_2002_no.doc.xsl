@@ -130,7 +130,6 @@
             </xsl:attribute>
             </xsl:if>
 
-			<xsl:value-of select="translate($text,'ð','đ') "/>
 </xsl:element>
 </xsl:template>
 -->

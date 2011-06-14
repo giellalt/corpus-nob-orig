@@ -26,7 +26,7 @@ Bra plassering Dårlig vinkel
 
 Bra plassering Bra og dårlig (svinger plassering)$(noun,nosplit|svingerplassering)
 
-Hvor lavt kan man plassere svingeren? Hvis det er mulig skal du plassere svingeren slik at senterlinjen til svingeren (er lik som bunnen på)€(conj,w|er lik med bunnen av) båten. Dette vil vanligvis gi deg de beste forholdene med jevn (vann strøm)$(noun,nosplit|vannstrøm)..
+Hvor lavt kan man plassere svingeren? Hvis det er mulig skal du plassere svingeren slik at senterlinjen til svingeren (er lik som bunnen på)¥(pp,pph|er lik med bunnen av) båten. Dette vil vanligvis gi deg de beste forholdene med jevn (vann strøm)$(noun,nosplit|vannstrøm)..
 Svingerens senterlinje
 
 Akterspeil

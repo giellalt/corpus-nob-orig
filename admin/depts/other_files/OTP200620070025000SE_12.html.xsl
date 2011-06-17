@@ -139,34 +139,13 @@
  </xsl:template>
 -->
 
-<!-- Change or remove problematic characters from the text. -->
-<!-- add the template to match (here all p:s), and write the -->
-<!-- replaced characters and the replacements. -->
-<!--
-<xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
-<xsl:element name="p">
-            <xsl:if test="$type">
-            <xsl:attribute name="type">
-            <xsl:value-of select="$type"/>
-            </xsl:attribute>
-            </xsl:if>
-            <xsl:if test="$lang">
-            <xsl:attribute name="xml:lang">
-            <xsl:value-of select="$lang"/>
-            </xsl:attribute>
-            </xsl:if>
-
-            <xsl:call-template name="globalTextReplace">
-               <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-               <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
-                <xsl:with-param name="continue" select="0"/>
-            </xsl:call-template>
-</xsl:element>
+<!-- Correcting bad semantic structure in the source document, moving regular
+	 paragraphs out of lists: -->
+<xsl:template match="list">
+	<list>
+		<xsl:apply-templates select="p[@type = 'listitem']"/>
+	</list>
+	<xsl:apply-templates select="p[@type = 'text']"/>
 </xsl:template>
--->
 
 </xsl:stylesheet>

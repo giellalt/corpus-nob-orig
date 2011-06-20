@@ -139,7 +139,7 @@
  </xsl:template>
 -->
 
-<xsl:template match="p">
+<!-- xsl:template match="p">
 <xsl:variable name="text" select='current()' />
 <xsl:variable name="type" select='@type' />
 <xsl:variable name="lang" select='@xml:lang' />
@@ -162,7 +162,7 @@
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>
-</xsl:template>
+</xsl:template -->
 
 <!-- Correcting bad semantic structure in the source document, moving regular
 	 paragraphs out of lists: -->

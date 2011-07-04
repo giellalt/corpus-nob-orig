@@ -1,32 +1,56 @@
 BRUKERVEILEDNING Cuda 168, Cuda 242 og Fish Easy 245DF Cuda 300
 
 Innholdsfortegnelse
+
 Introduksjon .................................................................................. 1 Introduksjon Spesifikasjoner: ............................................................................ 1 Innstallasjon$(noun,onec|Installasjon) .................................................................................. 2 svinger................................................................ 3 Innstallasjon$(noun,onec|Installasjon) av svinger Vinkel på svinger ved (fiske leting)$(noun,nosplit|fiskeleting) ............................................ 7 Montering av innvendig svinger............................................... 8 Innstallasjon$(noun,onec|Installasjon) av power kabel...................................................... 10 Montering av ekkolodd ............................................................... 11 Bærbar (sonar installasjon)$(noun,nosplit|sonar-installasjon)........................................................... 15 Funksjonene ................................................................................. 16 Funksjonene Tastatur ........................................................................................... PWR/Clear .............................................................................. 16 Meny opp/ Meny ned .............................................................. 16 (Opp og ned pil)$(noun,comps|Opp- og ned-pil) .......................................................................... 16 Hukommelse ................................................................................ 16 Meny............................................................................................. 16 Display – (åpnings bilde)$(noun,nosplit|åpningsbilde)............................................................... 18 Bevegelse av bildet ( stopp og start ).......................................... 18 (Ekkolodd bilde)$(noun,comps|Ekkolodd-bilde) ............................................................................. 18 (Dybde område)$(noun,nosplit|Dybdeområde) (Automatisk og Manuell) ................................... 18 Zoom ............................................................................................. 19 Sensitivitet................................................................................... 20 Grålinje ....................................................................................... 21 Fish I.D.™ .................................................................................... 22 FishTrack™ ................................................................................. 23 (Bilde hastighet)$(noun,nosplit|Bildehastighet) ............................................................................ 24 (Støy dempning)$(noun,nosplit|Støydempning) og ASP™ (Advanced Signal Processing) .......... 24 Alarmer ........................................................................................ 25 (Fiske alarm)$(noun,nosplit|Fiskealarm) .............................................................................. 25 (Dybde alarm)$(noun,nosplit|Dybdealarm)............................................................................. 25 (Grunt vann alarm)$(noun,comps|«Grunt vann»-alarm).................................................................... 25 Dyp alarm ................................................................................ 25 (Display innstillinger)$(noun,nosplit|Displayinnstillinger).................................................................... 26 Belysning.................................................................................. 26 (Display kontrast)$(noun,nosplit|Displaykontrast) ...................................................................... 26 Dybde i meter eller fot ................................................................ 26 Tilbake til (fabrikk innstillinger)$(noun,nosplit|fabrikkinnstillinger).................................................. 26 System Info .................................................................................. 26
 Simulator ..................................................................................... 26 Digitale Data .............................................................................. 27 Feilsøkning .................................................................................. 28
 
 
 Introduksjon
+
 Takk for at du valgte et Eagle ekkolodd. Du har valgt et produkt av høy kvalitet som passer til erfarne fiskere og nybegynnere. Alle (Eagle ekkoloddene)$(noun,comps|Eagle-ekkoloddene) har en automatisk (mode)¥(noun,w|modus) som viser deg bunnen, fisk, (undervann struktur)$(noun,nosplit|undervannsstruktur) og mer. Alt du trenger å gjøre er å trykke på (PWR knappen)$(noun,comps|PWR-knappen). Hvis du ønsker å (fin innstille)$(verb,nosplit|fininnstille) ditt ekkolodd trykk (MENU UP knappen)$(noun,comps|MENU UP-knappen). (Det fines mange)$(adj,doubc,verb,adj|Det finnes mange) innstillinger som du finner ved å trykke deg gjennom den enkle menyen. Før du tar i bruk ditt nye lodd, les gjennom (installasjons veiledningen)$(noun,nosplit|installasjonsveiledningen), den forteller deg hvordan du skal montere svingeren og selve instrumentet. For å få maks ut av ditt ekkolodd, følg (installasjons veiledningen)$(noun,nosplit|installasjonsveiledningen) nøye. Etter at du har lest (installasjons veiledningen)$(noun,nosplit|installasjonsveiledningen), installer utstyret, les så resten av veiledningen. Desto mer du vet om ditt ekkolodd desto bedre nytte vil du ha av det. Bruk (simulator funksjonen)$(noun,nosplit|simulatorfunksjonen) før du kommer på vannet, dette gjør deg kjent med produktet
 
 Spesifikasjoner Spesifikasjoner
-Generelt Størrelse: Størrelse:............................. 5.8" H x 4.3" W x 2.5" D (14.7 cm H x 10.8 cm W x 6.6 cm D). Vanntett kapsling Display:..............................Høy -kontrast Film SuperTwist LCD. Display: 4.0" (10.2 cm). Oppløsning: Oppløsning:........................168 x 132 eller 240x160 pixels Belysning: ..........................Belysning i skjerm og tastatur. Belysning: Spenning: ...........................10 til 15 volt DC. Spenning: Strømforbruk: Strømforbruk: ....................110 ma lys av; 250 ma lys på. Back-up batteri .................Innebygd batteri som lagrer innstillinger når apparatet er skrudd av. (Sonar Frekvens)$(noun,mix|Sonarfrekvens): ...........................200 kHz eller 200/183KHz Frekvens: Svinger: Svinger: ..............................Blir levert med en 20 gr. Hekksvinger. Denne gir deg (fiske letting område)$(noun,mix|fiskeletingsområde) på opp mot 60 gr. Ved høy sensitivitet innstilling. Fungerer opp mot 60 knop (båt fart)$(noun,nosplit|båtfart). Sender effekt .....................800 w ( 100 W RMS ) kapasitet: (Dybde kapasitet)$(noun,nosplit|Dybdekapasitet): ...............180 meter. Avhenger av (svinger montasje)$(noun,nosplit|svingermontasje), bunnforhold og vannforhold. Alle ekkolodd går dypere i ferskvann enn i saltvann. (Dybde display)$(noun,nosplit|Dybdedisplay):...................Kontinuerlig digital dybde i display display: alarmer:......................Dyp / grunt vann / fisk . (Lyd alarmer)$(noun,nosplit|Lydalarmer): Automatisk range: ............Ja. range: track: Auto bottom track: ............Ja. Zoom bottom track: ...........Ja. track: (Vann temratur)$(noun,mix|Vanntemperatur): .................Ja. Viktig! Ditt ekkolodd er beregnet til bruk i temperaturer fra -20 gr. til + 75 gr. celsius. Blir enheten lagret eller brukt i temperaturer utenfor dette området kan krystallene i displayet bli skadet. Denne type skade dekker ikke garantien.
+
+Generelt
+
+Størrelse: Størrelse:............................. 5.8" H x 4.3" W x 2.5" D (14.7 cm H x 10.8 cm W x 6.6 cm D). Vanntett kapsling Display:..............................Høy -kontrast Film SuperTwist LCD. Display: 4.0" (10.2 cm). Oppløsning: Oppløsning:........................168 x 132 eller 240x160 pixels Belysning: ..........................Belysning i skjerm og tastatur. Belysning: Spenning: ...........................10 til 15 volt DC. Spenning: Strømforbruk: Strømforbruk: ....................110 ma lys av; 250 ma lys på. Back-up batteri .................Innebygd batteri som lagrer innstillinger når apparatet er skrudd av. (Sonar Frekvens)$(noun,mix|Sonarfrekvens): ...........................200 kHz eller 200/183KHz Frekvens: Svinger: Svinger: ..............................Blir levert med en 20 gr. Hekksvinger. Denne gir deg (fiske letting område)$(noun,mix|fiskeletingsområde) på opp mot 60 gr. Ved høy sensitivitet innstilling. Fungerer opp mot 60 knop (båt fart)$(noun,nosplit|båtfart). Sender effekt .....................800 w ( 100 W RMS ) kapasitet: (Dybde kapasitet)$(noun,nosplit|Dybdekapasitet): ...............180 meter. Avhenger av (svinger montasje)$(noun,nosplit|svingermontasje), bunnforhold og vannforhold. Alle ekkolodd går dypere i ferskvann enn i saltvann. (Dybde display)$(noun,nosplit|Dybdedisplay):...................Kontinuerlig digital dybde i display display: alarmer:......................Dyp / grunt vann / fisk . (Lyd alarmer)$(noun,nosplit|Lydalarmer): Automatisk range: ............Ja. range: track: Auto bottom track: ............Ja. Zoom bottom track: ...........Ja. track: (Vann temratur)$(noun,mix|Vanntemperatur): .................Ja. Viktig! Ditt ekkolodd er beregnet til bruk i temperaturer fra -20 gr. til + 75 gr. celsius. Blir enheten lagret eller brukt i temperaturer utenfor dette området kan krystallene i displayet bli skadet. Denne type skade dekker ikke garantien.
 
 Forberedelse av installasjon
+
 Du kan installere på flere måter, men vi anbefaler denne fremgangsmåten.
 
-Viktig Les hele denne installasjon veiledningen før du begynner (å borre)$(verb,onec|å bore) noen hull.
-1. Bestem plasseringen av ekkoloddet slik at du kan planlegge hvor du skal legge kablene. Dette vil hjelpe deg til å se om du har (lange nokk)$(noun,onec,adj,noun|lange nok) kabler. 2. Finn en plass til svingeren og en vei du kan trekke (svinger kabelen)$(noun,nosplit|svingerkabelen). 3. Rekker spenningskabelen frem til batteriet ditt? 4. Innstaller$(verb,onec|Installer) svingeren og trekk svingerkabelen frem til ditt ekkolodd. 5. Installer spenningskabelen og trekk den frem til ditt ekkolodd. 6. Monter fast ekkoloddet.
+Viktig
+
+Les hele denne installasjon veiledningen før du begynner (å borre)$(verb,onec|å bore) noen hull.
+
+1. Bestem plasseringen av ekkoloddet slik at du kan planlegge hvor du skal legge kablene. Dette vil hjelpe deg til å se om du har (lange nokk)$(noun,onec,adj,noun|lange nok) kabler.
+
+2. Finn en plass til svingeren og en vei du kan trekke (svinger kabelen)$(noun,nosplit|svingerkabelen).
+
+3. Rekker spenningskabelen frem til batteriet ditt?
+
+4. Innstaller$(verb,onec|Installer) svingeren og trekk svingerkabelen frem til ditt ekkolodd.
+
+5. Installer spenningskabelen og trekk den frem til ditt ekkolodd. 6. Monter fast ekkoloddet.
 
 (Svinger installasjon)$(noun,nosplit|Svingerinstallasjon)
+
 Disse instruksjonene vil hjelpe deg å installere hekkmontert og innvendig svinger. Les alle instruksjonene før du starter installasjonen. Din svinger kommer pakket med en (stål brakett)$(noun,nosplit|stålbrakett) for hekkmontering. Denne braketten har et kick-up feste som gjør at giveren slår opp om du kjører på noe i vannet. Om giveren har slått opp kan den enkelt plasseres tilbake i riktig posisjon. Plassering av svinger 1. Svingeren må plasseres slik at det er en jevn strøm av vann over giveren. Hvis du monterer føleren innvendig må du være sikker på at den er montert et sted der det hele tiden er vann under båten. Om ikke giveren plasseres på denne måten kan forstyrrelser forekomme på ekkoloddbildet. Forstyrrelsene vises som små prikker eller linjer over bildet når båten flytter seg. 2. Svingeren skal monteres slik at den peker loddrett ned. 3. Hvis giveren er hekkmontert, pass på at den ikke kommer i konflikt med båthengeren, eller annet opplagsutstyr. Monter ikke svingeren nærmere enn cirka ½ meter fra motorens laveste punkt. (Dette forhindre)£(verb,infin,fin,infin,tense|Dette forhindrer) (propell forstyrelser)$(noun,mix|propellforstyrrelser). 4. Om det er mulig , forsøk å legge svingerkabelen utenom de andre kablene i båten. Dette gjøres for å forhindre elektrisk støy fra motorens elektriske system. Forstyrrelser fra lensepumper og VHF kan også påvirke ekkoloddet. Fest kabelen på akterspeilet. Dette forhindrer at (svingeren Forsvinner)$(verb,min|svingeren forsvinner) om du kjører på noe i vannet.
 Bra plassering
 
 Dårlig plassering
-Bra plassering Dårlig vinkel
 
-Bra plassering Bra og dårlig (svinger plassering)$(noun,nosplit|svingerplassering)
+Bra plassering
+
+Dårlig vinkel
+
+Bra plassering
+
+Bra og dårlig (svinger plassering)$(noun,nosplit|svingerplassering)
 
 Hvor lavt kan man plassere svingeren? Hvis det er mulig skal du plassere svingeren slik at senterlinjen til svingeren (er lik som bunnen på)¥(pp,pph|er lik med bunnen av) båten. Dette vil vanligvis gi deg de beste forholdene med jevn (vann strøm)$(noun,nosplit|vannstrøm)..
+
 Svingerens senterlinje
 
 Akterspeil
@@ -34,6 +58,7 @@ Akterspeil
 I noen tilfeller må du justere svingeren opp eller ned, ( løs opp på skruene beveg svingeren opp eller ned i sporene på braketten ). Hvis du ofte mister bunnen i høy fart kan dette komme av at svingeren ligger over vann. Juster svingeren lenger ned for å forhindre dette. Fisker du på steder der det ligger (mye driv ved)$(noun,nosplit|mye drivved) og lignende, juster svingeren opp for å beskytte den mot skade. Monter aldri braketten slik at den stikker under bunnen avbåten$(noun,typo|av båten). Innvendig limt svinger kontra hekkmontert svinger Gjennomgående svinger fungerer perfekt i høye hastigheter og fungerer godt på store dyp. Svingeren er godt beskyttet mot ting som ligger i vannet og det er helt problemfritt å frakte båten på henger.
 
 (Båt bunnen)$(noun,nosplit|Båtbunnen)
+
 Innvendig svingere har også sine ulemper. Noe tap av følsomheten kan forekomme og du har ikke muligheten til å stille vinkelen på svingeren. HEKKSVINGER MONTERING AV HEKKSVINGER Den beste måten å montere svingeren på er å sette sammen svingerens deler og holde svingeren mot akterspeilet. Finn den beste plasseringen der hvor svingeren er parallell med bakken. 1. Plasser de to små (plasstikk sirklene)$(noun,mix|plastsirklene) inn i braketten som vist nedenfor. Det er små bokstaver gravert inn i hver sirkel. På hver side av braketten er det et lite merke, plasser sirklene slik at bokstaven A peker (mot merke i)£(noun,noun,fin,infin,fin|mot merket i) braketten. Denne innstillingen setter svingeren til 14 graders vinkel i forhold til ditt akterspeil. De fleste båter har et akterspeil med en vinkel på 14 grader.
 
 Dot
@@ -75,7 +100,9 @@ Svinger peker for langt fremover
 
 (Riktig fiske ekko)$(noun,nosplit|Riktig fiskeekko) Riktig (svinger vinkel)$(noun,nosplit|svingervinkel) Svinger vinkel og dens effekt (på fiske ekko)$(noun,nosplit|på fiskeekko)
 
-Innvendig montering Svingere som skal monteres innvendig må plasseres på et sted der det ikke er luftbobler i skrogets laminat. Ekkoloddets signal må altså passere et rent (glassfiber skrog)$(noun,nosplit|glassfiberskrog). Hvis båten har to skrog med materiale i mellom ( sandwich ) må det ytre laget og (fyll massen fjernes)$(noun,nosplit|fyllmassen fjernes). Fyll med epoxy (Flyte material)$(noun,nosplit|Flytematerial)
+Innvendig montering
+
+Svingere som skal monteres innvendig må plasseres på et sted der det ikke er luftbobler i skrogets laminat. Ekkoloddets signal må altså passere et rent (glassfiber skrog)$(noun,nosplit|glassfiberskrog). Hvis båten har to skrog med materiale i mellom ( sandwich ) må det ytre laget og (fyll massen fjernes)$(noun,nosplit|fyllmassen fjernes). Fyll med epoxy (Flyte material)$(noun,nosplit|Flytematerial)
 Innerskrog
 
 Epoxy til skroget først
@@ -109,11 +136,14 @@ Til ekkolodd
 Bryter
 
 Sort kabel
+
 12 volt batteri Rød kabel med 3 amp sikring
 
 VIKTIG: VIKTIG: Bruk ikke dette produktet uten en 3 Amp sikring koblet til ekkoloddet. Hvis du ikke tar i bruk sikringen gjelder ikke garantien på eventuelle skader ved kortslutning.
 
-MONTERING I BRAKETT ELLER INNFELT Du kan montere ekkoloddet i braketten som følger med eller felle den inn et passende sted. Skal du felle det inn trenger du et (innfellings sett)$(noun,nosplit|innfellingssett) (FM5 mount kit for X47EX, FM-6 mount kit for X47). Innfelling Figuren under viser deg størrelsen på hullet ved innfelling av X-47EX. Innfelldingskittet$(noun,mix|Innfellingssettet) inneholder en mal å skjære etter og en veiledning. 
+MONTERING I BRAKETT ELLER INNFELT
+
+Du kan montere ekkoloddet i braketten som følger med eller felle den inn et passende sted. Skal du felle det inn trenger du et (innfellings sett)$(noun,nosplit|innfellingssett) (FM5 mount kit for X47EX, FM-6 mount kit for X47). Innfelling Figuren under viser deg størrelsen på hullet ved innfelling av X-47EX. Innfelldingskittet$(noun,mix|Innfellingssettet) inneholder en mal å skjære etter og en veiledning. 
 
 146.5 [5.76]
 Top
@@ -121,7 +151,9 @@ Top
 R 7.9 [0.31]
 
 In-Dash Template
+
 113.5 [4.46] Millimeters [Inches]
+
 ALWAYS VERIFY DIMENSIONS
 
 Målene for innfelling av X47EX. Figuren er (ikke I skala)$(prep,min|ikke i skala) 1/1. En mal 1/1 kan du finne (på Lowrance hjemmeside)¥(pron,missing|på Lowrance) www.lowrance.com. For X47
@@ -129,6 +161,7 @@ Målene for innfelling av X47EX. Figuren er (ikke I skala)$(prep,min|ikke i skal
 X47 kan også felles inn, finn mal på Lowrance.com Les disse punktene før du starter med innfellingen. Anbefalt verktøy for denne jobben er baufil og drill. 1. Finn et passende sted for innfelling. Vær sikker på at det er nok plass i bakkant til kablene. 2. Teip (utskjæring smalen)$(noun,typo|utskjæringsmalen) til underlaget. Bor et hull i senter som (er stort nokk)$(noun,onec,adj,noun|er stort nok) til sagbladet. Skjær ut stykket. 3. Vær nøyaktig når du skjærer, spesielt i kantene. Det skal ikke store feilen til før det blir stygt. 4. Fjern den utskjærte delen. Gjør rent, sett på kabler. Lim (innfelling teipen)$(noun,comps|innfellingsteipen) rundt hullet, press ekkoloddet fast. Har du ikke (innfellings settet)$(noun,nosplit|innfellingssettet) med (den dobbelsidig teipen)£(adj,adj,fin,infin,fin|den dobbeltsidige teipen) kan du bruke silicon$(noun,con|silikon) .
 
 Top
+
 ALWAYS VERIFY DIMENSIONS.
 
 Cut along this line
@@ -136,6 +169,7 @@ Cut along this line
 X47. Merk: Innfelling for X47. Merk: Denne figuren er ikke 1/1 skala.
 
 Du finner malen på www.lowrance.com X47EX på Brakett
+
 72.9 [2.87] 173.9 [6.85] 23.4 [0.92]
 
 137.9 [5.43]
@@ -149,6 +183,7 @@ Bor et 15.9 mm hull for svinger/power kabelen rett under braketten, på denne m�
 Front
 
 X47 på brakett
+
 82.7 [3.26]
 
 107.5 [4.23]
@@ -162,6 +197,7 @@ X47 på brakett
 X47 er utstyrt med en (hurtig brakett)$(noun,nosplit|hurtigbrakett). Når du trekker kabelen gjennom hullet, husk å (ha nokk slakk)$(adj,onec|ha nok slakk) slik at du får tiltet skjermen opp og ned. 
 
 Sett braketten over hullet. Det er to kabelspor i braketten, de skal være i bakkant. Fest kabelen i et av sporene, skru fast braketten. Den vanntette pluggen kan være litt hard å koble til.
+
 Feste
 
 Baksiden (Skrue hull)$(noun,nosplit|Skruehull)
@@ -175,7 +211,9 @@ brakett. X47 (hurtig brakett)$(noun,nosplit|hurtigbrakett).
 Fest (power/svinger kabelen)$(noun,nosplit|power-/svingerkabelen) til enheten før du setter den i braketten Hold ekkoloddet vertikalt og skyv den ned på braketten. (Du vill høre)$(verb,onec,verb,adj|Du vil høre) et klikk når den har festet seg i braketten. For å justere vinkelen på enheten, trykk inn festene med den ene hånden og juster med den andre. Ønsker du å ta med deg ekkoloddet, press begge festene inn og løft enheten opp. Kobl fra kabelen.
 
 Portabel enhet Som mange andre (Lowrance produkter)$(noun,comps|Lowrance-produkter) kan X47 brukes som (en portable)$(adj,typo|en portabel) enhet. X47EX kan brukes sammen med PPP-13 portabel batteri pakke. X47 bruker PPP-12 portabel (batteri pakke)$(noun,nosplit|batteripakke). (Batteri pakken)$(noun,nosplit|Batteripakken) med den løse svingeren utvider bruken av ditt ekkolodd. Du kan bruke ekkoloddet på din egen båt eller ta det med deg og bruke det på naboens båt eller (is fiske)$(noun,nosplit|isfiske) PPP-12 eller PPP-13 pakken inneholder batteripakke og svinger. Batterier er ikke inkludert. Det er gjort plass til svingeren i (batteri pakken)$(noun,nosplit|batteripakken).
+
 Skrog
+
 Batterier (Suge kop)$(noun,mix|Sugekopp)
 
 Brakett
@@ -185,6 +223,7 @@ Svinger
 Portabel batteripakke med svinger.
 
 Funksjoner
+
 Enheten gir fra seg en lyd når du trykker på en knapp. Dette forteller deg at enheten har akseptert en kommando. Numrene på bildene nedenfor viser til forklaringene på denne siden.
 
 4
@@ -195,36 +234,51 @@ X47 og X47EX ekkolodd.
 
 1. PWR/CLEAR (power og clear) Denne knappen (omtales som PWR. I brukerveiledningen.)$(prep,min|omtales som PWR i brukerveiledningen.) Trykk på denne knappen for å skru enheten av/på. Den fjerner også en meny fra skjermen ved å trykke en gang på knappen. MERK: Du må holde (PWR knappen)$(noun,comps|PWR-knappen) nede i noen sekunder for å skru av ekkoloddet. MENY 2. MENY OPP 3. MENY NED Disse knappene omtales som MENU OPP og MENY NED eller bare MENY. MENY Bruk disse knappene for å bla deg gjennom menyen. 4. (Opp og ned pilene)$(noun,comps|Opp- og ned-pilene) Disse omtales som PIL OPP eller PIL NED. Hukommelse Ekkoloddet har en permanent hukommelse. Det lagrer følgende funksjoner når du skrur av ekkoloddet : Instilling$(noun,doubc|Innstilling) av meter/fot, (fiske alarmer)$(noun,nosplit|fiskealarmer), dybde i meter/fot, (fisk I.D. mode)¥(noun,w|fisk I.D.-modus), (Noise Reject mode)¥(noun,w|Noise Reject-modus), (Display kontrast)$(noun,nosplit|Displaykontrast), (grunne og dybde alarm)$(noun,comps|grunne- og dybdealarm).
 
-MENYER X-47 bruker menyer for å guide deg gjennom systemet. For å bruke menyene, trykk bare på (MENY knappen)$(noun,comps|MENY-knappen). Menyen gir deg mulighet å skreddersy (ekkolodd bildet)$(noun,nosplit|ekkoloddbildet) til ditt behov. Press MENY for å skifte mellom de forskjellige menyene. Hvis du går deg vill i menyene, trykk bare på (PWR knappen)$(noun,comps|PWR-knappen).
+MENYER
+
+X-47 bruker menyer for å guide deg gjennom systemet. For å bruke menyene, trykk bare på (MENY knappen)$(noun,comps|MENY-knappen). Menyen gir deg mulighet å skreddersy (ekkolodd bildet)$(noun,nosplit|ekkoloddbildet) til ditt behov. Press MENY for å skifte mellom de forskjellige menyene. Hvis du går deg vill i menyene, trykk bare på (PWR knappen)$(noun,comps|PWR-knappen).
 
 Meny
 
 Her vises (Scroll Speed menyen)$(noun,comps|Scroll Speed-menyen).
 
-OPPSTART/BAKGRUNDSBELYSNING OPPSTART/BAKGRUNDSBELYSNING For å starte opp X47, trykk på (PWR knappen)$(noun,comps|PWR-knappen). Lyset er på i sirka 20 sek. (Bakgrundsbelysnings menyen)$(noun,mix|Bakgrunnsbelysnings-menyen) kommer automatisk opp, ønsker du belysning, trykk på PIL OPP. Menyen forsvinner av seg selv om du ikke trykker pil opp. Ønsker du ikke å vente trykk PWR for å fjerne menyen fra skjermen. Når enheten er skrudd på og (belysnings menyen)$(noun,nosplit|belysningsmenyen) er borte fra skjermen viser ekkoloddet (fult skjermbilde)$(adj,doubc|fullt skjermbilde). (Fiskesymbol funksjonen)$(noun,comps|Fiskesymbol-funksjonen) er på og (dybde skalaen)$(noun,nosplit|dybdeskalaen) vises på venstre side av skjermen. Figuren under ilustrerer$(noun,doubc|illustrerer) dette.
+OPPSTART/BAKGRUNDSBELYSNING OPPSTART/BAKGRUNDSBELYSNING
+
+For å starte opp X47, trykk på (PWR knappen)$(noun,comps|PWR-knappen). Lyset er på i sirka 20 sek. (Bakgrundsbelysnings menyen)$(noun,mix|Bakgrunnsbelysnings-menyen) kommer automatisk opp, ønsker du belysning, trykk på PIL OPP. Menyen forsvinner av seg selv om du ikke trykker pil opp. Ønsker du ikke å vente trykk PWR for å fjerne menyen fra skjermen. Når enheten er skrudd på og (belysnings menyen)$(noun,nosplit|belysningsmenyen) er borte fra skjermen viser ekkoloddet (fult skjermbilde)$(adj,doubc|fullt skjermbilde). (Fiskesymbol funksjonen)$(noun,comps|Fiskesymbol-funksjonen) er på og (dybde skalaen)$(noun,nosplit|dybdeskalaen) vises på venstre side av skjermen. Figuren under ilustrerer$(noun,doubc|illustrerer) dette.
+
 Dybden (Vann temperatur)$(noun,nosplit|Vanntemperatur)
+
 Små fisk (Bunn signal)$(noun,nosplit|Bunn signal) (Dybde område)$(noun,nosplit|Dybdeområde)
 
-Overflate støy
+(Overflate støy)$(noun,nosplit|Overflatestøy)
+
 (Bunn forhold)$(noun,nosplit|Bunnforhold) cover (Fiske ekko)$(noun,nosplit|Fiskeekko)
+
 Grålinje® ®
 
 Fullt bilde med digital dybde og temperature$(noun,typo|temperatur). Fish I.D. (fish symbols funksjonen)$(noun,comps|fish symbols-funksjonen) er skrudd av
 
-(BILDE HASTIGHET)$(noun,nosplit|BILDEHASTIGHET) (Stopp og start) Bildet beveger seg fra høyre til venstre på skjermen. Man har muligheten til å stoppe bildet for å studere detaljene. For å stoppe bildet, trykk MENU til (SCROLL SPEED menyen)$(noun,comps|SCROLL SPEED-menyen) dukker opp. Bruk PIL NED og velg MIN. Bildet fryses og det vil stå stopp i høyre hjørne. Trykk PIL OPP for å sette bildet i bevegelse igjen, trykk PWR for å fjerne menyen. I de fleste fiskesituasjoner lønner det seg å ha maks hastighet på bildet. Les mer om dette under (Scroll Speed menyen)$(noun,comps|Scroll Speed-menyen). MERK: MERK: Du kan ikke gå ut av (Scroll Speed menyen)$(noun,comps|Scroll Speed-menyen) før du har økt hastigheten. Skulle du ved en feiltagelse trykke PWR, trykk MENU til du finner (SCROLL SPEED menyen)$(noun,comps|SCROLL SPEED-menyen) (og sette bildet)£(verb,verb,imprt,infin,tense|og sett bildet) i bevegelse igjen.
+(BILDE HASTIGHET)$(noun,nosplit|BILDEHASTIGHET)
+
+(Stopp og start) Bildet beveger seg fra høyre til venstre på skjermen. Man har muligheten til å stoppe bildet for å studere detaljene. For å stoppe bildet, trykk MENU til (SCROLL SPEED menyen)$(noun,comps|SCROLL SPEED-menyen) dukker opp. Bruk PIL NED og velg MIN. Bildet fryses og det vil stå stopp i høyre hjørne. Trykk PIL OPP for å sette bildet i bevegelse igjen, trykk PWR for å fjerne menyen. I de fleste fiskesituasjoner lønner det seg å ha maks hastighet på bildet. Les mer om dette under (Scroll Speed menyen)$(noun,comps|Scroll Speed-menyen). MERK: MERK: Du kan ikke gå ut av (Scroll Speed menyen)$(noun,comps|Scroll Speed-menyen) før du har økt hastigheten. Skulle du ved en feiltagelse trykke PWR, trykk MENU til du finner (SCROLL SPEED menyen)$(noun,comps|SCROLL SPEED-menyen) (og sette bildet)£(verb,verb,imprt,infin,tense|og sett bildet) i bevegelse igjen.
 
 Fryst bilde
 
 (ÅPNINGS BILDE)$(noun,nosplit|ÅPNINGSBILDE) Her vises alle ekkoene på skjermen. Bildet flytter seg fra høyre til venstre.
+
 Dybden (Vann Temp)$(noun,mix|Vanntemperatur)
+
 (Bunn signalet)$(noun,nosplit|Bunnsignalet) (Dybde område)$(noun,nosplit|Dybdeområde) Vannoverflate Fish symbols (Bunn forhold)$(noun,nosplit|Bunnforhold)
+
 Grålinje® ®
 
 Hvis du har en svinger med innebygget temperatur vil du også få temperaturen opp på skjermen. (DYBDE OMRÅDE ZOOM)$(noun,mix|DYBDEOMRÅDE-ZOOM) (automatisk og manuell) I auto vil ekkoloddet alltid vise deg bunnen men det er også mulig å sette dybden manuelt. Trykk (MENY knappen)$(noun,comps|MENY-knappen) til (RANGE ZOOM menyen)$(noun,comps|RANGE ZOOM-menyen) kommer opp. Trykk PIL NED og velg manuell, trykk så på MENY OPP for å få opp de forskjellige dybdeområdene. Velg dybdeområde ved bruk av piltastene. Når du har valgt område, trykk PWR for fjerning av menyen. Denne enheten har følgende (dybde områder)$(noun,nosplit|dybdeområder): 10, 20, 40, 80, 160, 320 og 640 fot.
 	
 Her er (dybde område)$(noun,nosplit|dybdeområde) manuelt satt til 40 fot. Dette forstørrer eller zoomer bare området fra 0-40 fot. I dette tilfellet er båten på 57,5 fot dybde, men det er bare de første 40 fotene som vises på skjermen.
 
-ZOOM (Zoom funksjonen)$(noun,comps|Zoom-funksjonen) forstørrer alt på skjermen. Hvis dybdeområdet er satt til 0 til 60 fot og (du Zoomer vil)$(verb,min|du zoomer vil) du få et forstørret området fra 30 til 60 fot, bunnen vil alltid bli vist. For å zoome, trykk (MENY knappen)$(noun,comps|MENY-knappen) til (ZOOM menyen)$(noun,comps|ZOOM-menyen) kommer frem. Trykk (PIL OPP knappen)$(noun,comps|PIL OPP-knappen) og velg Zoom ON, trykk så på (PWR knappen)$(noun,comps|PWR-knappen) for å fjerne menyen. Det er enkelt å se om du har zoomet in$(adv,doubc|inn) på skjermen, dybdeskalaen på venstre side vil ikke lenger vise null. Hvis du for eksempel har stilt deg inn på område 0-80 fot viser dybde skalaen 40-80 fot med zoom funksjonen tilkoblet. For å skru (zoom funksjonen)$(noun,comps|zoom-funksjonen) av, trykk (MENY knappen)$(noun,comps|MENY-knappen) til (ZOOM menyen)$(noun,comps|ZOOM-menyen) kommer frem. Trykk (PIL NED knappen)$(noun,comps|PIL NED-knappen) og velg OFF, trykk så (PWR knappen)$(noun,comps|PWR-knappen) for å fjerne menyen. MERK. (I auto dybde området)$(noun,mix|I auto-dybdeområde) vil alltid ekkoene nær bunnen bli forstørret, fordi (auto dybde område)$(noun,mix|auto-dybdeområde) alltid følger bunnen. 
+ZOOM
+
+(Zoom funksjonen)$(noun,comps|Zoom-funksjonen) forstørrer alt på skjermen. Hvis dybdeområdet er satt til 0 til 60 fot og (du Zoomer vil)$(verb,min|du zoomer vil) du få et forstørret området fra 30 til 60 fot, bunnen vil alltid bli vist. For å zoome, trykk (MENY knappen)$(noun,comps|MENY-knappen) til (ZOOM menyen)$(noun,comps|ZOOM-menyen) kommer frem. Trykk (PIL OPP knappen)$(noun,comps|PIL OPP-knappen) og velg Zoom ON, trykk så på (PWR knappen)$(noun,comps|PWR-knappen) for å fjerne menyen. Det er enkelt å se om du har zoomet in$(adv,doubc|inn) på skjermen, dybdeskalaen på venstre side vil ikke lenger vise null. Hvis du for eksempel har stilt deg inn på område 0-80 fot viser dybde skalaen 40-80 fot med zoom funksjonen tilkoblet. For å skru (zoom funksjonen)$(noun,comps|zoom-funksjonen) av, trykk (MENY knappen)$(noun,comps|MENY-knappen) til (ZOOM menyen)$(noun,comps|ZOOM-menyen) kommer frem. Trykk (PIL NED knappen)$(noun,comps|PIL NED-knappen) og velg OFF, trykk så (PWR knappen)$(noun,comps|PWR-knappen) for å fjerne menyen. MERK. (I auto dybde området)$(noun,mix|I auto-dybdeområde) vil alltid ekkoene nær bunnen bli forstørret, fordi (auto dybde område)$(noun,mix|auto-dybdeområde) alltid følger bunnen. 
 
 Når du zoomer i manuelt dybdeområde kan du velge mellom 13 forskjellige zoom områder. Med andre ord, du kan zoome inn på alt mellom vannoverflaten og bunnen. For å velge (zoom område)$(noun,comps|zoom-område) må enheten stå i (manuelt dybde område)$(noun,nosplit|manuelt dybdeområde). Trykk på (MENY knappen)$(noun,comps|MENY-knappen) til (ZOOM menyen)$(noun,comps|ZOOM-menyen) kommer frem. Trykk (PIL OPP knappen)$(noun,comps|PIL OPP-knappen) og velg ON, trykk så MENY OPP for å få frem (zoom size menyen)$(noun,comps|zoom size-menyen). Bruk (PIL knappene)$(noun,comps|PIL-knappen) for å velge ønsket område. Når du er ferdig trykk på PWR for å fjerne menyen.
 
@@ -248,9 +302,13 @@ Fig. 4
 
 Fig 1: Følsomhet på 98. Fig. 2: Følsomhet på 71 prosent. Fig. 3: følsomhet på 47 prosent. prosent. prosent sent. prosent. Fig. 4: Følsomhet på 100 prosent.
 
-INNSTILLING AV FØLSOMHETEN(SENS) Trykk på (MENY knappen)$(noun,comps|MENY-knappen) til (SENS menyen)$(noun,comps|SENS-menyen) kommer opp. Trykk (PIL OPP knappen)$(noun,comps|PIL OPP-knappen) for å øke følsomheten, (PIL NED knappen)$(noun,comps|PIL NED-knappen) for å minke følsomheten. Når du har stilt enheten på ønsket følsomhet, trykk (PWR knappen)$(noun,comps|PWR-knappen) for å fjerne menyen. Setter du følsomheten til maks eller min vil du bli advart av et lyd signal. MERK: MERK: Hvis du ønsker å endre følsomheten i manuell (mode)¥(noun,w|modus), skru først av (auto sens)$(noun,comps|auto-sens): Trykk på MENY til (SENS AUTOMATIC/MANUAL menyen)$(noun,comps|SENS AUTOMATIC/MANUAL-menyen) dukker opp. Trykk PIL NED for å velge (manuell, Trykk)$(verb,min|munuell, trykk) så på PWR for å fjerne menyen fra skjermen. For å velge følsomheten følg de samme punktene som ovenfor.
+INNSTILLING AV FØLSOMHETEN(SENS)
 
-GRÅLINJE Grålinje® gjør det mulig å se forskjell mellom svake og sterke ekkoer. Den fremviser sterke ekkoer med tykkere grålinjefelt. Dette gjør det mulig å skille mellom en hard og myk bunn. En myk (gjørme bunn)$(noun,comps|gjørmebunn) gir et svakt ekko med en tynn grålinje. Er bunnen veldig myk vises bunnen uten grålinje. En hard bunn rettunerer$(verb,onec|returnerer) (et sterk ekko)£(adj,adj,fin,infin,fin|et sterkt ekko) som gir deg en bred grålinje. Grålinjen hjelper deg å se forskjellen på bunn og (fisk Grålinjen)¥(punct,missing|fisk. Grålinjen) er justerbar. (Fabrikk innstillingen)$(noun,nosplit|Fabrikkinnstillingen) for denne enheten er på 72 prosent. Dette vil fungere bra i de fleste forhold. Prøv deg frem med din enhet for å finne (grålinje innstillingen)$(noun,comps|grålinje-innstillingen) som passer best for deg. For å forandre på (Grålinje nivået)$(noun,comps|Grålinje-nivået), trykk MENY til (grålinje menyen)$(noun,comps|grålinje-menyen) dukker opp.
+Trykk på (MENY knappen)$(noun,comps|MENY-knappen) til (SENS menyen)$(noun,comps|SENS-menyen) kommer opp. Trykk (PIL OPP knappen)$(noun,comps|PIL OPP-knappen) for å øke følsomheten, (PIL NED knappen)$(noun,comps|PIL NED-knappen) for å minke følsomheten. Når du har stilt enheten på ønsket følsomhet, trykk (PWR knappen)$(noun,comps|PWR-knappen) for å fjerne menyen. Setter du følsomheten til maks eller min vil du bli advart av et lyd signal. MERK: MERK: Hvis du ønsker å endre følsomheten i manuell (mode)¥(noun,w|modus), skru først av (auto sens)$(noun,comps|auto-sens): Trykk på MENY til (SENS AUTOMATIC/MANUAL menyen)$(noun,comps|SENS AUTOMATIC/MANUAL-menyen) dukker opp. Trykk PIL NED for å velge (manuell, Trykk)$(verb,min|munuell, trykk) så på PWR for å fjerne menyen fra skjermen. For å velge følsomheten følg de samme punktene som ovenfor.
+
+GRÅLINJE
+
+Grålinje® gjør det mulig å se forskjell mellom svake og sterke ekkoer. Den fremviser sterke ekkoer med tykkere grålinjefelt. Dette gjør det mulig å skille mellom en hard og myk bunn. En myk (gjørme bunn)$(noun,comps|gjørmebunn) gir et svakt ekko med en tynn grålinje. Er bunnen veldig myk vises bunnen uten grålinje. En hard bunn rettunerer$(verb,onec|returnerer) (et sterk ekko)£(adj,adj,fin,infin,fin|et sterkt ekko) som gir deg en bred grålinje. Grålinjen hjelper deg å se forskjellen på bunn og (fisk Grålinjen)¥(punct,missing|fisk. Grålinjen) er justerbar. (Fabrikk innstillingen)$(noun,nosplit|Fabrikkinnstillingen) for denne enheten er på 72 prosent. Dette vil fungere bra i de fleste forhold. Prøv deg frem med din enhet for å finne (grålinje innstillingen)$(noun,comps|grålinje-innstillingen) som passer best for deg. For å forandre på (Grålinje nivået)$(noun,comps|Grålinje-nivået), trykk MENY til (grålinje menyen)$(noun,comps|grålinje-menyen) dukker opp.
 
 Tynn eller ingen Grålinje®
 
@@ -269,20 +327,28 @@ Du kan altså se fiskesymboler i skjermen selv om det i virkeligheten ikke er fi
 For å se hva som er under din båt med maksimal nøyaktighet, anbefaler vi deg å skru av Fish I.D. funksjonen og heller lære deg å tyde (vanlig fiske ekkoer)£(adj,adj,plur,sing,number|vanlige fiskeekkoer) Funksjonen kan være fin å bruke når du står litt fra ekkoloddet og ikke ser på skjermen hele tiden. Bruk da også gjerne fiske alarmen.
 For å skru på Fish I.D. (trykk MENY TIL)$(prep,min|trykk MENY til) (FISH ID menyen)$(noun,comps|FISH ID-menyen) dukker opp. Trykk PIL OPP og velg ON. Trykk POWER for å gå ut av menyen igjen
 
-FISHTRACK™ FISHTRACK Funksjonen FishTrack™ indikerer en dybde på (fiske symbolet)$(noun,nosplit|fiskesymbolet). Denne funksjonen fungerer bare når (fish ID funksjonen)$(noun,comps|fish ID-funksjonen) er (aktivisert)¥(adj,w|aktivert). For å skru funksjonen på trykk på (MENY knappen)$(noun,comps|MENY-knappen) til (FISH ID menyen)$(noun,comps|FISH ID-menyen) kommer frem. Trykk PIL OPP og velg TRACK ON. For å skru funksjonen av bruk PIL NED tasten og velg OFF. Trykk så på PWR for å komme ut av menyen igjen.
+FISHTRACK™
+
+FISHTRACK
+
+Funksjonen FishTrack™ indikerer en dybde på (fiske symbolet)$(noun,nosplit|fiskesymbolet). Denne funksjonen fungerer bare når (fish ID funksjonen)$(noun,comps|fish ID-funksjonen) er (aktivisert)¥(adj,w|aktivert). For å skru funksjonen på trykk på (MENY knappen)$(noun,comps|MENY-knappen) til (FISH ID menyen)$(noun,comps|FISH ID-menyen) kommer frem. Trykk PIL OPP og velg TRACK ON. For å skru funksjonen av bruk PIL NED tasten og velg OFF. Trykk så på PWR for å komme ut av menyen igjen.
 
 Fish track gir deg dybden til fisken.
 
-(BILDE HASTIGHET)$(noun,nosplit|BILDEHASTIGHET) (chart scroll speed) (Farten ekkoene beveger seg på skjermen kalles)¥(prep,missing|Farten ekkoene beveger seg på skjermen med, kalles) chart scroll speed. Den er satt opp med maks fart fra fabrikken og vi anbefaler deg å beholde denne innstillingen ved vanlig fiske. Hvis du beveger deg veldig sakte over bunnen kan det lønne seg å senke bildehastigheten til ca det halve. Ligger du for anker eller (is fisker)$(verb,nosplit|isfisker) kan du eksprimentere$(verb,vow|eksperimentere) med en hastighet på 20 prosent. Har du for liten fart på skjermen kan du få lange striper på skjermen istedfor$(prep,syll|istedenfor) klare ekkoer. Juster hastigheten ved å trykke på MENY til (SCROLL SPEED MENYEN)$(noun,comps|SCROLL SPEED-MENYEN) dukker opp. Trykk PIL OPP for å øke hastigheten, trykk PIL NED for å senke hastigheten. Trykk PWR for å fjerne menyen. ASP™ NOISE REJECT OG ASP™ (Advanced Signal Processing) ASP™ (Advanced Signal Processing) er et (støy hindrende)$(adj,nosplit|støyhindrende) system som er innebygget i ekkoloddet. Det evaluerer hele tiden (båt bastigheten)$(noun,nosplit|båthastigheten), vannforhold, elektrisk støy og gir deg automatisk det beste bildet under de fleste forhold. ASP er et meget effektivt verktøy for å bekjempe støy. I (ekkolodd verdenen)$(noun,comps|ekkolodd-verdenen) kan støy være et problem. Støyen kan komme fra det elektriske anlegget, (luft bobler som passerer)$(noun,nosplit|luftbobler som passerer) svingeren og forstyrrelser fra motoren. Støyen kan skape uønskede ting på skjermen. (ASP funksjonen)$(noun,comps|ASP-funksjonen) er spesielt effektiv. Den fjerner støy for deg under alle forhold, uten at du trenger å justere følsomheten eller andre innstillinger. ASP funksjonen har tre innstillinger — Av, Lav og høy. 
+(BILDE HASTIGHET)$(noun,nosplit|BILDEHASTIGHET)
+
+(chart scroll speed) (Farten ekkoene beveger seg på skjermen kalles)¥(prep,missing|Farten ekkoene beveger seg på skjermen med, kalles) chart scroll speed. Den er satt opp med maks fart fra fabrikken og vi anbefaler deg å beholde denne innstillingen ved vanlig fiske. Hvis du beveger deg veldig sakte over bunnen kan det lønne seg å senke bildehastigheten til ca det halve. Ligger du for anker eller (is fisker)$(verb,nosplit|isfisker) kan du eksprimentere$(verb,vow|eksperimentere) med en hastighet på 20 prosent. Har du for liten fart på skjermen kan du få lange striper på skjermen istedfor$(prep,syll|istedenfor) klare ekkoer. Juster hastigheten ved å trykke på MENY til (SCROLL SPEED MENYEN)$(noun,comps|SCROLL SPEED-MENYEN) dukker opp. Trykk PIL OPP for å øke hastigheten, trykk PIL NED for å senke hastigheten. Trykk PWR for å fjerne menyen. ASP™ NOISE REJECT OG ASP™ (Advanced Signal Processing) ASP™ (Advanced Signal Processing) er et (støy hindrende)$(adj,nosplit|støyhindrende) system som er innebygget i ekkoloddet. Det evaluerer hele tiden (båt bastigheten)$(noun,nosplit|båthastigheten), vannforhold, elektrisk støy og gir deg automatisk det beste bildet under de fleste forhold. ASP er et meget effektivt verktøy for å bekjempe støy. I (ekkolodd verdenen)$(noun,comps|ekkolodd-verdenen) kan støy være et problem. Støyen kan komme fra det elektriske anlegget, (luft bobler som passerer)$(noun,nosplit|luftbobler som passerer) svingeren og forstyrrelser fra motoren. Støyen kan skape uønskede ting på skjermen. (ASP funksjonen)$(noun,comps|ASP-funksjonen) er spesielt effektiv. Den fjerner støy for deg under alle forhold, uten at du trenger å justere følsomheten eller andre innstillinger. ASP funksjonen har tre innstillinger — Av, Lav og høy. 
 
 Har du mye problemer med støy, (prøv å finn årsaken)£(verb,verb,infin,imprt,tense|prøv å finne årsaken) til støyen istedenfor konstant bruk av ASP på høyeste nivå. For å forandre på ASP nivået, trykk MENY NED til (NOISE REJECT menyen)$(noun,comps|NOISE REJECT-menyen) kommer på skjermen. Bruk piltastene for valg av ønsket nivå. Trykk på (PWR knappen)$(noun,comps|PWR-knappen) for å forlate menyen.
 
 ALARMER
+
 Ekkoloddet har tre forskjellige alarmer: fisk, grunne og dybde. (FISKE Alarm)$(noun,min|Fiskealarm) Ekkoloddet gir fra seg et signal når det dukker opp et fiskesymbol på skjermen. For at denne funksjonen skal virke må (Fish I.D. funksjonen)$(noun,comps|Fish I.D.-funksjonen) være slått på.. For å skru på Fish I.D. press MENY til (FISH ID menyen)$(noun,comps|FISH ID-menyen) kommer frem. Press PIL OPP for å skru på funksjonen, trykk så på (PWR knappen)$(noun,comps|PWR-knappen). Trykk på MENY til du finner (FISH ALARM menyen)$(noun,comps|FISH ALARM-menyen). Trykk på PIL OPP for å sette på alarmen, trykk så på POWER for å komme ut av menyen. ALARMER (Depth Alarms) (DYBDE ALARMER)$(noun,nosplit|DYBDEALARMER) (Depth Alarms) (Dybde alarmene)$(noun,nosplit|Dybdealarmene) føler kun på (bunn signalet)$(noun,nosplit|bunnsignalet). Ingen andre ekkoer aktiviserer disse alarmene. (Dybde alarmene)$(noun,nosplit|Dybdealarmene) består av (grunt vann alarm)$(noun,mix|«grunt vann»-alarm) og (dybde alarm)$(noun,nosplit|dybdealarm). (Grunt vann alarmen)$(noun,mix|«Grunt vann»-alarmen) gir alarm når bunnen blir (grunnere en din)$(adv,doubc|grunnere enn din) innstilling. (Dybde alarmen)$(noun,nosplit|Dybdealarmen) gir alarm når bunnen blir (dypere en din)$(adv,doubc|dypere enn din) innstilling. (GRUNT VANN ALARM)$(noun,mix|«GRUNT VANN»-ALARM) (shallow alarm) For å sette ønsket dybde, trykk på MENY NED til (SHALLOW ALARM menyen)$(noun,comps|SHALLOW ALARM-menyen) kommer opp på skjermen. Trykk PIL OPP for å øke dybden, trykk PIL NED for å redusere dybden. Når du har stilt inn ønsket dybde trykk på (PWR knappen)$(noun,comps|PWR-knappen) for å fjerne menyen fra skjermen. Når du kommer på grunnere vann enn (alarm innstillingen)$(noun,nosplit|alarminnstillingen) vil alarmen gå og det kommer opp en beskjed på skjermen. Trykk PWR for å slå av alarmen, nå blir den ikke trigget før du igjen kommer på grunt vann.
 
 Deep Alarm For å sette ønsket dyp, trykk MENY NED til (DEEP ALARM menyen)$(noun,comps|DEEP ALARM-menyen) kommer opp på skjermen. Trykk PIL OPP for å øke dybden, trykk PIL NED for å redusere dybden. Når du har stilt inn ønsket dybde trykk på (PWR knappen)$(noun,comps|PWR-knappen) for å fjerne menyen fra skjermen. Når du kommer på dypere vann enn alarm innstillingen vil alarmen gå og det kommer opp en beskjed på skjermen. Trykk PWR for å slå av alarmen, nå blir den ikke trigget før du igjen kommer på grunt vann. (SKJERM INNSTILLINGER)$(noun,nosplit|SKJERMINNSTILLINGER) (Skjerm belysning)$(noun,nosplit|Skjermbelysning) Skjermen har belysning for (natt bruk)$(noun,nosplit|nattbruk). For å skru på/av lyset (trykk MENY TIL)$(prep,min|trykk MENY til) (BACK LIGHT menyen)$(noun,comps|BACK LIGHT-menyen) kommer opp på skjermen. Trykk PIL OPP for å skru på lyset, trykk PIL NED for å skru lyset av. KONTRAST For å justere kontrasten trykk MENY NED til (DISPLAY CONTRAST menyen)$(noun,comps|DISPLAY CONTRAST-menyen) kommer på skjermen. For å øke kontrasten, trykk (PIL NED knappen)$(noun,comps|PIL NED-knappen). Trykk (PIL OPP knappen)$(noun,comps|PIL OPP-knappen) for å minke kontrasten. Ved (maks og min innstilling)$(noun,mix|maks- og minimumsinnstilling) av kontrasten, blir du advart av et signal. Trykk (PWR knappen)$(noun,comps|PWR-knappen) for å fjerne menyen. DYBDE I METER ELLER FOT For å velge meter eller fot, trykk MENY NED til (UNITS menyen)$(noun,comps|UNITS-menyen) dukker opp. Bruk (pil tastene)$(noun,nosplit|piltastene) for å velge meter eller fot. Trykk på (PWR knappen)$(noun,comps|PWR-knappen) for å fjerne menyen.
 
 (FABRIKK INNSTILLINGER)$(noun,nosplit|FABRIKKINNSTILLINGER)
+
 For (å slette alle innstillinger å gå tilbake)¥(conj,w|å slette alle innstillinger og gå tilbake) til (fabrikk innstillingene)$(noun,comps|fabrikkinnstillingene), skru av ekkoloddet. Hold (PIL NED knappen)$(noun,comps|PIL NED-knappen) og (MENY NED knappen)$(noun,comps|MENY NED-knappen) inne samtidig som du trykker på (PWR knappen)$(noun,comps|PWR-knappen). Slipp knappene når ekkoloddet har skrud seg på. SYSTEM INFO For å se hvilken programvare som ligger inne i enheten, trykk MENY NED til (UNIT INFO meny)$(noun,mix|UNIT INFO-menyen) kommer opp. Trykk på PWR for å fjerne menyen.
 
 SIMULATOR SIMULATOR Ekkoloddet har også en (simulator funksjon)$(noun,comps|simulator-funksjon) der du kan teste ut alle funksjoner på land. For å bruke simulatoren trykk på MENY NED til (SIMULATOR menyen)$(noun,comps|SIMULATOR-menyen) kommer opp på skjermen. Trykk PIL OPP for å skru funksjonen på, trykk på PWR for å fjerne menyen.
@@ -290,6 +356,7 @@ SIMULATOR SIMULATOR Ekkoloddet har også en (simulator funksjon)$(noun,comps|sim
 DIGITALE DATA Du kan velge størrelsen på dybden og temperaturen som vises på skjermen. Det er også mulig fjerne begge to fra skjermen. For å forandre på disse parameterne trykk på MENY NED til (DEPTH SIZE menyen)$(noun,comps|DEPTH SIZE-menyen) eller (TEMP SIZE menyen)$(noun,comps|TEMP SIZE-menyen) kommer opp på skjermen. Bruk (pil tastene)$(noun,nosplit|piltastene) for ønsket innstilling. Trykk PWR for å fjerne menyen.
 
 Feilsøking
+
 Om ditt ekkolodd ikke fungerer eller om du behøver teknisk hjelp, bruk følgende (feilsøkning råd)$(noun,comps|feilsøkingsråd) før du kontakter din forhandler eller importør NAVY Oslo AS. Jeg får ikke (skrud på)$(verb,doubc,verb,noun|skrudd på) ekkoloddet 1. Kontroller spenningskabelen og pluggen til ekkoloddet. 2. Kontroller at spenningskabelen er koblet riktig. Den røde lederen skal (til batteriet pluss)£(noun,noun,gen,fin,tense|til batteriets pluss)(+) pol, den sorte skal til minuspolen(-). 3. Kontroller at sikringen er hel. 4. (Tilførsels spenningen)$(noun,nosplit|Tilførselsspenningen) skal minst være 11 volt. Hvis den ikke er det kan det være noe feil på kabelen, eller batteriet trenger ladning. Enheten går bare på i simulator modus: Det er noe feil med svingeren eller (svinger kabelen)$(noun,nosplit|svingerkabelen). Se om det er skade på kabelen. (Enheten laser seg)$(verb,typo|Enheten låser seg): Elektrisk støy fra motoren, (trolling motoren)$(noun,nosplit|trollingmotoren) eller lignende kan forstyrre ekkoloddet. Å dra (spenning og svinger kabelene)$(noun,mix|spenning- og svingerkablene) bort fra båtens øvrige elektriske kabler bruker å hjelpe. Tilslutt spenningskabelen direkte til batteriet. Kontroller at svingerkabelen er hel, og at pluggene sitter ordentlig fast i ekkoloddet. Svakt (bunn ekko)$(noun,nosplit|bunnekko), (digital avlesninger)$(noun,nosplit|digitalavlesninger) kommer og går, (eller ingen fiske ekko)$(noun,nosplit|eller ingen fiskeekko): Kontroller at svingeren peker rett ned. Rengjør svingerens underside. Olje, møkk og bensin kan skape en tynn hinne som reduserer uteffekten betraktelig. Er svingeren montert innvendig, se til at det bare er et lag med glassfiber den skal trenge gjennom og at svingeren sitter godt festet mot skroget. Bruk ikke silicon for å feste svingeren (silicon$(noun,con|silikon) =luft). Du (har vell ikke)$(adv,onec|har vel ikke) malt svingeren med bunnstoff? Dette kan i så fall redusere uteffekten med 75 prosent. Elektrisk støy kan forstyrre ekkoloddet, det gjør at ekkoloddet automatiskt$(adj,typo|automatisk) (øker de støydempede funksjonene)$(adj,typo|øker de støydempende funksjonene). Det kan igjen føre til at svake ekko som fisk og visse bunnforhold forsvinner fra bildet. Vanndybden kan også være dypere enn det ekkoloddet klarer å lese. Om ekkoloddet ikke klarer å finne bunnen når (det star i)$(verb,typo|det står i) auto (kommer den digitale utlesningen konstant å blinke)¥(prep,missing|kommer den digitale utlesningen til konstant å blinke). Øk følsomheten, når du kommer på grunnere vann skal (bunn signalet)$(noun,nosplit|bunnsignalet) kunne leses. 
 
 (Bunn ekko)$(noun,nosplit|Bunnekko) forsvinner i høy fart. Uregelmessig digitale avlesninger eller svakt bunnekko når båten beveger seg. Kontroller at svingeren ikke er plassert i turbulent vann. Svingeren skal plasseres der den har en jevn og turbulensfri (vann strøm)$(noun,nosplit|vannstrøm). Luftbobler kan også hemme signalet.

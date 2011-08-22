@@ -12,7 +12,7 @@ Les mer om Nasjonal samling og Vidkun Quisling.
 
 Rasehygiene og antisemitisme$(noun,con|antisemittisme):
 
-Som i de fleste land var rasehygiene et tema som ofte ble diskutert. Mange var opptatt av hvordan man kunne holde rasen ren. Innenfor alle politiske partier hadde raseteoretikere sine talsmenn. I 1934 kom en ny lov om sterilisering som gav politi og helsemyndigheter rett til å sterilisere sinnsyke$(noun,comps|sinnssyke), 'sjelelig svekkede individer' eller personer som på 'på grunn av abnorm kjønnsdrift vil begå sedelighetsforbrytelser'. Loven ble endret først i 1961.
+Som i de fleste land var rasehygiene et tema som ofte ble diskutert. Mange var opptatt av hvordan man kunne holde rasen ren. Innenfor alle politiske partier hadde raseteoretikere sine talsmenn. I 1934 kom en ny lov om sterilisering som gav politi og helsemyndigheter rett til å sterilisere sinnsyke$(noun,comps|sinnssyke), 'sjelelig svekkede individer' eller personer som (på 'på)¥(pr,redup|'på) grunn av abnorm kjønnsdrift vil begå sedelighetsforbrytelser'. Loven ble endret først i 1961.
 
 Under og etter første verdenskrig kunne det registreres en stigende antisemittisme i Norge. I de krigførende landene fikk jødene skylden for krigen og for nederlaget og for nedgangstidene. Det var behov for syndebukker. Dette, koblet sammen med frykten for kommunismen, gjorde at 'bolsjevikjødene' ble et samlebegrep for en uønsket gruppe. Seinere kom jødene som flyktet fra Hitlers (Tyskland,)¥(punct,redun|Tyskland) til å bli like uønsket. Da Folkeforbundet i 1934 bad Norge til å skaffe plass til 100 flyktninger, ble svaret nei. Man regnet med at det dreide seg om jøder, og dem ville man ikke ha.
 

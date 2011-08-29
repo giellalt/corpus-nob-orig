@@ -28,22 +28,22 @@ Litteraturliste                                  s. 16
 
 	   Innledning   
 
-	Jeg dro på biblioteket for å låne bøker om Asbjørnsen og Moe. Endel$(noun,split|En del) av bøkene var veldig gamle og tungleste, noen (sto på)$(v,silent|stod på) nynorsk og det var en som (sto på)$(v,silent|stod på) gammalnorsk (dansk). Jeg fikk låne ganske mange bøker og jeg hadde noen hjemme, så jeg fant ut at jeg skulle se på det viktigste i bøkene. Jeg diskuterte med foreldrene mine hvordan jeg skulle legge opp særoppgava. Først skrev jeg opplysningene ned på et ark, (og etter på)$(adv,nosplit|og etterpå) førte jeg dem inn på (tekstbehandlings programmet)$(noun,nosplit|tekstbehandlingsprogrammet) på PC-en.   
+	Jeg dro på biblioteket for å låne bøker om Asbjørnsen og Moe. Endel$(noun,split|En del) av bøkene var veldig gamle og tungleste, noen sto¢(v,silent|stod) på nynorsk og det var en som sto¢(v,silent|stod) på gammalnorsk (dansk). Jeg fikk låne ganske mange bøker og jeg hadde noen hjemme, så jeg fant ut at jeg skulle se på det viktigste i bøkene. Jeg diskuterte med foreldrene mine hvordan jeg skulle legge opp særoppgava. Først skrev jeg opplysningene ned på et ark, og (etter på)¥(adv,cmp|etterpå) førte jeg dem inn på (tekstbehandlings programmet)¥(noun,cmp|tekstbehandlingsprogrammet) på PC-en.   
 
 
 	   Peter Christen Asbjørnsen    
 
 	Faren til P. Chr. Asbjørnsen var glassmester. Anders som faren het var gift to ganger, med Mette Sophie Strøm og med Thurine Elisabeth Brun. Det var Anders og Thurine som fikk Asbjørnsen.
 
-	Peter Christen Asbjørnsen var født og oppvokst i Kristiania, 15/1-1812, av gulbrandsdalsk$(adj,|con|gudbrandsdalsk) att$(noun,vow|ætt). I barndommen bodde han i Dronningens gate. Som guttunge lekte Asbjørnsen mest på Engen, hvor Børsen står nå. Asbjørnsen likte spenning, han og gutta i gata syntes det var veldig spennende å kikke inn i likkjelleren. Når de kikket inn syntes de at kistelokene$(noun,doubc|kistelokkene) rørte på seg og det kom gjenferd ut. Da løp de så fort de orket. Neste dag var de (borte å kikket)€(conj,w|borte og kikket) inn igjen, det var like spennende hver gang. Asbjørnsen var ikke noe (by menneske)$(noun,nosplit|bymenneske), han likte seg bedre i fri natur. Han likte godt å dra på fisketurer hvor folk fortalte historier.
+	Peter Christen Asbjørnsen var født og oppvokst i Kristiania, 15/1-1812, av gulbrandsdalsk$(adj,con|gudbrandsdalsk) att$(noun,vow|ætt). I barndommen bodde han i Dronningens gate. Som guttunge lekte Asbjørnsen mest på Engen, hvor Børsen står nå. Asbjørnsen likte spenning, han og gutta i gata syntes det var veldig spennende å kikke inn i likkjelleren. Når de kikket inn syntes de at kistelokene$(noun,doubc|kistelokkene) rørte på seg og det kom gjenferd ut. Da løp de så fort de orket. Neste dag (var de borte å kikket)£(conj,x|var de borte og kikket) inn igjen, det var like spennende hver gang. Asbjørnsen var ikke noe (by menneske)¥(noun,cmp|bymenneske), han likte seg bedre i fri natur. Han likte godt å dra på fisketurer hvor folk fortalte historier.
 
-	Asbjørnsen ble etter hvert trøtt av skolen, mens han gikk på Borger-skolen. Derfor sendte faren han i 1826 til Norderhov på Ringerike, der han håpet det skulle gå bedre med sønnens skolegang. Asbjørnsen ble sent til presten Christoffer Støren, som drev et privat artiumskurs. På Størens kurs traff han Jørgen Engebretsen Moe  (se s. 4) og Andreas Wulfsberg Grøtting(se s. 8). De ble nære venner, og det sies at Asbjørnsen og Moe blandet blod for evig vennskap. Asbjørnsen var på kurset i to år. Det gikk ikke så mye berdre$(adj,typo|bedre) der,  så han dro hjem. 
+	Asbjørnsen ble etter hvert trøtt av skolen, mens han gikk på Borger-skolen. Derfor sendte faren han i 1826 til Norderhov på Ringerike, der han håpet det skulle gå bedre med sønnens skolegang. Asbjørnsen ble sent¢(verb,con|sendt) til presten Christoffer Støren, som drev et privat artiumskurs. På Størens kurs traff han Jørgen Engebretsen Moe  (se s. 4) og Andreas Wulfsberg Grøtting(se s. 8). De ble nære venner, og det sies at Asbjørnsen og Moe blandet blod for evig vennskap. Asbjørnsen var på kurset i to år. Det gikk ikke så mye berdre$(adj,typo|bedre) der,  så han dro hjem. 
 
 	Da Asbjørnsen kom hjem var faren i store økonomiske problemer, så det ble dårlig med  midler til artiumsundervisning. Økonomien gikk dårlig for Asbjørnsen også, han lånte penger i øst og vest, og kunne ikke betale tilbake.
 	En sommer var det så ille at Asbjørnsen måtte flykte til en øy. På øya var det en liten hytte, med dør på den ene siden og et stort vindu på den andre. På hver side av øya var det en båt. Hvis det kom noen for å kreve inn penger han hadde lånt, flyktet han ut gjennom døren eller vinduet og tok en av båtene over.
 	Når han var hjemme i Kristiania måtte han gjemme seg for folk (han skylte penger)€(v,w|han skyldte penger).
 
-	I 1833 ble han student, og fikk en huslærepost$(noun,comps|huslærerpost) på Romerike. Det var der han begynte å interessere seg for sagn og folkeviser. Asbjørnsen og Moe holdt stadig kontakt med brevskrivinga. Det er imidlertid bare brevene til Asbjørnsen som er blitt bevart. Faren til Asbjørnsen døde i 1849, 73 år gammel. Da bodde han på østkanten av Oslo (å var)€(conj,w|og var) svært fattig.
+	I 1833 ble han student, og fikk en huslærepost$(noun,comps|huslærerpost) på Romerike. Det var der han begynte å interessere seg for sagn og folkeviser. Asbjørnsen og Moe holdt stadig kontakt med brevskrivinga. Det er imidlertid bare brevene til Asbjørnsen som er blitt bevart. Faren til Asbjørnsen døde i 1849, 73 år gammel. Da bodde han på østkanten av Oslo (å var)¥(conj,x|og var) svært fattig.
 
 	Asbjørnsen var interessert i naturvitenskap, spesielt dyrelivet i sjøen. Fra 1856-58 gikk Asbjørnsen på skogskole i Tyskland.   
 
@@ -54,11 +54,11 @@ Litteraturliste                                  s. 16
 
 	Engebret Olsen(1780-1849) og Marthe Jørgensdatter Moe(1786-1846) var foreldrene til Jørgen Engebretsen Moe. Foreldrene giftet seg i 1805. Jørgen var fjerde av de åtte barna til Engebret Olsen og Marthe. Et år før Engebret Olsen døde ble han ordfører på Ringerike. Jørgen likte faren veldig godt. 
 
-	 Jørgen Engebretsen Moe ble født 22/4-1813, på (en av de største bondegård)£(noun,noun,noun,noun,plur|en av de største bondegårdene) på Ringerike,som lå på Øvre Moe i Hole. På den gården (bodde han nesten sammenhengende i 27 år)¥(adv,wo|bodde han sammenhengende i nesten 27 år).
+	 Jørgen Engebretsen Moe ble født 22/4-1813, på (en av de største bondegård)£(noun,pph,x,x,agr|en av de største bondegårdene) på Ringerike,som lå på Øvre Moe i Hole. På den gården bodde han nesten sammenhengende i 27 år.
 
-	Moes første skolegang var i allmueskolen. Deretter begynte han på et artiumskurs. På (artium kurset)$(noun,nosplit|artiumkurset) traff han Peter Christen Asbjørnsen(se s. 2) og Andreas Wulfsberg Grøtting(se s. 8). Moe fikk gode karakterer i motsettning$(noun,onec|motsetning) til Asbjørnsen.
+	Moes første skolegang var i allmueskolen. Deretter begynte han på et artiumskurs. På (artium kurset)¥(noun,cmp|artiumskurset) traff han Peter Christen Asbjørnsen(se s. 2) og Andreas Wulfsberg Grøtting(se s. 8). Moe fikk gode karakterer i motsettning$(noun,onec|motsetning) til Asbjørnsen.
 
-	Det var farens ønske at Moe skulle velge jus som embedsstudium, selv om han hadde mer lyst til å velge tysk og dansk romantikk. Moe likte å reise rundt i landet, (å han var)€(conj,w|og han var) veldig glad i naturen rundt seg.
+	Det var farens ønske at Moe skulle velge jus som embedsstudium, selv om han hadde mer lyst til å velge tysk og dansk romantikk. Moe likte å reise rundt i landet, (å han var)¥(conj,x|og han var) veldig glad i naturen rundt seg.
 
 	I 1834 begynte Moe å samle noen eventyr, og i 1836 ville han ha med seg Asbjørnsen(se om eventyrsammlerne$(noun,onec|eventyrsamlerne) s. 6). I 1839 greide Moe å fullføre teologisk embetseksamen. I 1849 gav Moe ut sin eneste store diktsamling, "Digte". Moe skrev også noen dikt og fortellinger til barn. "En liten bok(1850). "I brønden og i kjærnet" handler om Moes egne (barne minner)$(noun,nosplit|barneminner). "Smaahistorier for børn". Jørgen Moe hadde det lettere økonomisk en Asbjørnsen, i og med at faren var storbonde.
 

@@ -1,50 +1,64 @@
 Beatels$(prop,con|Beatles) er skrevet i 1984 og utgitt av Cappelens forlag.
-Boken handler om 4 (Beatels frelste)$(punct|Beatles-frelste) (ungdommer ,)$(punct|ungdommer,) årgang 1951. Vi følger livet deres fra 1965 til (1972 ,)$(punct|1972,) og vi ser hvordan de utvilkes$(verb,typo|utvikles).  De heter (Ola ,)$(punct|Ola,) (Gunnar ,)$(punct|Gunnar,) Seb ( Sebastian) og Kim. Vi ser hele romanen (fra Kims øyne)€(prep,prep,w|gjennom Kims øyne). Du kan ikke si at boken har en spesesiell$(adj,syll|spesiell) (handling ,)$(punct|handling,) den den er like (inneholds rik)$(adj,comp0|innholdsrik) og variert som en tenårings liv. Dn$(art,typo|Den) hadler$(verb,typo|handler) altså om tenåringenes gleder og sorger. (guttene)$(noun,cap|Guttene) bor i (middelklasse strøkene)¥(noun,cmp|middelklasse-strøkene) i Oslo.
-Vi får lese om allt$(adv,onec|alt) fra selvmål på (fotball banen)¥(noun,cmp|fotballbanen) til dansing med skjelett (i skolen)€(prep,prep,w|på skolen). Det utvikler seg senere i boken en konflikt mellom guttene og forelderene$(noun,comp0|foreldrene) dems€(pp,pp,w|deres). Foreldrene maser hele tiden om at de skal klippe (seg ,)$(refl,punct|seg,) men bare for å trosse foreldrene så klipper de seg ikke.
-Kim er den som har synsvinkelen. Derfor blir vi mindre kritiske til det som han gjør galt. han$(pron,cap|Han) får etter hvert store problemer med å ta vare på seg (selv ,)$(pron,punct|selv,) og havner til slutt på Gaustad psykiatriske instutisjon$(noun,wow|institusjon). De store problemene begynte da han startet på gymnasiet. Der blir han og en venn anklaget for å være homofile...Det ble aldrig$(adv,nosilent|aldri) gjort helt klart om dette stemmer. 
-Ola  er en i vennegjengen. Han er den som er minst redd for å bli voksen. Det vil (si ,)$(punct|si,) han ser seg nødt til å flytte til Trondheim og være familiefar da han har gjort en jente gravid. 
-Seb vdra$(x,typo|vil dra) ut i (verden  ,)$(punct|verden,) og kommer ikke hjem. De andre må reise og lete etter ham. De finner han i (Paris ,)$(punct|Paris,) neddopet og jævlig. De tar han med seg hjem og han blir ren på 'melk og honning'( ref. fra boken) 
-Gunnar blir (kommunist  ,)$(punct|kommunist,) han blir påvirket av broren sin. Han tvinger Kim til å dele ut flyblader$(noun,doubsyl|flygeblader) med kommunistiske slagord. 
-(Kim ,)$(punct|Kim,) (Seb ,)$(punct|Seb,) Ola og Gunnar analyserer alle tekstene til The Beatels$(prop|Beatles)  , et svært berømt engelsk band som du sikkert har hørt (om ,)$punct(om,) og (prøver og leve)£(conj,infin,infin,x|prøver å leve) etter det de sier der.  Men det lykkes ikke helt , det ser vi tydelig på deres (desperate ,)$(punct|desperate,) og (barslige ,)$(punct|barnslige,) måte (å prøve og forestille)£(conj,infin,infin,mix|å prøve å forestille seg) voksne på.
-boken$(noun,cap|Boken) begynner når guttene skal begynne på (realskolen , høsten 1964 ,.)£(punct,mix|realskolen høsten 1964.) Den siste oppgaven de får på den gamle skolen er å skrive en stil om hva de vil bli når de blir store. Kim , hoedpersonene$(noun,typo|hovedpersonen) , skriver at han vil bli lege i afrika$(prop,cap|Afrika). Men han ombestemmer seg når skolen begynner på høsten igjen (fordi han gidder ikke å gjøre lekser)¥(adv,wo|fordi han ikke gidder å gjøre lekser).
-Våren 1965 er den store drømmer$(verb,typo,verb,noun|drømmen) (danmarks tur)$(noun,mix|Danmarkstur) med (fotball laget)¥(noun,cmp|fotballaget). Men de drømmene går i knas ved et heidundrende selvmål mot slemmestad$(prop,cap|Slemmestad). Kanskje neste år..
 
-Sommer$(noun,doubsyl,indef,def|Sommeren) før realskolen var Kim på hytten ute på Nesodden sammen med foreldrene sine. Denne sommeren tenkte han (mye ,)$(punct|mye,) blandt$(prep,nosilent|blant) (annet noe)¥(prep,missing|annet på noe) som kommer til å prege resten av hans (oppvekst ;)$(punct,w|oppvekst:)
+Boken handler om 4 (Beatels frelste)$(punct|Beatles-frelste) (ungdommer ,)¥(punct|ungdommer,) årgang 1951. Vi følger livet deres fra 1965 til (1972 ,)¥(punct|1972,) og vi ser hvordan de utvilkes$(verb,typo|utvikles).  De heter (Ola ,)¥(punct|Ola,) (Gunnar ,)¥(punct|Gunnar,) Seb ( Sebastian) og Kim. Vi ser hele romanen (fra Kims øyne)€(prep,prep,w|gjennom Kims øyne). Du kan ikke si at boken har en spesesiell$(adj,syll|spesiell) (handling ,)¥(punct|handling,) (den den)¥(det,dupl|den) er like (inneholds rik)$(adj,comp0|innholdsrik) og variert som en tenårings liv. Dn$(art,typo|Den) hadler$(verb,typo|handler) altså om tenåringenes gleder og sorger. guttene$(noun,cap|Guttene) bor i (middelklasse strøkene)¥(noun,cmp|middelklassestrøkene) i Oslo.
+
+Vi får lese om allt$(adv,onec|alt) fra selvmål på (fotball banen)¥(noun,cmp|fotballbanen) til dansing med skjelett (i skolen)€(prep,prep,w|på skolen). Det utvikler seg senere i boken en konflikt mellom guttene og forelderene$(noun,comp0|foreldrene) dems€(pp,pp,w|deres). Foreldrene maser hele tiden om at de skal klippe (seg ,)¥(punct|seg,) men bare for å trosse foreldrene så klipper de seg ikke.
+
+Kim er den som har synsvinkelen. Derfor blir vi mindre kritiske til det som han gjør galt. han$(pron,cap|Han) får etter hvert store problemer med å ta vare på seg (selv ,)¥(punct|selv,) og havner til slutt på Gaustad psykiatriske instutisjon$(noun,wow|institusjon). De store problemene begynte da han startet på gymnasiet. Der blir han og en venn anklaget for å være homofile...Det ble aldrig$(adv,nosilent|aldri) gjort helt klart om dette stemmer. 
+
+Ola  er en i vennegjengen. Han er den som er minst redd for å bli voksen. Det vil (si ,)¥(punct|si,) han ser seg nødt til å flytte til Trondheim og være familiefar da han har gjort en jente gravid. 
+
+Seb vdra$(verb,x|vil dra) ut i (verden  ,)¥(punct|verden,) og kommer ikke hjem. De andre må reise og lete etter ham. De finner han i (Paris ,)¥(punct|Paris,) neddopet og jævlig. De tar han med seg hjem og han blir ren på "melk og honning"( ref. fra boken)
+
+Gunnar blir (kommunist  ,)¥(punct|kommunist,) han blir påvirket av broren sin. Han tvinger Kim til å dele ut flyblader$(noun,doubsyl|flygeblader) med kommunistiske slagord. 
+
+(Kim ,)¥(punct|Kim,) (Seb ,)¥(punct|Seb,) Ola og Gunnar analyserer alle tekstene til The (Beatels$(prop|Beatles)  ,)¥(punct|Beatles,) et svært berømt engelsk band som du sikkert har hørt (om ,)¥(punct|om,) og (prøver og leve)£(conj,infin,infin,x|prøver å leve) etter det de sier der.  Men det lykkes ikke (helt ,)¥(punct|helt,) det ser vi tydelig på deres (desperate ,)¥(punct|desperate,) og (barslige$(adj,cons|barnslige) ,)¥(punct|barnslige,) måte (å prøve og forestille)£(conj,infin,infin,mix|å prøve å forestille) voksne på.
+
+boken$(noun,cap|Boken) begynner når guttene skal begynne på (realskolen ,)¥(punct|realskolen,) høsten (1964 ,.)¥(punct|1964.) Den siste oppgaven de får på den gamle skolen er å skrive en stil om hva de vil bli når de blir store. Kim , (hoedpersonene$(noun,typo|hovedpersonen) ,)¥(punct||hovedpersonen,) skriver at han vil bli lege i afrika$(prop,cap|Afrika). Men han ombestemmer seg når skolen begynner på høsten igjen (fordi han gidder ikke)¥(adv,wo|fordi han ikke gidder) å gjøre lekser.
+
+Våren 1965 er den store drømmer$(verb,typo,verb,noun|drømmen) (danmarks tur)¢(noun,mix|Danmarkstur) med (fotball laget)¢(noun,cmp|fotballaget). Men de drømmene går i knas ved et heidundrende selvmål mot slemmestad$(prop,cap|Slemmestad). Kanskje neste år..
+
+Sommer$(noun,doubsyl,indef,def|Sommeren) før realskolen var Kim på hytten ute på Nesodden sammen med foreldrene sine. Denne sommeren tenkte han (mye ,)¥(punct|mye,) blandt$(prep,nosilent|blant) annet noe som kommer til å prege resten av hans (oppvekst ;)$(punct,w|oppvekst:)
+
 IKKE TENK PÅ FØLGENE
 RI BORT PÅ BØLGENE
+
 Samme sommer brekker Ola to armer ( hos en onkel på toten) , men den nye gymlæreren er et helvete og tvinger han til å ta 70 knebøyinger$(noun,comps|knebøyninger) i hver gymtime utover hele høsten...
-Kim , Gunnar , Ola og Seb kommer på samme realskole , Vestheim . De sniker seg rundt hjørnene på Vestheim , livredde for de store gymnastene. Onde rykter surrer om at ALLE nye skal døpes i pisserenna , eller bli døpt i snøen...
-På vestheim$(prop,cap|Vestheim) blir de kjent med Fred Hansen , som bor like (ve djernbanen)$(prep,typo|ved jernbanen) til utlandet , og med utedo inne i huset (!) Men sommeren 1966 drukner dessverre fred$(prop,cap|Fred) da€(adv,w|mens) han er på kolonileir.
-Året gikk fort , fordi Kers Pink , klasseforstanderen dems$(pron,w|deres) , holder lange foredrag om Nordlands trompet og Peter Dass , dvs. de sover seg igjenom$(prep,doubc|igjennom) timene...
+
+(Kim ,)¥(punct|Kim,) (Gunnar ,)¥(punct|Gunnar,) Ola og Seb kommer på samme (realskole ,)¥(punct|realskole,) (Vestheim .)¥(punct|Vestheim.) De sniker seg rundt hjørnene på (Vestheim ,)¥(punct|Vestheim,) livredde for de store gymnastene. Onde rykter surrer om at ALLE nye skal døpes i pisserenna , eller bli døpt i snøen...
+
+På vestheim$(prop,cap|Vestheim) blir de kjent med Fred Hansen , som bor like (ve djernbanen)¢(prep,typo|ved jernbanen) til (utlandet ,)¥(punct|utlandet,) og med utedo inne i huset (!) Men sommeren 1966 drukner dessverre fred$(prop,cap|Fred) da€(adv,w|mens) han er på kolonileir.
+
+Året gikk (fort ,)¥(punct|fort,) fordi Kers (Pink ,)¥(punct|Pink,) klasseforstanderen (dems$(pron,w|deres) ,)¥(punct|deres,) holder lange foredrag om Nordlands trompet og Peter (Dass ,)¥(punct|Dass,) dvs. de sover seg igjenom$(prep,doubc|igjennom) timene...
+
 Kim får så en kjereste$(noun,wow|kjæreste) , Nina. Lykken blir kort fordi Nina må flytte til  Danmark med foreldrene sine. Det samme året  , på sommeren , blir gjengen tatt ut til (fotball laget)¥(noun,cmp|fotballaget) og Kim reiser og besøker henne. Det blir en nedtur , fordi på rommet til nona$(prop,mix|Nina) sitter en annen gutt....men Kim glemmer aldrig$(adv,nosilent|aldri) Nina.
+
 etter$(prep,cap|Etter) (danmarks turen)¥(noun,cmp|Danmarksturen) (, det gikk dårlig)¥(adv,missing|, hvor det gikk dårlig) for laget , reiser alle sammen ut på fisketur i nordmarka$(prop,cap|Nordmarka).
-Der møter de forførste$(prep,typo|for første) gang gærnigene$(noun,typo|gærningene) fra Gaustad , (mental sykehuset)¥(noun,cmp|mentalsykehuset) ,. Gunnar tar masse bilder , og de møter dødsengelen. Det var denne sommeren Fred døde. Når gunnar$(prop,cap|Gunnar) får tilbake filmen er den ødelagt. Det eneste som er igjen av sommeren er er rekke svarte bilder.
-På høsten blir de konfirmert , alle untatt$(prep,doubc|unntatt) Seb. Han sa det som det (er ;)$(punct,w|er:)
+
+Der møter de forførste$(prep,typo|for første) gang gærnigene$(noun,typo|gærningene) fra Gaustad , (mental sykehuset)¥(noun,cmp|mentalsykehuset) ,. Gunnar tar masse bilder , og de møter dødsengelen. Det var denne sommeren Fred døde. Når gunnar$(prop,cap|Gunnar) får tilbake filmen er den ødelagt. Det eneste som er igjen av sommeren er (er rekke svarte bilder)£(det,spred,x,x,x|en rekke svarte bilder).
+
+På høsten blir de konfirmert , alle untatt$(prep,doubc|unntatt) Seb. Han sa det som det (er ;)¥(punct,w|er:)
+
 Jeg gidder ikke å konfirmere meg! Tror du at det er noen  som gjør det fordi de tror på det du sier? De gjør det BARE for presangenes skyld.
+
 Dette  var Sebs første ' utskeielse' Og (bandet til guttenes)£(noun,gen,gen,fin|bandet til guttene) , ' The Snaufs' begynnte$(verb,onec|begynte) (og vakle)£(conj,infin,infin,x|å vakle) allerede før den£(art,fin,m,neuter,sex|det) hadde begynnt$(verb,onec|begynt). De hadde nemlig planer om å få instrumenter i (konfirmasjons gave)¥(noun,cmp|konfirmasjonsgave).
+
 Det var (ved konfirmasjonen som noen)¥(conj,redun|ved konfirmasjonen noen) for første gan$(noun,typo|gang) kallte$(verb,onec|kalte) Kim for voksen. (Han ble redd løp inn)¥(punct,missing|Han ble redd, løp inn) på do og gjemte seg der , han var sliten  , redd og tom.
+
 Livet som realelev går fort (, og de)¥(conj,redun|, de) begynner på gymasiet$(noun,typo|gymnasiet) , og de irreterer$(verb,wow|irriterer) seg over små (realskole elever)¥(noun,cmp|realskoleelever) som sniker seg rundt hjørnene livredde for å bli døpt. De kaqn$(verb,typo|kan) ikke skjønne hvorfor de sniker seg rundt , (de gidder ikke å døpe de)£(pron,).....små barn!
+
 kim$(prop,cap|Kim) treffer Cecilie fra Bygdø. , han blir sammen med henne men er (bann lyst)¥(adj,cmp|bannlyst) hjemme hos henne , så den forelskelsen går ikke...men de er sammen alikevel$(adv,doubc|allikevel).
+
 (Han driter fullstendig ut)¥(conj,missing|Han driter seg fullstendig ut) på klassefesten til Cecilie , kommer dit naken ! Da ble det slutt mellom dem en liten stund!
-Seb flytter for seg selv , semmen$(adv,) med noen fra skolen hans. de begynner på stoff og til slutt rømmer han til Paris. Kim , Ola og Gunnar reiser nedover for å hente han. han kommer hjem og  blir rein på ' honning og melk '.
-(Ola sin)$(prop,redun|Olas) kjereste$(noun,wow|kjæreste) i Trondheim blir gravid og han må flytte dit. Han blir voksen og mister kontaket$(noun,typo|kontakten) med de andre etter hvert. Men han var nede og besøkte dem en gang , og da var han ikke lykelig$(adj,doubc|lykkelig)!
+
+Seb flytter for seg selv , semmen$(adv,vow|sammen) med noen fra skolen hans. de begynner på stoff og til slutt rømmer han til Paris. Kim , Ola og Gunnar reiser nedover for å hente han. han kommer hjem og  blir rein på ' honning og melk '.
+
+Ola sin kjereste$(noun,wow|kjæreste) i Trondheim blir gravid og han må flytte dit. Han blir voksen og mister kontaket$(noun,typo|kontakten) med de andre etter hvert. Men han var nede og besøkte dem en gang , og da var han ikke lykelig$(adj,doubc|lykkelig)!
+
 Gunnar blir komunsit$(noun,mix|kommunist) og prøver å lee$(verb,typo|leve) etter Stalin og Maos regler. Han går rundt på Karl johan$(prop,cap|Johan) og deler ut flyblader$(noun,doubsyl|flygeblader). kim$(prop,cap|Kim) ha$(verb,typo,infinitive,present|har) vansligheter$(noun,doubsyl|vanskeligheter) med å bli voksen og en dag bryter han sammen. Han havner på Gaustad , gunnar$(prop,cap|Gunnar) og Seb kommer for å redde han. men$(conj,cap|Men) det er ikke noen hull eller snarveier ut fra gaustad$(prop,cap|Gaustad). Han må klatre over gjerdet..
+
 MIN MENIG$(noun,typo|MENING)
 
-Alle guttene er redde for å bli voksne , de vill$(verb,onec,verb,noun|vil) rett og slett ikke ta ansvar for (sin handlinger)£(pron,genitive,plural,singular|sine handlinger). De prøver å leve livet slik som de gjorde da de var 15 år. De tror (livet er livet er)¥(noun,redup|livet er) en lek , og de prøver å leke seg igjenom$(prep,doubc|igjennom) (konfliktene isteden for å løse de)£(pron,obj,obj,subj|konfliktene isteden for å løse dem) på voksen måte. Hele boken er en beskrivelse av 4 gutters kamp (for å ikke bli)¥(adv,wo|for ikke å bli) voksne...
+Alle guttene er redde for å bli voksne , de vill$(verb,onec,verb,noun|vil) rett og slett ikke ta ansvar for (sin handlinger)£(pron,genitive,plural,singular|sine handlinger). De prøver å leve livet slik som de gjorde da de var 15 år. De tror (livet er livet er)¥(noun,redup|livet er) en lek , og de prøver å leke seg igjenom$(prep,doubc|igjennom) (konfliktene isteden for å løse de)£(pron,obj,obj,subj|konfliktene isteden for å løse dem) (på voksen måte)¥(det,missing|på en voksen måte). Hele boken er en beskrivelse av 4 gutters kamp (for å ikke bli)¥(adv,wo|for ikke å bli) voksne...
+
 'BEATELS$(BEATLES)' er en rik og sammensatt roman, der gleden og sorgen, latteren og gråten, veves inn i hverandre. Jeg synes det er en veldig sannferdig bok , og den kunne like greit ha handlet om dagens ungdommer. Men boken er ganske så spesiell , det er ikke noen konkret handlig$(noun,typo|handling)  , (mange så espisoder)$(adj,typo|mange små episoder) danner denne boken og allt$(adv,onec|alt) de har til felles er at det er med på å forme guttene. en$(art,mix|Den) røde tråden er guttenes kam$(noun,typo|kamp) for å være 15 år resten av livet . Jeg anbefaler alle å lese den , hvis ikke så går de glipp av  (en enorm leseopplevelsen)£(noun,infin,fin,nf,fin|en enorm leseropplevelse). 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

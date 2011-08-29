@@ -17,6 +17,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'nob-002-klaraklok_familytrouble.correct.txt.xsl'"/>
+<xsl:variable name="text_encoding" select="'utf-8'"/>
 <xsl:variable name="title" select="'Klara Klok: Trøbbel i familien'"/>
 <xsl:variable name="author1_fn" select="'Jente 16 år'"/>
 <xsl:variable name="author1_ln" select="' '"/>

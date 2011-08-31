@@ -82,7 +82,7 @@ Litteraturliste                                  s. 16
 
 	   Andreas Wulfsberg Grøtting   
 
-	Andreas Wulfsberg Grøtting (1816-70) var en prestesønn fra Ål i Hallingdal, født i Nittedal. Han var (teolog kandidat)€(noun,w|teologisk kandidat). Han virket som privatlærer. Grøtting var noen år yngre enn Asbjørnsen og Moe, men de tre kom godt over ens. Asbjørnsen, Moe og Grøtting var gode ungdomsvenner. De møttes på Størens private artiumkurs. Senere hjalp Grøtting til med å samle noen eventyr.
+	Andreas Wulfsberg Grøtting (1816-70) var en prestesønn fra Ål i Hallingdal, født i Nittedal. Han var (teolog€teologisk kandidat)¥(noun,w|teologkandidat). Han virket som privatlærer. Grøtting var noen år yngre enn Asbjørnsen og Moe, men de tre kom godt over ens. Asbjørnsen, Moe og Grøtting var gode ungdomsvenner. De møttes på Størens private artiumkurs. Senere hjalp Grøtting til med å samle noen eventyr.
 
 
 
@@ -100,12 +100,12 @@ Litteraturliste                                  s. 16
 
 	   Eventyr   
 
-	Eventyr er veldig gamle. Noen av dem er eldre en sagaene. Eventyr er en fantasifortelling som folk vanligvis ikke trur på. Eventyr gir glede og spenning til alle som hører på.  
+	Eventyr er veldig gamle. Noen av dem (er eldre en sagaene)£(x|er eldre enn sagaene). Eventyr er en fantasifortelling som folk vanligvis ikke trur på. Eventyr gir glede og spenning til alle som hører på.  
 
-	Når du leser eventyr kommer du på en måte inn i en fantasiverden hvor alt kan hende. Det finnes ikke grenser for hva som kan hende i eventyr. Når man skriver eventyr har man visse ting å forholde seg til. Eventyr er ikke tid eller stesdsbestemt$(adj,typo|stedsbestemt), de handler ofte om kamp mellom (det godet og det onde)€(noun,w|det gode og det onde), tallmagi og 
+	Når du leser eventyr kommer du på en måte inn i en fantasiverden hvor alt kan hende. Det finnes ikke grenser for hva som kan hende i eventyr. Når man skriver eventyr har man visse ting å forholde seg til. Eventyr er ikke tid eller stesdsbestemt$(adj,typo|stedsbestemt), de handler ofte om kamp mellom (det godet og det onde)£(noun,w|det gode og det onde), tallmagi og 
 annen magi. Det er de gode og de svake som alltid vinner. De fleste eventyr begynner med "Det var en gang...", og slutter med en slags overgang fra eventyr verdenen til virkeligheten.
  
-	Eventyr er litt forskelige$(adj,mix|forskjellige) fra hvilken del av landet de kommer fra. (Østlands eventyr)$(noun,nosplit,adj,gen|Østlandseventyr) er kjent for sin humoristiske sans og gjerne en realistisk sleng. Vestlands eventyr er logiske og kanskje litt tørrere. I Trøndelag legger de stor vekt på den muntlige framføringen. I Nordlandet er eventyra mer novellistiske. I Telemark og Setesdal er de litt mer artistiske. De samme eventyrene kan man finne igjen i forskelige$(adj,mix|forskjellige) land. Troll kan beskrives forskelig$(adj,mix|forskjellig) fra hvilket land de kommer fra, i danske folkeeventyr kan trollene være både små og lure. I norske eventyr er trollene som regel store og dumme. Asbjørnsen og Moe samlet flest eventyr fra innlandet, da det var lettest å reise der. 
+	Eventyr er litt forskelige$(adj,mix|forskjellige) fra hvilken del av landet de kommer fra. (Østlands eventyr)¥(noun,nosplit,adj,gen|Østlandseventyr) er kjent for sin humoristiske sans og gjerne en realistisk sleng. (Vestlands eventyr)¥(noun,nosplit,adj,gen|Vestlandseventyr) er logiske og kanskje litt tørrere. I Trøndelag legger de stor vekt på den muntlige framføringen. I Nordlandet¢(Nordland) er eventyra mer novellistiske. I Telemark og Setesdal er de litt mer artistiske. De samme eventyrene kan man finne igjen i forskelige$(adj,mix|forskjellige) land. Troll kan beskrives forskelig$(adj,mix|forskjellig) fra hvilket land de kommer fra, i danske folkeeventyr kan trollene være både små og lure. I norske eventyr er trollene som regel store og dumme. Asbjørnsen og Moe samlet flest eventyr fra innlandet, da det var lettest å reise der. 
 
 	Forskere har delt eventyr opp i kategorier. Vi har sagn, regle-eventyr, vandre-eventyr, skrømt og merkverdigheter, jakt og fiske, troll, huldre, og underjordiske. 
 
@@ -115,21 +115,21 @@ annen magi. Det er de gode og de svake som alltid vinner. De fleste eventyr begy
 
 	   Sagn   
 
-	Sagn bygger som regel på en sann hendelse (f.eks. "Johannes Blessom" fra Vågå. Han var i København julaften. Han ville gjerne hjem til Vågå til julefeiringa. Det kom en mann og sa at han kunne få sitte på til Vågå. Da de nærmet seg Vågå og Johannes skulle av, (sa mannen om han hørte)€(conj,w|sa mannen at han hørte) et brak skulle han ikke snu seg. Men Johannes snudde på hodet og siden den dagen var han stiv i nakken. Det sies at han gikk og såg bakover hele tiden, da han ikke kunne røre på hodet. Men sagnet er ikke sant. Det var sikkert en annen grunn til at han ikke kunne røre på hodet.) Sagn ligger et sted mellom eventyr og historie, det er noe sant i dem, men det meste er ikke sant. 
+	Sagn bygger som regel på en sann hendelse (f.eks. "Johannes Blessom" fra Vågå. Han var i København julaften. Han ville gjerne hjem til Vågå til julefeiringa. Det kom en mann og sa at han kunne få sitte på til Vågå. Da de nærmet seg Vågå og Johannes skulle av, (sa mannen om han hørte)¥(conj,w|sa mannen at om han hørte) et brak skulle han ikke snu seg. Men Johannes snudde på hodet og siden den dagen var han stiv i nakken. Det sies at han gikk og såg bakover hele tiden, da han ikke kunne røre på hodet. Men sagnet er ikke sant. Det var sikkert en annen grunn til at han ikke kunne røre på hodet.) Sagn ligger et sted mellom eventyr og historie, det er noe sant i dem, men det meste er ikke sant. 
 
 
 	   Kritikk om Asbjørnsen og Moe   
 
-	Johan Borgen: Peter Christen Asbjørnsen var barnslig og morosom$(adj,comp0|morsom) gjennom hele livet. Jørgen Moe var til tider en tungsindig mann. De to var helt forskjellige. Johan Borgen likte den kortvokste og matglade Asbjørnsen best. Johan Borgen lærte mest om Asbjørnsen på skolen, derfor fikk han et bedre bilde av Asbjørnsen en av Moe.
+	Johan Borgen: Peter Christen Asbjørnsen var barnslig og morosom$(adj,comp0|morsom) gjennom hele livet. Jørgen Moe var til tider en tungsindig mann. De to var helt forskjellige. Johan Borgen likte den kortvokste og matglade Asbjørnsen best. Johan Borgen lærte mest om Asbjørnsen på skolen, derfor fikk han (et bedre bilde av Asbjørnsen en av Moe)¥(et bedre bilde av Asbjørnsen enn av Moe).
 
-	Sigurd Hoel: Han mente at Moe var den ledende fra begynnelsen. Sigurd Hoel mente at Moe hadde en bedre stilsans og sikrere smak en Asbjørnsen. Moe var klokere og mere voksen.
+	Sigurd Hoel: Han mente at Moe var den ledende fra begynnelsen. Sigurd Hoel mente at Moe hadde (en bedre stilsans og sikrere smak en Asbjørnsen)¥(en bedre stilsans og sikrere smak enn Asbjørnsen). Moe var klokere og mere voksen.
 
-	Johan Borgen og Sigurd Hoel, var begge enige om at Asbjørnsen og Moe gjorde en bra (innsamlings jobb)$(noun,nosplit,noun,gen|innsamlingsjobb). 
+	Johan Borgen og Sigurd Hoel, var begge enige om at Asbjørnsen og Moe gjorde en bra (innsamlings jobb)¥(noun,nosplit,noun,gen|innsamlingsjobb). 
 
 	Jeg har fått et (bedre bilde av Asbjørnsen en av Moe)$(conj,doubc,conj,art|bedre bilde av Asbjørnsen enn av Moe) når jeg har drevet med særoppgava. Det virker som om Asbjørnsen har bedre personlighet. Moe er mere som en "robot", han går på skole og får bra karakterer, bra utdannelse. I bøkene står det veldig lite om Moes personlighet.
  
 	Asbjørnsen og Moe kunne gå to veier når de gjaldt (skrivemåten på eventyrene)€(prep,w|skrivemåten i eventyrene). Den ene veien var dialekt, slik folk fortalte dem. Den andre veien var vanlig bokmål (dansk). Men Asbjørnsen og Moe valgte en mellomvei, de 
-skrev eventyrene på dansk skriftform, men de brukte mange norske ord, og særlig gjorde de setningsbygningene norske. Mange syntes det språket var simpelt, særlig folk med høy utdannelse. (De måtte dra til Danmark for å studere, og (da vendte de seg til dansk)$(v,nosilent,v,v|da vente de seg til dansk)). Det er Moe som skal ha den største æren for den valgte målformen. 
+skrev eventyrene på dansk skriftform, men de brukte mange norske ord, og særlig gjorde de setningsbygningene norske. Mange syntes det språket var simpelt, særlig folk med høy utdannelse. (De måtte dra til Danmark for å studere, og (da vendte de seg til dansk)¥(v,nosilent,v,v|da vente de seg til dansk)). Det er Moe som skal ha den største æren for den valgte målformen. 
 
 
 
@@ -141,17 +141,17 @@ skrev eventyrene på dansk skriftform, men de brukte mange norske ord, og særli
 
 	Smørbukk: Smørbukk var en fattig gutt som bodde hos moren sinn. Han gadd ikke ta seg til noen ting. Det kom en haugkjerring med hode under armen og en sekk på ryggen. Hun lurte Smørbukk ned i sekken fordi hun skulle spise han, men det endte med at Smørbukk lurte haugfolket og ble belønnet med gull og sølv. Dette er et troll-eventyr, hvor det gode (Smørbukk) vinner over det onde (haugfolket).
 	
-	Pannekaka: Det handler om en mor som lager pannekaka til barna sine, barna ber pent om å få pannekake. Da pannekaka hører det hopper den ut av panna å ruller bortover. Pannekaka treffer mange som vil spise den på veien, men den bare ruller videre helt til den treffer en gris. Grisen lurer pannekaka og spiser den opp. Hele dette eventyret er lagt opp som en regle (regle-eventyr). Det har en morsom slutt "...da pannekaka ikke kom lenger, er ikke regla lenger heller". 
+	Pannekaka: Det handler om en mor som lager pannekaka til barna sine, barna ber pent om å få pannekake. Da pannekaka hører det hopper den ut av panna (å ruller)¥(og ruller) bortover. Pannekaka treffer mange som vil spise den på veien, men den bare ruller videre helt til den treffer en gris. Grisen lurer pannekaka og spiser den opp. Hele dette eventyret er lagt opp som en regle (regle-eventyr). Det har en morsom slutt "...da pannekaka ikke kom lenger, er ikke regla lenger heller". 
 
-	Kullbrenneren: Eventyret begynner sånn "Det var en gang en kullbrenner som hadde en sønn, og han var kullbrenner". Sønnen til kullbrenneren var en ranglefant, men han kom med (mange vise-ord)$(adj,comp0|mange vise ord) og han var glup når det trengtes. Han kjøpte seg en prestemundur og lot som han var prest, så dro han til slottet. På slottet lurte han alle, og tjente en masse penger. Det ender med at han ble den mektigste i landet etter kongen. Dette er et morosomt$(adj,comp0|morsomt) eventyr (syns i hvertfall jeg), med mye spenning. Du får sympati for kullbrenneren, selv om han er litt lumsk (av å til)€(conj,w|av og til). 
+	Kullbrenneren: Eventyret begynner sånn "Det var en gang en kullbrenner som hadde en sønn, og han var kullbrenner". Sønnen til kullbrenneren var en ranglefant, men han kom med mange (vise-ord)$(adj,comp0|vise ord) og han var glup når det trengtes. Han kjøpte seg en prestemundur og lot som han var prest, så dro han til slottet. På slottet lurte han alle, og tjente en masse penger. Det ender med at han ble den mektigste i landet etter kongen. Dette er et morosomt$(adj,comp0|morsomt) eventyr (syns i hvertfall jeg), med mye spenning. Du får sympati for kullbrenneren, selv om han er litt lumsk (av å til)£(conj,w|av og til). 
 
-	Reve-enka: Dette eventyret handler om en reve-enke som skal gifte seg. Bjørnen og ulven tenker for mye på seg selv og vil ikke hjelpe andre, så de får ikke reve-enka. Mens (den fillete rev)£(noun,noun,noun,noun,fin|den fillete reven) er omtenksom og hjelpsom. Det er reven som får gifte seg med reve-enka. (Reven møter en haren)£(noun,noun,noun,noun,infin|Reven møter en hare) (da han skal)€(adv,w|når han skal) til reve-enka, haren forteller en morsom regle om kona si. Dette er et typisk dyre-eventyr, hvor dyrene kan snakke og er intelligente. Dette er også et regle-eventyr(haren). Det er ting som gjentar seg tre ganger(tre folk), og det er den snille og fattige som får lønn fordi han er så snill.
+	Reve-enka: Dette eventyret handler om en reve-enke som skal gifte seg. Bjørnen og ulven tenker for mye på seg selv og vil ikke hjelpe andre, så de får ikke reve-enka. Mens (den fillete rev)£(noun,noun,noun,noun,fin|den fillete reven) er omtenksom og hjelpsom. Det er reven som får gifte seg med reve-enka. (Reven møter en haren)£(noun,noun,noun,noun,infin|Reven møter en hare) da han skal til reve-enka, haren forteller en morsom regle om kona si. Dette er et typisk dyre-eventyr, hvor dyrene kan snakke og er intelligente. Dette er også et regle-eventyr(haren). Det er ting som gjentar seg tre ganger(tre folk), og det er den snille og fattige som får lønn fordi han er så snill.
 
-	Gudbrand i Lia: Det handler om Gudbrand som hadde en så snill kone, at samme hva han gjorde ble hun ikke sint. Gudbrand skulle selge en ku. Da han kom tilbake hadde han verken ku eller penger. Han gikk inn på (nabo garden)$(noun,mix|nabogården) og vedda på at kona ikke ville bli sint. Kona ble ikke sint så han vant (vedde målet)$(noun,nosplit|veddemålet). På den måten tjente han inn igjen de pengene han mista$(v,mistet) på kua og litt ekstra. Dette er et regle-eventyr, men det er også et vandre-eventyr. Dette eventyret har vandret gjennom mange land.
+	Gudbrand i Lia: Det handler om Gudbrand som hadde en så snill kone, at samme hva han gjorde ble hun ikke sint. Gudbrand skulle selge en ku. Da han kom tilbake hadde han verken ku eller penger. Han gikk inn på (nabo garden)¥(noun,mix|nabogården) og vedda på at kona ikke ville bli sint. Kona ble ikke sint så han vant (vedde målet)¥(noun,nosplit|veddemålet). På den måten tjente han inn igjen de pengene han mista$(v,mistet) på kua og litt ekstra. Dette er et regle-eventyr, men det er også et vandre-eventyr. Dette eventyret har vandret gjennom mange land.
  
 	Kvernen som står og maler på havets bunn: Det var en gang en fattig bonde som (fikk beskjed av broren sin, å dra til helvete)¥(prep,missing|fikk beskjed av broren sin om å dra til helvete). Mannen gjorde så. Da han kom fram, kom han til noen troll som ville ha fleskeskinka hans. Han byttet skinka mot en kvern som malte det han ville ha av mat. Etter at han hadde blitt rik av kvernen, var det en sjømann som ville kjøpe kverna. Kjøpmannen kjøpte kverna og dro til sjøs, der fikk han kverna til å male salt. Bonden hadde ikke lært kjøpmannen å stille kverna, så kverna malte salt til skuta sank. Det slutter med "...der står kverna og maler den dag i dag, det er derfor havet er så salt". Dette er et sagn fordi det bygger på en sann ting, alle vet at havet er salt. Den fattige blir rik, dette er et ganske morsomt og spennende sagn.
 
-	Jeg syns eventyr er spennende, men det har blitt liten tid til eventyrlesing etter at mamma sluttet å lese eventyr for meg. I eventyrbøkene (som vi har) står det på det samme språk som Asbjørnsen og Moe skrev det på. Derfor er det litt (tungt og lese)€(conj,w|tungt å lese) dem.  
+	Jeg syns eventyr er spennende, men det har blitt liten tid til eventyrlesing etter at mamma sluttet å lese eventyr for meg. I eventyrbøkene (som vi har) står det på det samme språk som Asbjørnsen og Moe skrev det på. Derfor er det litt (tungt og lese)£(conj,w|tungt å lese) dem.  
 
 
 
@@ -164,14 +164,14 @@ skrev eventyrene på dansk skriftform, men de brukte mange norske ord, og særli
 
 	   Vurdering   
 
-	Jeg valgte Asbjørnsen og Moe fordi jeg liker eventyr, når jeg var liten leste mamma mange eventyr til meg. Nå har det blitt mindre eventyrlesing. Derfor ville jeg friske opp eventyrlesingen min ved å velge Asbjørnsen og Moe. Oppgavejobbinga har vært lærerikt både om Asbjørnsen og Moe og hvordan man skal legge opp en særoppgave. Men kjedelig. Jeg hadde imidlertid aldri trudd det skulle ta så lang tid å gjennomføre en særoppgave.  
+	Jeg valgte Asbjørnsen og Moe fordi jeg liker eventyr, når jeg var liten leste mamma mange eventyr til meg. Nå har det blitt mindre eventyrlesing. Derfor ville jeg friske opp eventyrlesingen min ved å velge Asbjørnsen og Moe. (Oppgavejobbinga har vært lærerikt)£(Oppgavejobbinga har vært lærerik) både om Asbjørnsen og Moe og hvordan man skal legge opp en særoppgave. Men kjedelig. Jeg hadde imidlertid aldri trudd det skulle ta så lang tid å gjennomføre en særoppgave.  
 
 
 	   Litteraturliste   
 
-	(Jeg har blad i gjennom)$(v,mix|Jeg har bladd gjennom) mange bøker (kanskje litt for mange):
+	(Jeg har blad i gjennom)¥(v,mix|Jeg har bladd gjennom) mange bøker (kanskje litt for mange):
 	1. Folke- og huldreeventyr utvalgt av Johan Borgen.
-2. Norges litteratur historie (Bind 2) Fra Wergeland til Vinje av Edvard Beyer, Ingard Hauge og Olav Bø.
+2. Norges (litteratur historie)¥(litteraturhistorie) (Bind 2) Fra Wergeland til Vinje av Edvard Beyer, Ingard Hauge og Olav Bø.
 3. Jørgen Moe, Folkeminnesamler -dikter -prest av Ørnulf Hodne.
 4. P. Chr. Asbjørnsen, Biografi og karakteristikk av Hans Hansen.
 5. P. Chr. Asbjørnsen, Mannen og livsverket av Knut Liestøl.

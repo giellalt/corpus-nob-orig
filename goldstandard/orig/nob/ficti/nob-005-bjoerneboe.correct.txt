@@ -33,7 +33,7 @@ barndommen, han var da 13 år.
      jeg våknet på bakken. Så det er ikke noe teknisk problem - å henge seg'.
 
 Dette var altså hans første selvmordsforsøk, og mye tyder på at han allerede da led av en
-depresjon, det som man på fagspråket kaller en endogen depresjon, dvs. en (medfød, svær deprsjon)$(mix|medfødt, vanskelig depresjon). Hvor sterke depresjoner han hadde dengang$(pron,split|den gang), var han senere ikke klar over, for han
+depresjon, det som man på fagspråket kaller en endogen depresjon, dvs. en (medfød$(adj,x|medfødt), svær deprsjon$(noun,x|depresjon))£(mix|medfødt, vanskelig depresjon). Hvor sterke depresjoner han hadde dengang$(pron,split|den gang), var han senere ikke klar over, for han
 husket som kjent ikke så mye av sin barndom. Men han var veldig mye plaget av sykdom fra
 spedbarnsalder og oppover. Han holdt da på å dø av en dobbeltsidig lungebetennelse, og
 senere skulle han komme til å få flere alvorlige anfall av lungebetennelser. 15 år gammel ble
@@ -329,7 +329,7 @@ hjem og han lager til et provisorisk rede i hatten sin. På hjemveien går Birge
 forbi 'Kråka' eller (frøken bø)¢(prop,cap|frøken Bø), og vel framme får de den skadde fuglen trygt plassert i Birgers
 værelse. Da får Birgers far sine øyne opp for den skadevirkning skolen, dette dårlige rede, har
 hatt for hans gutt, og han sender Birger over til den andre skolen, der hvor Jonas fikk sin
-barndom tilbake, det vil si sin (fri flyveferdighet)$(adj,mix|frie flygeferdighet). 'Spurven var for lenge siden blitt frisk nu,
+barndom tilbake, det vil si sin (fri flyveferdighet$(noun,x|flygeferdighet))£(adj,mix|frie flygeferdighet). 'Spurven var for lenge siden blitt frisk nu,
 og hadde fløyet sin vei'. Og i dette spurvemotivet ligger vel en av appellene i boken: Å
 bygge reder for de vingestekkede og skadeskutte.
 
@@ -389,7 +389,7 @@ puritanske strengheten i det atroposofiske$(adj,typo|antroposofiske) miljøet. I
 
 
 Det samme året som Bjørneboe måtte gi opp jobben på Steinerskolen, 1957, (fulgt han)£(v,typo,sg1prt,prfprc|fulgte han)
-'Jonas'-suksessen med en ny tendensroman. ('Under en hårdere himmel' utløse et spetakkel i norsk kulturliv)$(v,typo,sg1prt,infinite|'Under en hårdere himmel' utløste et spetakkel i norsk kulturliv) som fikk debatten omkring 'Jonas' til å ligne på en middels familiekrangel.
+'Jonas'-suksessen med en ny tendensroman. ('Under en hårdere himmel' utløse et spetakkel i norsk kulturliv)£(v,typo,sg1prt,infinite|'Under en hårdere himmel' utløste et spetakkel i norsk kulturliv) som fikk debatten omkring 'Jonas' til å ligne på en middels familiekrangel.
 
 Under en hårdere himmel griper et stoff som for etterkrigs-generasjonen av nordmenn var
 uhyre føsomt$(adj,typo|følsomt): Landssvikoppgjøret. Før han skrev boken, hadde BJørneboe$(prop,min|Bjørneboe) fått en strøm av

@@ -31,7 +31,7 @@ På vestheim$(prop,cap|Vestheim) blir de kjent med Fred Hansen , som bor like (v
 
 Året gikk (fort ,)¥(punct|fort,) fordi Kers (Pink ,)¥(punct|Pink,) klasseforstanderen (dems$(pron,w|deres) ,)¥(punct|deres,) holder lange foredrag om Nordlands trompet og Peter (Dass ,)¥(punct|Dass,) dvs. de sover seg igjenom$(prep,doubc|igjennom) timene...
 
-Kim får så en kjereste$(noun,wow|kjæreste) , Nina. Lykken blir kort fordi Nina må flytte til  Danmark med foreldrene sine. Det samme året  , på sommeren , blir gjengen tatt ut til (fotball laget)¥(noun,cmp|fotballaget) og Kim reiser og besøker henne. Det blir en nedtur , fordi på rommet til nona$(prop,mix|Nina) sitter en annen gutt....men Kim glemmer aldrig$(adv,nosilent|aldri) Nina.
+Kim får så en kjereste$(noun,wow|kjæreste) , Nina. Lykken blir kort fordi Nina må flytte til  Danmark med foreldrene sine. Det samme året  , på sommeren , blir gjengen tatt ut til (fotball laget)¥(noun,cmp|fotballaget) og Kim reiser og besøker henne. Det blir en nedtur , fordi (på rommet til nona)¥(prop,mix|på rommet til Nina) sitter en annen gutt....men Kim glemmer aldrig$(adv,nosilent|aldri) Nina.
 
 (etter (danmarks turen)¥(noun,cmp|danmarksturen))¥(prep,cap|Etter danmarksturen) (, det gikk dårlig)¥(adv,missing|, hvor det gikk dårlig) for laget , reiser alle sammen ut på fisketur i nordmarka$(prop,cap|Nordmarka).
 

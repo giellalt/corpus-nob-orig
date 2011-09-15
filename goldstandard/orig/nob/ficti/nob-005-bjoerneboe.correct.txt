@@ -291,7 +291,7 @@ serie knyttneveslag satt inn i raskt tempo.
 
 Bjørneboe benytter seg blant annet av en litterær finesse som anvendes med stor bevissthet og
 kyndighet, nemlig den at det kommende tema preludieres, et lite forspill, ganske svakt innen
-det foregående tema er ferdig. Her skal jeg illustre$(v,doubsyl|illustrere) dette:
+det foregående tema er ferdig. Her skal (jeg illustre dette)¥(v,doubsyl|jeg illustrere dette):
           'September..rop om pensum..s.230.'
 
 Men dette er ikke en kunst i seg selv. Dette kan utøves like suverent av detektivforfatteren.
@@ -507,7 +507,7 @@ Straks Jens var ute av fengselsportene kastet han seg over skrivemaskinen og bok
 historiene. Så begynte essayisten å arbeide. Artiklene hans ble refusert av Aftenposten, men
 Dagbladet tok sjansen på å trykke dem. De ble pardoksalt$(adj,typo|paradoksalt) trykket juleaften$(noun,comp0|julaften) 1959. Artiklene
 var skrevet med en soleklar intelligens og en bitenede$(adj,typo|bitende) ironi. Felles for de fleste av disse
-artikkelene$(noun,onec|artiklene) er at de legger stor vekt på den almene$(adj,doubc|allmenne) tomhet i tiden, som må ta sin del av
+artikkelene$(noun,onec|artiklene) er at de legger stor vekt på (den almene tomhet)¥(adj,doubc|den allmenne tomhet) i tiden, som må ta sin del av
 ansvaret for ungdommens kriminalitet, for unge menneskers rastløshet og mangel på idealer.
 Og det er de samme menneskene som har sådd denne tomheten, som skriker etter stadig
 strengere straffer. Jeg må (minne på at)€(prep,w|minne om at) disse artiklene ble skrevet før fengselsreformenes tid,

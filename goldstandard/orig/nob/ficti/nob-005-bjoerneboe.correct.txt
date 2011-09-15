@@ -104,7 +104,7 @@ oppdager hun etterpå at det var Bjørneboe, og hun var selv ikke fylt 16 år. P
 inn, og de måtte møte opp til rettsak$(noun,doubc|rettssak). Denne episoden er foresten$(noun,doubc|forresten) gjengitt i boken 'Jonas'.
 Enden på visa ble i alle fall at han fikk åtte måneder betinget fengsel. En ny utvisning fra en
 skole følger etter rettsaken. Hans far tar likevel seg ikke så alt for nær av saken, og han
-dukker opp i rettssaken med en flask$(noun,typo|flaske) whisky til sin sønn.
+dukker opp i rettssaken med (en flask whisky)€(noun,typo|en flaske whisky) til sin sønn.
 
 1939 døde faren til Jens, og hans sist ord til Jens var vistnok$(noun,doubc|visstnok): 'Du er en snill gutt, Jens, men
 hva i all verden skal det bli av deg?' Samme år reiste Jens sammen med sin mor til Tyskland.

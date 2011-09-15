@@ -22,13 +22,13 @@ Samer og kvener:
 
 Samer og kvener var lenge de to eneste etsniske$(adj,con|etniske) minoritetene i Norge. Kvener er folk av finsk avstamning som innvandret fra slutten av 1600-tallet av. Samene har bodd i landet fra de tidligste tider, med Finnmark som (kjerneområder)£(noun,pl,sg|kjerneområde).
 
-Kvenene ble nøye overvåket av myndighetene, som lenge var redde fot$(pp,typo|for) en russisk ekspansasjon$(noun,syll|ekspansjon). Det beste vern var en befolkning som oppfattet seg som nordmenn.
+Kvenene ble nøye overvåket av myndighetene, som lenge (var redde fot)¥(pp,typo|var redde for) en russisk ekspansasjon$(noun,syll|ekspansjon). Det beste vern var en befolkning som oppfattet seg som nordmenn.
 
 Les mer om 'den finske fare' og tiltakene myndighetene gjorde for å fornorske nordområdene.
 
 Ishavsimperialisme
 
-I verdenshistorien knyttes begrepet imperialisme til tidsrommet 1870-1914. nasjonalismen$(noun,cap|Nasjonalismen) og utrberdelseb$(noun,mix|utbredelsen) av læren om raseoverlegenhet hang sammen med imperialismen og kappløpet mellom de imperialistiske landene om kolonier i Afrika og asia$(noun,cap|Asia). Norkse$(adj,typo|Norske) myndigheters politikk i Finnmark har klare pralaeller$(noun,mix|paralleller) til stormaktenes imperialisme. Også etter første verdenskrig finner vi imperialistsiske$(adj,con|imperialistiske) trekk ui$(pp,typo|i) norks$(adj,typo|norsk) politikk. Ingen mente vi skulle ta opp konkuransen$(noun,con|konkurransen) med de store, men det fantes en del områder i evrden$(noun,typo|verden) som (ingen ingen)¥(pers,redup|ingen) krevde herredømme over, og som enkelte nordmenn mente vi kunne ha bruk for.
+I verdenshistorien knyttes begrepet imperialisme til tidsrommet (1870-1914. nasjonalismen)¥(noun,cap|1870-1914. Nasjonalismen) og utrberdelseb$(noun,mix|utbredelsen) av læren om raseoverlegenhet hang sammen med imperialismen og kappløpet mellom de imperialistiske landene om kolonier i Afrika og asia$(noun,cap|Asia). Norkse$(adj,typo|Norske) myndigheters politikk i Finnmark har klare pralaeller$(noun,mix|paralleller) til stormaktenes imperialisme. Også etter første verdenskrig finner vi imperialistsiske$(adj,con|imperialistiske) trekk ui$(pp,typo|i) norks$(adj,typo|norsk) politikk. Ingen mente vi skulle ta opp konkuransen$(noun,con|konkurransen) med de store, men det fantes en del områder i evrden$(noun,typo|verden) som (ingen ingen)¥(pers,redup|ingen) krevde herredømme over, og som enkelte nordmenn mente vi kunne ha bruk for.
 
 Les mer om Norges imperialisme på sørishavet$(noun,cap|Sørishavet), spitsbergen$(noun,cap|Spitsbergen) og grønnland$(noun,mix|Grønland).
 

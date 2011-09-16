@@ -17,6 +17,7 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'nob-005-bjoerneboe.correct.txt.xsl'"/>
+<xsl:variable name="text_encoding" select="'UTF-8'"/>
 <xsl:variable name="title" select="'Særoppgave om Jens Bjørneboe'"/>
 <xsl:variable name="author1_fn" select="'Geir'"/>
 <xsl:variable name="author1_ln" select="'Vatland'"/>

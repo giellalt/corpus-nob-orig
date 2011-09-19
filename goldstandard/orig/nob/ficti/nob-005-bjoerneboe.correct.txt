@@ -129,9 +129,9 @@ Han ble raskt en del av gatebildet.
 Jens Bjørneboe begynte å male hos Edvard Vigebo, der han raskt markerte seg som et
 dominerende innslag i elevmiljøet. Etter at skolen ble stengt av tyskerne, fortsatte han
 malerstudiene på Axel Revold illegale institutt. Ved siden av malingen var han fremdeles
-interessert i litteratur, og han kunne langd$(adj,typo|lange) sekvenser av Dosojevskij utenat. I denne perioden
+interessert i litteratur, og han kunne langd$(adj,typo|lange) sekvenser av Dosojevskij$(prop,cons|Dostojevskij) utenat. I denne perioden
 gjorde Bjørneboe seg også til venns med Karl Brodersen, en belest mann som kunne mye om
-filosofi. Brodersen innførte Bjørneboe i tankene til Kierkegård og Rudolf Steiner. 
+filosofi. Brodersen innførte Bjørneboe i tankene til Kierkegård$(prop,aa|Kierkegaard) og Rudolf Steiner. 
 
 1943 rømte Bjørneboe til Sverige sammen med Brodersen etter at han fikk vite at han kom til
 å bli utkalt til tyskernes forhatte arbeidstjeneste. I Stocholm$(prop,con|Stockholm) søkte de om flyktningsstatus$(noun,cmp|flyktningestatus): 
@@ -262,8 +262,8 @@ tegning, og elevene hadde ikke skolebøker, de 'lagde' sine egne. Og Jonas lært
 
 Jens Bjørneboe var tilhenger av den engasjerte diktning, han var en tendensdikter. Han vil
 gripe etter lynet, for så å slynge det ned som en gave til menneskene som Hölderlin et sted
-gir til uttrykk for. Han følte seg som en lags utover-menneske i trang til å belær og rettlede
-medmenneskene ved øyeblikkelig innvirken i den konkrete hverdag. Og som et slikt
+gir til uttrykk for. Han følte seg som (en lags utover-menneske)£(mix,mix|et slags utover-menneske) i trang til (å belær)¥(verb,inf|å belære) og rettlede
+medmenneskene ved øyeblikkelig innvirken€(noun,x|innvirkning) i den konkrete hverdag. Og som et slikt
 lynnedslag virket Jens Bjørneboes 'Jonas' i Norges kulturliv da den ble gitt ut i 1955. 
 
 Boka åpner med en bestemt type in-medias-res-åpning. Boka åpner midt i en

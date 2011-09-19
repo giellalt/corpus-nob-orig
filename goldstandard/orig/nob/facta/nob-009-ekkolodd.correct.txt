@@ -14,7 +14,7 @@ Spesifikasjoner Spesifikasjoner
 
 Generelt
 
-Størrelse: Størrelse:............................. 5.8" H x 4.3" W x 2.5" D (14.7 cm H x 10.8 cm W x 6.6 cm D). Vanntett kapsling Display:..............................Høy -kontrast Film SuperTwist LCD. Display: 4.0" (10.2 cm). Oppløsning: Oppløsning:........................168 x 132 eller 240x160 pixels Belysning: ..........................Belysning i skjerm og tastatur. Belysning: Spenning: ...........................10 til 15 volt DC. Spenning: Strømforbruk: Strømforbruk: ....................110 ma lys av; 250 ma lys på. Back-up batteri .................Innebygd batteri som lagrer innstillinger når apparatet er skrudd av. (Sonar Frekvens)¢(noun,mix|Sonarfrekvens): ...........................200 kHz eller 200/183KHz Frekvens: Svinger: Svinger: ..............................Blir levert med en 20 gr. Hekksvinger. Denne gir deg (fiske letting område)¢(noun,mix|fiskeletingsområde) på opp mot 60 gr. Ved høy sensitivitet innstilling. Fungerer opp mot 60 knop (båt fart)¢(noun,nosplit|båtfart). Sender effekt .....................800 w ( 100 W RMS ) kapasitet: (Dybde kapasitet)¢(noun,nosplit|Dybdekapasitet): ...............180 meter. Avhenger av (svinger montasje)¢(noun,nosplit|svingermontasje), bunnforhold og vannforhold. Alle ekkolodd går dypere i ferskvann enn i saltvann. (Dybde display)¢(noun,nosplit|Dybdedisplay):...................Kontinuerlig digital dybde i display display: alarmer:......................Dyp / grunt vann / fisk . (Lyd alarmer)¢(noun,nosplit|Lydalarmer): Automatisk range: ............Ja. range: track: Auto bottom track: ............Ja. Zoom bottom track: ...........Ja. track: (Vann temratur)¢(noun,mix|Vanntemperatur): .................Ja. Viktig! Ditt ekkolodd er beregnet til bruk i temperaturer fra -20 gr. til + 75 gr. celsius. Blir enheten lagret eller brukt i temperaturer utenfor dette området kan krystallene i displayet bli skadet. Denne type skade dekker ikke garantien.
+Størrelse: Størrelse:............................. 5.8" H x 4.3" W x 2.5" D (14.7 cm H x 10.8 cm W x 6.6 cm D). Vanntett kapsling Display:..............................Høy -kontrast Film SuperTwist LCD. Display: 4.0" (10.2 cm). Oppløsning: Oppløsning:........................168 x 132 eller 240x160 pixels Belysning: ..........................Belysning i skjerm og tastatur. Belysning: Spenning: ...........................10 til 15 volt DC. Spenning: Strømforbruk: Strømforbruk: ....................110 ma lys av; 250 ma lys på. Back-up batteri .................Innebygd batteri som lagrer innstillinger når apparatet er skrudd av. (Sonar Frekvens)¢(noun,mix|Sonarfrekvens): ...........................200 kHz eller 200/183KHz Frekvens: Svinger: Svinger: ..............................Blir levert med en 20 gr. Hekksvinger. Denne gir deg (fiske letting område)¢(noun,mix|fiskeletingsområde) på opp mot 60 gr. Ved høy sensitivitet innstilling. Fungerer opp mot 60 knop (båt fart)¢(noun,nosplit|båtfart). Sender effekt .....................800 w ( 100 W RMS ) kapasitet: (Dybde kapasitet)¢(noun,nosplit|Dybdekapasitet): ...............180 meter. Avhenger av (svinger montasje)¢(noun,nosplit|svingermontasje), bunnforhold og vannforhold. Alle ekkolodd går dypere i ferskvann enn i saltvann. (Dybde display)¢(noun,nosplit|Dybdedisplay):...................Kontinuerlig digital dybde i display display: alarmer:......................Dyp / grunt vann / fisk . (Lyd alarmer)¢(noun,nosplit|Lydalarmer): Automatisk range: ............Ja. range: track: "Auto bottom track:" ............Ja. "Zoom bottom track:" ...........Ja. track: (Vann temratur)¢(noun,mix|Vanntemperatur): .................Ja. Viktig! Ditt ekkolodd er beregnet til bruk i temperaturer fra -20 gr. til + 75 gr. celsius. Blir enheten lagret eller brukt i temperaturer utenfor dette området kan krystallene i displayet bli skadet. Denne type skade dekker ikke garantien.
 
 Forberedelse av installasjon
 
@@ -30,7 +30,7 @@ Les hele denne installasjon veiledningen før du begynner (å borre)¢(verb,onec
 
 3. Rekker spenningskabelen frem til batteriet ditt?
 
-4. Innstaller¢(verb,onec|Installer) svingeren og trekk svingerkabelen frem til ditt ekkolodd.
+4. Innstaller$(verb,onec|Installer) svingeren og trekk svingerkabelen frem til ditt ekkolodd.
 
 5. Installer spenningskabelen og trekk den frem til ditt ekkolodd. 6. Monter fast ekkoloddet.
 
@@ -102,14 +102,14 @@ Svinger peker for langt fremover
 
 Innvendig montering
 
-Svingere som skal monteres innvendig må plasseres på et sted der det ikke er luftbobler i skrogets laminat. Ekkoloddets signal må altså passere et rent (glassfiber skrog)¢(noun,nosplit|glassfiberskrog). Hvis båten har to skrog med materiale i mellom ( sandwich ) må det ytre laget og (fyll massen fjernes)¢(noun,nosplit|fyllmassen fjernes). Fyll med epoxy (Flyte material)¢(noun,nosplit|Flytematerial)
+Svingere som skal monteres innvendig må plasseres på et sted der det ikke er luftbobler i skrogets laminat. Ekkoloddets signal må altså passere et rent (glassfiber skrog)¢(noun,nosplit|glassfiberskrog). Hvis båten har to skrog med materiale i mellom ( sandwich ) må det ytre laget og (fyll massen fjernes)¢(noun,nosplit|fyllmassen fjernes). Fyll med epoxy$(noun,cons|epoksy) (Flyte material)¢(noun,nosplit|Flytematerial)
 Innerskrog
 
-Epoxy til skroget først
+Epoxy$(noun,cons|Epoksy) til skroget først
 
 Ytterskrog
 
-Svingerens signal kan bare sendes gjennom et skrog. Mange båtbyggere bruker (glassfiber skrog)¢(noun,nosplit|glassfiberskrog) og deretter et lag med balsatre eller lignende materiale. Her må man som illustrert over fjerne de to første lagene. Lim så fast svingeren og fyll opp hullet med epoxy. ER DU USIKKER PÅ HVA SLAGS SKROG DU HAR I DIN BÅT? KONTAKT DIN BÅTBYGGER!! Ekkoloddets signal må passere et solid homogent (glassfiber skrog)¢(noun,nosplit|glassfiberskrog). Luftbobler i glassfiberen kan redusere eller til og med helt eliminere ekkoloddets funksjon. For å velge riktig plassering av giveren, ankre opp båten på cirka 20 meters dyp. Sett svingerkontakten i ekkoloddet, start opp ekkoloddet og hold giveren i vannet utenfor båten. Still følsomheten og dybdeområdet slik at du får et bra bilde. Ta med deg svingeren inn i båten, putt den i en pose med vann og legg den mot skroget. Flytt svingeren rundt i båten for å finne det beste stedet å montere svingeren. Det er viktig at det ikke fins luftbobler mellom skroget og svingeren, det er derfor du skal bruke en pose med vann. Når du har funnet et sted der du får et like bra eller tilnærmet like bra bilde som da du holdt svingeren utenfor båten kan du montere svingeren.
+Svingerens signal kan bare sendes gjennom et skrog. Mange båtbyggere bruker (glassfiber skrog)¢(noun,nosplit|glassfiberskrog) og deretter et lag med balsatre eller lignende materiale. Her må man som illustrert over fjerne de to første lagene. Lim så fast svingeren og fyll opp hullet med epoxy$(noun,cons|epoksy). ER DU USIKKER PÅ HVA SLAGS SKROG DU HAR I DIN BÅT? KONTAKT DIN BÅTBYGGER!! Ekkoloddets signal må passere et solid homogent (glassfiber skrog)¢(noun,nosplit|glassfiberskrog). Luftbobler i glassfiberen kan redusere eller til og med helt eliminere ekkoloddets funksjon. For å velge riktig plassering av giveren, ankre opp båten på cirka 20 meters dyp. Sett svingerkontakten i ekkoloddet, start opp ekkoloddet og hold giveren i vannet utenfor båten. Still følsomheten og dybdeområdet slik at du får et bra bilde. Ta med deg svingeren inn i båten, putt den i en pose med vann og legg den mot skroget. Flytt svingeren rundt i båten for å finne det beste stedet å montere svingeren. Det er viktig at det ikke fins luftbobler mellom skroget og svingeren, det er derfor du skal bruke en pose med vann. Når du har funnet et sted der du får et like bra eller tilnærmet like bra bilde som da du holdt svingeren utenfor båten kan du montere svingeren.
 
 Svingerplasering$(noun,doubc|Svingerplassering) (høy fart)
 
@@ -118,13 +118,13 @@ Svingerplasering$(noun,doubc|Svingerplassering) (dorge/trollingfart)
 fart/trolling Innvendig montering for bruk I høy fart/ (trolling fart)¢(noun,nosplit|trollingfart).
 
 Installasjon innvendig svinger 1. Se til at området er helt rent, tørt og fritt for olje og fett. Slip med sandpapir (100 papir)¢(noun,comps|100-papir) under svingeren og på skroget der den skal limes. Skroget må være flatt slik at hele svingerens underside får kontakt med skroget.
-Legg på epoxy her
+Legg på epoxy$(noun,cons|epoksy) her
 
 Slip med sandpapir
 
-Lim svingeren (med Epoxy)¢(noun,min|med epoxy) til skroget.
+Lim svingeren (med (Epoxy)$(noun,cons|Epoksy))¢(noun,min|med epoksy) til skroget.
 
-2. Bland ikke limet for fort ettersom dette kan skape luftbobler. Bruk (epoxi lim)¢(noun,mix|epoxylim) med god kvalitet. Legg litt lim på svingeren (og I bunnen)¥(prep,min|og i bunnen) av båten, plasser giveren i limet, roter svingeren litt frem og tilbake for å presse ut eventuelle luftbobler Svingerens underside bør være parallell med skroget med et minimum av epoxi$(noun,vow|epoxy) mellom svinger og skrog. Vent til epoxyn$(noun,compe|epoxyen) har herdet før du drar svingerkabelen.
+2. Bland ikke limet for fort ettersom dette kan skape luftbobler. Bruk ((epoxi)$(noun,cons|epoksy) lim)¢(noun,mix|epoksylim) med god kvalitet. Legg litt lim på svingeren (og I bunnen)¥(prep,min|og i bunnen) av båten, plasser giveren i limet, roter svingeren litt frem og tilbake for å presse ut eventuelle luftbobler Svingerens underside bør være parallell med skroget med et minimum av epoxi$(noun,vow|epoksy) mellom svinger og skrog. Vent til epoxyn$(noun,compe|epoksyen) har herdet før du drar svingerkabelen.
 
 STRØMTILFØRSEL Ekkoloddet arbeider på et 12 volt DC system. For best resultat, dra ekkoloddets spenningskabel direkte til batteriet. Forsøk å separere spenningskabelen fra andre elektriske kabler i båten, spesielt kabler til motor, VHF og tenningsystem. Ved (å legge kabelen separate)£(adj,adj,sing,plur,number|å legge kabelen separat) elimineres sjangsen$(noun,nosilent|sjansen) for (støy problemer)¢(noun,nosplit|støyproblemer). Hvis spenningskabelen ikke er lang nok, skjøt den med en kabel av samme dimensjon. Husk å koble på (den medfølgende sikringsholder)£(noun,noun,fin,infin,fin|den medfølgende sikringsholderen) og sikring (3A) på den røde kabelen. Rød til pluss, sort til minus på batteriet.
 
@@ -137,9 +137,9 @@ Bryter
 
 Sort kabel
 
-12 volt batteri Rød kabel med 3 amp sikring
+12 volt batteri Rød kabel med 3 amp$(noun,x|amperes) sikring
 
-VIKTIG: VIKTIG: Bruk ikke dette produktet uten en 3 Amp sikring koblet til ekkoloddet. Hvis du ikke tar i bruk sikringen gjelder ikke garantien på eventuelle skader ved kortslutning.
+VIKTIG: VIKTIG: Bruk ikke dette produktet uten en (3 Amp$(noun,x|Amperes))¥(noun,cap|3 amperes) sikring koblet til ekkoloddet. Hvis du ikke tar i bruk sikringen gjelder ikke garantien på eventuelle skader ved kortslutning.
 
 MONTERING I BRAKETT ELLER INNFELT
 

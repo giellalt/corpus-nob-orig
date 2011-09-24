@@ -60,14 +60,14 @@ Litteraturliste                                  s. 16
 
 	Det var farens ønske at Moe skulle velge jus som embedsstudium, selv om han hadde mer lyst til å velge tysk og dansk romantikk. Moe likte å reise rundt i landet, (å han var)¥(conj,x|og han var) veldig glad i naturen rundt seg.
 
-	I 1834 begynte Moe å samle noen eventyr, og i 1836 ville han ha med seg Asbjørnsen(se om eventyrsammlerne$(noun,onec|eventyrsamlerne) s. 6). I 1839 greide Moe å fullføre teologisk embetseksamen. I 1849 gav Moe ut sin eneste store diktsamling, "Digte". Moe skrev også noen dikt og fortellinger til barn. "En liten bok" (1850). "I brønden og i kjærnet" handler om Moes egne (barne minner)$(noun,cmp|barneminner). "Smaahistorier for børn". Jørgen Moe hadde det lettere økonomisk en Asbjørnsen, i og med at faren var storbonde.
+	I 1834 begynte Moe å samle noen eventyr, og i 1836 ville han ha med seg Asbjørnsen(se om eventyrsammlerne$(noun,onec|eventyrsamlerne) s. 6). I 1839 greide Moe å fullføre teologisk embetseksamen. I 1849 gav Moe ut sin eneste store diktsamling, "Digte". Moe skrev også noen dikt og fortellinger til barn. "En liten bok" (1850). "I brønden og i kjærnet" handler om Moes egne (barne minner)¥(noun,cmp|barneminner). "Smaahistorier for børn". Jørgen Moe hadde det lettere økonomisk en Asbjørnsen, i og med at faren var storbonde.
 
 	I 1863 ble Moe utnevnt til sokneprest i Bragernes. I 1870 ble han utnevnt til prost i Drammen prosti. Samme året ble han deretter sokneprest i Vestre Aker. I 1875 ble han Biskop¢(noun,min|biskop) i (Kristiansand stiften)¢(noun,w|Kristiansand stift). På grunn av sykdom måtte han ta tidlig pensjon fra 1/1-82. 27. mars samme året døde han, 69 år gammel. Han hadde selv valgt ut vilested$(noun,silent|hvilested). 1. pinsedag 1887 satte professor Monrad et minnesmerke (bronsebyste på granittsokkel) på Moes grav. 
 
 
 	   Eventyrsamlerene$(noun,vow|Eventyrsamlerne)
 
-	Det var Jørgen Engebretsen Moe som begynte å samle eventyr, i 1834. To år senere ble også Peter Christen Asbjørnsen med. Asbjørnsen var veldig glad i eventyr og sagn så han ble med på å samle eventyr. Ideen om å skrive eventyr fikk Moe av brødrene Grimms$(prop,con|Grimm), som var tyske eventyrsamlere. Jørgen Moe var den ledende fra begynnelsen. Det var han som var den mest voksne og den flinkeste av dem. Asbjørnsen var mere som "barn" gjennom livet. Han hadde mange mål. Han hviste$(v,mix|visste) ikke helt hva han ville bli, og var innom mange områder. Moe gikk en rett (vei,som)$(punct|vei, som) førte til biskopstolen.
+	Det var Jørgen Engebretsen Moe som begynte å samle eventyr, i 1834. To år senere ble også Peter Christen Asbjørnsen med. Asbjørnsen var veldig glad i eventyr og sagn så han ble med på å samle eventyr. Ideen om å skrive eventyr fikk Moe av brødrene Grimms$(prop,con|Grimm), som var tyske eventyrsamlere. Jørgen Moe var den ledende fra begynnelsen. Det var han som var den mest voksne og den flinkeste av dem. Asbjørnsen var mere som "barn" gjennom livet. Han hadde mange mål. Han hviste$(v,mix|visste) ikke helt hva han ville bli, og var innom mange områder. Moe gikk en rett (vei,som)$(punct,x|vei, som) førte til biskopstolen.
 
 	På første innsamlingsarbeidet var Moe på Ringerike, og Asbjørnsen på Romerike. Asbjørnsen og Moe ville gi eventyrene et hjemlig preg, så de brukte norske ord og vendinger. De måtte gripe til ord som ikke fantes i dansk. De la retningslinjer for det norske språket (riksmålet), fordi de prøvde å gjøre eventyrene norske. På grunn av dette har den norske fellesfølelsen økt. Vi har noe å være stolte av. 
 
@@ -126,7 +126,7 @@ annen magi. Det er de gode og de svake som alltid vinner. De fleste eventyr begy
 
 	Johan Borgen og Sigurd Hoel, var begge enige om at Asbjørnsen og Moe gjorde en bra (innsamlings jobb)¥(noun,nosplit,noun,gen|innsamlingsjobb). 
 
-	Jeg har fått et (bedre bilde av Asbjørnsen en av Moe)$(conj,doubc,conj,art|bedre bilde av Asbjørnsen enn av Moe) når jeg har drevet med særoppgava. Det virker som om Asbjørnsen har bedre personlighet. Moe er mere som en "robot", han går på skole og får bra karakterer, bra utdannelse. I bøkene står det veldig lite om Moes personlighet.
+	Jeg har fått et (bedre bilde av Asbjørnsen en av Moe)¥(conj,doubc,conj,art|bedre bilde av Asbjørnsen enn av Moe) når jeg har drevet med særoppgava. Det virker som om Asbjørnsen har bedre personlighet. Moe er mere som en "robot", han går på skole og får bra karakterer, bra utdannelse. I bøkene står det veldig lite om Moes personlighet.
  
 	Asbjørnsen og Moe kunne gå to veier når de gjaldt (skrivemåten på eventyrene)€(prep,w|skrivemåten i eventyrene). Den ene veien var dialekt, slik folk fortalte dem. Den andre veien var vanlig bokmål (dansk). Men Asbjørnsen og Moe valgte en mellomvei, de 
 skrev eventyrene på dansk skriftform, men de brukte mange norske ord, og særlig gjorde de setningsbygningene norske. Mange syntes det språket var simpelt, særlig folk med høy utdannelse. (De måtte dra til Danmark for å studere, og (da vendte de seg til dansk)¥(v,nosilent,v,v|da vente de seg til dansk)). Det er Moe som skal ha den største æren for den valgte målformen. 

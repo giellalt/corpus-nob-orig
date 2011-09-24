@@ -15,7 +15,7 @@ skiftenøkkel. Han forsøkte iherdig å løsne den solide mutteren som (festet l
 
 Bjørneboe hadde aldri noen frykt for ytre trusler. Ved en anledning fortalte broren hans om
 Wilhelm Tell, og broren ville prøve en noenlunde samme bragd. Han satte ett egg på hodet til
-Jens, målte opp avstanden og skøt, og Jens kjente at noe rant nedover hodet, nemlig egget.
+Jens, målte opp avstanden og skøt$(verb,cns|skjøt), og Jens kjente at noe rant nedover hodet, nemlig egget.
 Dette viser noe av hans karakter, var han redd, var han for stolt til å vise det. Han ville ikke
 bli kalt feig.
 
@@ -33,7 +33,7 @@ barndommen, han var da 13 år.
      jeg våknet på bakken. Så det er ikke noe teknisk problem - å henge seg'.
 
 Dette var altså hans første selvmordsforsøk, og mye tyder på at han allerede da led av en
-depresjon, det som man på fagspråket kaller en endogen depresjon, dvs. en (medfød$(adj,x|medfødt), svær deprsjon$(noun,x|depresjon))£(mix|medfødt, vanskelig depresjon). Hvor sterke depresjoner han hadde dengang$(pron,split|den gang), var han senere ikke klar over, for han
+depresjon, det som man på fagspråket kaller en endogen depresjon, dvs. en ((medfød)$(adj,x|medfødt), svær (deprsjon)$(noun,x|depresjon))£(mix|medfødt, vanskelig depresjon). Hvor sterke depresjoner han hadde dengang$(pron,split|den gang), var han senere ikke klar over, for han
 husket som kjent ikke så mye av sin barndom. Men han var veldig mye plaget av sykdom fra
 spedbarnsalder og oppover. Han holdt da på å dø av en dobbeltsidig lungebetennelse, og
 senere skulle han komme til å få flere alvorlige anfall av lungebetennelser. 15 år gammel ble
@@ -163,7 +163,7 @@ omsider ut i 1972, altså 20 år etter at den ble skrevet.
 
 Jens Bjørneboe debuterte da i stedet som lyriker. En kveld han satt i sin kalde hybel, begynte
 han å tenke på sonetter. Han arbeidet hele natten, og neste morgen hadde Bjørneboe 4 dikt og
-sonetter i hånden. Disse leverte han til sin fetter Andrè Bjerke, og Bjerke trykker dem
+sonetter i hånden. Disse leverte han til sin fetter Andrè$(prop,vow|André) Bjerke, og Bjerke trykker dem
 øyeblikkelig i sitt eget blad, 'Ordet'. Dette skjedde altså i året 1950. Etter dette sender
 Bjørneboe en diktsamling under tittelen 'Dikt' til vurdering hos Aschehoug, der samlingen
 blir utgitt året etterpå. Bjørneboes forbilde for diktningen var Rilke, og diktene hans svinger
@@ -304,14 +304,14 @@ at boka handlet like mye om en grå spruv$(noun,typo|spurv) som om gutten Jonas.
 denne måten i et dikt hos Jens Bjørneboe:
 
                'Holdt du som en gutt en grå dag
-               nettop en ullen, sånn'en
+               nettop$(adv,cns|nettopp) en ullen, sånn'en
                gråspurv forsiktig i hånden?
                Spurven som bare er hjerteslag!
 
                Bare et hjert$(noun,typo|hjerte) med vinger på!
                Brune, forblåste hender
                varmer om dyret - og kjenner
-               plutslig hele fuglen   s l å!'
+               plutslig$(adv,cns|plutselig) hele fuglen   s l å!'
 
 
 Denne spurven dukker frem flere ganger igjennom hele romanen 'Jonas'. (Snar er det)¢(v,con,v,adj|Snart er det) direkte
@@ -329,7 +329,7 @@ hjem og han lager til et provisorisk rede i hatten sin. På hjemveien går Birge
 forbi 'Kråka' eller (frøken bø)¢(prop,cap|frøken Bø), og vel framme får de den skadde fuglen trygt plassert i Birgers
 værelse. Da får Birgers far sine øyne opp for den skadevirkning skolen, dette dårlige rede, har
 hatt for hans gutt, og han sender Birger over til den andre skolen, der hvor Jonas fikk sin
-barndom tilbake, det vil si sin (fri flyveferdighet$(noun,x|flygeferdighet))£(adj,mix|frie flygeferdighet). 'Spurven var for lenge siden blitt frisk nu,
+barndom tilbake, det vil si sin (fri (flyveferdighet)$(noun,x|flygeferdighet))£(adj,mix|frie flygeferdighet). 'Spurven var for lenge siden blitt frisk nu,
 og hadde fløyet sin vei'. Og i dette spurvemotivet ligger vel en av appellene i boken: Å
 bygge reder for de vingestekkede og skadeskutte.
 
@@ -558,11 +558,11 @@ nihilister, eller rett og slett uvitende, tåplige$(adj,comps|tåpelige) og umor
 et angrep på disse formyndermenneskene; et angrep på lærer Strange i Jonas og advokat
 Wastrup i Under en hårdere himmel. 
 
-Undersøkelsen av det ondes problem når sitt klimaks i triologien$(noun,comp0|trilogien) (bestalitetens)$(prop,cap|Bestialitetens) historie. Gisle
+Undersøkelsen av det ondes problem når sitt klimaks i ((triologien)$(noun,comp0|trilogien) (bestalitetens)$(noun,vow|bestialitetens) historie)¥(prop,cap|trilogien Bestialitetens historie). Gisle
 har lest et par av disse bøkene. Men vi fikk aldri ta del i fasitet$(noun,con|fasiten) til Bjørneboe, hvordan vi
 kunne ha kommet oss bort fra det ondes regime. Denne oppgaven ble for stor for ham. Hva
 han ville ha oppnådd som forfatter om han hadde lykkes i å trenge seg gjennom nåløyet, og
-hva han (ville hakommry iyl)¢(v,mix|ville ha kommet til) å bety for norsk kultur, kan nesten ikke vurderes høyt nok. Men
+hva han ville (hakommry)$(verb,mix|ha kommet) (iyl)$(prep,x|til) å bety for norsk kultur, kan nesten ikke vurderes høyt nok. Men
 det er en sammenheng mellom innsats, mål og motstand. Innsatsen er det ingen grunn til å
 tvile på, målet hadde han gjort rede for selv. Hva den motstand han nå møtte har bestått i, er
 forferdelig å tenke på. Det har neppe vært bare alkoholen. Et vanskelig sinn, en kombinasjon

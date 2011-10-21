@@ -103,7 +103,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'sami_rapport_sametinget_Vedlegg3_SA.pdf'"/>
+<xsl:variable name="para_sme" select="'sami_rapport_sametinget_vedlegg3_SA.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

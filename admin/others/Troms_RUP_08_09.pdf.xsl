@@ -103,7 +103,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Reginalt_utviklingsprogram_for_Troms_2008-2009.pdf'"/>
+<xsl:variable name="para_sme" select="'Regionalt_utviklingsprogram_for_Troms_2008-2009.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

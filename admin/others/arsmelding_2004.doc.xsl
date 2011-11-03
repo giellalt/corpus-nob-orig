@@ -55,7 +55,7 @@
   <xsl:variable name="mainlang" select="'nob'"/>
   <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
-  <xsl:variable name="monolingual" select="''"/>
+  <xsl:variable name="monolingual" select="'1'"/>
   <!--lg rec is off!-->
   <xsl:variable name="multilingual" select="''"/>
   <!--this is default-->

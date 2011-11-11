@@ -55,10 +55,10 @@
 <!-- Select "1" for the variable multilingual -->
 <!-- and for the languages present -->
   <!--Select "1" for monolingual to turn language recog off-->
-<xsl:variable name="monolingual" select="'1'"/>
-<xsl:variable name="multilingual" select="''"/>
+<xsl:variable name="monolingual" select="''"/>
+<xsl:variable name="multilingual" select="'1'"/>
 
-  <xsl:variable name="mlang_sme" select="''"/>
+  <xsl:variable name="mlang_sme" select="'1'"/>
   <xsl:variable name="mlang_smj" select="''"/>
   <xsl:variable name="mlang_sma" select="''"/>
   <xsl:variable name="mlang_nob" select="''"/>
@@ -76,7 +76,7 @@
   <xsl:variable name="nnolang" select="'nno'"/>
   <xsl:variable name="swelang" select="'swe'"/>
   <xsl:variable name="finlang" select="'fin'"/>
-  <xsl:variable name="englang" select="'swe'"/>
+  <xsl:variable name="englang" select="'eng'"/>
   <xsl:variable name="gerlang" select="'fin'"/>
   <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->

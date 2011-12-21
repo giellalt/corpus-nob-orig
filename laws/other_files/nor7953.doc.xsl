@@ -106,7 +106,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'lahka-mearraguolasteami-jna-birra.html_id=517133.xsl'"/>
+<xsl:variable name="para_sme" select="'lahka-mearraguolasteami-jna-birra.html_id=517133'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

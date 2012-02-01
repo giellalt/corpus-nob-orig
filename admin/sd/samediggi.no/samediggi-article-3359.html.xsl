@@ -149,8 +149,8 @@
 
             <xsl:call-template name="globalTextReplace">
                <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'01.oktober/'"/>
-               <xsl:with-param name="replacement" select="'01. oktober/'"/>
+               <xsl:with-param name="target" select="'01.oktober/kl.13.00/'"/>
+               <xsl:with-param name="replacement" select="'01. oktober/kl. 13.00/'"/>
                 <xsl:with-param name="continue" select="0"/>
             </xsl:call-template>
 </xsl:element>

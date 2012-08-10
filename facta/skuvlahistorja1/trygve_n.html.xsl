@@ -25,7 +25,7 @@
   <xsl:variable name="author4_gender" select="''"/>
   <xsl:variable name="author4_born" select="''"/>
   <xsl:variable name="author4_nat" select="''"/>
-  <xsl:variable name="translated_from" select="'sme'"/>
+  <xsl:variable name="translated_from" select="'sme_PLEASE_CORRECT_ME'"/>
   <xsl:variable name="publisher" select="'Davvi Girji'"/>
   <xsl:variable name="publChannel" select="''"/>
   <xsl:variable name="year" select="'2005'"/>

@@ -65,7 +65,7 @@
 <xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
-<xsl:variable name="note" select="'Fetched from faolex.org because it was not available on on lovdata.no anymore'"/>
+<xsl:variable name="note" select="'Fetched from faolex.fao.org because it was not available on on lovdata.no anymore'"/>
 
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'nob'"/>
@@ -106,7 +106,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'lahka-mearraguolasteami-jna-birra.html_id=517133'"/>
+<xsl:variable name="para_sme" select="'Lov_om_saltvannsfiske_sme.doc'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

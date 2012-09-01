@@ -84,7 +84,7 @@
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
-<xsl:variable name="para_fin" select="''"/>
+<xsl:variable name="para_fin" select="'sami_samskonvensjonen_finsk_H-2183_F.pdf'"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
@@ -92,7 +92,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'sami_samekonvensjon_samisk_H-2183.pdf'"/>
+<xsl:variable name="para_mixed" select="'sami_samekonvensjon_samisk_H-2183.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

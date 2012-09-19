@@ -106,7 +106,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Barnevernloven samisk 10.doc'"/>
+<xsl:variable name="para_sme" select="'Barnevernloven_samisk_10.doc'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

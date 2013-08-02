@@ -1,6 +1,5 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'Fsk_sakspapirer_01.09.03.doc'"/>
@@ -40,7 +39,7 @@
   <xsl:variable name="translator_born" select="''"/>
   <xsl:variable name="translator_nat" select="''"/>
   <xsl:variable name="license_type" select="'free'"/>
-  <xsl:variable name="sub_name" select="'B&#xF8;rre Gaup'"/>
+  <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'borre.gaup@samediggi.no'"/>
   <xsl:variable name="wordcount" select="'1224'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
@@ -106,9 +105,9 @@
 <xsl:variable name="para_eng" select="''"/>
 
 <xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
+<xsl:variable name="text" select="current()"/>
+<xsl:variable name="type" select="@type"/>
+<xsl:variable name="lang" select="@xml:lang"/>
 <xsl:element name="p">
             <xsl:if test="$type">
             <xsl:attribute name="type">

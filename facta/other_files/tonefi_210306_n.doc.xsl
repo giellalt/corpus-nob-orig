@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
   <xsl:variable name="filename" select="'ToneFi_210306_N.DOC'"/>
-  <xsl:variable name="title" select="'Styreleder Tone Finnesens velkomsthilsen p&#xE5; &#xC1;rrans forskningskonferanse 21.- 22.mars 2006 p&#xE5; Drag i Tysfjord'"/>
+  <xsl:variable name="title" select="'Styreleder Tone Finnesens velkomsthilsen på Árrans forskningskonferanse 21.- 22.mars 2006 på Drag i Tysfjord'"/>
   <xsl:variable name="author1_fn" select="'Tone'"/>
   <xsl:variable name="author1_ln" select="'Finnesen'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
@@ -32,7 +31,7 @@
   <xsl:variable name="ISBN" select="''"/>
   <xsl:variable name="ISSN" select="''"/>
   <xsl:variable name="place" select="''"/>
-  <xsl:variable name="genre" select="'admin'"/>
+  <xsl:variable name="genre" select="'facta'"/>
   <xsl:variable name="collection" select="''"/>
   <xsl:variable name="translator_fn" select="''"/>
   <xsl:variable name="translator_ln" select="''"/>

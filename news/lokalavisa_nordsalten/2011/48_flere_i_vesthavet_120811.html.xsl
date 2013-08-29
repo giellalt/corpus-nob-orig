@@ -7,7 +7,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://www.nord-salten.no/no/nyheter/politikk/48-flere-i-vesthavet-valgkrets.8419'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="''48 flere i Vesthavet valgkrets"/>
+<xsl:variable name="title" select="'48 flere i Vesthavet valgkrets'"/>
 <xsl:variable name="author1_fn" select="'Kitty'"/>
 <xsl:variable name="author1_ln" select="'Skapalen'"/>
 <xsl:variable name="author1_gender" select="'f'"/>

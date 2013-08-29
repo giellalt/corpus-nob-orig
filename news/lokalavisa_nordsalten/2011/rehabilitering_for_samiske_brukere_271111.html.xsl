@@ -98,7 +98,7 @@
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
-<xsl:variable name="para_smj" select="'251111.pdf'"/>
+<xsl:variable name="para_smj" select="'samisk_251111.pdf'"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_kpv" select="''"/>
 <xsl:variable name="para_rus" select="''"/>

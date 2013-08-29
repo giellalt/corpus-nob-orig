@@ -92,7 +92,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'sami_rapporter_samisktegnsettogit_SA.pdf'"/>
+<xsl:variable name="para_sme" select="'sami_rapporter_samisktegnsettogit_sa.pdf'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

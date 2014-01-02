@@ -1,18 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
-<!-- Format query results for display -->
-
-<xsl:stylesheet
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
-    version="1.0">
-
-<xsl:output method="xml"
-            version="1.0"
-            encoding="UTF-8"
-            indent="yes"
-            doctype-public="-//UIT//DTD Corpus V1.0//EN"
-			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
@@ -45,7 +34,7 @@
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="''"/>
+<xsl:variable name="genre" select="'news'"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
@@ -56,7 +45,7 @@
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="''"/>
 <xsl:variable name="sub_name" select="'Inga Mikkelsen'"/>
-<xsl:variable name="sub_email" select="'inga.l.mikkelsen@uit.no	'"/>
+<xsl:variable name="sub_email" select="'inga.l.mikkelsen@uit.no '"/>
 <xsl:variable name="wordcount" select="''"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->

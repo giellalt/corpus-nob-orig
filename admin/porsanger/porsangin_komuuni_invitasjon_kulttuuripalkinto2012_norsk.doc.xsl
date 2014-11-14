@@ -57,7 +57,7 @@
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="'fkv'"/>
+<xsl:variable name="mainlang" select="'nob'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
@@ -90,12 +90,12 @@
 <xsl:variable name="para_dan" select="''"/>
 <xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
-<xsl:variable name="para_fkv" select="''"/>
+<xsl:variable name="para_fkv" select="'porsangin_komuuni_invitasjon_kulttuuripalkinto2012_kvensk.doc'"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'porsanger_kommmune_arets_kulturprisvinner.invitasjon_norsk.doc'"/>
+<xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

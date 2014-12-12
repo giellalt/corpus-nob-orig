@@ -9,7 +9,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'AE2AC935AC7D2625C125753C00436677?OpenDocument'"/>
+<xsl:variable name="filename" select="'http://www.snasa.kommune.no/nordtrondelag/snasa/snasak.nsf/print/AE2AC935AC7D2625C125753C00436677?OpenDocument'"/>
 <xsl:variable name="text_encoding" select="'iso-8859-1'"/>
 <xsl:variable name="title" select="'Fakta om Snåsa'"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -103,7 +103,7 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
-<xsl:variable name="para_sma" select="'e28d1cac3a9ff145c1257582003859e7_opendocument'"/>
+<xsl:variable name="para_sma" select="'e28d1cac3a9ff145c1257582003859e7_opendocument.html'"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>

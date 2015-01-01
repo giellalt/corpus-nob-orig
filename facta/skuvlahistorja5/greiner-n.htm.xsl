@@ -43,15 +43,15 @@
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
-<xsl:variable name="license_type" select="''"/>
-<xsl:variable name="sub_name" select="''"/>
-<xsl:variable name="sub_email" select="''"/>
-<xsl:variable name="wordcount" select="''"/>
-<!-- Set this variable to 1 if the source for this doc is OCR -->
-<!-- Those docs typically contain lots of orthographic errors and need special treatment -->
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="'Børre Gaup'"/>
 <xsl:variable name="sub_email" select="'borre.gaup@uit.no'"/>
+<xsl:variable name="wordcount" select="''"/>
+<!-- Set this variable to 1 if the source for this doc is OCR -->
+<!-- Those docs typically contain lots of orthographic errors and need special treatment -->
+<xsl:variable name="ocr" select="''"/>
+<xsl:variable name="metadata" select="'uncomplete'"/>
+<xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -59,14 +59,17 @@
 <!-- The main language of the document -->
 <xsl:variable name="mainlang" select="'nob'"/>
 
-<!-- Other languages, in case of multilingual document. -->
-<!-- Select "1" for the variable multilingual -->
+<!-- In the case of a multilingual document, we may want to check for
+     other languages. Set the variable monolingual to '1' to turn off
+     language recognition (treating everything as mainlang) -->
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
-<xsl:variable name="multilingual" select="''"/> <!--this is default-->
+<!-- If the document is multilingual, set the variable multilingual to
+     '1' (and possibly change mlangs below). -->
+<xsl:variable name="multilingual" select="'1'"/> <!--this is default-->
 
 <!-- Select the potential langugages by adding the number "1" in the -->
 <!-- selection frame. If no languages are selected, the document is -->
-<!-- checked for all the languages below. -->
+<!-- checked for all supported languages. -->
 <xsl:variable name="mlang_dan" select="''"/>
 <xsl:variable name="mlang_eng" select="''"/>
 <xsl:variable name="mlang_fin" select="''"/>
@@ -102,6 +105,8 @@
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_kpv" select="''"/>
 <xsl:variable name="para_rus" select="''"/>
+<xsl:variable name="para_sms" select="''"/>
+<xsl:variable name="para_smn" select="''"/>
 
 
 <!-- Tag the specified elements with the specified language: -->
@@ -120,6 +125,15 @@
 <xsl:variable name="swelang" select="'swe'"/>
 <xsl:variable name="kpvlang" select="'kpv'"/>
 <xsl:variable name="ruslang" select="'rus'"/>
+
+<!-- For page oriented documents, mark which pages should be ignored -->
+<xsl:variable name="skip_pages" select="''"/>
+<!-- Text outside these margins will be ignored.
+These are defaults, that are settable documentwise -->
+<xsl:variable name="right_margin" select="'7%'"/>
+<xsl:variable name="left_margin" select="'7%'"/>
+<xsl:variable name="top_margin" select="'7%'"/>
+<xsl:variable name="bottom_margin" select="'7%'"/>
 
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
@@ -165,10 +179,10 @@
         </xsl:if>
 
         <xsl:call-template name="globalTextReplace">
-           <xsl:with-param name="inputString" select="$text"/>
-           <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-           <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
-           <xsl:with-param name="continue" select="0"/>
+            <xsl:with-param name="inputString" select="$text"/>
+            <xsl:with-param name="target" select="'str1/str2/str3/'"/>
+            <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
+            <xsl:with-param name="continue" select="0"/>
         </xsl:call-template>
     </xsl:element>
 </xsl:template>

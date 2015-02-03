@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
 <xsl:import href="file:///Users/unhammer/Library/Python/2.7/lib/python/site-packages/CorpusTools-0.8.1-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -66,7 +67,7 @@
 <!-- In the case of a multilingual document, we may want to check for
      other languages. Set the variable monolingual to '1' to turn off
      language recognition (treating everything as mainlang) -->
-<xsl:variable name="monolingual" select="'1'"/> 
+<xsl:variable name="monolingual" select="''"/> 
 
 <!-- If monolingual is not set, the language is multilingual.
      Uncomment the languages you want to check for (or add new lines
@@ -76,7 +77,7 @@
      then the document is checked for all supported languages.
 -->
 <xsl:variable name="mlangs">
-	</xsl:variable>
+	<language xml:lang="sme"/></xsl:variable>
 
 <!-- Add the locations of the parallel files to the variables-->
 

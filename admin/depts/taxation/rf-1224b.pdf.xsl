@@ -125,6 +125,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="80337_rf-1224-samisk_utfyll.pdf" xml:lang="sme"/>
+<parallel_text location="rf-1224e.pdf" xml:lang="eng"/>
 </xsl:variable>
 
 

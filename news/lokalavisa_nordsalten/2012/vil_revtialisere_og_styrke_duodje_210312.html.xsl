@@ -88,6 +88,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
+	<parallel_text location="samisk_160312.pdf" xml:lang="smj"/>
 	</xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

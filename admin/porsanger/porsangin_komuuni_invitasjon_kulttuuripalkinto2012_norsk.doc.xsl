@@ -39,7 +39,7 @@
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="'Pirjo'"/>
 <xsl:variable name="translator_ln" select="'Paavalniemi'"/>
-<xsl:variable name="translator_gender" select="'fem'"/>
+<xsl:variable name="translator_gender" select="'f'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="'FI'"/>
 <!-- select license type: free, standard or other -->

@@ -119,7 +119,7 @@
     <!-- <parallel_text xml:lang="smn" location=""/> -->
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi_kulturmuittut_stipeanda-ja-doarjja.html"/>
+<!--     <parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi_kulturmuittut_stipeanda-ja-doarjja.html"/> -->
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

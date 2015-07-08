@@ -120,7 +120,6 @@
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="content_view_full_3444.html"/>
-    <parallel_text xml:lang="sme" location="content_view_full_3444.html"/>
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

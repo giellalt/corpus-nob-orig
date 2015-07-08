@@ -119,7 +119,7 @@
     <!-- <parallel_text xml:lang="smn" location=""/> -->
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="samedikki-birra_organisasuvdnastruktuvra_samediggeraddi_sartnit-ja-artihkkalat_et-steg-videre-for-samarbeidsavtale-mellom-sametinget-og-alta-kommune.html"/>
+<!--     <parallel_text xml:lang="sme" location="samedikki-birra_organisasuvdnastruktuvra_samediggeraddi_sartnit-ja-artihkkalat_et-steg-videre-for-samarbeidsavtale-mellom-sametinget-og-alta-kommune.html"/> -->
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

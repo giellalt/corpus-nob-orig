@@ -119,7 +119,7 @@
     <!-- <parallel_text xml:lang="smn" location=""/> -->
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="eatnan-ja-resursavuoigatvuodat_bivdovuoigatvuohta_finsk-fisketurisme-er-en-trussel-for-lokalbefolkningens-fiske.html"/>
+<!--     <parallel_text xml:lang="sme" location="eatnan-ja-resursavuoigatvuodat_bivdovuoigatvuohta_finsk-fisketurisme-er-en-trussel-for-lokalbefolkningens-fiske.html"/> -->
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

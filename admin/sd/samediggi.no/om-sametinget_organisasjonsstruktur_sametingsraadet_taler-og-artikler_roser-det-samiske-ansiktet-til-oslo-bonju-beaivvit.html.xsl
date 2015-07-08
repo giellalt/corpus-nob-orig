@@ -120,7 +120,7 @@
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="saemiedigkien-bijre_aaaarganisasjovnestruktuvre_saemiedigkieraerie_haaalemh-jih-tjaalegh_garmerde-oslo-vaelnjoeh-biejjiej-saemien-aaaaredaejjam.html"/>
-    <parallel_text xml:lang="sme" location="samedikki-birra_organisasuvdnastruktuvra_samediggeraddi_sartnit-ja-artihkkalat_roser-det-samiske-ansiktet-til-oslo-bonju-beaivvit.html"/>
+<!--     <parallel_text xml:lang="sme" location="samedikki-birra_organisasuvdnastruktuvra_samediggeraddi_sartnit-ja-artihkkalat_roser-det-samiske-ansiktet-til-oslo-bonju-beaivvit.html"/> -->
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

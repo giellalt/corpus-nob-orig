@@ -119,7 +119,7 @@
     <!-- <parallel_text xml:lang="smn" location=""/> -->
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="ealahusat_duodji_hoeringsprosess-om-endring-av-driftstilskuddsordningen-for-duodjinaeringen.html"/>
+<!--     <parallel_text xml:lang="sme" location="ealahusat_duodji_hoeringsprosess-om-endring-av-driftstilskuddsordningen-for-duodjinaeringen.html"/> -->
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

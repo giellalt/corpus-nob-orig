@@ -120,7 +120,7 @@
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="vaaarhkoe_veeljemeboelhken-2009-2013_tjaalegh_diedtem-vaalta-aaarjelsaemien-gielen-aavteste.html"/>
-    <parallel_text xml:lang="sme" location="arkiv_valgperiode-2009-2013_artikler_tar-ansvar-for-det-soersamiske-spraaket.html"/>
+<!--     <parallel_text xml:lang="sme" location="arkiv_valgperiode-2009-2013_artikler_tar-ansvar-for-det-soersamiske-spraaket.html"/> -->
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

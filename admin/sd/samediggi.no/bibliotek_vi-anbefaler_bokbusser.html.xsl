@@ -120,7 +120,7 @@
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="gaerjagaaetie_mijjieh-juvnehtibie_saemien-gaerjabussh.html"/>
-    <parallel_text xml:lang="sme" location="girjeradju_mii-avzzuhit_sami-girjebusset.html"/>
+<!--     <parallel_text xml:lang="sme" location="girjeradju_mii-avzzuhit_sami-girjebusset.html"/> -->
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

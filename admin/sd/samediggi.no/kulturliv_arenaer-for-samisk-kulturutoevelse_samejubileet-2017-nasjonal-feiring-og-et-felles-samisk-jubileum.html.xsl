@@ -120,7 +120,7 @@
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="kultuvrejieleme_sijjieh-saemien-kultuvrebarkose_saemieheevehtimmie-2017-nasjovnaale-heevehtimmie-jih-akte-tjaaenghkies-saemien-heevehtimmie.html"/>
-    <parallel_text xml:lang="sme" location="kultureallin_sami-kulturbargoarenat_samejubileet-2017-nasjonal-feiring-og-et-felles-samisk-jubileum.html"/>
+<!--     <parallel_text xml:lang="sme" location="kultureallin_sami-kulturbargoarenat_samejubileet-2017-nasjonal-feiring-og-et-felles-samisk-jubileum.html"/> -->
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

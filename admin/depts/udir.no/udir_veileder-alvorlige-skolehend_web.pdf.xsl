@@ -125,7 +125,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="alvorlige-hendelser-nordsamisk_trykk.pdf"/></xsl:variable>
+    <parallel_text xml:lang="sme" location="alvorlige-hendelser-nordsamisk_trykk.pdf"/>
+	<parallel_text xml:lang="nno" location="nyn-alvorlege-hendingar_2.korr.pdf"/></xsl:variable>
 
 
     <!--

@@ -124,7 +124,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="" xml:lang="sme"/>
+    <parallel_text location="mineralalahka_id_597815.html" xml:lang="sme"/>
 </xsl:variable>
 
 

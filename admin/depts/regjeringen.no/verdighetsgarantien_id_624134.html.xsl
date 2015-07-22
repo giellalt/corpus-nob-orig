@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- Format query results for display -->
@@ -13,6 +14,12 @@
             indent="yes"
             doctype-public="-//UIT//DTD Corpus V1.0//EN"
 			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+=======
+<?xml version='1.0' encoding='utf-8'?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+
+<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+>>>>>>> ad2e9f42a5 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
@@ -45,7 +52,11 @@
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
+<<<<<<< HEAD
 <xsl:variable name="genre" select="''"/>
+=======
+<xsl:variable name="genre" select="'admin'"/>
+>>>>>>> ad2e9f42a5 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
@@ -57,7 +68,11 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
+<<<<<<< HEAD
 <xsl:variable name="wordcount" select="'470'"/>
+=======
+<xsl:variable name="wordcount" select="'464'"/>
+>>>>>>> ad2e9f42a5 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -69,6 +84,7 @@
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
+<<<<<<< HEAD
 <xsl:variable name="monolingual" select="''"/> <!--lg rec is off!-->
 <xsl:variable name="multilingual" select="''"/> <!--this is default-->
 
@@ -123,6 +139,36 @@
 <xsl:variable name="smjlang" select="'smj'"/>
 <xsl:variable name="swelang" select="'swe'"/>
 
+=======
+<xsl:variable name="monolingual" select="'1'"/> <!-- checked for all the languages below. -->
+
+
+<!-- If monolingual is not set, the language is multilingual.
+     Uncomment the languages you want to check for (or add new lines
+     with the right ISO-639-3 language codes).
+
+     If *no* languages are uncommented (and monolingual is not 1),
+     then the document is checked for all supported languages.
+-->
+<xsl:variable name="mlangs">
+	</xsl:variable>
+
+<!-- Add the locations of the parallel files to the variables-->
+
+
+<!-- If the document has parallel texts, uncomment the right languages
+     (or add new lines with the right ISO-639-3 language codes) and
+     add the filename of the parallel files to the 'location'
+     variables.
+
+     Don't write the full directory; we expect the file to be in the
+     same directory as this file, with only the language code and
+     filename changed.
+     -->
+<xsl:variable name="parallels">
+	<parallel_text location="arvodahkadus_id_624134.html" xml:lang="sme"/>
+</xsl:variable>
+>>>>>>> ad2e9f42a5 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 
 <!-- Add all paragraphs that should have xml:lang=X-->
 <!-- Uncomment the following and add the paths, for example: -->
@@ -169,4 +215,8 @@
 </xsl:template>
 -->
 
+<<<<<<< HEAD
 </xsl:stylesheet>
+=======
+</xsl:stylesheet>
+>>>>>>> ad2e9f42a5 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)

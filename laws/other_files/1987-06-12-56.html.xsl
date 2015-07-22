@@ -120,8 +120,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="" xml:lang="sme"/>
-<parallel_text location="" xml:lang="eng"/>
+    <parallel_text location="lahka-geassemanu-12-b-1987-nr-56-samedik.html_id=449701" xml:lang="sme"/>
+<parallel_text location="the-sami-act-_id_449701.html" xml:lang="eng"/>
 </xsl:variable>
 
 

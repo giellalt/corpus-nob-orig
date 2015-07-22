@@ -2,13 +2,13 @@
 <!-- Format query results for display --><xsl:stylesheet xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:output doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd" encoding="UTF-8" indent="yes" method="xml" version="1.0"/>
   <!-- Add the metainformation manually -->
-  <xsl:variable name="filename" select="'hans_n.htm'"/>
-  <xsl:variable name="title" select="'Hans Hansens skolefortelling'"/>
-  <xsl:variable name="author1_fn" select="'Hanna H.'"/>
-  <xsl:variable name="author1_ln" select="'Hansen'"/>
+  <xsl:variable name="filename" select="'http://skuvla.info/skolehist/aubert-n.htm'"/>
+  <xsl:variable name="title" select="'Minner fra Sirma skole 1950-53'"/>
+  <xsl:variable name="author1_fn" select="'Marit'"/>
+  <xsl:variable name="author1_ln" select="'Aubert'"/>
   <xsl:variable name="author1_gender" select="'f'"/>
-  <xsl:variable name="author1_born" select="''"/>
-  <xsl:variable name="author1_nat" select="'nor'"/>
+  <xsl:variable name="author1_born" select="'1927'"/>
+  <xsl:variable name="author1_nat" select="'NO'"/>
   <xsl:variable name="author2_fn" select="''"/>
   <xsl:variable name="author2_ln" select="''"/>
   <xsl:variable name="author2_gender" select="''"/>
@@ -30,7 +30,7 @@
   <xsl:variable name="year" select="'2005'"/>
   <xsl:variable name="ISBN" select="''"/>
   <xsl:variable name="ISSN" select="''"/>
-  <xsl:variable name="place" select="'http://girji.info/skolehist/hans-n.htm'"/>
+  <xsl:variable name="place" select="''"/>
   <xsl:variable name="genre" select="'facta'"/>
   <xsl:variable name="collection" select="''"/>
   <xsl:variable name="translator_fn" select="''"/>
@@ -41,7 +41,7 @@
   <xsl:variable name="license_type" select="'free'"/>
   <xsl:variable name="sub_name" select="'Børre Gaup'"/>
   <xsl:variable name="sub_email" select="'boerre.gaup@samediggi.no'"/>
-  <xsl:variable name="wordcount" select="'593'"/>
+  <xsl:variable name="wordcount" select="'4281'"/>
   <xsl:variable name="metadata" select="'uncomplete'"/>
   <xsl:variable name="template_version" select="' 1.9 '"/>
   <xsl:variable name="current_version" select="'$Revision: 1.4 $'"/>
@@ -94,7 +94,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="hans-s.html" xml:lang="sme"/>
+	<parallel_text location="aubert-s.html" xml:lang="sme"/>
+	<parallel_text location="aubert-e.html" xml:lang="eng"/>
 </xsl:variable>
 
 </xsl:stylesheet>

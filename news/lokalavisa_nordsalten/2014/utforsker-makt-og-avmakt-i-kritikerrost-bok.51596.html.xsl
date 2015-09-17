@@ -8,8 +8,8 @@
     <xsl:variable name="filename" select="'http://www.nord-salten.no/no/nyheter/kultur/utforsker-makt-og-avmakt-i-kritikerrost-bok.51596'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Kitty'"/>
+    <xsl:variable name="author1_ln" select="'Skapalen'"/>
     <xsl:variable name="author1_gender" select="'unknown'"/>
     <xsl:variable name="author1_nat" select="''"/>
     <xsl:variable name="author1_born" select="''"/>
@@ -30,7 +30,7 @@
     <xsl:variable name="author4_born" select="''"/>
     <xsl:variable name="publisher" select="''"/>
     <xsl:variable name="publChannel" select="''"/>
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2014'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -44,8 +44,8 @@
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
     <xsl:variable name="license_type" select="''"/>
-    <xsl:variable name="sub_name" select="''"/>
-    <xsl:variable name="sub_email" select="''"/>
+    <xsl:variable name="sub_name" select="'Sandra Ráhka'"/>
+    <xsl:variable name="sub_email" select="'sandra.rahka@uit.no'"/>
     <xsl:variable name="wordcount" select="''"/>
     <!-- Set this variable to 1 if the source for this doc is OCR -->
     <!-- Those docs typically contain lots of orthographic errors and need special treatment -->

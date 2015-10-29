@@ -88,56 +88,15 @@
      same directory as this file, with only the language code and
      filename changed.
      -->
-<xsl:variable name="parallels">
-	</xsl:variable>
-
-<!-- Add all paragraphs that should have xml:lang=X-->
-<!-- Uncomment the following and add the paths, for example: -->
-<!-- <xsl:template match="/root/section[2]/paragraph[5] |
-                      /root/section[3]/paragraph[2] "> -->
-<!--
-<xsl:template match="">
-	<xsl:element name="p">
-	<xsl:attribute name="xml:lang">
-		<xsl:value-of select="$smelang"/>
-	</xsl:attribute>
-	<xsl:apply-templates/>
-</xsl:element>
- </xsl:template>
--->
-
-<!-- Change or remove problematic characters from the text. -->
-<!-- add the template to match (here all p:s), and write the -->
-<!-- replaced characters and the replacements. -->
-<!--
-<xsl:template match="p">
-<xsl:variable name="text" select='current()' />
-<xsl:variable name="type" select='@type' />
-<xsl:variable name="lang" select='@xml:lang' />
-<xsl:element name="p">
-            <xsl:if test="$type">
-            <xsl:attribute name="type">
-            <xsl:value-of select="$type"/>
-            </xsl:attribute>
-            </xsl:if>
-            <xsl:if test="$lang">
-            <xsl:attribute name="xml:lang">
-            <xsl:value-of select="$lang"/>
-            </xsl:attribute>
-            </xsl:if>
-
-            <xsl:call-template name="globalTextReplace">
-               <xsl:with-param name="inputString" select="$text"/>
-               <xsl:with-param name="target" select="'str1/str2/str3/'"/>
-               <xsl:with-param name="replacement" select="'rpl1/rpl2/rpl3/'"/>
-                <xsl:with-param name="continue" select="0"/>
-            </xsl:call-template>
-</xsl:element>
-</xsl:template>
--->
-
-<xsl:variable name="bottom_margin" select="all=7"/>
-<xsl:variable name="left_margin" select="all=7"/>
-<xsl:variable name="top_margin" select="all=7"/>
-<xsl:variable name="right_margin" select="all=7"/>
+    <xsl:variable name="parallels">
+        <parallel_text xml:lang="eng" location="1-04-hovedtekst.pdf"/>
+        <parallel_text xml:lang="fin" location="1-04-hovedtekst.pdf"/>
+        <parallel_text xml:lang="rus" location="1-04-hovedtekst.pdf"/>
+        <parallel_text xml:lang="sms" location="1-04-hovedtekst.pdf"/>
+    </xsl:variable>
+    <xsl:variable name="skip_pages" select="'3'"/>
+    <xsl:variable name="bottom_margin" select="'1=45, 2=40'"/>
+    <xsl:variable name="left_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'1=35, 2=50'"/>
+    <xsl:variable name="right_margin" select="''"/>
 </xsl:stylesheet>

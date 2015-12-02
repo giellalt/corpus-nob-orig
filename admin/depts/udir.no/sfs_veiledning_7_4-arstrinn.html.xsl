@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -126,7 +125,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="sfs_veiledning_7_4-arstrinn.html"/>
-	<parallel_text xml:lang="sme" location="sfs_veiledning_7_4-arstrinn.html"/>
+	<parallel_text xml:lang="sme" location=""/>
 	<parallel_text xml:lang="smj" location="sfs_veiledning_7_4-jahkedasse.html"/></xsl:variable>
 
 

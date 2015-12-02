@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -134,7 +133,7 @@
 	<parallel_text xml:lang="pol" location="sfs_veiledning_2_ppt_polsk_informasjon.pdf"/>
 	<parallel_text xml:lang="rus" location="sfs_veiledning_2_ppt_russisk_informasjon.pdf"/>
 	<parallel_text xml:lang="sma" location="sfs_veiledning_2_sorsamisk.pdf"/>
-	<parallel_text xml:lang="sme" location="sfs_veiledning_2_nord-samisk.pdf"/>
+	<parallel_text xml:lang="sme" location=""/>
 	<parallel_text xml:lang="smj" location="sfs_veiledning_2_lulesamsisk-2.pdf"/>
 	<parallel_text xml:lang="som" location="sfs_veiledning_2_ppt_somalisk_informasjon.pdf"/>
 	<parallel_text xml:lang="tur" location="sfs_veiledning_2_ppt_tyrkisk_informasjon.pdf"/>

@@ -102,6 +102,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
+<parallel_text xml:lang="sme" location="sano_066.pdf"/>
+<parallel_text xml:lang="swe" location="sasve065.pdf"/>
 	</xsl:variable>
 
 <xsl:variable name="bottom_margin" select="all=7"/>

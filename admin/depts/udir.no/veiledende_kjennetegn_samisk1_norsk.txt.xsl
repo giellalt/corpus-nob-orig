@@ -6,7 +6,7 @@
 
             <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
-    
+
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
@@ -125,8 +125,9 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="veiledende_kjennetegn_samisk1_sorsamisk.pdf"/>
-	<parallel_text xml:lang="sme" location="veiledende_kjennetegn_samisk1_nordsamisk.pdf"/></xsl:variable>
+        <parallel_text xml:lang="sma" location="veiledende_kjennetegn_samisk1_sorsamisk.txt"/>
+        <parallel_text xml:lang="sme" location="veiledende_kjennetegn_samisk1_nordsamisk.txt"/>
+    </xsl:variable>
 
 
     <!--

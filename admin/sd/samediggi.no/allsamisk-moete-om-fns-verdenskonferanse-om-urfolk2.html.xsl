@@ -118,7 +118,7 @@
     <!-- <parallel_text xml:lang="smn" location=""/> -->
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="same-tjaahkanibme-ana-vaeraltkonferanssa-alggoalmmugij-birra2.html"/>
+    <parallel_text xml:lang="smj" location=""/>
     <parallel_text xml:lang="sme" location="oppasami-coahkkin-on-algoalbmogiid-mailmmikonferanssa-birra-2014-s2.html"/>
   </xsl:variable>
   <!--

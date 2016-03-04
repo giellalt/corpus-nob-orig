@@ -121,7 +121,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="" xml:lang="sma"/>
-<parallel_text location="valgperiode-2009-2013.html" xml:lang="sme"/>
+<parallel_text location="" xml:lang="sme"/>
 <parallel_text location="veeljemeboelhken-2009-2013.html" xml:lang="smj"/>
 </xsl:variable>
 

@@ -128,7 +128,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="smj" location="merragaddeguollimnammadusa-maerradusarvvalussaj.html"/>
 	<parallel_text xml:lang="sma" location="kystfiskeutvalgets-innstilling.html"/>
-	<parallel_text xml:lang="sme" location="eatnan-ja-resursavuoigatvuodat_bivdovuoigatvuohta_riddoguolastanlavdegotti_riddoguolastanlavdegotti.html"/></xsl:variable>
+	<parallel_text xml:lang="sme" location=""/></xsl:variable>
 
 
     <!--

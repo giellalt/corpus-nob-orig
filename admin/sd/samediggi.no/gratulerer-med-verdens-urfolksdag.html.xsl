@@ -5,7 +5,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.sametinget.no/layout/set/print/Om-Sametinget/Organisasjonsstruktur/Sametingsraadet/Taler-og-artikler/Gratulerer-med-verdens-urfolksdag'"/>
+    <xsl:variable name="filename" select="'http://www.sametinget.no/layout/set/print/Arkiv/Valgperiode-2009-2013/Artikler/Gratulerer-med-verdens-urfolksdag'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>

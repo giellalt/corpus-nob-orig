@@ -119,7 +119,7 @@
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="gieleteknologije.html"/>
-    <parallel_text xml:lang="sme" location="giella_spraakteknologi.html"/>
+    <parallel_text xml:lang="sme" location="spraakteknologi.html"/>
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

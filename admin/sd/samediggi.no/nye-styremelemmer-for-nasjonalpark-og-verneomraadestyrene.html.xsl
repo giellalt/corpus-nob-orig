@@ -119,7 +119,7 @@
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location="orre-staavroelihtsegh-nasjovnaale-jih-vaarjelimmiedajvestaavrojne.html"/>
-    <parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi_luonddusladdjivuohta_nye-styremelemmer-for-nasjonalpark-og-verneomraadestyrene.html"/>
+    <parallel_text xml:lang="sme" location="nye-styremelemmer-for-nasjonalpark-og-verneomraadestyrene.html"/>
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

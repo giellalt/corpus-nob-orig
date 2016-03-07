@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.sametinget.no/Valg-og-manntall'"/>
+    <xsl:variable name="filename" select="'http://www.sametinget.no/layout/set/print/Valg-og-manntall'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -126,7 +126,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="valgga-ja-jienastuslaahkuj.html"/>
+    <parallel_text xml:lang="smj" location=""/>
 	<parallel_text xml:lang="sma" location="veeljeme-jih-veeljemelaahkoe.html"/>
 	<parallel_text xml:lang="sme" location="valga-ja-jienastuslohku.html"/></xsl:variable>
 

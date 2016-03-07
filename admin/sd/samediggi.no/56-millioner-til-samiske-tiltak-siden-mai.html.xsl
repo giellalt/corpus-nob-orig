@@ -119,7 +119,7 @@
     <!-- <parallel_text xml:lang="sms" location=""/> -->
     <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text xml:lang="sma" location=""/>
-    <parallel_text xml:lang="sme" location="samedikki-birra_organisasuvdnastruktuvra_samediggeraddi_sartnit-ja-artihkkalat_56-miljovnna-sami-doaibmabijuide-miessemanu-rajes.html"/>
+    <parallel_text xml:lang="sme" location="56-miljovnna-sami-doaibmabijuide-miessemanu-rajes.html"/>
   </xsl:variable>
   <!--
         For pdf documents, mark which pages should be ignored.

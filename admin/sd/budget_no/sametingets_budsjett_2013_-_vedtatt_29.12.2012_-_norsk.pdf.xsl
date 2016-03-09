@@ -5,7 +5,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://samediggi.no/content/download/511/4762/version/1/file/Sametingets+reviderte+budsjett+%282009%29.pdf'"/>
+    <xsl:variable name="filename" select="'http://samediggi.no/content/download/2526/23903/version/7/file/Sametingets+budsjett+2013+-+vedtatt+29.12.2012+-+norsk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -120,7 +120,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    </xsl:variable>
+    <parallel_text location="sametingets_budsjett_2013_-_vedtatt_29.12.2012_-_samisk.pdf" xml:lang="sme"/>
+</xsl:variable>
 
 
     <!--

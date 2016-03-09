@@ -120,7 +120,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    </xsl:variable>
+    <parallel_text location="sa_medikki_bua_eahtta_2011_.pdf" xml:lang="sme"/>
+</xsl:variable>
 
 
     <!--

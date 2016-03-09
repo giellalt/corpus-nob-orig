@@ -100,7 +100,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="dc_2005_5.doc.doc" xml:lang="sme"/>
+	<parallel_text location="dc2005_5.doc" xml:lang="sme"/>
 </xsl:variable>
 
 </xsl:stylesheet>

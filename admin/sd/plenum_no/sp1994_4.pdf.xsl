@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="4-1994_samisk.pdf" xml:lang="sme"/>
+    <parallel_text location="dc1994-4.pdf" xml:lang="sme"/>
 </xsl:variable>
 
 

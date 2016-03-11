@@ -121,7 +121,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="samedikki-jienastuslohkui-2011.html" xml:lang="sme"/>
-<parallel_text location="samedikki-jienastuslohkui-2011.html" xml:lang="sma"/>
+<parallel_text location="" xml:lang="sma"/>
 </xsl:variable>
 
 

@@ -153,7 +153,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="the-un-declaration-on-the-rights-of-indi_id_87024.html" xml:lang="eng"/>
-	<parallel_text location="ona-julggatus-algoalbmotvuoigatvuoaid-bi_id_87024.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

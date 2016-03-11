@@ -154,7 +154,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="department-for-cultural-heritage-managem_id_1207.html" xml:lang="eng"/>
 	<parallel_text location="avdeling-for-kulturminneforvaltning_id_1207.html" xml:lang="nno"/>
-	<parallel_text location="kulturmuitohalddaeami-ossodat_id_1207.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

@@ -154,7 +154,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="norsk-filminstitutt_id_382400.html" xml:lang="nno"/>
-	<parallel_text location="norgga-filbmainstituhtta-_id_382400.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

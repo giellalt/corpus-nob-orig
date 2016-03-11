@@ -154,7 +154,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="senior-adviser-tor-martin-barum_id_445353.html" xml:lang="eng"/>
 	<parallel_text location="seniorradgivar-tor-martin-barum_id_445353.html" xml:lang="nno"/>
-	<parallel_text location="seniorraeaddi-tor-martin-barum_id_445353.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

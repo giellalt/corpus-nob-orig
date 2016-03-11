@@ -154,7 +154,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="the-guarantee-fund-for-fishermen_id_163538.html" xml:lang="eng"/>
 	<parallel_text location="garantikassa-for-fiskarane_id_163538.html" xml:lang="nno"/>
-	<parallel_text location="guolasteddjiid-dahkaduskassa-_id_163538.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

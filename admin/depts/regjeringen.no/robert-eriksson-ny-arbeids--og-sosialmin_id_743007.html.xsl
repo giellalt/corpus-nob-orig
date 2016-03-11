@@ -158,7 +158,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="tine-sundtoft-in-place-as-climate-and-en.html_id=743010" xml:lang="eng"/>
-	<parallel_text location="robert-eriksson-orre-barkoe--jih-sosijaa_id_743007.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

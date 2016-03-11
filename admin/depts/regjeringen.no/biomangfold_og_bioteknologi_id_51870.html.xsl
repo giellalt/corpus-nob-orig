@@ -153,7 +153,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="section-for-biodiversity-and-biotechnolo_id_51870.html" xml:lang="eng"/>
-	<parallel_text location="bioeatnatvuoa-ja-bioteknologiija-sekuvdna_id_51870.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

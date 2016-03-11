@@ -153,7 +153,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="norsk-lyd--og-blindeskriftbibliotek_id_408539.html" xml:lang="nno"/>
-	<parallel_text location="norgga-jietna--ja-almmehemiidalagirjerajus-_id_408539.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

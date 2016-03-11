@@ -121,7 +121,7 @@
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="dahkoesoejkesje-saemien-gielide-staatuse-2011-2013.html" xml:lang="sma"/>
-<parallel_text location="dahkoesoejkesje-saemien-gielide-staatuse-2011-2013.html" xml:lang="sme"/>
+<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 
 

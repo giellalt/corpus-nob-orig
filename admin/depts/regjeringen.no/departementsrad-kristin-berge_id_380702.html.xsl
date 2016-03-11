@@ -154,7 +154,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="secretary-general-kristin-berge_id_380702.html" xml:lang="eng"/>
 	<parallel_text location="departementsrad-kristin-berge_id_380702.html" xml:lang="nno"/>
-	<parallel_text location="departemeantarai-helge-m-sonneland_id_380702.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

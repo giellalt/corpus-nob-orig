@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="bibliotek-og-kulturbussen-i-nord-troms.html" xml:lang="sme"/>
+    <parallel_text location="" xml:lang="sme"/>
 <parallel_text location="gaerjagaaetie-jih-kultuvrebusse-noerhte-tromsesne.html" xml:lang="sma"/>
 </xsl:variable>
 

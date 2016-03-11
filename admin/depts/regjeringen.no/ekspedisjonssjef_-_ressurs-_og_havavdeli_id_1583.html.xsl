@@ -154,7 +154,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="director-general---department-of-marine-_id_1583.html" xml:lang="eng"/>
 	<parallel_text location="ekspedisjonssjef---ressurs--og-havavdeli_id_1583.html" xml:lang="nno"/>
-	<parallel_text location="ekspediuvdnahoavda--ressursa--ja-mearrao_id_1583.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

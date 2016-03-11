@@ -154,7 +154,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="department-of-planning-administration-an_id_1572.html" xml:lang="eng"/>
 	<parallel_text location="plan--okonomi--og-administrasjonsavdelin_id_1572.html" xml:lang="nno"/>
-	<parallel_text location="plana--ja-ekonomija--ja-halddahusossodat_id_1572.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

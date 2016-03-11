@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="soersamisk-bok-og-kultrbuss.html" xml:lang="sme"/>
+    <parallel_text location="" xml:lang="sme"/>
 <parallel_text location="aaarjelsaemien-gaerjabusse-gaerjah.html" xml:lang="sma"/>
 <parallel_text location="soersamisk-bok-og-kultrbuss.html" xml:lang="smj"/>
 </xsl:variable>

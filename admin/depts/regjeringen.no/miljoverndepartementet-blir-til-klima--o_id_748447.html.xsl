@@ -158,7 +158,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="the-ministry-of-the-environment-becomes-_id_748447.html" xml:lang="eng"/>
-	<parallel_text location="departementet-skiftar-namn.html_id=748569" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="nno"/>
 	<parallel_text location="birasdepartemeanta-adda-dalkkadat--ja-bi_id_748447.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)

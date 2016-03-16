@@ -154,7 +154,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="address-by-prime-minister-in-oslo-cathed_id_651789.html" xml:lang="eng"/>
 	<parallel_text location="stahtaministara-jens-stoltenberg-sardni-_id_651789.html" xml:lang="sme"/>
-	<parallel_text location="dearvvahansardni-daiddaskuvlla-rahpandil.html_id=654228" xml:lang="smj"/>
+	<parallel_text location="" xml:lang="smj"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

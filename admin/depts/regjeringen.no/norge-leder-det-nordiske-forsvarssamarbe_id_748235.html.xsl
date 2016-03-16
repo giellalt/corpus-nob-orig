@@ -158,7 +158,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="norway-assumes-nordefco-chairmanship_id_748235.html" xml:lang="eng"/>
-	<parallel_text location="nytt-storre-og-moderne1.html_id=748605" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="nno"/>
 	<parallel_text location="norga-joiha-davviriikkaid-suodjalusovtta_id_748235.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)

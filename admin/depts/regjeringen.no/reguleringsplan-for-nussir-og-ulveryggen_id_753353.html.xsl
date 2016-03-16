@@ -157,9 +157,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="til-kautokeino.html_id=753403" xml:lang="nno"/>
-	<parallel_text location="nussir-ja-gumpenjuni-regulerenplana.html_id=753353" xml:lang="sme"/>
-	<parallel_text xml:lang="sma" location="reerenasse-raereste-jienebh-tjielth-joekehtamme-barkoevedtijemaaksoem-aadtjoeh.html_id=753007"/>
+	<parallel_text location="" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="sme"/>
+	<parallel_text xml:lang="sma" location=""/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

@@ -158,7 +158,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="bargat-veahkavalddi-eastadit-lagas-relau_id_733691.html" xml:lang="sme"/>
-	<parallel_text location="edtja-annje-tjielke-ulmine-barkedh-dejti.html_id=735047" xml:lang="smj"/>
+	<parallel_text location="" xml:lang="smj"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

@@ -157,7 +157,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="per-edgar-kokkvold-ny-leiar-for-kringkas.html_id=751233" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="nno"/>
 	<parallel_text location="raehus-dahttu-joatkit-investerendoarjagi_id_750382.html" xml:lang="sme"/>
 	<parallel_text location="nammada-viidat-ohkkejuvvon-referansajoav_id_750286.html" xml:lang="smj"/>
 </xsl:variable>

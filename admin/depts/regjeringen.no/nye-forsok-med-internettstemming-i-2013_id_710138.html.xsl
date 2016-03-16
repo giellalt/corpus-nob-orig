@@ -158,7 +158,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="new-pilot-with-internet-voting-in-2013_id_710138.html" xml:lang="eng"/>
-	<parallel_text location="det-blir-enklare-a-forehandsstemme.html_id=710339" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="nno"/>
 	<parallel_text location="oa-geahaleamit-interneahttajienastemiin-_id_710138.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)

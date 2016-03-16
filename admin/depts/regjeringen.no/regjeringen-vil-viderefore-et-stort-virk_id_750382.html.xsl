@@ -157,8 +157,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="per-edgar-kokkvold-ny-leiar-for-kringkas.html_id=751233" xml:lang="nno"/>
-	<parallel_text location="raehus-dahttu-joatkit-investerendoarjagi.html_id=750382" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="nno"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> cc98ec8d55 (Norwegian Bokmål regjeringen.no docs renamed, metadata updated in parallel files)
 

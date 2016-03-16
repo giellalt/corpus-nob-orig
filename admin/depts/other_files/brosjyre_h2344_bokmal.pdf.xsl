@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -122,7 +122,7 @@
         <!-- <parallel_text xml:lang="swe" location=""/> -->
     <parallel_text location="brosjyre_h2344_nynorsk.pdf" xml:lang="nno"/>
 <parallel_text location="brosjyre_h2344_lulesamisk.pdf" xml:lang="smj"/>
-<parallel_text location="brosjyre_h2344_nordsamisk.pdf" xml:lang="sme"/>
+<parallel_text location="" xml:lang="sme"/>
 <parallel_text location="brosjyre_h2344_sorsamisk.pdf" xml:lang="sma"/>
 <parallel_text location="brosjyre_h2344_engelsk.pdf" xml:lang="eng"/>
 </xsl:variable>

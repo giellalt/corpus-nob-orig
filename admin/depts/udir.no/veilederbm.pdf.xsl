@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_norsk_bokmal_informasjon.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/upload/barnehage/regelverk/veiledere/veilederbm.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -94,7 +94,7 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
-    <language xml:lang="nob"/></xsl:variable>
+    </xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
          (or add new lines with the right ISO-639-3 language codes) and
@@ -124,21 +124,11 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="ara" location="sfs_veiledning_2_ppt_arabisk_informasjon.pdf"/>
-	<parallel_text xml:lang="ckb" location="sfs_veiledning_2_ppt_sorani_informasjon.pdf"/>
-	<parallel_text xml:lang="eng" location="sfs_veiledning_2_ppt_engelsk_informasjon.pdf"/>
-	<parallel_text xml:lang="fas" location="sfs_veiledning_2_ppt_persisk_informasjon.pdf"/>
-	<parallel_text xml:lang="fra" location="sfs_veiledning_2_ppt_fransk_informasjon.pdf"/>
-	<parallel_text xml:lang="nno" location="sfs_veiledning_2_ppt_nynorsk-informasjon.pdf"/>
-	<parallel_text xml:lang="pol" location="sfs_veiledning_2_ppt_polsk_informasjon.pdf"/>
-	<parallel_text xml:lang="rus" location="sfs_veiledning_2_ppt_russisk_informasjon.pdf"/>
-	<parallel_text xml:lang="sma" location="sfs_veiledning_2_sorsamisk.pdf"/>
-	<parallel_text xml:lang="sme" location=""/>
-	<parallel_text xml:lang="smj" location="sfs_veiledning_2_lulesamsisk-2.pdf"/>
-	<parallel_text xml:lang="som" location="sfs_veiledning_2_ppt_somalisk_informasjon.pdf"/>
-	<parallel_text xml:lang="tur" location="sfs_veiledning_2_ppt_tyrkisk_informasjon.pdf"/>
-	<parallel_text xml:lang="urd" location="sfs_veiledning_2_ppt_urdu_informasjon.pdf"/>
-	<parallel_text xml:lang="vie" location="sfs_veiledning_2_ppt_vietnamesisk_informasjon.pdf"/></xsl:variable>
+    <parallel_text xml:lang="eng" location="barns_trivsel_engelsk.pdf"/>
+	<parallel_text xml:lang="nno" location="veildernn.pdf"/>
+	<parallel_text xml:lang="sma" location="barnstrivsel_sorsamiskweb.pdf"/>
+	<parallel_text xml:lang="sme" location="barnstrivsel_nordsamiskweb.pdf"/>
+	<parallel_text xml:lang="smj" location="veileder_lulesamisk.pdf"/></xsl:variable>
 
 
     <!--

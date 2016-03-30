@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0b4-py2.7.egg/corpustools/xslt/common.xsl"/>
 
@@ -10,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://www.udir.no/Upload/Rapporter/2009/5/samisk_1delrapport.pdf?epslanguage=no'"/>
+    <xsl:variable name="filename" select="'http://www.udir.no/globalassets/upload/kartleggingsprover/larerveiledninger-gs-2015/kp_lesing_2_trinn_larerveiledning_2015_bm.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -125,7 +124,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sme" location="nf_samisk_rapport_2009_5.pdf"/></xsl:variable>
+    <parallel_text xml:lang="nno" location="kp_lesing_2_trinn_lararrettleiing_2015_nn.pdf"/>
+	<parallel_text xml:lang="sme" location="generell_veiled_kp_lesing_2trinn_nordsamisk.pdf"/></xsl:variable>
 
 
     <!--

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
             <xsl:import href="file:///home/unhammer/.local/lib/python2.7/site-packages/CorpusTools-0.9.0a2-py2.7.egg/corpustools/xslt/common.xsl"/>
@@ -9,7 +9,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'https://www.tysfjord.kommune.no/getfile.php/2308611.1172.tsydasqtpb/Spr%C3%A5k-+og+litteraturseminaret+i+juni+-+ny+versjon+Line+%282%29.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.samisk.no/attachments/089_Læreveiledning_Slangespill.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -38,7 +38,7 @@
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
-    <xsl:variable name="genre" select="'admin'"/>
+    <xsl:variable name="genre" select="'facta'"/>
     <xsl:variable name="collection" select="''"/>
     <xsl:variable name="translated_from" select="''"/>
     <xsl:variable name="translator_fn" select="''"/>
@@ -58,7 +58,7 @@
     <xsl:variable name="template_version" select="'$Revision$'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
-    <xsl:variable name="note" select="''"/>
+    <xsl:variable name="note" select="'http://www.aajege.no/attachments/089_Læreveiledning_Slangespill.pdf'"/>
 
     <!-- The main language of the document -->
     <xsl:variable name="mainlang" select="'nob'"/>
@@ -66,7 +66,7 @@
     <!-- In the case of a multilingual document, we may want to check for
          other languages. Set the variable monolingual to '1' to turn off
          language recognition (treating everything as mainlang) -->
-    <xsl:variable name="monolingual" select="'1'"/>
+    <xsl:variable name="monolingual" select="''"/>
 
     <!-- If monolingual is not set, the document is multilingual.
          Uncomment the languages you want to check for (or add new lines
@@ -94,7 +94,8 @@
         <!-- <language xml:lang="smn"/> -->
         <!-- <language xml:lang="sms"/> -->
         <!-- <language xml:lang="swe"/> -->
-    </xsl:variable>
+    <language xml:lang="nob"/>
+	<language xml:lang="sma"/></xsl:variable>
 
     <!-- If the document has parallel texts, uncomment the right languages
          (or add new lines with the right ISO-639-3 language codes) and
@@ -124,7 +125,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="smj" location="sprak-_og_litteraturseminaret_i_juni_-_ny_versjon_line_2_.pdf"/></xsl:variable>
+    <parallel_text xml:lang="sma" location="089_la_reveiledning_slangespill.pdf"/></xsl:variable>
 
 
     <!-- For page oriented documents, mark which pages should be ignored -->

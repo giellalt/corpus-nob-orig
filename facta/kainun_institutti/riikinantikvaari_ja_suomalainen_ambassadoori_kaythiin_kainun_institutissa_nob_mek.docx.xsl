@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
@@ -106,7 +105,7 @@
         <!-- <parallel_text xml:lang="eng" location=""/> -->
         <!-- <parallel_text xml:lang="fin" location=""/> -->
         <!-- <parallel_text xml:lang="fit" location=""/> -->
-        <parallel_text xml:lang="fkv" location="Riikinantikvaari_ja_suomalainen_ambassadööri_käythiin_Kainun_institutissa_fkv_MEK.docx"/>
+        <parallel_text xml:lang="fkv" location="riikinantikvaari_ja_suomalainen_ambassadoori_kaythiin_kainun_institutissa_fkv_mek.docx"/>
         <!-- <parallel_text xml:lang="ger" location=""/> -->
         <!-- <parallel_text xml:lang="isl" location=""/> -->
         <!-- <parallel_text xml:lang="kal" location=""/> -->

@@ -115,7 +115,7 @@
         <!-- <parallel_text xml:lang="nob" location=""/> -->
         <!-- <parallel_text xml:lang="rus" location=""/> -->
         <!-- <parallel_text xml:lang="sma" location=""/> -->
-        <parallel_text xml:lang="sme" location="ametingets_ay=rsrapport_2015_-_nordsamisk.pdf"/> 
+        <parallel_text xml:lang="sme" location="sametingets_ay=rsmelding_2014_-_nordsamisk.pdf"/> 
         <!-- <parallel_text xml:lang="smj" location=""/> -->
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->

@@ -5,7 +5,7 @@
 
     <!-- Add the metainformation manually -->
     <!-- variable filename contains the original name of the file (from submitter)-->
-    <xsl:variable name="filename" select="'http://samediggi.no/content/download/7097/64623/version/3/file/Sametingets+%C3%A5rsmelding+2014+-+norsk.pdf'"/>
+    <xsl:variable name="filename" select="'http://www.saemiedigkie.no/content/download/9887/83747/version/2/file/Sametingets+%C3%A5rsrapport+2015+-+norsk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <xsl:variable name="author1_fn" select="''"/>
@@ -47,11 +47,18 @@
     <xsl:variable name="sub_name" select="''"/>
     <xsl:variable name="sub_email" select="''"/>
     <xsl:variable name="wordcount" select="''"/>
-    <!-- Set this variable to 1 if the source for this doc is OCR -->
-    <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
+    <!-- This variable can have the following values:
+        * ocr:          ocr'ed document, should usually not be converted
+        * goldstandard: part of the goldstandard corpus, should not be converted
+        * correct:      a goldstandard document containing corrected typos,
+        * image:        documents consisting of images, should be possible to
+                        ocr, then do conversion on it
+        * standard:     a usual doc, meant to be used as part of the standard corpus
+        * unsupported:  document that cannot be converted by our conversion tools
+    -->
     <xsl:variable name="conversion_status" select="'standard'"/>
     <xsl:variable name="metadata" select="'uncomplete'"/>
-    <xsl:variable name="template_version" select="'$Revision$'"/>
+    <xsl:variable name="template_version" select="'$Revision: 134043 $'"/>
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
     <xsl:variable name="note" select="''"/>
@@ -115,13 +122,12 @@
         <!-- <parallel_text xml:lang="nob" location=""/> -->
         <!-- <parallel_text xml:lang="rus" location=""/> -->
         <!-- <parallel_text xml:lang="sma" location=""/> -->
-        <parallel_text xml:lang="sme" location="ametingets_ay=rsrapport_2015_-_nordsamisk.pdf"/> 
+        <!-- <parallel_text xml:lang="sme" location=""/> -->
         <!-- <parallel_text xml:lang="smj" location=""/> -->
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="sametingets_ay=rsmelding_2014_-_nordsamisk.pdf" xml:lang="sme"/>
-</xsl:variable>
+    </xsl:variable>
 
 
     <!--

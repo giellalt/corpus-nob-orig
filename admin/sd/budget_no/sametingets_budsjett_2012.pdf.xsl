@@ -132,18 +132,18 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
-
+    <xsl:variable name="skip_pages" select="'1-9,149-151'"/>
+        
     <!--
         Text outside these margins will be ignored.
-
+        
         The format for margin line is:
-        [all|odd|even|pagenumber]=integer
-
+        [all|odd|even|pagenumber]=integer  
+        
         Margin lines *must* contain the keywords all, even, odd or a page
         number followed by a = sign and an integer. Pages with the same margin
         may be separated with ;.
-
+        
         The integer must be between 0 and 100.
 
         If there are several values, they are divided by commas.
@@ -151,23 +151,25 @@
         e.g. odd=8, even=15
         It is also possible to set margins for particular pages:
         8=8, 10=12
-        It is also possible to set margins for odd and even pages and
+        It is also possible to set margins for odd and even pages and   
         exceptions from those rules on particular pages.
-
+         
         Examples on how the select part could look:
-        odd=5, even=8, 8=15, 11=3
+        odd=5, even=8, 8=15, 11=3  
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="''"/>
-    <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
 
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="right_margin" select="''"/>
+    <xsl:variable name="left_margin" select="''"/>           
+    <xsl:variable name="top_margin" select="'23=30,25=74,27=29,30=21,35=22,36=21,37=39,40=45,41=21,45=20,51=21'"/>
+    <xsl:variable name="bottom_margin" select="'13=63,17=21,20=30,22=34,27=29,30=50,32=26,40=25,43=23'"/>
+
+    <xsl:variable name="inner_right_margin" select="'12=0,14=0,18=0,19=0,20=0,21=0,22=0,26=0,28=0,29=0,31=0,32=0,33=0,34=0,36=0,41=0,42=0,43=0,44=0,45=0,46=0,47=0,49=0,50=0,51=0'"/>
+    <xsl:variable name="inner_left_margin" select="'12=0,14=0,18=0,19=0,20=0,21=0,22=0,26=0,28=0,29=0,31=0,32=0,33=0,34=0,36=0,41=0,42=0,43=0,44=0,45=0,46=0,47=0,49=0,50=0,51=0'"/>
+    <xsl:variable name="inner_top_margin" select="'12=17,14=14,18=25,19=22,20=11,21=19,22=17,26=26,28=42,29=18,31=35,32=17,33=48,34=17,36=61,41=52,42=46,43=21,44=24,45=70,46=41,47=17,49=44,50=33,51=35'"/>
+    <xsl:variable name="inner_bottom_margin" select="'12=63,14=36,18=37,19=58,20=63,21=67,22=44,26=48,28=31,29=54,31=49,32=70,33=39,34=69,36=23,41=14,42=42,43=68,44=44,45=17,46=45,47=55,49=41,50=53,51=48'"/>
+
 
     <!-- Add all paragraphs that should have xml:lang=X           -->
     <!-- Uncomment the following and add the paths, for example:  -->

@@ -8,7 +8,7 @@
 <xsl:variable name="filename" select="'http://regjeringen.no/nb/dep/kd/dok/lover_regler/forskrifter/2010/Forskrift-om-rammeplan-for-de-samiske-grunnskolelarerut-danningene-for-17-trinn-og-510-trinn.html?id=594360'"/>
 <xsl:variable name="title" select="'Láhkaásahus sámi vuođđoskuvlaoahpaheaddjeoahpuid 1.-7. dási ja 5.-10. dási rámmaplánii - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Kunnskapsdepartementet'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -27,9 +27,9 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2010'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>

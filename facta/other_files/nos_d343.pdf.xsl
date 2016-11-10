@@ -55,7 +55,7 @@
 <xsl:variable name="note" select="'Excluded from conversion: the only Sámi characters that are correct are á and š.'"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="'sme'"/>
+<xsl:variable name="mainlang" select="'nob'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->

@@ -40,7 +40,7 @@
 <xsl:variable name="translator_gender" select="'unknown'"/>
 <xsl:variable name="translator_born" select="''"/>
 <xsl:variable name="translator_nat" select="''"/>
-<xsl:variable name="license_type" select="''"/>
+<xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="''"/>
 <xsl:variable name="wordcount" select="''"/>

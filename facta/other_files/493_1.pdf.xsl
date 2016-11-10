@@ -49,7 +49,7 @@
   <xsl:variable name="template_version" select="' 1.9 '"/>
   <xsl:variable name="current_version" select="'$Revision: 1.6 $'"/>
 
-  <xsl:variable name="mainlang" select="'sme'"/>
+  <xsl:variable name="mainlang" select="'nob'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->

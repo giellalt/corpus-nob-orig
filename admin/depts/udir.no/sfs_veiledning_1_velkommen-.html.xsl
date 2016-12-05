@@ -124,7 +124,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text xml:lang="sma" location="sfs_veiledning_1_velkommen-.html"/>
+    <parallel_text xml:lang="sma" location=""/>
 	<parallel_text xml:lang="sme" location="sfs_veiledning_1_velkommen-som-bruker-.html"/>
 	<parallel_text xml:lang="smj" location="sfs_veiledning_1_buorisboah.html"/></xsl:variable>
 

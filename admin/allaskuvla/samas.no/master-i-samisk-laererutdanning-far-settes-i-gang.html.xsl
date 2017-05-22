@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="master-i-samisk-laererutdanning-far-settes-i-gang.html"/>
+        <parallel_text xml:lang="sme" location="sami-oahpaheaddji-masteroahput-besset-alggahuvvot.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

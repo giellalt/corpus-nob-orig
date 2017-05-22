@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="vil-du-begynne-pa-samisk-hogskole-til-hosten-2017.html"/>
+        <parallel_text xml:lang="sme" location="ain-vejolas-ohcat-sami-allaskuvlii.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

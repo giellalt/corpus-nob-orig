@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="kulturhistoriske-dialoger-samlinger-og-museum-dagens-kunstnere.html"/>
+        <parallel_text xml:lang="sme" location="kulturhistorjjalas-dialogat-coakkaldagat-ja-museat-otna-daiddacehpiide.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="statlig-styring-og-tradisjonell-okologisk-kunnskap-i-forvaltning-av-reindriften.html"/>
+        <parallel_text xml:lang="sme" location="stahta-stivren-ja-arbevirolas-ekologalas-mahttu-boazodoallohalddaseamis.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

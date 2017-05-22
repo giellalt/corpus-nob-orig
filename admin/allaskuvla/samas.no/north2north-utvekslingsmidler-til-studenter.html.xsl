@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="north2north-exchange-funds-students.html"/>
+        <parallel_text xml:lang="sme" location="vuolgge-lonohallamii-danmarkui-ruonaeatnamii-dahje-faer-sulluide.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

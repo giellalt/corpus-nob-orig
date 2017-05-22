@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="pedagogisk-veiledning-1-starter-varen-2015.html"/>
+        <parallel_text xml:lang="sme" location="bagadallanpedagogihkka-1-alggahuvvo-giddat-2015.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

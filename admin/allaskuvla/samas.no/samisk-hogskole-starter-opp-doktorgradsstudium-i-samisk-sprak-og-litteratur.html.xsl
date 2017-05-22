@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="sami-university-college-offers-phd-program-sami-language-and-literature.html"/>
+        <parallel_text xml:lang="sme" location="sami-allaskuvla-alggaha-samegiela-ja-sami-girjjalasvuoda-doavttirgradaoahpuid.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

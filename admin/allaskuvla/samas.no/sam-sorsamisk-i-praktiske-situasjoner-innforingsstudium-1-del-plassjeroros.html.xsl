@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="sam-sorsamisk-i-praktiske-situasjoner-innforingsstudium-1-del-plassjeroros.html"/>
+        <parallel_text xml:lang="sme" location="sam-lullisamegiella-praktihkalas-dilis-algooahppu-1-plassjeroros.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

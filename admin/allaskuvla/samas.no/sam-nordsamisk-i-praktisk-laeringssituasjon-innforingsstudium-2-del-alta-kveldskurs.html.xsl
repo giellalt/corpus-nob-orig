@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="sam-nordsamisk-i-praktisk-laeringssituasjon-innforingsstudium-2-del-alta-kveldskurs.html"/>
+        <parallel_text xml:lang="sme" location="sam-nordsamisk-i-praktisk-laeringssituasjon-innforingsstudium-2-del-alta-kveldskurs-sam.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

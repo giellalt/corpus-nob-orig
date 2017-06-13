@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://nsr.no/5365/romjulshilsen-fra-nsrs-presidentkandidat-til-sametingsvalget-aili-keskitalo'"/>
+    <xsl:variable name="filename" select="'http://nsr.no/4264/nsr-soker-ungdomssekretaer'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2016'"/>
+    <xsl:variable name="year" select="''"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -170,9 +170,9 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="javleheelsegh-nsr-presideentekandidaateste-aili-keskitalo_lang=sma.html"/>
-        <parallel_text xml:lang="sme" location="romjulshilsen-fra-nsrs-presidentkandidat-til-sametingsvalget-aili-keskitalo_lang=se_more-5369.html"/>
-        <parallel_text xml:lang="smj" location="javleheelsegh-nsr-presideentekandidaateste-aili-keskitalo_lang=smj.html"/>
+        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sme" location=""/>
+        <parallel_text xml:lang="smj" location="nsr-ahtsa-nuorajtjallev_lang=smj.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

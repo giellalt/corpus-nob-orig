@@ -11,14 +11,14 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.tromsfylke.no/LinkClick.aspx?fileticket=KXwhx8QmFmo%3d&amp;tabid=332'"/>
+    <xsl:variable name="filename" select="'http://www.tromsfylke.no/Tromsfylke/media/3269/regional-landbruksplan_digital.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Strategiplan for samisk språk og samisk kulturkompetanse'"/>
+    <xsl:variable name="title" select="'Arktisk landbruk - ei næring med mange muligheter. regional plan for landbruk i Troms 2014-2025'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
+    <xsl:variable name="author1_fn" select="'Troms fylkeskommune'"/>
     <xsl:variable name="author1_ln" select="''"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2015'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -94,10 +94,12 @@
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
     <!-- select license type: free, standard or other -->
-    <xsl:variable name="license_type" select="'free'"/>
+    <xsl:variable name="license_type" select="''"/>
+    <!-- e.g. Sámediggi journal number -->
+    <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
-    <xsl:variable name="sub_name" select="'Børre Gaup'"/>
-    <xsl:variable name="sub_email" select="'borre.gaup@samedigg.no'"/>
+    <xsl:variable name="sub_name" select="''"/>
+    <xsl:variable name="sub_email" select="''"/>
     <!-- Keep empty, this is automatically filled in by CorpusTools -->
     <xsl:variable name="wordcount" select="''"/>
     <!-- This variable can have the following values:
@@ -113,7 +115,7 @@
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="template_version" select="'$Revision$'"/>
+    <xsl:variable name="template_version" select="'$Revision: 150288 $'"/>
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
@@ -169,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="strategiijaplnasmegielasja0000.pdf"/>
+        <parallel_text xml:lang="sme" location="regional-landbruksplan_digital_sam.pdf"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
@@ -184,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1-3, 22, 33-42'"/>
+    <xsl:variable name="skip_pages" select="'1-5'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -226,20 +228,20 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="'all=7'"/>
-    <xsl:variable name="left_margin" select="'all=7'"/>
-    <xsl:variable name="top_margin" select="'all=7, 20=20, 21=25, 23=43, 24=45'"/>
-    <xsl:variable name="bottom_margin" select="'all=7, 19=45, 20=47, 23=34'"/>
+    <xsl:variable name="right_margin" select="''"/>
+    <xsl:variable name="left_margin" select="''"/>
+    <xsl:variable name="top_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="''"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="'13=7'"/>
-    <xsl:variable name="inner_left_margin" select="'13=7'"/>
-    <xsl:variable name="inner_top_margin" select="'13=20'"/>
-    <xsl:variable name="inner_bottom_margin" select="'13=60'"/>
+    <xsl:variable name="inner_right_margin" select="''"/>
+    <xsl:variable name="inner_left_margin" select="''"/>
+    <xsl:variable name="inner_top_margin" select="''"/>
+    <xsl:variable name="inner_bottom_margin" select="''"/>
 
     <!--
         This variable is used for epub or html files.

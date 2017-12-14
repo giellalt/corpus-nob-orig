@@ -168,7 +168,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="sametingsmelding_om_samisk_barnehagetilbud_-_sa_rsamisk.pdf"/>
         <parallel_text xml:lang="sme" location="sa_medikkera_ai_dieaa_hus_sa_mi_ma_na_idga_rddiid_birra_2005_.pdf"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>

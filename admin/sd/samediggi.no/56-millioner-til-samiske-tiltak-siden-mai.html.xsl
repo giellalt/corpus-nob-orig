@@ -168,7 +168,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="saemiedigkien-bijre_aaaarganisasjovnestruktuvre_saemiedigkieraerie_haaalemh-jih-tjaalegh_56-millijovnh-saemien-raaajvarimmide-suehpeden-raejeste.html"/>
         <parallel_text xml:lang="sme" location="56-miljovnna-sami-doaibmabijuide-miessemanu-rajes.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>

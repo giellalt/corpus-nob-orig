@@ -168,7 +168,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="konsultasjovnebihkedassh-vaarjelimmiesoejkesjebarkose.html"/>
         <parallel_text xml:lang="sme" location="suodjalanbarggu-raddadallannjuolggadusat.html"/>
         <parallel_text xml:lang="smj" location="konsultasjaavnnaanjuolgadusa-suodjalimpladna-bargguj.html"/>
         <parallel_text xml:lang="smn" location=""/>

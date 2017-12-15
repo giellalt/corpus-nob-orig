@@ -168,7 +168,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="sametinget-planveileder.html"/>
         <parallel_text xml:lang="sme" location="samedikki-planaveahkki.html"/>
         <parallel_text xml:lang="smj" location="samedikke-pladnabagadus.html"/>
         <parallel_text xml:lang="smn" location=""/>

@@ -168,7 +168,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="vaaarhkoe_veeljemeboelhken-2009-2013_tjaalegh_evtiedimmieprosjekte-saemien-kultuvrejieliemidie.html"/>
+        <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location="arkiv_valgperiode-2009-2013_artikler_same-kulturaeladusaj-aavddaanahttemprosjaekta.html"/>
         <parallel_text xml:lang="smn" location=""/>

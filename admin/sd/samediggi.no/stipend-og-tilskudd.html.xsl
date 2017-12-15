@@ -168,7 +168,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="stipeanda-ja-doarjja.html"/>
+        <parallel_text xml:lang="sma" location="stipende-jih-daaarjoe.html"/>
         <parallel_text xml:lang="sme" location="stipeanda-ja-doarjja.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>

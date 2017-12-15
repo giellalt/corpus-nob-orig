@@ -168,7 +168,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="saemiedigkien-tjirkijh-vaarjelimmiedajvestaavrojne.html"/>
         <parallel_text xml:lang="sme" location="samedikki-ovddasteaddjit-suodjalanguolostirraide.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>

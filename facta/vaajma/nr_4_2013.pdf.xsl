@@ -129,7 +129,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1-14,16,18-19'"/>
+    <xsl:variable name="skip_pages" select="'1-14, 16-19'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -228,9 +228,9 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="right_margin" select="'all=7'"/>
-    <xsl:variable name="left_margin" select="'all=7'"/>
-    <xsl:variable name="top_margin" select="'all=7'"/>
+    <xsl:variable name="right_margin" select="'all=3, 15=50'"/>
+    <xsl:variable name="left_margin" select="'all=3'"/>
+    <xsl:variable name="top_margin" select="'all=7, 15=25'"/>
     <xsl:variable name="bottom_margin" select="'all=7'"/>
 
     <!--

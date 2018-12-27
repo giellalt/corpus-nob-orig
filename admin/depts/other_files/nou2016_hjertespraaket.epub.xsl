@@ -129,7 +129,7 @@
         other languages. Set the variable monolingual to '1' to turn off
         language recognition (treating everything as mainlang)
     -->
-    <xsl:variable name="monolingual" select="''"/>
+    <xsl:variable name="monolingual" select="'1'"/>
 
     <!--
         If monolingual is not set, the document is multilingual.
@@ -170,9 +170,9 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="sma" location="nou2016_hjertespraaket_sma.epub"/>
+        <parallel_text xml:lang="sme" location="nou2016_hjertespraaket_sme.epub"/>
+        <parallel_text xml:lang="smj" location="nou2016_hjertespraaket_smj.epub"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
@@ -254,7 +254,7 @@
         * .//body/div[1]/h2[1];.//body/div[3]/div[1]/h3[1]
         * .//body/div[5];.//body/div[8]/div[3]/h1[1], .//body/div[11]/div[2];.//body/div[11]/div[5]
     -->
-    <xsl:variable name="skip_elements" select="''"/>
+    <xsl:variable name="skip_elements" select="'.//body/div/div[3];.//body/div/div[6],.//body/div/h2/span;.//body/div/div[2]'"/>
 
     <!--
         The default is set to all=1.5.
@@ -285,7 +285,7 @@
     <!--
         Choose which chapters to exclude from an epub file.
     -->
-    <xsl:variable name="epub_excluded_chapters" select="''"/>
+    <xsl:variable name="epub_excluded_chapters" select="'0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29'"/>
 
     <!--
         Information about what is normal text size in pdf documents.

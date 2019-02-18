@@ -230,7 +230,7 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'1=15'"/>
     <xsl:variable name="bottom_margin" select="'2=35'"/>
 
     <!--
@@ -280,7 +280,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="''"/>
+    <xsl:variable name="linespacing" select="'all=3'"/>
 
     <!--
         Choose which chapters to exclude from an epub file.

@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.sametinget.no/layout/set/print/Om-Sametinget/Bakgrunn/Konsultasjonsavtalen'"/>
+    <xsl:variable name="filename" select="'https://www.sametinget.no/Tjenester/Miljoe-areal-og-kulturvern/Konsultasjonsavtalen'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Konsultasjonsavtalen'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2017'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -170,7 +170,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="konsultasjovnelatjkoe.html"/>
+        <parallel_text xml:lang="sma" location="raaaaresjimmielatjkoe.html"/>
         <parallel_text xml:lang="sme" location="konsultasuvdnasiehtadus.html"/>
         <parallel_text xml:lang="smj" location="radadallamsjiehtadus.html"/>
         <parallel_text xml:lang="smn" location=""/>

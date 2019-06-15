@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.sametinget.no/layout/set/print/Helse-og-sosial/Helse-og-sosialprosjekter'"/>
+    <xsl:variable name="filename" select="'https://www.sametinget.no/Tilskudd-og-stipend/Helse-og-sosialprosjekter'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Helse- og sosialprosjekter'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -172,7 +172,7 @@
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="healsoe-jih-sosijaaleprosjekth.html"/>
         <parallel_text xml:lang="sme" location="dearvvasvuoda-ja-sosialaproseavttat.html"/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="smj" location="varresvuoda-ja-sosialaprosjevta.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

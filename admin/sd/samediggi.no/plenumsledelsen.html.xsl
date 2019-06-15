@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.sametinget.no/layout/set/print/Om-Sametinget/Organisasjonsstruktur/Plenumsledelsen'"/>
+    <xsl:variable name="filename" select="'https://www.sametinget.no/Politikk/Plenumsledelsen'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Plenumsledelsen'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -170,7 +170,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="stoerretjaaanhgkoen-staavroe.html"/>
+        <parallel_text xml:lang="sma" location="stoerretjaaangkoestaavroe.html"/>
         <parallel_text xml:lang="sme" location="dievascoahkkima-jodihangoddi.html"/>
         <parallel_text xml:lang="smj" location="aallestjaahkanime-jaadedibme.html"/>
         <parallel_text xml:lang="smn" location=""/>

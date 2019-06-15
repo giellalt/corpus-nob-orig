@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.sametinget.no/layout/set/print/Opplaering/Forskning-og-hoeyere-utdanning/Stipend-og-tilskudd/Stipend-for-hoeyere-utdanning'"/>
+    <xsl:variable name="filename" select="'https://www.sametinget.no/Tilskudd-og-stipend/Stipend-for-hoeyere-utdanning'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Stipend for høyere utdanning'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -170,9 +170,9 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="stipenden-bijre-jollebe-oeoehpentaemma.html"/>
+        <parallel_text xml:lang="sma" location="stipende-jollebe-oeoehpehtaemman.html"/>
         <parallel_text xml:lang="sme" location="stipeanda-alit-ohppui.html"/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="smj" location="stipenda-alep-aahpadussaj.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

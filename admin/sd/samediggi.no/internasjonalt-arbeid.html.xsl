@@ -11,9 +11,9 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://www.sametinget.no/layout/set/print/Internasjonalt-arbeid'"/>
+    <xsl:variable name="filename" select="'https://www.sametinget.no/Tjenester/Internasjonalt-arbeid'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="''"/>
+    <xsl:variable name="title" select="'Internasjonalt arbeid'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2019'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -170,7 +170,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="gaskenasjovnaale-barkoe.html"/>
+        <parallel_text xml:lang="sma" location="gaskenasjonaale-barkoe.html"/>
         <parallel_text xml:lang="sme" location="riikkaidgaskasas-bargu.html"/>
         <parallel_text xml:lang="smj" location="rijkajgasskasasj-barggo.html"/>
         <parallel_text xml:lang="smn" location=""/>

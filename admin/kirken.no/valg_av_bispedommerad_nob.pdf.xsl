@@ -238,10 +238,10 @@
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'1=3'"/>
+    <xsl:variable name="inner_left_margin" select="'1=60'"/>
+    <xsl:variable name="inner_top_margin" select="'1=55'"/>
+    <xsl:variable name="inner_bottom_margin" select="'1=15'"/>
 
     <!--
         This variable is used for epub or html files.

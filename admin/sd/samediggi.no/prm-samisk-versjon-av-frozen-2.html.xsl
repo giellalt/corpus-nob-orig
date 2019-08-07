@@ -9,11 +9,11 @@
         The original name of the file that comes from the
         submitter of the document or the URL where the document has been fetched.
         These days it is automatically added by the add_files_to_corpus tool.
-        http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
+        https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.sametinget.no/Tjenester/Spraak'"/>
+    <xsl:variable name="filename" select="'https://www.sametinget.no/Nyhetsarkiv/PRM-SAMISK-VERSJON-AV-FROZEN-2'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Språk'"/>
+    <xsl:variable name="title" select="'PRM: SAMISK VERSJON AV FROZEN 2'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
@@ -98,8 +98,8 @@
     <!-- e.g. Sámediggi journal number -->
     <xsl:variable name="contract_id" select="''"/>
     <!-- The name and email of the submitter -->
-    <xsl:variable name="sub_name" select="'Kevin Brubeck Unhammer'"/>
-    <xsl:variable name="sub_email" select="'unhammer@fsfe.org'"/>
+    <xsl:variable name="sub_name" select="''"/>
+    <xsl:variable name="sub_email" select="''"/>
     <!-- Keep empty, this is automatically filled in by CorpusTools -->
     <xsl:variable name="wordcount" select="''"/>
     <!-- This variable can have the following values:
@@ -141,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="nob"/><language xml:lang="eng"/><language xml:lang="sme"/></xsl:variable>
+    </xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -170,9 +170,9 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="giele.html"/>
-        <parallel_text xml:lang="sme" location="giella.html"/>
-        <parallel_text xml:lang="smj" location="giella.html"/>
+        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sme" location="prd-walt-disney-animation-studios-rahkada-davvisami-versuvnna-frozen-2-filmmas.html"/>
+        <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

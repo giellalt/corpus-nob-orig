@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="saemiedigkiem-vaaksjodh.html"/>
-        <parallel_text xml:lang="sme" location="oahppaladdan-samedikkis.html"/>
+        <parallel_text xml:lang="sme" location="oahppaladdat-samedikki.html"/>
         <parallel_text xml:lang="smj" location="samedikkev-guossidit.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

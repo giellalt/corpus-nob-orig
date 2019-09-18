@@ -170,7 +170,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="index.php_kat_id=91_art_id=86.html"/>
+        <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location="index.php_kat_id=91_art_id=86.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>

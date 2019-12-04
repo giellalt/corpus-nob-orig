@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="dc2017-1.odt"/>
+        <parallel_text xml:lang="sme" location="dc2017-1.docx"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
@@ -280,7 +280,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="''"/>
+    <xsl:variable name="linespacing" select="'all=1'"/>
 
     <!--
         Choose which chapters to exclude from an epub file.

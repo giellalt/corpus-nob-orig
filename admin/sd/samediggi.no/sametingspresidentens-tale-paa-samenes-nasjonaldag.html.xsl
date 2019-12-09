@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://www.sametinget.no/Om-Sametinget/Arkiv-perioden-2016-2017/Pressemeldinger/Sametingspresidentens-tale-paa-samenes-nasjonaldag'"/>
+    <xsl:variable name="filename" select="'https://www.sametinget.no/Nyhetsarkiv/Sametingspresidentens-tale-paa-samenes-nasjonaldag'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Sametingspresidentens tale på samenes nasjonaldag'"/>
     <!--
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2017'"/>
+    <xsl:variable name="year" select="'2019'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="samedikki-presideantta-sami-albmotbeaivvi-sardni.html"/>
+        <parallel_text xml:lang="sme" location="samediggepresideanta-sardni-sami-albmotbeaivvi.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

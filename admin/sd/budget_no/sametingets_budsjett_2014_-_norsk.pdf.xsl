@@ -9,7 +9,7 @@
         The original name of the file that comes from the
         submitter of the document or the URL where the document has been fetched.
         These days it is automatically added by the add_files_to_corpus tool.
-        http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
+        https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
     <xsl:variable name="filename" select="'http://samediggi.no/content/download/4629/42654/version/4/file/Sametingets+budsjett+2014+-+norsk.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
@@ -179,17 +179,9 @@
     </xsl:variable>
 
     <!--
-        For pdf documents, mark which pages should be ignored.
-        The format for this is a comma separated list of page numbers
-        that should be skipped. It is also possible to use ranges.
-        Examples:
-        1, 2, 3, 4
-        1, 6-10, 15, 20, 25-30
-    -->
-    <xsl:variable name="skip_pages" select="'1-8,115,116,132'"/>
+        This variable is used for plain text files.
 
-    <!--
-        For txt documents, mark which lines should be ignored.
+        Mark which lines should be ignored.
         The format for this is a comma separated list of line numbers
         that should be skipped. It is also possible to use ranges.
         Examples:
@@ -199,6 +191,20 @@
     <xsl:variable name="skip_lines" select="''"/>
 
     <!--
+        This variable is used for pdf files.
+
+        Mark which pages should be ignored.
+        The format for this is a comma separated list of page numbers
+        that should be skipped. It is also possible to use ranges.
+        Examples:
+        1, 2, 3, 4
+        1, 6-10, 15, 20, 25-30
+    -->
+    <xsl:variable name="skip_pages" select="'1-8,115,116,132'"/>
+
+    <!--
+        This variable is used for pdf files.
+
         Margin of a page in a pdf document expressed as a percentage of
         the page width and height.
 
@@ -234,7 +240,9 @@
     <xsl:variable name="bottom_margin" select="'17=52,29=26,35=26,64=26,66=22,68=33,71=30,88=23,95=24,106=21,110=41,111=60,114=70,117=30'"/>
 
     <!--
-        Cut out a part from a page in pdf documents. Has the same format
+        This variable is used for pdf files.
+
+        Cut out a part from a page. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
@@ -244,19 +252,8 @@
     <xsl:variable name="inner_bottom_margin" select="'16=28,18=55,22=32,23=28,25=28,26=52,27=49,28=14,29=43,30=24,31=74,33=38,38=65,40=24,44=42,45=50,46=57,47=22,48=32,51=18,52=58,53=30,54=36,55=30,56=73,60=63,61=73,67=22,72=27,74=15,77=18,78=45,80=51,81=67,84=42,89=43,90=34,97=20,99=59,100=65,103=69,104=77,106=36,108=21,112=65,119=47,120=22,121=26,122=27,123=29,124=38,126=65,128=74,129=48,130=27'"/>
 
     <!--
-        This variable is used for epub or html files.
+        This variable is used for pdf files.
 
-        select contains comma separated xpath path pairs.
-        A path pair is separated by a semicolon.
-        Each path should start with .//body
-
-        Examples of valid pairs:
-        * .//body/div[1]/h2[1];.//body/div[3]/div[1]/h3[1]
-        * .//body/div[5];.//body/div[8]/div[3]/h1[1], .//body/div[11]/div[2];.//body/div[11]/div[5]
-    -->
-    <xsl:variable name="skip_elements" select="''"/>
-
-    <!--
         The default is set to all=1.5.
 
         The format for linespacing is:
@@ -283,24 +280,61 @@
     <xsl:variable name="linespacing" select="''"/>
 
     <!--
-        Choose which chapters to exclude from an epub file.
+        This variable is used for pdf files.
+
+        This is the -wbt option of pdftohtml, which converts pdf files to
+        a poppler specific xml.
+
+        If a file converted from pdf contains words that are separated by
+        spaces that really should have no spaces (e.g. W O R D), raising
+        this value may help.
+
+        Quote from the pdftohtml help:
+        -wbt <fp> : word break threshold (default 10 percent)
     -->
-    <xsl:variable name="epub_excluded_chapters" select="''"/>
+    <xsl:variable name="word_break_threshold" select="'10'"/>
 
     <!--
+        This variable is meant for pdf files, but not in use.
+
         Information about what is normal text size in pdf documents.
     -->
     <xsl:variable name="main_sizes" select="''"/>
 
     <!--
+        This variable is meant for pdf files, but not in use.
+
         Information about what is title sizes in pdf documents.
     -->
     <xsl:variable name="title_sizes" select="''"/>
 
     <!--
+        This variable is meant for pdf files, but not in use.
+
         Information about what styles titles have in pdf document.
     -->
     <xsl:variable name="title_styles" select="''"/>
+
+    <!--
+        This variable is used for epub or html files.
+
+        select contains comma separated xpath path pairs.
+        A path pair is separated by a semicolon.
+        Each path should start with .//body
+
+        Examples of valid pairs:
+        * .//body/div[1]/h2[1];.//body/div[3]/div[1]/h3[1]
+        * .//body/div[5];.//body/div[8]/div[3]/h1[1], .//body/div[11]/div[2];.//body/div[11]/div[5]
+    -->
+    <xsl:variable name="skip_elements" select="''"/>
+
+    <!--
+        This variable is used for epub files.
+
+        Choose which chapters to exclude from an epub file.
+    -->
+    <xsl:variable name="epub_excluded_chapters" select="''"/>
+
     <!--
         Add all paragraphs that should have xml:lang=X
         Uncomment the following and add the paths, for example:

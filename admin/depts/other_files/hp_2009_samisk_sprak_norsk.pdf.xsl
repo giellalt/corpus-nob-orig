@@ -200,7 +200,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1-7'"/>
+    <xsl:variable name="skip_pages" select="'1-7, 68'"/>
 
     <!--
         This variable is used for pdf files.
@@ -237,7 +237,7 @@
     <xsl:variable name="right_margin" select="'all=7'"/>
     <xsl:variable name="left_margin" select="'all=7'"/>
     <xsl:variable name="top_margin" select="'9=35, 10;17;21;25;41;60;67=30'"/>
-    <xsl:variable name="bottom_margin" select="'all=10, 9=30, 14;17;18=18, 67=50'"/>
+    <xsl:variable name="bottom_margin" select="'all=10, 9=30, 14;17=18, 19=19, 20=20, 43=17, 67=50'"/>
 
     <!--
         This variable is used for pdf files.

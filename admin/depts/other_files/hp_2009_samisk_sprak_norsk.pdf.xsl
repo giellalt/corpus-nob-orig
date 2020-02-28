@@ -200,7 +200,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'1-7, 68'"/>
+    <xsl:variable name="skip_pages" select="'1-7, 60, 68'"/>
 
     <!--
         This variable is used for pdf files.
@@ -246,10 +246,10 @@
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'43=3, 48=3, 54=48, 59=3, 61=55, 62=49, 64=3'"/>
+    <xsl:variable name="inner_left_margin" select="'43=44, 48=52, 54=3, 59=42, 61=3, 62=3, 64=53'"/>
+    <xsl:variable name="inner_top_margin" select="'43=3, 48=3, 54=36, 59=45, 61=3, 62=40, 64=3'"/>
+    <xsl:variable name="inner_bottom_margin" select="'43=50, 48=50, 54=3, 59=3, 61=31, 62=35, 64=59'"/>
 
     <!--
         This variable is used for pdf files.

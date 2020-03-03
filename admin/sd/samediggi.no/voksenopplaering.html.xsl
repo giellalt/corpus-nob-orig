@@ -172,7 +172,7 @@
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="geervelierehtimmie.html"/>
         <parallel_text xml:lang="sme" location="ravisolbmuidoahpahus.html"/>
-        <parallel_text xml:lang="smj" location="aallessjattukaahpadus.html"/>
+        <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

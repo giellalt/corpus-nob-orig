@@ -172,7 +172,7 @@
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="gaskenasjonaale-barkoe.html"/>
         <parallel_text xml:lang="sme" location="riikkaidgaskasas-bargu.html"/>
-        <parallel_text xml:lang="smj" location="rijkajgasskasasj-barggo.html"/>
+        <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

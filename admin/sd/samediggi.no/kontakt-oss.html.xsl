@@ -172,7 +172,7 @@
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="gaskesadth-mijjine.html"/>
         <parallel_text xml:lang="sme" location="valdde-oktavuoda.html"/>
-        <parallel_text xml:lang="smj" location="valde-aktijvuodav-mijajn.html"/>
+        <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

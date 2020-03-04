@@ -172,7 +172,7 @@
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="alta-2013-kultuvreprogramme-annjebodts.html"/>
         <parallel_text xml:lang="sme" location="kulturprogramma.html"/>
-        <parallel_text xml:lang="smj" location="alta-2013-kulturprogramma-gasskabaaddaasasj.html"/>
+        <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

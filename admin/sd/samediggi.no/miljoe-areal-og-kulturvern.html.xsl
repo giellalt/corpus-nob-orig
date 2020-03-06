@@ -172,7 +172,7 @@
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="byjrese-areale-jih-kultuvrevarjelimmie.html"/>
         <parallel_text xml:lang="sme" location="biras-areala-ja-kultursuodjaleapmi.html"/>
-        <parallel_text xml:lang="smj" location="biras-arealla-ja-kultursuodjalus.html"/>
+        <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

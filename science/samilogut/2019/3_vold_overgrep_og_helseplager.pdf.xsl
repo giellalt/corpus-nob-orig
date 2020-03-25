@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
+        <parallel_text xml:lang="sme" location="3_veahkavalddalasvuohta_ja_illasteapmi.pdf"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'22-24'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -230,8 +230,8 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'12=40, 20=32'"/>
+    <xsl:variable name="bottom_margin" select="'1=16, 8=44, 9=42, 10=43, 19=38'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
@@ -280,7 +280,7 @@
         all=9, 8=12
         1;3;8=20, 4;5;7=10
     -->
-    <xsl:variable name="linespacing" select="''"/>
+    <xsl:variable name="linespacing" select="'all=3'"/>
 
     <!--
         Choose which chapters to exclude from an epub file.

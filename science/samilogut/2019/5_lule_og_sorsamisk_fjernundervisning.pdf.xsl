@@ -186,7 +186,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="''"/>
+    <xsl:variable name="skip_pages" select="'9, 12'"/>
 
     <!--
         For txt documents, mark which lines should be ignored.
@@ -230,18 +230,18 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'6=30'"/>
+    <xsl:variable name="bottom_margin" select="'2=13, 4=15, 6=13, 8=16'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'3=7'"/>
+    <xsl:variable name="inner_left_margin" select="'3=7'"/>
+    <xsl:variable name="inner_top_margin" select="'3=63'"/>
+    <xsl:variable name="inner_bottom_margin" select="'3=17'"/>
 
     <!--
         This variable is used for epub or html files.

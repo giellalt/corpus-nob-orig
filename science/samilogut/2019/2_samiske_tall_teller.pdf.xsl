@@ -231,17 +231,17 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="bottom_margin" select="'4=14, 5=18, 6=60, 8=13, 9=14, 10=65'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'9=7'"/>
+    <xsl:variable name="inner_left_margin" select="'9=7'"/>
+    <xsl:variable name="inner_top_margin" select="'9=50'"/>
+    <xsl:variable name="inner_bottom_margin" select="'9=40'"/>
 
     <!--
         This variable is used for epub or html files.

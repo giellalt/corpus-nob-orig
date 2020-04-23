@@ -12,23 +12,23 @@ Les mer om Nasjonal samling og Vidkun Quisling.
 
 Rasehygiene og antisemitisme$(noun,con|antisemittisme):
 
-Som i de fleste land var rasehygiene et tema som ofte ble diskutert. Mange var opptatt av hvordan man kunne holde rasen ren. Innenfor alle politiske partier hadde raseteoretikere sine talsmenn. I 1934 kom en ny lov om sterilisering som gav politi og helsemyndigheter rett til å sterilisere sinnsyke$(noun,comps|sinnssyke), 'sjelelig svekkede individer' eller personer som (på 'på)¥(pr,redup|'på) grunn av abnorm kjønnsdrift vil begå sedelighetsforbrytelser'. Loven ble endret først i 1961.
+Som i de fleste land var rasehygiene et tema som ofte ble diskutert. Mange var opptatt av hvordan man kunne holde rasen ren. Innenfor alle politiske partier hadde raseteoretikere sine talsmenn. I 1934 kom en ny lov om sterilisering som gav politi og helsemyndigheter rett til å sterilisere sinnsyke$(noun,comps|sinnssyke), 'sjelelig svekkede individer' eller personer som {på 'på}¥{pr,redup|'på} grunn av abnorm kjønnsdrift vil begå sedelighetsforbrytelser'. Loven ble endret først i 1961.
 
-Under og etter første verdenskrig kunne det registreres en stigende antisemittisme i Norge. I de krigførende landene fikk jødene skylden for krigen og for nederlaget og for nedgangstidene. Det var behov for syndebukker. Dette, koblet sammen med frykten for kommunismen, gjorde at 'bolsjevikjødene' ble et samlebegrep for en uønsket gruppe. Seinere kom jødene som flyktet fra Hitlers (Tyskland,)¥(punct,redun|Tyskland) til å bli like uønsket. Da Folkeforbundet i 1934 bad Norge til å skaffe plass til 100 flyktninger, ble svaret nei. Man regnet med at det dreide seg om jøder, og dem ville man ikke ha.
+Under og etter første verdenskrig kunne det registreres en stigende antisemittisme i Norge. I de krigførende landene fikk jødene skylden for krigen og for nederlaget og for nedgangstidene. Det var behov for syndebukker. Dette, koblet sammen med frykten for kommunismen, gjorde at 'bolsjevikjødene' ble et samlebegrep for en uønsket gruppe. Seinere kom jødene som flyktet fra Hitlers {Tyskland,}¥{punct,redun|Tyskland} til å bli like uønsket. Da Folkeforbundet i 1934 bad Norge til å skaffe plass til 100 flyktninger, ble svaret nei. Man regnet med at det dreide seg om jøder, og dem ville man ikke ha.
 
-Holdningene til jøder var i det hele tatt verken bedre eller verre i Norge (enn som)¥(conj,redun|enn) i andre (steder)€(noun,der|land). Ca. 200 jøder fikk innreisetillatelse til Norge i mellomkrigstiden.
+Holdningene til jøder var i det hele tatt verken bedre eller verre i Norge {enn som}¥{conj,redun|enn} i andre {steder}€{noun,der|land}. Ca. 200 jøder fikk innreisetillatelse til Norge i mellomkrigstiden.
 
 Samer og kvener:
 
-Samer og kvener var lenge de to eneste etsniske$(adj,con|etniske) minoritetene i Norge. Kvener er folk av finsk avstamning som innvandret fra slutten av 1600-tallet av. Samene har bodd i landet fra de tidligste tider, med Finnmark som (kjerneområder)£(noun,pl,sg|kjerneområde).
+Samer og kvener var lenge de to eneste etsniske$(adj,con|etniske) minoritetene i Norge. Kvener er folk av finsk avstamning som innvandret fra slutten av 1600-tallet av. Samene har bodd i landet fra de tidligste tider, med Finnmark som {kjerneområder}£{noun,pl,sg|kjerneområde}.
 
-Kvenene ble nøye overvåket av myndighetene, som lenge (var redde fot)¥(pp,typo|var redde for) en russisk ekspansasjon$(noun,syll|ekspansjon). Det beste vern var en befolkning som oppfattet seg som nordmenn.
+Kvenene ble nøye overvåket av myndighetene, som lenge {var redde fot}¥{pp,typo|var redde for} en russisk ekspansasjon$(noun,syll|ekspansjon). Det beste vern var en befolkning som oppfattet seg som nordmenn.
 
 Les mer om 'den finske fare' og tiltakene myndighetene gjorde for å fornorske nordområdene.
 
 Ishavsimperialisme
 
-I verdenshistorien knyttes begrepet imperialisme til tidsrommet (1870-1914. nasjonalismen)¥(noun,cap|1870-1914. Nasjonalismen) og utrberdelseb$(noun,mix|utbredelsen) av læren om raseoverlegenhet hang sammen med imperialismen og kappløpet mellom de imperialistiske landene om kolonier i Afrika og asia$(noun,cap|Asia). Norkse$(adj,typo|Norske) myndigheters politikk i Finnmark har klare pralaeller$(noun,mix|paralleller) til stormaktenes imperialisme. Også etter første verdenskrig finner vi imperialistsiske$(adj,con|imperialistiske) trekk ui$(pp,typo|i) norks$(adj,typo|norsk) politikk. Ingen mente vi skulle ta opp konkuransen$(noun,con|konkurransen) med de store, men det fantes en del områder i evrden$(noun,typo|verden) som (ingen ingen)¥(pers,redup|ingen) krevde herredømme over, og som enkelte nordmenn mente vi kunne ha bruk for.
+I verdenshistorien knyttes begrepet imperialisme til tidsrommet {1870-1914. nasjonalismen}¥{noun,cap|1870-1914. Nasjonalismen} og utrberdelseb$(noun,mix|utbredelsen) av læren om raseoverlegenhet hang sammen med imperialismen og kappløpet mellom de imperialistiske landene om kolonier i Afrika og asia$(noun,cap|Asia). Norkse$(adj,typo|Norske) myndigheters politikk i Finnmark har klare pralaeller$(noun,mix|paralleller) til stormaktenes imperialisme. Også etter første verdenskrig finner vi imperialistsiske$(adj,con|imperialistiske) trekk ui$(pp,typo|i) norks$(adj,typo|norsk) politikk. Ingen mente vi skulle ta opp konkuransen$(noun,con|konkurransen) med de store, men det fantes en del områder i evrden$(noun,typo|verden) som {ingen ingen}¥{pers,redup|ingen} krevde herredømme over, og som enkelte nordmenn mente vi kunne ha bruk for.
 
 Les mer om Norges imperialisme på sørishavet$(noun,cap|Sørishavet), spitsbergen$(noun,cap|Spitsbergen) og grønnland$(noun,mix|Grønland).
 

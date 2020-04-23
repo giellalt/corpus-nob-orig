@@ -55,7 +55,7 @@ Seb flytter for seg selv , {semmen}${adv,vow|sammen} med noen fra skolen hans. d
 
 Ola sin {kjereste}${noun,wow|kjæreste} i Trondheim blir gravid og han må flytte dit. Han blir voksen og mister {kontaket}${noun,typo|kontakten} med de andre etter hvert. Men han var nede og besøkte dem en gang , og da var han ikke {lykelig}${adj,doubc|lykkelig}!
 
-Gunnar blir {komunsit}${noun,mix|kommunist} og prøver {å lee etter}€{verb,typo|å leve etter} Stalin og Maos regler. Han går rundt på Karl {johan}${prop,cap|Johan} og deler ut {flyblader}${noun,doubsyl|flygeblader}. (kim ha {vansligheter${noun,doubsyl|vanskeligheter}}}¥{mix,typo,infinitive,present|Kim har vanskeligheter} med å bli voksen og en dag bryter han sammen. Han havner på Gaustad , {gunnar}${prop,cap|Gunnar} og Seb kommer for å redde {han. men det er}¥{conj,cap|han. Men det er} ikke noen hull eller snarveier ut fra {gaustad}${prop,cap|Gaustad}. Han må klatre over gjerdet..
+Gunnar blir {komunsit}${noun,mix|kommunist} og prøver {å lee etter}€{verb,typo|å leve etter} Stalin og Maos regler. Han går rundt på Karl {johan}${prop,cap|Johan} og deler ut {flyblader}${noun,doubsyl|flygeblader}. (kim ha {{vansligheter}${{}noun,doubsyl|vanskeligheter}}}¥{mix,typo,infinitive,present|Kim har vanskeligheter} med å bli voksen og en dag bryter han sammen. Han havner på Gaustad , {gunnar}${prop,cap|Gunnar} og Seb kommer for å redde {han. men det er}¥{conj,cap|han. Men det er} ikke noen hull eller snarveier ut fra {gaustad}${prop,cap|Gaustad}. Han må klatre over gjerdet..
 
 {MIN MENIG}€{noun,typo|MIN MENING}
 

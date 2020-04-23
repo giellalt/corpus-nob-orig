@@ -139,7 +139,7 @@ Sort kabel
 
 12 volt batteri Rød kabel med 3 {amp}${noun,x|amperes} sikring
 
-VIKTIG: VIKTIG: Bruk ikke dette produktet uten en (3 {Amp${noun,x|Amperes}}}¥{noun,cap|3 amperes} sikring koblet til ekkoloddet. Hvis du ikke tar i bruk sikringen gjelder ikke garantien på eventuelle skader ved kortslutning.
+VIKTIG: VIKTIG: Bruk ikke dette produktet uten en (3 {{Amp}${{}noun,x|Amperes}}}¥{noun,cap|3 amperes} sikring koblet til ekkoloddet. Hvis du ikke tar i bruk sikringen gjelder ikke garantien på eventuelle skader ved kortslutning.
 
 MONTERING I BRAKETT ELLER INNFELT
 

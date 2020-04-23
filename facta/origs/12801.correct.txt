@@ -209,7 +209,7 @@ Overflate støy
 {Bunn forhold}${noun,nosplit|Bunnforhold} cover {Fiske ekko}${noun,nosplit|Fiskeekko}
 Grålinje® ®
 
-Fullt bilde med digital dybde og {temperature}${noun,typo|temperatur}. Fish I.D. {(fish symbols) funksjonen{${noun,comps|(fish symbols)-funksjonen} er skrudd av
+Fullt bilde med digital dybde og {temperature}${noun,typo|temperatur}. Fish I.D. {(fish symbols) {funksjonen{}${{}noun,comps|(fish symbols)-funksjonen} er skrudd av
 
 {BILDE HASTIGHET}${noun,nosplit|BILDEHASTIGHET} (Stopp og start) Bildet beveger seg fra høyre til venstre på skjermen. Man har muligheten til å stoppe bildet for å studere detaljene. For å stoppe bildet, trykk MENU til {SCROLL SPEED menyen}${noun,comps|SCROLL SPEED-menyen} dukker opp. Bruk PIL NED og velg MIN. Bildet fryses og det vil stå stopp i høyre hjørne. Trykk PIL OPP for å sette bildet i bevegelse igjen, trykk PWR for å fjerne menyen. I de fleste fiskesituasjoner lønner det seg å ha maks hastighet på bildet. Les mer om dette under {Scroll Speed menyen}${noun,comps|Scroll Speed-menyen}. MERK: MERK: Du kan ikke gå ut av {Scroll Speed menyen}${noun,comps|Scroll Speed-menyen} før du har økt hastigheten. Skulle du ved en feiltagelse trykke PWR, trykk MENU til du finner {SCROLL SPEED menyen}${noun,comps|SCROLL SPEED-menyen} {og sette bildet}£{verb,verb,imprt,infin,tense|og sett bildet} i bevegelse igjen.
 

@@ -1,15 +1,15 @@
-{Norske politikere bør starte med å være litt mer ydmyk}£{adj,vow,plural,singular|Norske politikere bør starte med å være litt mer ydmyke} og legge ideologier til side når {det gjelder Norsk forsvarspolitikk}¥{adj,x|det gjelder norsk forsvarspolitikk}. Jeg sikter nå til SV's utsagn om at det muligens blir ferre$(adj,|færre) fly enn først antatt og FRP's krav om å få studere alle dokumenter til minste detalj.
+{Norske politikere bør starte med å være litt mer ydmyk}£{adj,vow,plural,singular|Norske politikere bør starte med å være litt mer ydmyke} og legge ideologier til side når {det gjelder Norsk forsvarspolitikk}¥{adj,x|det gjelder norsk forsvarspolitikk}. Jeg sikter nå til SV's utsagn om at det muligens blir {ferre}${adj,|færre} fly enn først antatt og FRP's krav om å få studere alle dokumenter til minste detalj.
 
-Det er en stadig økende missnøye$(noun,onec|misnøye) med hvordan forsvaret blir behandlet og hvor lite bevilgninger det får.
+Det er en stadig økende {missnøye}${noun,onec|misnøye} med hvordan forsvaret blir behandlet og hvor lite bevilgninger det får.
 
-Forsvarspolitikk er også samfunds$(noun|samfunns-) og {sosial politikk}¥{noun,cmp|sosialpolitikk} og ingen politisk ideologi skal stå i veien for norges$(prop,cap|Norges) sikkerhet.
+Forsvarspolitikk er også {samfunds}${noun|samfunns-} og {sosial politikk}¥{noun,cmp|sosialpolitikk} og ingen politisk ideologi skal stå i veien for {norges}${prop,cap|Norges} sikkerhet.
 
 Den stadige nedbyggingen, mangel på penger og politikere som legger nesen sin oppi hva slags utstyr forsvaret trenger eller ikke er kommet til det punktet hvor vi som befolkning bør si at nok er nok. At vi vil ha et forsvar som faktisk gjør oss trygge.
 
 At halve militæret sitter {på lager lager}¥{noun,redup|på lager} og ligger i havn er helt uakseptabelt.
 
-Jeg skammer meg over alle som sitter i regjering og på stortinget$(prop,cap|Stortinget) og deres totale mangel på politiske baller til å gjøre det som er rett istede$(adv,con|isteden) for å gjøre det som er mest populært i media og for å få velgere. Det er slik man ødelegger et land.
+Jeg skammer meg over alle som sitter i regjering og på {stortinget}${prop,cap|Stortinget} og deres totale mangel på politiske baller til å gjøre det som er rett {istede}${adv,con|isteden} for å gjøre det som er mest populært i media og for å få velgere. Det er slik man ødelegger et land.
 
 Hva er deres mening?
 
-PS. Media burde få dette på dagsorden istede$(adv,con|isteden) for å skrive om at en eller anne$(adv,typo|annen) kjendis mistet trusa si i et tv-program (hint VG!).
+PS. Media burde få dette på dagsorden {istede}${adv,con|isteden} for å skrive om at en eller {anne}${adv,typo|annen} kjendis mistet trusa si i et tv-program (hint VG!).

@@ -6,16 +6,16 @@ herremann som levde opp til sin stilling, alltid elegant i skreddersydde klær, 
 folkemunne kalt 'Kongen av Sørlandet'. Faren holdt alltid en formell tone når han snakket til
 sine sønner, {avsluttet hver setning med 'min gutt', og sønnen svart med}£{v,x,v,v,tense|avsluttet hver setning med 'min gutt', og sønnen svarte med}: 'Javel, min far'.
 Ingvald Bjørneboe, faren, var oppfarende og kunne bli sint, men han slo aldri sine barn eller
-sin kone. Han var måteholden med alkohol, noe sønnen ikke kom til å være. Ingvald hadden$(v,typo|hadde) en viss svakhet for Jens, så han ble sjelden ordentilig$(adj,typo|ordentlig) sint på ham. 
+sin kone. Han var måteholden med alkohol, noe sønnen ikke kom til å være. Ingvald {hadden}${v,typo|hadde} en viss svakhet for Jens, så han ble sjelden {ordentilig}${adj,typo|ordentlig} sint på ham. 
 
 Det hendte ofte at det var store fester hos Bjørneboe, og barna måtte da holde seg unna. En
 historie forteller at en gang da Jens ble vist vekk, ble Jens veldig fornærmet. Men under
-middagen begynte lyskronen$(noun,compe|lysekronen) i taket å svaie. På loftet fant man Jens, i full sving med en
+middagen begynte {lyskronen}${noun,compe|lysekronen} i taket å svaie. På loftet fant man Jens, i full sving med en
 skiftenøkkel. Han forsøkte iherdig å løsne den solide mutteren som {festet lampen gjennom taket}€{prep,w|festet lampen i taket}. Var opprøreren Jens Bjørneboe så smått begynt å våkne?
 
 Bjørneboe hadde aldri noen frykt for ytre trusler. Ved en anledning fortalte broren hans om
 Wilhelm Tell, og broren ville prøve en noenlunde samme bragd. Han satte ett egg på hodet til
-Jens, målte opp avstanden og skøt$(verb,cns|skjøt), og Jens kjente at noe rant nedover hodet, nemlig egget.
+Jens, målte opp avstanden og {skøt}${verb,cns|skjøt}, og Jens kjente at noe rant nedover hodet, nemlig egget.
 Dette viser noe av hans karakter, var han redd, var han for stolt til å vise det. Han ville ikke
 bli kalt feig.
 
@@ -29,11 +29,11 @@ han tok sitt eget liv året etterpå. Men denne boken innleder han med en hendel
 barndommen, han var da 13 år.
 
      'Jeg var bare guttungen og slengte et reip over en gren, samtidig som jeg
-     hadde lagt en renneløkke rundt halsen. Så trakk jeg til og bisste$(v,con|visste) ikke mer før
+     hadde lagt en renneløkke rundt halsen. Så trakk jeg til og {bisste}${v,con|visste} ikke mer før
      jeg våknet på bakken. Så det er ikke noe teknisk problem - å henge seg'.
 
 Dette var altså hans første selvmordsforsøk, og mye tyder på at han allerede da led av en
-depresjon, det som man på fagspråket kaller en endogen depresjon, dvs. en {{medfød}${adj,x|medfødt}, svær {deprsjon}${noun,x|depresjon}}£{mix|medfødt, vanskelig depresjon}. Hvor sterke depresjoner han hadde dengang$(pron,split|den gang), var han senere ikke klar over, for han
+depresjon, det som man på fagspråket kaller en endogen depresjon, dvs. en {{medfød}${adj,x|medfødt}, svær {deprsjon}${noun,x|depresjon}}£{mix|medfødt, vanskelig depresjon}. Hvor sterke depresjoner han hadde {dengang}${pron,split|den gang}, var han senere ikke klar over, for han
 husket som kjent ikke så mye av sin barndom. Men han var veldig mye plaget av sykdom fra
 spedbarnsalder og oppover. Han holdt da på å dø av en dobbeltsidig lungebetennelse, og
 senere skulle han komme til å få flere alvorlige anfall av lungebetennelser. 15 år gammel ble
@@ -43,11 +43,11 @@ han tatt ut av skolen ett år på grunn av pleveritt, en betennelse i lungene.
 'LES INN DIKTET EN BARNDOM PÅ KASSETT. S. 22 WANDRUP.'
 
 
-Her er barnets avstant$(noun,con|avstand) til voksenverdenen fanget inn i sonettenes to siste linjer. Dette
+Her er barnets {avstant}${noun,con|avstand} til voksenverdenen fanget inn i sonettenes to siste linjer. Dette
 'alvorlige med kåpe på' er nærmest som en gjenstand utenfor hans virkelighet. Bare tankenes
 verden er virkelig for ham, der han kan 'høre dagen gå'. Han er den ene mot de mange i sin
 barndoms hule under under teppet, i et rom som bare er hans eget; han er isolert. Kanskje var
-det disse halvglemte episodene av barndommen som gjørd$(v, typo|gjør) J. Bjørneboe til en av vår
+det disse halvglemte episodene av barndommen som {gjørd}${v, typo|gjør} J. Bjørneboe til en av vår
 litteraturs fremste barneskildrere? Den rørende svake og redde 'Jonas', med innestengte
 drømmer og engstelse som ingen voksen kunne gjennomtrenge?
 
@@ -60,7 +60,7 @@ blomstret han opp og levde som et vanlig barn. Det hendte faktisk at han som bar
 sin fars barbervann. 
 
 Utad virket Bjørneboe smilende og i godt humør, en 'snill' gutt. Han var selvsagt ikke bare
-ulykkelig og deprimert i sin barndom. Han var full av sprell og plåfunn$(noun,typo|påfunn). Men av det han
+ulykkelig og deprimert i sin barndom. Han var full av sprell og {plåfunn}${noun,typo|påfunn}. Men av det han
 husker, størkner det svarte mer og mer. Barndommens lyse netter blir mørkere, de blir
 truende. 
 
@@ -83,30 +83,30 @@ så stille på ham, før han sa:
 Når Bjørneboe kom opp i tenårene begynte virkelig opprøreren i ham å få næring. I løpet av
 det året han hadde pleveritt, hadde lest mye klassisk litteratur. Han fordypet seg også rundt
 den tyske filosofen Friedrich Nietzsche; Filosofen som dyrket unntaksmennesket, den
-suverene eneren som hever seg over lov og moral. Bjørneboe lærer at han må undresøke$(v,typo|undersøke) alt
+suverene eneren som hever seg over lov og moral. Bjørneboe lærer at han må {undresøke}${v,typo|undersøke} alt
 fra grunnen og ikke godta nedarvet dogmatikk. Det vokser fram en forakt for autoriteter, noe
-som lærerene$(noun,comp0|lærerne) kom til å måtte lide under. I følge en av hans tidligere lærere satt han en
+som {lærerene}${noun,comp0|lærerne} kom til å måtte lide under. I følge en av hans tidligere lærere satt han en
 morgen med bena på pulten og leste med suveren forakt for undervisningen dagens avis. Men
 bak opprøreren var en veldig moden gutt rent intellektuelt sett. Hans stiler lå på et helt annet
 nivå av klassen. 'Dyptloddende besvarelser, tindrende klare i intelligens og
 samfunnsradikalisme,' som en av hans lærere uttrykte det. Men det tok ikke lang tid før han
 ble utvist fra skolen i Kristiansand, en skole som ironisk nok ble {stiftet av han tipp-oldefar}¢{pron,typo|stiftet av hans tipp-oldefar}.
 
-Jens begynner på en skole i Flekkefjord, men {den ung gymnasiasten}£{adj,fin,fin,infin,fin|den unge gymnasiasten} er fremdelesk$(adv,typo|fremdeles) i humør.
+Jens begynner på en skole i Flekkefjord, men {den ung gymnasiasten}£{adj,fin,fin,infin,fin|den unge gymnasiasten} er {fremdelesk}${adv,typo|fremdeles} i humør.
 Festing, streker og pensjonatskoleleven preget hans tilværelse. Han {gjør seg også uvenns}¥{prep,missing|gjør seg også til uvenns} med
-politiet etter en del grove utsagn o.l., og han havner 17 år gammel i fyllearesten$(noun,doubc|fyllearresten). Etter senere
+politiet etter en del grove utsagn o.l., og han havner 17 år gammel i {fyllearesten}${noun,doubc|fyllearresten}. Etter senere
 utsagn fra ham selv, hylte han som en hund det meste av tiden. Senere havnet han i rettssalen
 sammen med et par venner.  En av Bjørneboes kamerater hadde en venninne som han hadde
 vært sammen med en tid, også i sengen. En dag holder kameratene henne for narr.
 Bjørneboes venn forlater soverommet i stummende mørke, mens piken ligger der igjen. Uten
 at hun vet det, er det Jens som kommer tilbake og tar kameratens plass. Til stor forskrekkelse
 oppdager hun etterpå at det var Bjørneboe, og hun var selv ikke fylt 16 år. Politiet ble koblet
-inn, og de måtte møte opp til rettsak$(noun,doubc|rettssak). Denne episoden er foresten$(noun,doubc|forresten) gjengitt i boken 'Jonas'.
+inn, og de måtte møte opp til {rettsak}${noun,doubc|rettssak}. Denne episoden er {foresten}${noun,doubc|forresten} gjengitt i boken 'Jonas'.
 Enden på visa ble i alle fall at han fikk åtte måneder betinget fengsel. En ny utvisning fra en
 skole følger etter rettsaken. Hans far tar likevel seg ikke så alt for nær av saken, og han
 dukker opp i rettssaken med {en flask whisky}€{noun,typo|en flaske whisky} til sin sønn.
 
-1939 døde faren til Jens, og hans sist ord til Jens var vistnok$(noun,doubc|visstnok): 'Du er en snill gutt, Jens, men
+1939 døde faren til Jens, og hans sist ord til Jens var {vistnok}${noun,doubc|visstnok}: 'Du er en snill gutt, Jens, men
 hva i all verden skal det bli av deg?' Samme år reiste Jens sammen med sin mor til Tyskland.
 Han møtte der et Tyskland på trappene til en ny krig, et Tyskland som ropte etter lebensraum.
 Dette gikk inn på Jens, siden han var nært knyttet til Tyskland gjennom den tyske kultur:
@@ -129,24 +129,24 @@ Han ble raskt en del av gatebildet.
 Jens Bjørneboe begynte å male hos Edvard Vigebo, der han raskt markerte seg som et
 dominerende innslag i elevmiljøet. Etter at skolen ble stengt av tyskerne, fortsatte han
 malerstudiene på Axel Revold illegale institutt. Ved siden av malingen var han fremdeles
-interessert i litteratur, og han kunne langd$(adj,typo|lange) sekvenser av Dosojevskij$(prop,cons|Dostojevskij) utenat. I denne perioden
+interessert i litteratur, og han kunne {langd}${adj,typo|lange} sekvenser av {Dosojevskij}${prop,cons|Dostojevskij} utenat. I denne perioden
 gjorde Bjørneboe seg også til venns med Karl Brodersen, en belest mann som kunne mye om
-filosofi. Brodersen innførte Bjørneboe i tankene til Kierkegård$(prop,aa|Kierkegaard) og Rudolf Steiner. 
+filosofi. Brodersen innførte Bjørneboe i tankene til {Kierkegård}${prop,aa|Kierkegaard} og Rudolf Steiner. 
 
 1943 rømte Bjørneboe til Sverige sammen med Brodersen etter at han fikk vite at han kom til
-å bli utkalt til tyskernes forhatte arbeidstjeneste. I Stocholm$(prop,con|Stockholm) søkte de om flyktningsstatus$(noun,cmp|flyktningestatus): 
+å bli utkalt til tyskernes forhatte arbeidstjeneste. I {Stocholm}${prop,con|Stockholm} søkte de om {flyktningsstatus}${noun,cmp|flyktningestatus}: 
 {Tjeneste mannen}¢{noun,nosplit|Tjenestemannen} spurte da om han var tidligere straffet, men Bjørneboe sa at han ikke var
-det. Men saken fra Flekkefjor$(prop,silent|Flekkefjord) forfulgte Bjørneboe, så han måtte nøye seg med status som
-student. Han ble sterkt knyttet til det antroposofiske (miljløet$(noun,typo|miljøet) )I¢(prep,cap|miljøet i) Stockhom$(prop,con|Stockholm), og han fortsatte å
-male der også. Han traff der på den tyskjødiske$(adj,comps|tysk-jødiske) kvinnen Lisel Funk som han giftet seg med.
+det. Men saken fra {Flekkefjor}${prop,silent|Flekkefjord} forfulgte Bjørneboe, så han måtte nøye seg med status som
+student. Han ble sterkt knyttet til det antroposofiske {{miljløet}${noun,typo|miljøet} {}I}¢{prep,cap|miljøet i} {Stockhom}${prop,con|Stockholm}, og han fortsatte å
+male der også. Han traff der på den {tyskjødiske}${adj,comps|tysk-jødiske} kvinnen Lisel Funk som han giftet seg med.
 Hun lærte ham mye om tysk kultur og diktning, han fordypet seg da blant annet i Rainer
 Maria Rilke. 1945 reiste han tilbake til Norge. Allerede neste    år, 1946, blir et bilde som
 han har malt godtatt på høstutstillingen. Men til slutt blir lerretet for trangt for ham. Han får
 ikke utløp for følelsene som presser på. Han begynner å skrive.
 
 For en del av sine inntekter fra en separatutstilling i Kristiansand kjøper Bjørneboe en
-skrivemaskin. Han begynner å skrive kronikker i Aftenposten om alt fra sinnsyke$(adj,comps|sinnssyke) malere til
-reiser han har hatt. Han samler alle de humoristiske reiserbrevene$(nuon,comp0|reisebrevene) og vil utgi dem, men ingen
+skrivemaskin. Han begynner å skrive kronikker i Aftenposten om alt fra {sinnsyke}${adj,comps|sinnssyke} malere til
+reiser han har hatt. Han samler alle de humoristiske {reiserbrevene}${nuon,comp0|reisebrevene} og vil utgi dem, men ingen
 forlag vil utgi dem på dette tidspunkt. Han har fått sine første refusjoner, og de kom ikke til å
 bli de siste. Som han selv sa:
 
@@ -156,14 +156,14 @@ bli de siste. Som han selv sa:
      Wandrup'
 
 I disse årene begynte han å skrive sin første roman. Den het Hertug Hans, men Bjørneboe
-hadde ikke hell med seg. I følge Fredrik Wandrup er det forundelig$(adj,typo|forunderlig) at denne boken ble
+hadde ikke hell med seg. I følge Fredrik Wandrup er det {forundelig}${adj,typo|forunderlig} at denne boken ble
 refusert, siden det slettes ikke var noen dårlig bok. Den er ifølge samme mann, en litterær
 perle i Bjørneboes produksjon, usedvanlig velskrevet og spennende. Denne boken kom
 omsider ut i 1972, altså 20 år etter at den ble skrevet.
 
 Jens Bjørneboe debuterte da i stedet som lyriker. En kveld han satt i sin kalde hybel, begynte
 han å tenke på sonetter. Han arbeidet hele natten, og neste morgen hadde Bjørneboe 4 dikt og
-sonetter i hånden. Disse leverte han til sin fetter Andrè$(prop,vow|André) Bjerke, og Bjerke trykker dem
+sonetter i hånden. Disse leverte han til sin fetter {Andrè}${prop,vow|André} Bjerke, og Bjerke trykker dem
 øyeblikkelig i sitt eget blad, 'Ordet'. Dette skjedde altså i året 1950. Etter dette sender
 Bjørneboe en diktsamling under tittelen 'Dikt' til vurdering hos Aschehoug, der samlingen
 blir utgitt året etterpå. Bjørneboes forbilde for diktningen var Rilke, og diktene hans svinger
@@ -205,7 +205,7 @@ skal begynne på skolen. Vi får raskt kjennskap til en av Jonas' kvaliteter; fa
 kreativiteten. Vi får også et innblikk i familien. Moren Anna er omsorgsfull, men hun er nå
 bekymret for Jonas som skal begynne på skolen. Hun har selv aldri lært å lese, noe som
 sikkert har ødelagt en del av selvbildet hennes. Det hun frykter er at denne ordblindheten er
-arvelig. Faren til Jonas er en tidligere båtsmann. Han heter Anton. Han ødla$(v,comps|ødela) ryggen sin etter
+arvelig. Faren til Jonas er en tidligere båtsmann. Han heter Anton. Han {ødla}${v,comps|ødela} ryggen sin etter
 et fall ned i lasterommet til en sekstusentonner. I dag er han vaktmester.
 
 Leseren blir raskt presentert for overlærer Jochumsen. Han er den snille overlæreren som skal
@@ -252,7 +252,7 @@ han fant seg ikke til rette i skolen. Men Jonas fikk ikke lov til å være med o
 for liten. Han ble satt av i Bergen hvor Onkel Olsen hentet ham. Olsen hadde tilfeldigvis vært
 i kontakt med noen som snakket om en spesiell skole. Dette var en skole der ikke karakterer
 og skjemaer var det vesentlige, en skole som la mere vekt på kreativitet og fantasi, altså en
-tydligvis$(adv,comps|tydeligvis) mer 'human' skole.
+{tydligvis}${adv,comps|tydeligvis} mer 'human' skole.
 
 Etter litt om og men får Jonas plass på den nye skolen. Og virkningen er momentan; Jonas
 begynner å hikste av latter i klasserommet første skoledag. Skoledagen besto av mye sang og
@@ -263,13 +263,13 @@ tegning, og elevene hadde ikke skolebøker, de 'lagde' sine egne. Og Jonas lært
 Jens Bjørneboe var tilhenger av den engasjerte diktning, han var en tendensdikter. Han vil
 gripe etter lynet, for så å slynge det ned som en gave til menneskene som Hölderlin et sted
 gir til uttrykk for. Han følte seg som {en lags utover-menneske}£{mix,mix|et slags utover-menneske} i trang til {å belær}¥{verb,inf|å belære} og rettlede
-medmenneskene ved øyeblikkelig innvirken€(noun,x|innvirkning) i den konkrete hverdag. Og som et slikt
+medmenneskene ved øyeblikkelig {innvirken}€{noun,x|innvirkning} i den konkrete hverdag. Og som et slikt
 lynnedslag virket Jens Bjørneboes 'Jonas' i Norges kulturliv da den ble gitt ut i 1955. 
 
 Boka åpner med en bestemt type in-medias-res-åpning. Boka åpner midt i en
 spenningsvekkende episode, men siden bryter av og gir oss en lang forhistorie før vi omsider
 er tilbake ved utgangspunktet og får vår nysgjerrighet tilfredsstilt. Romanen åpner med en
-annonse som etterlyer$(v,typo|etterlyser) den forsvunne 8 år gamle Jonas. Men det er først omkring midtvegs i
+annonse som {etterlyer}${v,typo|etterlyser} den forsvunne 8 år gamle Jonas. Men det er først omkring midtvegs i
 romanen vi får vite hvordan og hvorfor Jonas forsvant, og hva som siden hender. Boken er
 delt i to deler, som er ganske forskjellige fra hverandre. I første del er all vår oppmerksomhet
 rettet mot gutten Jonas, i annen del trer denne gutten i bakgrunnen for først å dukke opp på
@@ -286,7 +286,7 @@ drømmer, myter, sagn og symboler som danner en enhet.
 
 Bjørneboes styrke ligger heller ikke i evnen til {å får frem}£{v,infin,sg1prs,infin,tense|å få frem} sanseuttrykk, hans språkføring er
 ikke så smidig og malende som for eksempel Kielland som også har skrevet en bok om
-skolen. Men det som tapes av sansing vinnes av intulektuell$(adj,vow|intellektuell) presisjon, boka kan virke som en
+skolen. Men det som tapes av sansing vinnes av {intulektuell}${adj,vow|intellektuell} presisjon, boka kan virke som en
 serie knyttneveslag satt inn i raskt tempo. 
 
 Bjørneboe benytter seg blant annet av en litterær finesse som anvendes med stor bevissthet og
@@ -300,18 +300,18 @@ ledemotiver gir boka en aura som hever seg kunstnerisk over detektivbøkene.
           'Bobbi...jordbær....s.88ff'
 
 Symbolbruken til Bjørneboe er også fremtredende. Egil A. Wyller gitt til det skritt at han sa
-at boka handlet like mye om en grå spruv$(noun,typo|spurv) som om gutten Jonas. En spurv som skildres på
+at boka handlet like mye om en grå {spruv}${noun,typo|spurv} som om gutten Jonas. En spurv som skildres på
 denne måten i et dikt hos Jens Bjørneboe:
 
                'Holdt du som en gutt en grå dag
-               nettop$(adv,cns|nettopp) en ullen, sånn'en
+               {nettop}${adv,cns|nettopp} en ullen, sånn'en
                gråspurv forsiktig i hånden?
                Spurven som bare er hjerteslag!
 
-               Bare et hjert$(noun,typo|hjerte) med vinger på!
+               Bare et {hjert}${noun,typo|hjerte} med vinger på!
                Brune, forblåste hender
                varmer om dyret - og kjenner
-               plutslig$(adv,cns|plutselig) hele fuglen   s l å!'
+               {plutslig}${adv,cns|plutselig} hele fuglen   s l å!'
 
 
 Denne spurven dukker frem flere ganger igjennom hele romanen 'Jonas'. {Snar er det}¢{v,con,v,adj|Snart er det} direkte
@@ -322,8 +322,8 @@ fuglen, og det finnes noe større enn ham som skal bringe   h a m   varme.
 Først sier Jonas at han kunne tenke seg å være en fugl som kunne fly. Senere blir Jonas og
 Birger vitne til at en spurv flyr rett i vinduet, og blir momentant drept av møtet med det
 harde element. Birger løfter den opp og kjenner varmen fra fuglekroppen. De begravet den på
-skjømannsvis$(noun,nosilent|sjømannsvis). Senere i boken kommer fuglemotivet enda klarere fram. Birger er da på
-kirkegården i ferd med å blygge$(v,typo|bygge) et rede for en skadet spurv, som hverken kunne flyve$(v,syll|fly) eller
+{skjømannsvis}${noun,nosilent|sjømannsvis}. Senere i boken kommer fuglemotivet enda klarere fram. Birger er da på
+kirkegården i ferd med å {blygge}${v,typo|bygge} et rede for en skadet spurv, som hverken kunne {flyve}${v,syll|fly} eller
 gå. Men Werner, en kamerat av den nå avdøde Jochumsen, ber Birger heller ta fuglen med
 hjem og han lager til et provisorisk rede i hatten sin. På hjemveien går Birger tilfeldigvis
 forbi 'Kråka' eller {frøken bø}¢{prop,cap|frøken Bø}, og vel framme får de den skadde fuglen trygt plassert i Birgers
@@ -340,7 +340,7 @@ skolen som lærer. Det vokser fram et brorskap mellom dem, et brorskap som komme
 omfatte flere. Spurven er altså et sentralt ledemotiv i denne romanen, men det finnes andre. 
 
 Navnet Jonas er heller ikke tilfeldig valgt. Navnet kommer fra myten om Jonas som blir slukt
-av hvalen, skolen, oglevet$(v,mix|og levde) i dens buk et par år. Men så ble han spydd ut igjen, og han står i
+av hvalen, skolen, {oglevet}${v,mix|og levde} i dens buk et par år. Men så ble han spydd ut igjen, og han står i
 fare for å gå til grunne i absolutt isolasjon, men da møter han Jungmann og senere Back. 
 
 Man kan også skildre boka som en generasjonsroman, i alle fall {siste delen i den}€{prep,w|siste delen av den}. Vi møter
@@ -353,19 +353,19 @@ Og til sist kan leseren stille seg spørsmålet, passer skolen til Jonas? {Lå d
 menneskelighet.}€{punct,w|Lå datidens og kanskje
 dagens norske folkeskole opp mot de ideal som romanen stiller for oppdragelse til
 menneskelighet?} Svarene her blir nok {nei i følge romanen}¥{prep,nosplit|nei ifølge romanen}. Det er en ting som svekker bokas
-tema, og det er karikeringen og overtydeligheten i romanen. Man kan si at boka er {en svart-hvit malingen}€{noun,w|et svart-hvitt-bilde}, der de slemme er umennesklige$(adj,comps|umenneskelige) uten en eneste god side, mens de snille er bare
+tema, og det er karikeringen og overtydeligheten i romanen. Man kan si at boka er {en svart-hvit malingen}€{noun,w|et svart-hvitt-bilde}, der de slemme er {umennesklige}${adj,comps|umenneskelige} uten en eneste god side, mens de snille er bare
 snille, ingen dårlige egenskaper; dette rammer boka som en boomerang. Men Jens Bjørneboe
 selv uttalte senere at han ville ha skrevet boken langt brutalere i dag.
 
 Denne romanen skapte altså et skikkelig rabalder, og en av grunnene til dette var den kraftige
-kritikken av lærerstanden som i boka blir umenneskliggjort$(adj,comps|umenneskeliggjort) og kalt salamanderne. Men
+kritikken av lærerstanden som i boka blir {umenneskliggjort}${adj,comps|umenneskeliggjort} og kalt salamanderne. Men
 samtidig blir boka hyllet av en del litterære tungvektere som for eksempel Sigurd Hoel, som
 sammenligner boka med Kiellands Gift. Uansett er i alle fall 'Jonas' en tendensroman mot
 skolen, og den var ment som et debattinnlegg. Jens Bjørneboe selv deltok ikke i debatten som
 fulgte.
 
 Men til sist vil jeg bare ta med en hendelse som {skjedde mens 'Jonas'-stormen herjer}£{v,v,v,v,tense|skjedde mens 'Jonas'-stormen herjet} som
-verst. En fremmed barnestemme er i andre enden av telefonen itl$(prep,typo|til) Bjørneboe:
+verst. En fremmed barnestemme er i andre enden av telefonen {itl}${prep,typo|til} Bjørneboe:
           - Er det Bjørneboe?
           - Ja?
           - Jens Bjørneboe?
@@ -381,8 +381,8 @@ umettelig jakt på materielle goder.
 I nærmere syv år klarte Jens Bjørneboe å kombinere Steinerskolen og forfattergjerningen.
 Hans kone klarte å holde Bjørneboe tørr, så i denne perioden drakk han sjelden. Men så
 sprakk han. Bjørneboe var mye alene mens kona var på rekreasjon i Mellom-Europa. Stadig
-oftere dukket Bjørneboe opp på skolen i bakruss$(noun,onec|bakrus). Bjørneboe ble også skremt av den
-puritanske strengheten i det atroposofiske$(adj,typo|antroposofiske) miljøet. I et avisinnlegg konkluderer han med at:
+oftere dukket Bjørneboe opp på skolen i {bakruss}${noun,onec|bakrus}. Bjørneboe ble også skremt av den
+puritanske strengheten i det {atroposofiske}${adj,typo|antroposofiske} miljøet. I et avisinnlegg konkluderer han med at:
 
           'Antroposofien er blitt {en lukke autoritær}£{v,x|en lukket autoritær} bevegelse........stadig
           mer kryptisk, sekterisk, selvopptatt og verdensfjern.'
@@ -392,7 +392,7 @@ Det samme året som Bjørneboe måtte gi opp jobben på Steinerskolen, 1957, {fu
 'Jonas'-suksessen med en ny tendensroman. {'Under en hårdere himmel' utløse et spetakkel i norsk kulturliv}£{v,typo,sg1prt,infinite|'Under en hårdere himmel' utløste et spetakkel i norsk kulturliv} som fikk debatten omkring 'Jonas' til å ligne på en middels familiekrangel.
 
 Under en hårdere himmel griper et stoff som for etterkrigs-generasjonen av nordmenn var
-uhyre føsomt$(adj,typo|følsomt): Landssvikoppgjøret. Før han skrev boken, hadde BJørneboe$(prop,min|Bjørneboe) fått en strøm av
+uhyre {føsomt}${adj,typo|følsomt}: Landssvikoppgjøret. Før han skrev boken, hadde {BJørneboe}${prop,min|Bjørneboe} fått en strøm av
 henvendelser fra landssvikere som følte seg urettferdig behandlet. Deres beretninger grep
 forfatteren Bjørneboe sterkt, og han skrev en roman med utgangspunkt i en by som er svært
 lik hjembyen til Bjørneboe, nemlig Kristiansand. Jeg har lest denne boken, og her kommer
@@ -405,14 +405,14 @@ Vi møter en major og hans to barn. Majoren er sønn av en skipper, begge av den
 skole. Han er enkemann og er alene om oppdragelsen av barna, Cato og Fransiska, en
 oppdragelse som er meget streng og gammeldags. Majoren er av den sorten som tror på
 plikten, grunnloven og fedrelandet. Majoren fortalte dem heltehistorier i oppdragelsens
-øymed$(noun,comps|øyemed). 
+{øymed}${noun,comps|øyemed}. 
      Majoren ser raskt at det er en krig på trappene i Europa, og det er med forargelse
 majoren beskriver den norske forsvarspolitikk, en politikk som ledes av en forsvarsminister
 som er medlem av ligaen av det brukne gevær. Majoren er av den oppfatning at hvis man vil
 ha fred, så skal en ruste seg til krig. Majoren {nøt stor anseelse i byen på denne tiden}£{v,v,sg1ps,sg1prt,tense|nyter stor anseelse i byen på denne tiden}. 
      Cato og Jan er kamerater. Jan er radikaleren, og han prøver å 'omvende' Cato. Jan
 tror i alle fall fullt og helt på radikalernes sak, han tror på revolusjonen. Han har også stor tro
-på advokat Wastrup, taktikeren som vil infitrere$(v,typo|infiltrere) Arbeiderpartiet for å nå det kommunistiske
+på advokat Wastrup, taktikeren som vil {infitrere}${v,typo|infiltrere} Arbeiderpartiet for å nå det kommunistiske
 samfunn.
      Men så kommer krigen til Europa. En dag melder Cato seg som frivillig til {Finnlands-krigen}${prop,onec|Finlands-krigen}. Denne krigen ble et bevis for majoren at et lite land kan føre en virkningsfull
 forsvarskrig, forutsatt at hæren ikke hadde {sitt egen}£{pron,x,male,neuter,sex|sin egen} regjering som hovedfiende. Snaut et år
@@ -428,26 +428,26 @@ landet hadde fødd ham hele livet igjennom, til krigen kom. Og så går han og t
 enn folk flest. Men så en dag skjer det en forandring med ham. Han leser en tale til en av
 Norges nazister i en avis. Og han er enig med nazisten i det som står der. Dette kom som et
 sjokk på han selv. Det som han tidligere hadde følt som den sterkeste antipati mot, viste seg
-ved nærmere ettersy$(noun,typo|ettersyn) å være som tatt ut av hans egne innerste tanker. Han var enig i 'Kinder,
+ved nærmere {ettersy}${noun,typo|ettersyn} å være som tatt ut av hans egne innerste tanker. Han var enig i 'Kinder,
 Kirche und Küche'-innstillingen. Han var også enig i militær oppdragelse av guttene. Men
 fremfor alt var han enig i nazistenes syn på fedrelandet. Og så gikk han inn i partiet.
      Fransiska, datteren til majoren, som i den siste tiden har lest om Florence Nightingale,
 ble sykepleier. Hun blir med det tyske Røde Kors, etter at faren konstaterer at Røde Kors er
 internasjonalt, og at det ikke kjenner noen partier eller fiender, bare mennesker. Cato melder
 seg til tjeneste for tyskerne i kampen mot Russland. Dette skjer ikke fordi han er noen nazist,
-men fordi han hater russerne og kommunistene etter Finnlandskrigen$(prop,onec|Finlands-krigen).
+men fordi han hater russerne og kommunistene etter {Finnlandskrigen}${prop,onec|Finlands-krigen}.
      Men alt dette fører til at farens anseelse i byen forsvinner. Folk hilser ikke lengre på
 ham. Majoren isolerer seg helt, og som menneske blir han gradvis ødelagt. Jan,
-skolekameraten til Cato, deltar derimot i motstandsorganinsasjonen$(noun,typo|motstandsorganisasjonen) mot tyskerne, og han
-deltar aktivt i sabotsjeaksjoner$(noun,typo|sabotasjeaksjoner). Senere i Krigen tyster Cato på Jan, og melder han til
+skolekameraten til Cato, deltar derimot i {motstandsorganinsasjonen}${noun,typo|motstandsorganisasjonen} mot tyskerne, og han
+deltar aktivt i {sabotsjeaksjoner}${noun,typo|sabotasjeaksjoner}. Senere i Krigen tyster Cato på Jan, og melder han til
 sikkerhetspolitiet.
      I løpet av krigen møtes søskenparet Cato og Fransiska hverandre. Cato har med seg en
 kamerat, en tysker, og Fransiska forelsker seg i ham. Resultatet blir en gutt som heter Ulf,
 mens tyskeren dør i løpet av krigen.
      Men så en dag er krigen over. Seiersrusen går fort over i et hat mot alle som
 samarbeidet med tyskerne, eller de som sympatiserte med dem. Dette {betød at Majorens familie får}£{v,x,sg1prs,sg1prt,tense|betyr at Majorens
-familie får} en ganske hard medfart. Fransiska blir tiltalt for seksuelt landsforæderi$(noun,doubc|landsforræderi), samt
-straffet for tjensten$(noun,comps|tjenesten) i det tyske røde kors. Cato derimot tar sitt eget liv etter mishandlingen i
+familie får} en ganske hard medfart. Fransiska blir tiltalt for seksuelt {landsforæderi}${noun,doubc|landsforræderi}, samt
+straffet for {tjensten}${noun,comps|tjenesten} i det tyske røde kors. Cato derimot tar sitt eget liv etter mishandlingen i
 {fengslet han var på}€{noun,mix,noun,v|fengselet han var i}. Og faren selv, majoren, dør i fengselet etter mangelfull behandling.
 Leseren blir altså presentert for en urettferdig behandling av landssvikerne. Motstandsmannen
 og kommunisten Jan er blitt advokat, og han er ikke lenger så sikker på sin 'barnetro'; han
@@ -462,7 +462,7 @@ under krigen. Men etter krigen blir de til dels mishandlet av autoritetene, neml
 rettsvesenet og fengslene. Boka var ment som {et debatt innlegg}¢{noun,nosplit|et debattinlegg}, og rent kunstnerisk er
 romanen ubetydelig. 
 
-Romanen er en slags rammefortelling. Vi møter Jan og jeg-fortelleren som tydligvis$(adv,comps|tydeligvis) er en
+Romanen er en slags rammefortelling. Vi møter Jan og jeg-fortelleren som {tydligvis}${adv,comps|tydeligvis} er en
 gammel kamerat av Jan. De begynner å prate. Så begynner selve fortellingen, så og si i
 kronologisk rekkefølge.  Rammefortelleren, jeg-personen, gir boken en troverdighet, vi får
 anelsen om at Jan er en virkelig person, ikke en fiktiv person. Således blir hele fortellingen
@@ -476,11 +476,11 @@ usagte tanker og følelser.
 
 Vi blir også vitne til forandringen med Jan. I sin ungdom talte han radikalernes sak, og under
 krigen kjempet han på hjemmefrontledernes side. Men etter krigen blir han forsvarsadvokat
-for landssvikerne. Han ser at det er galt med lover med tilbakervirkende$(adj,typo|tilbakevirkende) kraft, og han
+for landssvikerne. Han ser at det er galt med lover med {tilbakervirkende}${adj,typo|tilbakevirkende} kraft, og han
 framhever at mange av svikerne, for eksempel Majoren, er uten subjektiv straffeskyld.
 
 Bokens tema blir også i denne romanen svekket av en overtydelighet. De 'snille' blir skildret
-med sympati, mens hjemmeforntslederne$(noun,mix|hjemmefrontlederne) blir spesielt usympatisk tegnet. Dette er da en typisk
+med sympati, mens {hjemmeforntslederne}${noun,mix|hjemmefrontlederne} blir spesielt usympatisk tegnet. Dette er da en typisk
 tendensroman med typisk bjørneboesk {svart/hvitt-tegning}${noun,punct|svart-hvitt-tegning}, med {det mål for øyet}£{x,x|det mål for øye} å sette et
 alvorlig problem under debatt. Og akkurat det klarte han med denne romanen.
 
@@ -489,25 +489,25 @@ mislyktes på Steinerskolen, alkoholforbruket var igjen uten kontroll og ekteska
 oppløsning. Samtidig var store deler av kritikken mot ham formet som rene personangrep, og
 alt dette gikk nok inn på ham. Bjørneboe reiste da etter et nervesammenbrudd ut av landet
 mot Europa. Bjørneboe gir i brev på denne tiden uttrykk for nærmest et hat mot Norges
-kulturliv som han kaller ubegavet, uorginalt$(adj,comps|uoriginalt) og hyklersk. I stedet fant han seg godt til rette i
-det klassiske Europa, der kulturen har en større plass. I perioden i utenlandet$(noun,syll|utlandet) hadde han et
-enormt alkoholforbruk, noe som ryktest$(v,con|ryktes) raskt i småbyene i Italia, der han for en stor del
+kulturliv som han kaller ubegavet, {uorginalt}${adj,comps|uoriginalt} og hyklersk. I stedet fant han seg godt til rette i
+det klassiske Europa, der kulturen har en større plass. I perioden i {utenlandet}${noun,syll|utlandet} hadde han et
+enormt alkoholforbruk, noe som {ryktest}${v,con|ryktes} raskt i småbyene i Italia, der han for en stor del
 oppholdt seg. Selv har han skrevet dette:
 
-          'Jeg satt på toget, så leng$(adj,typo|lenge) jeg hadde nerver tid det, steg av i en
+          'Jeg satt på toget, så {leng}${adj,typo|lenge} jeg hadde nerver tid det, steg av i en
           hvilken som helst fremmed by - var møkkfull noen
           døgn.....s.83'
 
 Under sitt opphold her skriver han også romanen 'Vinter i Bellapalma'. Bjørneboe føler at
-han har vokst som menneske under sitt opphold i utlandet. Sommeren 1959 er bjørneboe$(prop,cap|Bjørneboe)
+han har vokst som menneske under sitt opphold i utlandet. Sommeren 1959 er {bjørneboe}${prop,cap|Bjørneboe}
 tilbake i Norge igjen. Der venter en promilledom på ham, og han må sone straffen i fengsel.
 Dette var nok det dummeste fengselsvesenet noensinne hadde gjort. Det var som å kaste {en dynamitt}€{noun,x,w|en dynamittkubbe} på bålet. Og etterdønningen fikk fengselsmurene til å skjelve, lik murene rundt
 Jeriko. I fengselet møtte han fanger, og Bjørneboe lyttet til mange av deres tragiske historier.
 Straks Jens var ute av fengselsportene kastet han seg over skrivemaskinen og bokførte disse
 historiene. Så begynte essayisten å arbeide. Artiklene hans ble refusert av Aftenposten, men
-Dagbladet tok sjansen på å trykke dem. De ble pardoksalt$(adj,typo|paradoksalt) trykket juleaften$(noun,comp0|julaften) 1959. Artiklene
-var skrevet med en soleklar intelligens og en bitenede$(adj,typo|bitende) ironi. Felles for de fleste av disse
-artikkelene$(noun,onec|artiklene) er at de legger stor vekt på {den almene tomhet}¥{adj,doubc|den allmenne tomhet} i tiden, som må ta sin del av
+Dagbladet tok sjansen på å trykke dem. De ble {pardoksalt}${adj,typo|paradoksalt} trykket {juleaften}${noun,comp0|julaften} 1959. Artiklene
+var skrevet med en soleklar intelligens og en {bitenede}${adj,typo|bitende} ironi. Felles for de fleste av disse
+{artikkelene}${noun,onec|artiklene} er at de legger stor vekt på {den almene tomhet}¥{adj,doubc|den allmenne tomhet} i tiden, som må ta sin del av
 ansvaret for ungdommens kriminalitet, for unge menneskers rastløshet og mangel på idealer.
 Og det er de samme menneskene som har sådd denne tomheten, som skriker etter stadig
 strengere straffer. Jeg må {minne på at}€{prep,w|minne om at} disse artiklene ble skrevet før fengselsreformenes tid,
@@ -517,7 +517,7 @@ fangen Kjell Hansen, en fange som ble innsatt i enecelle på tross av at tre leg
 hadde erklært ham fullstendig soningsudyktig. Gutten tok sitt eget liv. Disse fengselartiklene
 blir et høydepunkt i Bjørneboes som samfunnsrefser. Han hadde dekning for det han skrev,
 anklagene ble stående pinlig uimotsagt. Stoffet var som dynamitt. Her trengtes det ingen
-karikaturer, ingen spekulasjoner, inngen$(pron,typo|ingen) litterære overdrivelser. Sannheten var nok!
+karikaturer, ingen spekulasjoner, {inngen}${pron,typo|ingen} litterære overdrivelser. Sannheten var nok!
 
 Og effekten lot ikke vente på seg. Igjen ble Bjørneboe overøst med brev, men ikke
 trusselbrev denne gangen. Det hendte for eksempel ofte at fanger banket på ruten hans om
@@ -533,7 +533,7 @@ En rød tråd i de tre bøkene som jeg har lest av ham, er den enkeltes ensomme 
 møter kontrasten mellom den indre og ytre virkelighet, kontrasten mellom den enkelte og
 samfunnets autoriteter. I Jonas står den enkelte mot skolevesenets autoritet, i Den onde hyrde
 knuses den enkelte under rettsvesenets makt. Bjørneboe mente at de samfunnsmessige
-sturkturer$(noun,typo|strukturer), skolevesenet og de fleste andre -vesener, var et onde først og fremst forde$(conj,typo|fordi) de over¥(prep,typo,v,prep|øver)
+{sturkturer}${noun,typo|strukturer}, skolevesenet og de fleste andre -vesener, var et onde først og fremst {forde}${conj,typo|fordi} de {over}¥{prep,typo,v,prep|øver}
 vold mot den enkelte. Jeg må her nevne at Bjørneboe ofte kalte seg en anarkist. Bjørneboe
 forsket i det onde i samfunnet og i menneskene; i det ondes problem. Men når man leser
 bøkene til Bjørneboe må man {ha i bakhodet; det er ikke noe}¥{adv,mix|ha i bakhodet at det ikke er noe} fullendt verk vi leser. Bjørneboe
@@ -549,17 +549,17 @@ verdenen, ta for seg klasseproblemene og andre radikale problemer. Det Bjørnebo
 var å bygge en bro mellom disse hovedsynspunktene. Han ville skildre møtet mellom den
 indre og ytre verden, møtet mellom samfunn og individ.
 
-Bjørneboe var en samfunnsrefser, han var hele tiden på kant med autoritetene og de alment$(adj,doubc|allment)
+Bjørneboe var en samfunnsrefser, han var hele tiden på kant med autoritetene og de {alment}${adj,doubc|allment}
 aksepterte dogmene i samfunnet. Bjørneboe gikk sterkt ut mot alle samfunnsinstitusjoner; mot
 menneskers ubrytelige vilje til å bestemme over andres tanker, ord og handlinger. Denne
-trangen til å forulempe andre menneskers indre firhet$(noun,typo|frihet) er alltid et symptom på indre svakhet,
+trangen til å forulempe andre menneskers indre {firhet}${noun,typo|frihet} er alltid et symptom på indre svakhet,
 usikkerhet. Og alle dem som mener noe annet enn disse formyndermenneskene er: anarkister,
-nihilister, eller rett og slett uvitende, tåplige$(adj,comps|tåpelige) og umoralsk£(adj,x,plur,sing|umoralske) barn. De tre bøkene jeg har lest, er
+nihilister, eller rett og slett uvitende, {tåplige}${adj,comps|tåpelige} og {umoralsk}£{adj,x,plur,sing|umoralske} barn. De tre bøkene jeg har lest, er
 et angrep på disse formyndermenneskene; et angrep på lærer Strange i Jonas og advokat
 Wastrup i Under en hårdere himmel. 
 
 Undersøkelsen av det ondes problem når sitt klimaks i {{triologien}${noun,comp0|trilogien} {bestalitetens}${noun,vow|bestialitetens} historie}¥{prop,cap|trilogien Bestialitetens historie}. Gisle
-har lest et par av disse bøkene. Men vi fikk aldri ta del i fasitet$(noun,con|fasiten) til Bjørneboe, hvordan vi
+har lest et par av disse bøkene. Men vi fikk aldri ta del i {fasitet}${noun,con|fasiten} til Bjørneboe, hvordan vi
 kunne ha kommet oss bort fra det ondes regime. Denne oppgaven ble for stor for ham. Hva
 han ville ha oppnådd som forfatter om han hadde lykkes i å trenge seg gjennom nåløyet, og
 hva han ville {hakommry}${verb,mix|ha kommet} {iyl}${prep,x|til} å bety for norsk kultur, kan nesten ikke vurderes høyt nok. Men

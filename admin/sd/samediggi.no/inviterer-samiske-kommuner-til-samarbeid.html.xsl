@@ -172,7 +172,7 @@
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="jis-doesth-gihtjedh-almetjh-duestieh-vaestiedidh.html"/>
         <parallel_text xml:lang="sme" location="bovde-sami-suohkaniid-ovttasbargat.html"/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="smj" location="jus-duosta-gatjadit-duossti-ulmutja-vasstedit.html"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

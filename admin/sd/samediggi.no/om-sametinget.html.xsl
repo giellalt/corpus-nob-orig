@@ -170,7 +170,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="om-sametinget.html"/>
+        <parallel_text xml:lang="sma" location="saemiedigkien-bijre2.html"/>
         <parallel_text xml:lang="sme" location="samedikki-birra2.html"/>
         <parallel_text xml:lang="smj" location="samedikke-birra.html"/>
         <parallel_text xml:lang="smn" location=""/>

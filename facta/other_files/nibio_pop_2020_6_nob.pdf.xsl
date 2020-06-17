@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://nibio.brage.unit.no/nibio-xmlui/bitstream/handle/11250/2654540/NIBIO_POP_2020_6_25.pdf?sequence=1&isAllowed=y'"/>
+    <xsl:variable name="filename" select="'https://nibio.brage.unit.no/nibio-xmlui/bitstream/handle/11250/2654540/NIBIO_POP_2020_6_25.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'«Animal Sense» – elektronisk reinvarsling'"/>
     <!--
@@ -238,10 +238,10 @@
         as *_margin above. For a given page, all four margins
         must be defined.
     -->
-    <xsl:variable name="inner_right_margin" select="''"/>
-    <xsl:variable name="inner_left_margin" select="''"/>
-    <xsl:variable name="inner_top_margin" select="''"/>
-    <xsl:variable name="inner_bottom_margin" select="''"/>
+    <xsl:variable name="inner_right_margin" select="'4=5'"/>
+    <xsl:variable name="inner_left_margin" select="'4=51'"/>
+    <xsl:variable name="inner_top_margin" select="'4=40'"/>
+    <xsl:variable name="inner_bottom_margin" select="'4=9'"/>
 
     <!--
         This variable is used for epub or html files.

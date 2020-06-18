@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://nibio.brage.unit.no/nibio-xmlui/bitstream/handle/11250/2484415/NIBIO_POP_2017_3_43.pdf?sequence=2&isAllowed=y'"/>
+    <xsl:variable name="filename" select="'https://nibio.brage.unit.no/nibio-xmlui/bitstream/handle/11250/2484415/NIBIO_POP_2017_3_43.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Tilleggsfôring av reinsdyr'"/>
     <!--
@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
+        <parallel_text xml:lang="sme" location="nibio_pop_ealu_biebman.pdf"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
@@ -230,8 +230,8 @@
     -->
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
-    <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="''"/>
+    <xsl:variable name="top_margin" select="'3=38'"/>
+    <xsl:variable name="bottom_margin" select="'8=20'"/>
 
     <!--
         Cut out a part from a page in pdf documents. Has the same format

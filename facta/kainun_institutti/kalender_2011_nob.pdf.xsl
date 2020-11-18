@@ -141,7 +141,10 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="nob"/><language xml:lang="sme"/><language xml:lang="fkv"/></xsl:variable>
+    	<language xml:lang="nob"/>
+    	<language xml:lang="sme"/>
+    	<language xml:lang="fkv"/>
+    </xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file
@@ -236,8 +239,8 @@
     -->
     <xsl:variable name="right_margin" select="'all=7'"/>
     <xsl:variable name="left_margin" select="'all=7'"/>
-    <xsl:variable name="top_margin" select="'all=7'"/>
-    <xsl:variable name="bottom_margin" select="'all=7'"/>
+    <xsl:variable name="top_margin" select="'all=80'"/>
+    <xsl:variable name="bottom_margin" select="'all=2'"/>
 
     <!--
         This variable is used for pdf files.

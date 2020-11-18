@@ -236,8 +236,8 @@
     -->
     <xsl:variable name="right_margin" select="'all=7'"/>
     <xsl:variable name="left_margin" select="'all=7'"/>
-    <xsl:variable name="top_margin" select="'all=7'"/>
-    <xsl:variable name="bottom_margin" select="'all=7'"/>
+    <xsl:variable name="top_margin" select="'all=80'"/>
+    <xsl:variable name="bottom_margin" select="'all=5'"/>
 
     <!--
         This variable is used for pdf files.

@@ -141,6 +141,8 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
+		<language xml:lang="nob"/>
+		<language xml:lang="fkv"/>
     </xsl:variable>
 
     <!--

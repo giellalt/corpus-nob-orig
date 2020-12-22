@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://helsenorge.no/pobo-seksjon/Documents/Årsmelding%20pasient-%20og%20brukerombudene%20i%20Norge%202016.pdf'"/>
+    <xsl:variable name="filename" select="''"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -115,7 +115,7 @@
     <!-- Valid values are complete and uncomplete -->
     <xsl:variable name="metadata" select="'uncomplete'"/>
     <!-- Automatically filled in by CorpusTools -->
-    <xsl:variable name="template_version" select="'$Revision: 161400 $'"/>
+    <xsl:variable name="template_version" select="'$Revision: 187360 $'"/>
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="current_version" select="'Revision'"/>
     <!-- Free text field for notes -->
@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="jahkediedahus_2016_buhcciid_ja_geavaheddjiidaittardeaddjit_norggas.pdf"/>
+        <parallel_text xml:lang="sme" location="hjemmekontor-og-arbeidsplasser.pdf"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
@@ -200,7 +200,7 @@
         1, 2, 3, 4
         1, 6-10, 15, 20, 25-30
     -->
-    <xsl:variable name="skip_pages" select="'4'"/>
+    <xsl:variable name="skip_pages" select="'1-3'"/>
 
     <!--
         This variable is used for pdf files.
@@ -237,7 +237,7 @@
     <xsl:variable name="right_margin" select="''"/>
     <xsl:variable name="left_margin" select="''"/>
     <xsl:variable name="top_margin" select="''"/>
-    <xsl:variable name="bottom_margin" select="'all=10'"/>
+    <xsl:variable name="bottom_margin" select="''"/>
 
     <!--
         This variable is used for pdf files.

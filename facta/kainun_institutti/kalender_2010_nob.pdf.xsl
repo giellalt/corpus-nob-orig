@@ -162,7 +162,7 @@
         <parallel_text xml:lang="eng" location=""/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
-        <parallel_text xml:lang="fkv" location="kalender_2010.pdf"/>
+        <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>

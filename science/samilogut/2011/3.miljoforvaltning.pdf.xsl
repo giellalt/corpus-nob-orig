@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="''"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Miljø- og ressursforvaltning i samiske områder'"/>
+    <xsl:variable name="title" select="'Miljø- og ressursforvaltning i samiske områder'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

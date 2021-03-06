@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/2_sprak_i_skolen_2015_16.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Samisk språk i grunnskolen og videregående opplæring'"/>
+    <xsl:variable name="title" select="'Samisk språk i grunnskolen og videregående opplæring'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

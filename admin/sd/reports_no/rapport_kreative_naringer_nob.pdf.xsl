@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="''"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Kreativ næring – et uforløst potensiale. sametingsrådets handlingsplan for kulturell og kreativ næring'"/>
+    <xsl:variable name="title" select="'Kreativ næring – et uforløst potensiale. sametingsrådets handlingsplan for kulturell og kreativ næring'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

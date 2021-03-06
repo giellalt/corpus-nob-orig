@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/6.forskningsprogram2015.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Forskningsrådene – 40 år for samisk forskning'"/>
+    <xsl:variable name="title" select="'Forskningsrådene – 40 år for samisk forskning'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

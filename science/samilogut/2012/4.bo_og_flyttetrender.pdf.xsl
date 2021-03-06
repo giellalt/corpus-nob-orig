@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/4._bo_og_flyttetrender_med_sammenskrivining16.7.2011_docx.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Bo- og flyttetrender i norsk- samiske kommuner gjennom 40 år i relasjon til sysselsetting'"/>
+    <xsl:variable name="title" select="'Bo- og flyttetrender i norsk- samiske kommuner gjennom 40 år i relasjon til sysselsetting'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

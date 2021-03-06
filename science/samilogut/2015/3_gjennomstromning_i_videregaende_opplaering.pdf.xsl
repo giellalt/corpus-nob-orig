@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/3.gjennomstromning_i_videregaende_opplaering.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Gjennomstrømning i videregående opplæring'"/>
+    <xsl:variable name="title" select="'Gjennomstrømning i videregående opplæring'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

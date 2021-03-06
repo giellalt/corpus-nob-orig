@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/7.statistikkartikkel.tore_johnsen_1.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Samisk språk i Den norske kirke'"/>
+    <xsl:variable name="title" select="'Samisk språk i Den norske kirke'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

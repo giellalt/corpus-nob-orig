@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'1-04-Hovedtekst'"/>
     <xsl:variable name="text_encoding" select="'UTF-8'"/>
-    <xsl:variable name="title" select="'Säʹmmla'"/>
+    <xsl:variable name="title" select="'Säʹmmla'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/4._samisk_som_andresprak_ok_versjon_2.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Samisk som andrespråk'"/>
+    <xsl:variable name="title" select="'Samisk som andrespråk'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

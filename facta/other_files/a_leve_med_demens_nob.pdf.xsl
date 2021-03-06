@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://nasjonalforeningen.no/contentassets/f5158521c09c4928859d20749b00026f/a-leve-med-demens_norsk_lulesamisk_low.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Å leve med demens'"/>
+    <xsl:variable name="title" select="'Å leve med demens'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

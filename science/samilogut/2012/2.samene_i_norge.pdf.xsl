@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/2._ny_40_000_i_40_ar_kronikk_sagat.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Samene i Norge – 40 000 i 40 år?'"/>
+    <xsl:variable name="title" select="'Samene i Norge – 40 000 i 40 år?'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

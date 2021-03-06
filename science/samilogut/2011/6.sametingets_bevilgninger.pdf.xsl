@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/kapittel6.kulturform.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sametingets bevilgninger til kulturformål i perioden 2006–2010'"/>
+    <xsl:variable name="title" select="'Sametingets bevilgninger til kulturformål i perioden 2006–2010'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

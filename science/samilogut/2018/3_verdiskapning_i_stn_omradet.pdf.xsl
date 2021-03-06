@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/3._verdiskapning_i_stn-omradet_per_tovmo_ok-1.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Verdiskapning i STN-området'"/>
+    <xsl:variable name="title" select="'Verdiskapning i STN-området'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/4._korrektur.docx_18092018_sne.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Helserelaterte leve- og arbeids- forhold for reindriftssamisk befolkning i sørsamisk område'"/>
+    <xsl:variable name="title" select="'Helserelaterte leve- og arbeids- forhold for reindriftssamisk befolkning i sørsamisk område'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

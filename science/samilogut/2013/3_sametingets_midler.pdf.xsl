@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'http://samilogutmuitalit.no/sites/default/files/publications/3sametingets_midler_til_samiske_sprak.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Sametingets midler til samiske språk'"/>
+    <xsl:variable name="title" select="'Sametingets midler til samiske språk'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.

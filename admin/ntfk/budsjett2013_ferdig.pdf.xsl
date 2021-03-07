@@ -170,7 +170,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location="budsjett-_a_konomiplan_sa_rsamisk_13._feb.docx"/>
+        <parallel_text xml:lang="sma" location="budsjett-_a_konomiplan_sa_rsamisk_13._feb.odt"/>
         <parallel_text xml:lang="sme" location=""/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>

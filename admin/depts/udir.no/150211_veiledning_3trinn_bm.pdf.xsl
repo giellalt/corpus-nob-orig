@@ -171,7 +171,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="veiled_kp_regning_3trinn_sorsamisk.pdf"/>
-        <parallel_text xml:lang="sme" location="veiledning_kp_regning_veiledning_kp_regning_3trinn_nordsamisk.docx"/>
+        <parallel_text xml:lang="sme" location="veiledning_kp_regning_veiledning_kp_regning_3trinn_nordsamisk.odt"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

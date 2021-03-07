@@ -172,7 +172,7 @@
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
         <parallel_text xml:lang="sme" location="muohtacalmmit-nordsamisk.pdf"/>
-        <parallel_text xml:lang="smj" location="muohtatjalme-tjielggidus.docx"/>
+        <parallel_text xml:lang="smj" location="muohtatjalme-tjielggidus.odt"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

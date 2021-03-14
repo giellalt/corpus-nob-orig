@@ -162,7 +162,7 @@
         <parallel_text xml:lang="eng" location=""/>
         <parallel_text xml:lang="fin" location=""/>
         <parallel_text xml:lang="fit" location=""/>
-        <parallel_text xml:lang="fkv" location="porsanger_museum_utstilling_elvebat_21.03.2017.odt"/>
+        <parallel_text xml:lang="fkv" location=""/>
         <parallel_text xml:lang="ger" location=""/>
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>

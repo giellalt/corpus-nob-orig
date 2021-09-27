@@ -12,9 +12,9 @@ Seb {vdra}${verb,x|vil dra} ut i {verden  ,}¥{punct|verden,} og kommer ikke hje
 
 Gunnar blir {kommunist  ,}¥{punct|kommunist,} han blir påvirket av broren sin. Han tvinger Kim til å dele ut {flyblader}${noun,doubsyl|flygeblader} med kommunistiske slagord.
 
-{Kim ,}¥{punct|Kim,} {Seb ,}¥{punct|Seb,} Ola og Gunnar analyserer alle tekstene til The {{Beatels}${prop|Beatles}  {,}}¥{punct|Beatles,} et svært berømt engelsk band som du sikkert har hørt {om ,}¥{punct|om,} og {prøver og leve}£{conj,infin,infin,x|prøver å leve} etter det de sier der.  Men det lykkes ikke {helt ,}¥{punct|helt,} det ser vi tydelig på deres {desperate ,}¥{punct|desperate,} og {{barslige}${adj,cons|barnslige} {,}}¥{punct|barnslige,} måte {å prøve og forestille}£{conj,infin,infin,mix|å prøve å forestille} voksne på.
+{Kim ,}¥{punct|Kim,} {Seb ,}¥{punct|Seb,} Ola og Gunnar analyserer alle tekstene til The {{Beatels}${prop|Beatles}  ,}¥{punct|Beatles,} et svært berømt engelsk band som du sikkert har hørt {om ,}¥{punct|om,} og {prøver og leve}£{conj,infin,infin,x|prøver å leve} etter det de sier der.  Men det lykkes ikke {helt ,}¥{punct|helt,} det ser vi tydelig på deres {desperate ,}¥{punct|desperate,} og {{barslige}${adj,cons|barnslige} ,}¥{punct|barnslige,} måte {å prøve og forestille}£{conj,infin,infin,mix|å prøve å forestille} voksne på.
 
-{boken begynner}¥{noun,cap|Boken begynner} når guttene skal begynne på {realskolen ,}¥{punct|realskolen,} høsten {1964 ,.}¥{punct|1964.} Den siste oppgaven de får på den gamle skolen er å skrive en stil om hva de vil bli når de blir store. Kim , {{hoedpersonene}${noun,typo|hovedpersonen} {,}}¥{punct|hovedpersonen,} skriver at han vil bli lege i {afrika}${prop,cap|Afrika}. Men han ombestemmer seg når skolen begynner på høsten igjen {fordi han gidder ikke}¥{adv,wo|fordi han ikke gidder} å gjøre lekser.
+{boken begynner}¥{noun,cap|Boken begynner} når guttene skal begynne på {realskolen ,}¥{punct|realskolen,} høsten {1964 ,.}¥{punct|1964.} Den siste oppgaven de får på den gamle skolen er å skrive en stil om hva de vil bli når de blir store. Kim , {{hoedpersonene}${noun,typo|hovedpersonen} ,}¥{punct|hovedpersonen,} skriver at han vil bli lege i {afrika}${prop,cap|Afrika}. Men han ombestemmer seg når skolen begynner på høsten igjen {fordi han gidder ikke}¥{adv,wo|fordi han ikke gidder} å gjøre lekser.
 
 Våren 1965 er {den store drømmer}£{noun,subj,x,x,agr|den store drømmen} {{danmarks}${prop,cap|Danmarks} tur}¥{noun,mix|danmarkstur} med {fotball laget}¢{noun,cmp|fotballaget}. Men de drømmene går i knas ved et heidundrende selvmål mot {slemmestad}${prop,cap|Slemmestad}. Kanskje neste år..
 
@@ -29,7 +29,7 @@ Samme sommer brekker Ola to armer ( hos en onkel på {toten}${prop,cap|Toten} ) 
 
 På {vestheim}${prop,cap|Vestheim} blir de kjent med Fred Hansen , som bor like {ve {djernbanen}${noun,cns|jernbanen}}¢{prep,typo|ved jernbanen} til {utlandet ,}¥{punct|utlandet,} og med utedo inne i huset (!) {Men sommeren 1966 drukner dessverre fred}¥{prop,cap|Men sommeren 1966 drukner dessverre Fred} {da}€{adv,w|mens} han er på kolonileir.
 
-Året gikk {fort ,}¥{punct|fort,} fordi Kers {Pink ,}¥{punct|Pink,} klasseforstanderen {{dems}${pron,w|deres} {,}}¥{punct|deres,} holder lange foredrag om Nordlands trompet og Peter {Dass ,}¥{punct|Dass,} dvs. de sover seg {igjenom}${prep,doubc|igjennom} timene...
+Året gikk {fort ,}¥{punct|fort,} fordi Kers {Pink ,}¥{punct|Pink,} klasseforstanderen {{dems}${pron,w|deres} ,}¥{punct|deres,} holder lange foredrag om Nordlands trompet og Peter {Dass ,}¥{punct|Dass,} dvs. de sover seg {igjenom}${prep,doubc|igjennom} timene...
 
 Kim får så en {kjereste}${noun,wow|kjæreste} , Nina. Lykken blir kort fordi Nina må flytte til  Danmark med foreldrene sine. Det samme året  , på sommeren , blir gjengen tatt ut til {fotball laget}¥{noun,cmp|fotballaget} og Kim reiser og besøker henne. Det blir en nedtur , fordi {på rommet til nona}¥{prop,mix|på rommet til Nina} sitter en annen gutt....men Kim glemmer {aldrig}${adv,nosilent|aldri} Nina.
 
@@ -55,7 +55,7 @@ Seb flytter for seg selv , {semmen}${adv,vow|sammen} med noen fra skolen hans. d
 
 Ola sin {kjereste}${noun,wow|kjæreste} i Trondheim blir gravid og han må flytte dit. Han blir voksen og mister {kontaket}${noun,typo|kontakten} med de andre etter hvert. Men han var nede og besøkte dem en gang , og da var han ikke {lykelig}${adj,doubc|lykkelig}!
 
-Gunnar blir {komunsit}${noun,mix|kommunist} og prøver {å lee etter}€{verb,typo|å leve etter} Stalin og Maos regler. Han går rundt på Karl {johan}${prop,cap|Johan} og deler ut {flyblader}${noun,doubsyl|flygeblader}. (kim ha {{vansligheter}${{}noun,doubsyl|vanskeligheter}}}¥{mix,typo,infinitive,present|Kim har vanskeligheter} med å bli voksen og en dag bryter han sammen. Han havner på Gaustad , {gunnar}${prop,cap|Gunnar} og Seb kommer for å redde {han. men det er}¥{conj,cap|han. Men det er} ikke noen hull eller snarveier ut fra {gaustad}${prop,cap|Gaustad}. Han må klatre over gjerdet..
+Gunnar blir {komunsit}${noun,mix|kommunist} og prøver {å lee etter}€{verb,typo|å leve etter} Stalin og Maos regler. Han går rundt på Karl {johan}${prop,cap|Johan} og deler ut {flyblader}${noun,doubsyl|flygeblader}. {kim ha {vansligheter}${noun,doubsyl|vanskeligheter}}¥{mix,typo,infinitive,present|Kim har vanskeligheter} med å bli voksen og en dag bryter han sammen. Han havner på Gaustad , {gunnar}${prop,cap|Gunnar} og Seb kommer for å redde {han. men det er}¥{conj,cap|han. Men det er} ikke noen hull eller snarveier ut fra {gaustad}${prop,cap|Gaustad}. Han må klatre over gjerdet..
 
 {MIN MENIG}€{noun,typo|MIN MENING}
 

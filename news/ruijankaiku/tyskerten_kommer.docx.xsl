@@ -141,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <language xml:lang="nob"/>
-        <language xml:lang="ger"/>
+        <language xml:lang="deu"/>
     </xsl:variable>
 
     <!--

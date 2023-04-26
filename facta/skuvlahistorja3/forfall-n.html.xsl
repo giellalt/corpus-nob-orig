@@ -141,7 +141,7 @@
     -->
     <xsl:variable name="mlangs">
         <!-- <language xml:lang="dan"/> -->
-    <language xml:lang="dan"/><language xml:lang="sme"/></xsl:variable>
+    <language xml:lang="sme"/><language xml:lang="dan"/></xsl:variable>
 
     <!--
         This is automatically added by add_files_to_corpus if a parallel file

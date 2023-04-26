@@ -176,15 +176,15 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
-    <parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/>
-<parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/>
-<parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/>
-<parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/>
-<parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/>
-<parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/>
-<parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/>
-<parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/>
-<parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/>
+    <parallel_text xml:lang="ara" location="ppt_arabisk_informasjon.pdf"/>
+<parallel_text xml:lang="vie" location="ppt_vietnamesisk_informasjon.pdf"/>
+<parallel_text xml:lang="ckb" location="ppt_sorani_informasjon.pdf"/>
+<parallel_text xml:lang="urd" location="ppt_urdu_informasjon.pdf"/>
+<parallel_text xml:lang="fra" location="ppt_fransk_informasjon.pdf"/>
+<parallel_text xml:lang="som" location="ppt_somalisk_informasjon.pdf"/>
+<parallel_text xml:lang="tur" location="ppt_tyrkisk_informasjon.pdf"/>
+<parallel_text xml:lang="fas" location="ppt_persisk_informasjon.pdf"/>
+<parallel_text xml:lang="pol" location="ppt_polsk_informasjon.pdf"/>
 </xsl:variable>
 
     <!--

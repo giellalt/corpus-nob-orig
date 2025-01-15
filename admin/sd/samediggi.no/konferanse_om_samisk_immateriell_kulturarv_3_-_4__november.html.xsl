@@ -180,7 +180,7 @@
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location="konferanse_saemien_immaterijelle_kultuvreaerpien_bijre_gaalkoen_3_-_4_b__.html"/>
         <parallel_text xml:lang="sme" location="konferansa_sami_immateriala_kulturarbbis_skabmamanu_3_-_4__b_.html"/>
-        <parallel_text xml:lang="smj" location="konferanssa_same_immateriala_kultuvrarbe_birra_basadismano_3_-_4__b_.html"/>
+        <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>

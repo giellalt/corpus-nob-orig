@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/politikk/taler-og-innlegg/tale-i-forbindelse-med-utdeling-av-sametingets-sprakmotiveringspris-2021.15344.aspx'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/politihkka/sartnit-ja-sahkavuorut/samediggepresideantta-sardni-samedikki-2021-giellamovttiidahttinbalkkasumi-oktavuodas.15347.aspx?sprak=1'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Tale i forbindelse med utdeling av Sametingets språkmotiveringspris 2021 - Sametinget'"/>
     <!--
@@ -124,6 +124,14 @@
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="mainlang" select="'nob'"/>
 
+    <!-- This variable indicates orthography. If the text is written in the
+         current (today's) orthography, the value may be left empty ("''")
+         or marked "'contemoprary'"). Orthography names are written without capital 
+         letters, the command "ccat -l sme -o names" (etc.) will give the available 
+         orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
+    -->
+     <xsl:variable name="orthography" select="''"/> 
+    
     <!--
         In the case of a multilingual document, we may want to check for
         other languages. Set the variable monolingual to '1' to turn off

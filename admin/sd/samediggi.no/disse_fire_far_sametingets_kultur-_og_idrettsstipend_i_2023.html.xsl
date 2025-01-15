@@ -81,16 +81,7 @@
 
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="genre" select="'admin'"/>
-
     <xsl:variable name="collection" select="''"/>
-
-    <!-- Set name of (older) orthography -->
-    <xsl:variable name="orthography" select="''"/>
-
-    <!-- Free form tags to describe the document -->
-    <xsl:variable name="tags">
-        <!-- <tag>example</tag> -->
-    </xsl:variable>
     <!--
         Three letter language code.
         https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder

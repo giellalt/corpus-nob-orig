@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/tilskudd-til-kulturtiltak.6812.aspx'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/aktuelt/tilskudd-til-kulturtiltak.26109.aspx'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Tilskudd til kulturtiltak - Sametinget'"/>
     <!--
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="'2020'"/>
+    <xsl:variable name="year" select="'2023'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -124,6 +124,14 @@
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="mainlang" select="'nob'"/>
 
+    <!-- This variable indicates orthography. If the text is written in the
+         current (today's) orthography, the value may be left empty ("''")
+         or marked "'contemoprary'"). Orthography names are written without capital 
+         letters, the command "ccat -l sme -o names" (etc.) will give the available 
+         orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
+    -->
+     <xsl:variable name="orthography" select="''"/> 
+    
     <!--
         In the case of a multilingual document, we may want to check for
         other languages. Set the variable monolingual to '1' to turn off
@@ -171,7 +179,7 @@
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="kulturdoaimmaide_doarjja.html"/>
+        <parallel_text xml:lang="sme" location="doarjagat_kulturdoaimmaide.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>

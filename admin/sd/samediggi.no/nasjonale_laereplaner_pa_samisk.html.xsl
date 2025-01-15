@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'https://sametinget.no/lierehtimmie/learoesoejkesjh/learoesoejkesjh/nasjonale-lareplaner-pa-samisk/?sprak=1'"/>
+    <xsl:variable name="filename" select="'https://sametinget.no/grunnopplaring/lareplaner/lareplaner/nasjonale-lareplaner-pa-samisk/'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="'Nasjonale læreplaner på samisk - Sametinget'"/>
     <!--
@@ -124,6 +124,14 @@
     <!-- Automatically filled in by CorpusTools -->
     <xsl:variable name="mainlang" select="'nob'"/>
 
+    <!-- This variable indicates orthography. If the text is written in the
+         current (today's) orthography, the value may be left empty ("''")
+         or marked "'contemoprary'"). Orthography names are written without capital 
+         letters, the command "ccat -l sme -o names" (etc.) will give the available 
+         orthograpies. Example names: bergslandruong, friis, itkonen, leem, ...
+    -->
+     <xsl:variable name="orthography" select="''"/> 
+    
     <!--
         In the case of a multilingual document, we may want to check for
         other languages. Set the variable monolingual to '1' to turn off
@@ -170,7 +178,7 @@
         <parallel_text xml:lang="nno" location=""/>
         <parallel_text xml:lang="nob" location=""/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
+        <parallel_text xml:lang="sma" location="nasjonaale_learoesoejkesjh_saemiengielesne.html"/>
         <parallel_text xml:lang="sme" location="nasunala_oahppoplanat_samegillii.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>

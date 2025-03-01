@@ -1,0 +1,2457 @@
+Error at: 119
+<string>:1:0:ERROR:VALID:DTD_INVALID_CHILD: Element p is not declared in p list of possible children
+<document {http://www.w3.org/XML/1998/namespace}lang="nob" id="no_id">
+    <header>
+        <title>
+        </title>
+        <genre code="admin">
+        </genre>
+        <author>
+            <unknown>
+            </unknown>
+        </author>
+        <wordcount>
+            18964
+        </wordcount>
+        <conversion_status type="standard">
+        </conversion_status>
+        <availability>
+            <license type="standard">
+            </license>
+        </availability>
+        <multilingual>
+        </multilingual>
+        <origFileName>
+            Sámediggeráđi doaibmadieđáhus 07.11.20-12.02.21 nob.docx
+        </origFileName>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="dan" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="eng" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fin" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fit" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fkv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="ger" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="isl" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kal" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kpv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nno" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nob" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="rus" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sma" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sme" location="samediggeradi_doaibmadiedahus_07.11.20-12.02.21_sme.docx">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smj" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smn" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sms" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="swe" location="">
+        </parallel_text>
+        <metadata>
+            <uncomplete>
+            </uncomplete>
+        </metadata>
+        <version>
+            XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$;
+        </version>
+    </header>
+    <body>
+        <p>
+            Originalspråk:
+        </p>
+        <p>
+            /
+            <em type="italic">
+                Sametingsrådets beretning om virksomheten
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                Arkivsaknr.
+            </em>
+        </p>
+        <p>
+            21/23
+        </p>
+        <p>
+            Mielddus/Vedlegg
+        </p>
+        <p type="title">
+            Saksfremstilling
+        </p>
+        <p type="title">
+            1 Innledning
+        </p>
+        <p>
+            Denne beretningen omhandler perioden fra 7. november 2020 til 12. februar 2021 og er knyttet opp til Sametingets budsjett for 2020 og 2021.
+        </p>
+        <p>
+            Sametingsrådet har i denne perioden behandlet 168 saker fordelt på ett fysisk rådsmøte i desember, ett heldigitalt rådsmøte i januar, samt ukentlige digitale møter.
+        </p>
+        <p type="title">
+            2 Språk
+        </p>
+        <p>
+            Samfunnsmål:
+        </p>
+        <list>
+            <p type="listitem">
+                De samiske språkene er naturlige, samfunnsbærende og levende språk
+            </p>
+        </list>
+        <p>
+            Bruk av samiske språk
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Innbyggerne i forvaltningsområdet for samisk språk kan aktivt bruke samisk i kommunikasjon med offentlige instanser.
+            </p>
+        </list>
+        <p>
+            Tospråklighetstilskudd til kommuner – direkte tilskudd
+        </p>
+        <p>
+            Tospråklighetstilskudd til fylkeskommuner – direkte tilskudd
+        </p>
+        <p>
+            Sametinget har sendt tilskuddsbrev om tospråklighetsstøtten for 2021 til kommunene og fylkeskommunene i forvaltningsområdet for samisk språk. Kriteriene for måloppnåelsen i betjeningstilskuddet er blant annet at kommunen har samiskspråklige ansatte, dokumenter og skjema er på samisk, hjemmesidene er på samisk, offentlige bygg er skiltet på samisk, samisk benyttes i helse- og sosialsektoren og i kommuneadministrasjonen, og at en større del av befolkningen har samiskopplæring i grunnskolen.
+        </p>
+        <p>
+            Utvikling av samiske språk
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Befolkningen har mulighet til å lære seg samisk og fremme språket
+            </p>
+        </list>
+        <p>
+            Språkutvikling i kommuner – direkte tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Språkutvikling i kommuner:
+        </p>
+        <list>
+            <p type="listitem">
+                Befolkningen har mulighet til å lære og utvikle samisk språk.
+            </p>
+        </list>
+        <p>
+            Språkutvikling i fylkeskommuner – direkte tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Språkutvikling i fylkeskommuner:
+        </p>
+        <list>
+            <p type="listitem">
+                Befolkningen har mulighet til å lære og utvikle samisk språk.
+            </p>
+        </list>
+        <p>
+            Sametinget har med grunnlag i den 3-årige handlingsplanen for 2020-2022 bevilget støtte til språkutvikling i kommuner og fylkeskommuner. Kriteriene for måloppnåelsen i utviklingsdelen er at kommunen har tiltak på samisk til barn og unge, og at kommunen har tiltak på samisk til kommunens befolkning. Kriteriene for måloppnåelse i fylkeskommunen er at fylkeskommunen finansierer tiltak som fremmer og styrker samisk språk på fylkeskommunens ansvarsområder.
+        </p>
+        <p>
+            Samiske språksentre – direkte tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Samiske språksentre:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske språksentre fremmer og synliggjør samiske språk aktivt i sine virkeområder.
+            </p>
+        </list>
+        <p>
+            Sametingsrådet har bevilget aktivitetstilskudd til språksentrene med bakgrunn i handlingsplanen for 2021-2023. Aktivitetstilskuddet er bevilget til planlagte språkkurs og planlagte språkarenaer med henholdsvis 3,2 millioner kroner og 5,2 millioner kroner. Nye språksentra som får direktestøtte over Sametingets budsjett for 2021 er Kvænangen språksenter og Samisk hus i Oslo.
+        </p>
+        <p>
+            Språkprosjekter – søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Språkprosjekter:
+        </p>
+        <list>
+            <p type="listitem">
+                Befolkningen har mulighet til å lære seg samisk og fremme språket
+            </p>
+        </list>
+        <p>
+            Språkprosjektene er kunngjort for søk. Søknadsfristen for 2021 er endret slik at det er tre søknadsfrister: 1. mars, 15. mai og 1. september. Etter søknadsfristen blir søknadene behandlet samlet. Sametinget ønsker søknader spesielt fra sør-, lule- og markasamiske områder til prosjekter som er prioritert i år. Derfor er det åpnet opp for at språksentrene i disse områdene kan søke om støtte fra prioriteringene
+            <span type="quote">
+                «Samiske språkarenaer»
+            </span>
+        og
+            <span type="quote">
+                «Fremme metoder for at språkkursene i området sammen kan påvirke språkopplæringen»
+            </span>
+        .
+        </p>
+        <p>
+            Stipend til elever med samisk i videregående skole – søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Stipend til elever med samisk i videregående skole:
+        </p>
+        <list>
+            <p type="listitem">
+                Motivere ungdom til å ta samisk som fag på videregående skole.
+            </p>
+        </list>
+        <p>
+            Det er mulig å søke stipend fra midten av januar til 1. mars 2021. Søknadene er begynt å komme inn, og de behandles fortløpende. Stipendet bevilges med bakgrunn i nivået på opplæringen. For virkelig å motivere elevene til å velge samisk som førstespråk, er stipendet til samisk som førstespråk økt til 10 000 kroner.
+        </p>
+        <p>
+            Språkstipend høyere utdanning – søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Språkstipend høyere utdanning:
+        </p>
+        <list>
+            <p type="listitem">
+                Motivere flere til å lese de mest truede samiske språkene.
+            </p>
+        </list>
+        <p>
+            Målet med stipendet er å motivere flere til å studere de mest truede samiske språkene. Derfor prioriterer Sametinget også i 2021 stipend til studenter som leser lulesamisk og sørsamisk på høyere nivå og studenter fra det markasamiske området som leser samisk på høyere nivå. Søknadsfristen for stipendet i vårsemesteret er 1. april og 1. oktober i høstsemesteret. Søknadene behandles fortløpende.
+        </p>
+        <p>
+            Rettskrivingsbok for lulesamisk - prosjekt
+        </p>
+        <p>
+            Det ble gjennomført arbeidsmøte 18. november 2020, 3. desember 2020 og 21. januar 2021. Neste møte er planlagt gjennomført 18. februar 2021. Arbeidsgruppen har utarbeidet ordliste, samt en alfabetisk liste over de mest vanlige forkortelsene. Arbeidsgruppen møter også en del interne utfordringer når det gjelder valg av navn på enkelte termer som brukes ulikt i Norge og Sverige. Det løses ved at begge termene brukes. Det er ingen tvil om at koronasituasjonen har påvirket og ført til forsinkelser. Det vil ta litt lenger tid å ferdigstille Lulesamisk rettskrivingsbok, enn først planlagt. Selv om arbeidsgruppen nå er i sluttfasen gjenstår det enda en god del arbeid før prosjektet kan avsluttes. Sametinget har valgt å lage en ny prosjektrapport, et videreføringsprosjekt som gjelder for 2021.
+        </p>
+        <p>
+            Samiske stedsnavntjenester - prosjekt
+        </p>
+        <p>
+            Samisk stedsnavntjeneste har veiledet i hvordan skrive både nordsamiske, lulesamiske og sørsamiske navn. Det er blitt sendt foreløpige tilrådninger til både Hammerfest kommune, Saltdal kommune og Tana kommune. Stedsnavntjenesten har også sendt foreløpig tilrådning til Trondheim kommune om hvordan skrive Trondheim by på sørsamisk. Stedsnavntjenesten tilrådde å skrive
+            <em type="italic">
+                Tråante
+            </em>
+        . Endelige tilrådninger er sendt til både Kåfjord kommune, Sør-Varanger kommune, Andøya kommune, Karasjok kommune, Hamarøy kommune, Bardu kommune, Alta kommune og Ibestad kommune. Ellers har stedsnavntjenesten svart på spørsmål fra både Språkrådet, private personer og kommuner om samiske språknavn, og har veiledet kommuner i rettskriving av adressenavn. Stedsnavntjenesten har også forelest om sitt arbeid i Nord-Norges regionale webinar, med mål om å sikre bra kunnskapsgrunnlag og saksbehandling hos ulike aktører som jobber med stedsnavn.
+        </p>
+        <p>
+            Sámi Giellagáldu - avtale
+        </p>
+        <p>
+            Sametinget har hatt som mål å opprette Sámi Giellagáldu som et varig normeringsorgan for de samiske språkene i 2020 slik at det nye organet kan begynne å fungere i 2021. Prosessen med å opprette et fast Sámi Giellagáldu er i gang, men en fast finansiering av Sámi Giellagáldu er ikke på plass. Den 28. desember 2020 ble det holdt et ekstraordinært SPR-møte, der sametingene sammen forlenget den prosjektbaserte driften til Giellagáldu til slutten av 2021. Sametinget har i oktober satt i gang arbeidet med rekruttering av direktør til Sámi Giellagáldu, men tilsettingsprosessen ble stoppet i januar.
+        </p>
+        <p>
+            <em type="italic">
+                Normeringsarbeid
+            </em>
+        </p>
+        <p>
+            Virksomheten til Sámi Giellagáldu blir gjennomført som et prosjektlignende samarbeid mellom sametingene, til en ny fast institusjon blir opprettet på slutten av året. Sámi Giellagáldu har i dag fem språkseksjoner som har som oppgave å normere terminologi og normene for skriftspråket. Språkseksjonene har i denne perioden på grunn av koronasituasjonen møttes digitalt. Den nordsamiske språkseksjonen ble samlet én gang i perioden, i desember. Språkseksjonen behandlet fem termlister, og normerte til sammen 102 nordsamiske termer.
+        </p>
+        <p>
+            <em type="italic">
+                Lulesamisk språkseksjon
+            </em>
+        </p>
+        <p>
+            I denne perioden har språkseksjonen gjennomført et møte 10. desember 2020, hvor 126 navn på land ble normert, pluss 242 betegnelser på folk og språk. Land og riker ble normert etter skrivereglene som ble vedtatt på det forrige møte. De to siste møtebøkene er foreløpig ikke godkjent eller frigitt fordi de mangler godkjenning fra én av møtebokunderskriverne på svensk side. Så snart møtebøkene godkjennes publiseres de på Giellagálldos nettside,
+            <em type="italic">
+                www.giella.org
+            </em>
+        .
+        </p>
+        <p>
+            <em type="italic">
+                Lulesamisk språkrådgivningstjeneste
+            </em>
+        </p>
+        <p>
+            Sáme Giellagálldos språkkonsulenter har daglige Skype-møter hvor de organiserer og behandler termlister for språkseksjonen. Etterhvert som termene godkjennes i normeringsgruppen, registreres de fortløpende i termbanken «
+            <em type="italic">
+                TermWiki
+            </em>
+        » etter tema, og som da blir søkbar i nettordboka Báhko.org/Sátni.org. Sáme Giellagálldo har via e-post, telefon, facebooksider besvart på henvendelser på rett skrivemåte på ca 170 lulesamiske ord med ulike tema som duodje, naturbegreper, geografi, lånordtilpasninger og andre benevnelser.
+        </p>
+        <p>
+            <em type="italic">
+                Sørsamisk språkrådgivningstjeneste
+            </em>
+        </p>
+        <p>
+            Saemien Gïelegaaltijes sørsamiske språkgruppe har hatt digitale møter 11. november 2020 og 15. desember 2020. På møtet i november ble en hastesak diskutert, om et nytt sørsamisk navn for Statsforvalteren (tidligere fylkesmannen). I desembermøtet ble 52 ord/termer godkjent, og de registreres fortløpende i termbanken «
+            <em type="italic">
+                TermWiki
+            </em>
+        ». 15 språkrelaterte spørsmål har blitt besvart i løpet av perioden. Henvendelsene handler mest om ord, embets-, person- og stedsnavn, språkgrenser og oversettelse.
+        </p>
+        <p>
+            <em type="italic">
+                Nordsamisk språkrådgivningstjeneste
+            </em>
+        </p>
+        <p>
+            Sámi Giellagáldus språkrådgivning har veiledet språkbrukere i forskjellige språkspørsmål og har i denne perioden svart på om lag 50 spørsmål som hører til bruken av nordsamisk, om rettskriving og terminologi. Språkbrukere, oversettere og institusjoner spør ofte om veiledning i rettskriving, tilpassing av lånord, betydning av ord og stedsnavn og dets etymologi. Språktjenesten får også ofte spørsmål fra offentlige institusjoner. Også noen offentlige departementer, institusjoner og foreninger har bedt om hjelp til å komme med forslag på samiske navn til institusjoner eller foreninger. Sámi Giellagáldus administrasjon ser at språkrådgivningstjenester blir mer populære, og at både private personer og institusjoner verdsetter språkrådgivningtjenesten.
+        </p>
+        <p>
+            Oppfølgning av Hjertespråket
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samisk språk er et synlig og samfunnsbærende språk
+            </p>
+        </list>
+        <p>
+            Arbeidet med oppfølgingen av Hjertespråket foregår i flere ulike parallelle prosesser. Sametinget er i konsultasjoner om revidering av samelovens kapittel 3, samtidig som Sametinget følger opp forslag til tiltak i Hjertespråket gjennom Sametingets egen språksatsning Giellalokten. Sametinget har siden konsultasjonene med kommunal- og moderniseringsdepartementet i september 2020 jobbet videre med blant annet klageordning, tilsyn med samelovens språkregler og samisk språkombud. Det er for 2021 avsatt midler til utredning av økonomiske og administrative konsekvenser for samisk språkombud, tilsyn og klageordning. Sametinget har i denne perioden både jobbet med tiltak som var igangsatt i 2020, samt startet opp planlegging av disse tiltakene, som er prioritert i budsjett 2021:
+        </p>
+        <list>
+            <p type="listitem">
+                Språkløyper - nasjonal strategi for lesing og skriving
+            </p>
+            <p type="listitem">
+                Grenseoverskridende barnehage- og skolesamarbeid
+            </p>
+            <p type="listitem">
+                Klageordning, tilsyn og samisk språkombud
+            </p>
+            <p type="listitem">
+                Samisk språkuke
+            </p>
+            <p type="listitem">
+                Samisk språkområde
+            </p>
+            <p type="listitem">
+                Utredning av språksituasjonen for pite- og umesamisk
+            </p>
+            <p type="listitem">
+                Utviklingsprogram for de samiske språkene
+            </p>
+            <p type="listitem">
+                Navnefaglig arkiv
+            </p>
+            <p type="listitem">
+                Rekrutteringsstrategier
+            </p>
+            <p type="listitem">
+                Særskilte rekrutteringstiltak sør - og lulesamisk
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Karrierekonferanse for elever i videregående skole
+            </em>
+        </p>
+        <p>
+            Sametingets karrierekonferanse måtte utsettes grunnet koronasituasjonen. Sametinget er i gang med planleggingen og gjennomføringen av Sametingets første karrierekonferanse for elever i videregående skole. Det har vært avholdt anbudskonkurranser for å finne samarbeidspartnere til å utarbeide det digitale tilbudet. Det er skrevet kontrakt med Messeselskapet AS og Forest People, som skal ta seg av henholdsvis den digitale plattformen og filming og livestream i forbindelse med konferansen. Konferansen avholdes digitalt 25. mars 2021. Sametinget opplever stor oppslutning om karrierekonferansen, og har vært nødt til å prioritere utdanningsinstitusjonene. Alle elever fra 1.- 3. klassetrinn på videregående skole med samisk som 1. eller 2. språk er inviterte.
+        </p>
+        <p>
+            Grenseoverskridende barnehage- og skolesamarbeid - prosjekt
+        </p>
+        <p>
+            Sametinget har i 2019 gjennomført et forprosjekt
+            <span type="quote">
+                “Rájáhis sámeoahpahus”
+            </span>
+        , hvor det er samlet eksempler på skoler som samarbeider over landegrensene. Rapporten
+            <span type="quote">
+                “Rájáhis sámeoahpahus”
+            </span>
+        har skissert noen tiltak til videre samarbeid i skoler og barnehager over hele Sápmi og foreslår noen organisatoriske grep. Med bakgrunn i denne rapporten er det opprettet en arbeidsgruppe som skal arbeide videre med prosjektet. Prosjektgruppen består av åtte medlemmer fra Norge, Sverige og Finland. Usikkerheten rundt koronasituasjonen har vært en medvirkende årsak til at arbeidsgruppens oppstart er forsinket. Mandatet for arbeidet er å utarbeide en felles erklæring for barnehager og skoletilbud for hele Sápmi. Prosjektgruppens oppstartsmøte var 4. desember 2020. Erklæringen skal være ferdigstilt til 10. juli 2021. 4. februar 2021 hadde sametingsråd Mikkel Eskil Mikkelsen et møte med prosjektgruppen hvor arbeidet ble drøftet. Sametingsråden uttrykte å være fornøyd med at prosjektgruppen har høy kompetanse fra barnehagenivå til høyere utdanningsnivå og ser frem til å følge arbeidet.
+        </p>
+        <p>
+            Samisk språkuke – prosjekt
+        </p>
+        <p>
+            Sametinget har startet arbeidet med samisk språkuke 2021, og i år som i fjor vil denne finne sted i uke 43. Sametinget har også intensjon om å opprettholde samarbeidet med sametingene på finsk og svensk side. Grunnet koronasituasjonen vil det være nødvendig å ta høyde for at store deler av uken vil måtte gå digitalt. Sametinget er i gang med informasjon rettet mot aktører. Sametinget har oppfordret statsforvalteren i Troms og Finnmark (tidligere fylkesmannen) å sette i gang planlegging for hvordan synliggjøre samisk språkuke høsten 2021. Videre arbeides det med informasjon rettet mot offentlige og private aktører.
+        </p>
+        <p>
+            Utredning av språksituasjonen for pite- og umesamisk - prosjekt
+        </p>
+        <p>
+            Kartleggingen av språksituasjonen for ume- og pitesamisk ble ferdigstilt i desember 2020, det samme gjelder for kartlegging av skoltesamisk språksituasjon. Rapportene vil bli presentert under seminarer i de ulike språkområdene i løpet av våren av 2021. Koronasituasjonen gjør planleggingen av seminarene utfordrende. Det er ønskelig at disse seminarene avholdes fysisk, da man særlig ønsker at den eldre generasjonen deltar og bidrar i disse seminarene. Det er også ønskelig at seminarene er åpne for deltakere fra både norsk, svensk og finsk side av språkområdene.
+        </p>
+        <p>
+            Utviklingsprogrammer for de samiske språkene - prosjekt
+        </p>
+        <p>
+            Situasjonen for de samiske språkene er forskjellig i de ulike språkområdene, og det vil være viktig i den fremtidige politikkutviklingen at det tas utgangspunkt i språksituasjonen i det aktuelle språkområdet i planleggingen av språktiltak. Sametinget vil i samarbeid med institusjoner i det aktuelle språkområdet ha et nært samarbeid om utarbeidelse av konkrete språktiltak for de ulike språkene. Sametinget vil i første omgang utarbeide språktiltak for sør- og lulesamisk. Sametinget utarbeidet en anbudskonkurranse i forbindelse med arbeidet med utviklingsprogrammer. Det kom ingen tilbud. Sametinget vil gjøre vurderinger på hvordan vi organiserer arbeidet med utviklingsprogrammer på en hensiktsmessig måte.
+        </p>
+        <p>
+            Rekrutteringsstrategier - prosjekt
+        </p>
+        <p>
+            I oppfølgingen av Giellalokten har Sametinget lyst ut en anbudskonkurranse om utvikling av en helhetlig rekrutteringsstrategi. Rekrutteringsstrategien skal gi Sametinget grunnlag til å prioritere og iverksette tiltak som bidrar til flere samiskspråklige fagfolk innenfor alle samfunnsområder. Strategien skal likevel gi spesifikke strategier for sektorene opplæring og helse, fordi utfordringene med å rekruttere fagfolk innenfor disse sektorene er særlig store. PwC Norge vant anbudskonkurransen og oppstartsmøtet ble avholdt 12. november 2020. PwC Norge skal levere sitt forslag 30. april 2021.
+        </p>
+        <p>
+            Særskilte rekrutteringstiltak sør- og lulesamisk - prosjekt
+        </p>
+        <p>
+            Det er utlyst to nye stillinger for sør- og lulesamiske språktiltak. Ved søknadsfrist 7. februar 2021 var det en rekke søkere på hver stilling. Sør- og lulesamiske språk- og opplæringskonferanser måtte avlyses grunnet koronasituasjonen høsten 2020. Sametinget har intensjon om å arrangere konferansene i løpet av 2021, dersom koronasituasjonen tillater det. Digitale alternativer vil bli vurdert.
+        </p>
+        <p type="title">
+            3 Oppvekst, opplæring, utdanning og forskning
+        </p>
+        <p>
+            Samfunnsmål:
+        </p>
+        <list>
+            <p type="listitem">
+                Det samiske samfunnet har kunnskap, kompetanse og ferdigheter som verner, sikrer og utvikler samiske språk, kultur og samfunnsliv.
+            </p>
+        </list>
+        <p>
+            Samiskspråklige barn i dagens samfunn
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske barn får styrket og utviklet sitt samiske språk
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Kompetanseutvikling i barnehager
+            </em>
+        </p>
+        <p>
+            26. november 2020 og 18. desember 2020 deltok Sametinget på møte med Statsforvalterne i Troms, Finnmark, Nordland og Oslo og Viken i regi av Statsforvalteren (tidligere Fylkesmannen) i Trøndelag. Tema på møtet i november var rekruttering av samiskspråklige ansatte i barnehagene. Tema på møtet i desember var blant annet arbeidsplassbasert barnehagelærerutdanning med samisk profil, som Nord universitet tilbyr fra høsten 2021. Samisk profil betyr at hele studieplanen løfter læringsutbyttene som går på kunnskap om det samiske.
+        </p>
+        <p>
+            <em type="italic">
+                Samarbeidsforum for regional ordning for kompetanseutvikling i barnehage
+            </em>
+        </p>
+        <p>
+            17. november 2020 deltok Sametinget på styremøtet til RSK Øst-Finnmark
+            <em type="italic">
+                ,
+            </em>
+        som er et samarbeidsorgan for barnehage- og skolesektoren i syv kommuner i Finnmark. Tema på møtet var blant annet behov for å rekruttere samiske barnehagelærere til regionen. Sametinget informerte om arbeidet med Sametingets rekrutteringsstrategi. Styret i RSK Øst-Finnmark ga i møtet tilbakemelding om at de var positive til Sametingets arbeid med ny strategi og særlig til måten ungdom involveres i dette arbeidet. Flere i styret i RSK Øst-Finnmark ser rekrutteringspotensial i egne kommuner.
+        </p>
+        <p>
+            <em type="italic">
+                Implementering av rammeplan for barnehager
+            </em>
+        </p>
+        <p>
+            21. januar 2021 deltok Sametinget på møte i Utdanningsdirektoratets referansegruppe for implementering av rammeplanen. Det ble informerert om NORCEs første delrapport fra Evaluering av implementering av rammeplanen. Rapporten ble offentliggjort 2. februar 2021.
+        </p>
+        <p>
+            21. januar 2021 deltok Sametinget også på møte med Utdanningsdirektoratet (Udir) og leder for programstyret i Evaluering av implementering av rammeplanen. Tema på møtet var det samiske i rapporten. Udir informerte om at det kommer en egen rapport om det samiske. Sametinget er fornøyd med at det samiske er gjennomgående tema i rapporten, og glad for at utfordringene som berører de samiske barnehagene og andre barnehager med samisk tilbud kommer frem og dokumenteres.
+        </p>
+        <p>
+            <em type="italic">
+                Digital faglig forum i regi av
+            </em>
+            <em type="italic">
+                Partnerskap mot mobbing
+            </em>
+        </p>
+        <p>
+            3. februar 2021 deltok Sametinget på digital faglig forum i regi av Partnerskap mot mobbing. Fra 1. januar 2021 får barnehagene en ny mobbelov. De nye reglene skal sikre at alle barn har det trygt og godt i barnehagene. Tema på forelesningene var
+            <span type="quote">
+                «Hva innebærer aktivitetsplikt i barnehagen?»
+            </span>
+        og
+            <span type="quote">
+                «Hvordan jobbe med aktivitetsplikt i barnehagen?»
+            </span>
+        .
+        </p>
+        <p>
+            <em type="italic">
+                Sametingets deltakelse i nasjonale prosesser
+            </em>
+        </p>
+        <p>
+            Sametinget har deltatt i referansegruppa til prosjektet
+            <span type="quote">
+                «Samiske barnehager som helsefremmende arena»
+            </span>
+        , ledet av Telemarksforskningen og finansiert av SANKS i årene 2019-2020. Prosjektet gransker hvordan de nord-, lule- og sørsamiske barnehagene jobber med å tilby gode barnehagemiljøer i forhold til det som barnehagens rammeplan krever. Prosjektet har utgitt første artikkel
+            <span type="quote">
+                «Livsmestring i den samiske barnehagen»
+            </span>
+        i tidsskriftet Nordisk Tidsskrift for Pedagogikk og Kritikk, der utgangspunktet er at samiske barn har rett til forebyggingstiltak på deres eget språk, tilpasset deres kultur og kontekst i pedagogiske institusjoner.
+        </p>
+        <p>
+            Tilskudd til samisk språkopplæring i barnehager - søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddordningen - samisk språkopplæring i barnehager:
+        </p>
+        <list>
+            <p type="listitem">
+                Barnehager gir tilbud om samisk språkopplæring.
+            </p>
+        </list>
+        <p>
+            Sametinget fikk inn totalt 21 søknader innenfor perioden i 2020, hvor alle søknadene er ferdigbehandlet. Søknadsfrist for denne ordningen var åpen frem til 1. september 2020. Resultatet er at det er fordelt 1,9 millioner kroner til 20 barnehager. Sametinget har fått inn 1 søknad i 2021, hvor søknaden er under behandling.
+        </p>
+        <p>
+            Tilskudd til prosjekter og utviklingsarbeid i barnehager – søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Prosjekter og utviklingsarbeid i barnehager:
+        </p>
+        <list>
+            <p type="listitem">
+                Høy kvalitet på samisk språk og kulturarbeidet i barnehagene.
+            </p>
+        </list>
+        <p>
+            Sametinget har fått inn totalt 21 søknader innenfor perioden i 2020, hvor alle søknadene er ferdigbehandlet. Søknadsfrist for denne ordningen var åpen frem til 1. oktober 2020. Det er fordelt 2,3 millioner kroner til 17 barnehager. I perioden er det gitt 1 067 900 kroner i tilskudd til 7 barnehager. Sametinget har fått inn 1 søknad i 2021, hvor søknaden er under behandling.
+        </p>
+        <p>
+            Tilskudd til utvikling av pedagogisk materiell for barnehager – søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen – Utvikling av pedagogisk materiell for barnehager:
+        </p>
+        <list>
+            <p type="listitem">
+                Barnehager, barnehagelærere og utdanningsinstitusjoner har god tilgang på pedagogisk materiell som har et samisk innhold.
+            </p>
+        </list>
+        <p>
+            Sametinget fikk inn 5 søknader innenfor perioden i 2020, og har avsluttet saksbehandlingen av denne ordningen. Resultatet er at det er fordelt 2,4 millioner kroner på 3 prosjekter. Sametinget har ikke fått inn noen søknader i 2021 i denne ordningen.
+        </p>
+        <p>
+            SáMOS (Sámi mánát ođđa searvelanjain) – utviklingsprosjekt 2018-2022
+        </p>
+        <p>
+            SáMOS har i denne perioden hatt mye prosessutviklingsarbeid som skal begynne å gi synlige resultater fra vårvinteren 2021 og fremover. Hovedoppgaven har vært å få i gang utviklingsarbeid spesielt i pilotbarnehagene og knytte kompetanseløftet til dette.
+        </p>
+        <p>
+            <em type="italic">
+                SáMOS over hele Sápmi
+            </em>
+        </p>
+        <p>
+            SáMOS har i sin rapport til SPR 21. desember 2020 skrevet om prosjektarbeidet Miehtá Sámi SáMOS (SáMOS over hele Sápmi), der intensjoner, hva som er gjort og resultatet kommer fram. Sammendraget her er: SPR vedtok 15. mai 2018 å sette SáMOS-prosjektet i virksomhetsplanen og starte et Miehtá Sámi SáMOS-prosjekt som fremmer samisk barnehagepolitikk. SáMOS startet arbeidet med å sette i gang samarbeidet på finsk og svensk side av Sápmi. Målet var å ferdigstille en Interreg-søknad. Hovedsøker var Sametinget på svensk side i samarbeid med Sametinget på finsk side, men i desember 2019 kom beskjeden fra Sametinget på svensk side om at søknaden ikke var sendt inn og at fristen for Interreg-søknader var gått ut. SáMOS er fremdeles rede til å bruke ressurser for å få Miehtá Sámi SáMOS i gang. Høsten 2020 har Sametinget i Finland skrevet en egen SáMOS -prosjektbeskrivelse og søkt om midler med mål om å få i gang et konkret samarbeid med SáMOS på norsk side av Sápmi.
+        </p>
+        <p>
+            <em type="italic">
+                Utviklingsprosjekt med Sámi allaskuvla
+            </em>
+        </p>
+        <p>
+            SáMOS og Sámi allaskuvla har avtalt å samarbeide på prosjektbasis for å fremme samisk pedagogikk og samisk språk i barnehageopplæringen og forskningen på Samisk høgskole. I dag mangler muligheten for samiske barnehagelærere å fortsette på masternivå. Her er det behov for å arbeide med langsiktige strategier der man må se på interne og eksterne muligheter og hindringer. Dette samarbeidet skal også ligge til grunn for pilotbarnehageopplæringen og fremtidig utviklingsarbeid for kvalitetsløft. Det lages en egen avtale på bakgrunn av dette.
+        </p>
+        <p>
+            <em type="italic">
+                Avtale med Sámi lohkanguovddáš
+            </em>
+        </p>
+        <p>
+            Avtalen er ferdigstilt og da er samarbeidet mellom SáMOS og Sámi lohkanguovddáš/Senter for samisk i opplæringen formalisert. Innholdet i avtalen går ut på sammen å gjennomføre et spesielt kvalitetsløft i samiske barnehager i samisk pedagogikk, og å ta i bruk sterke språkmodeller.
+        </p>
+        <p>
+            <em type="italic">
+                Orientering og deltakelse på seminar/webinar
+            </em>
+        </p>
+        <p>
+            28. november 2020 var det orientering til UiT Norges arktiske universitet om virksomheten til SáMOS og orientering fra UiT om at evalueringen av implementering av rammeplanen er i gang.
+        </p>
+        <p>
+            29. november 2020 var det en egen orientering til Utdanningsdirektoratet (UDIR) om SáMOS og kvalitetsløftet i samiske barnehager.
+        </p>
+        <p>
+            16. november 2020 deltok SáMOS/Sametinget på Indigenizing education-seminaret til UiT Norges arktiske universitet. Sametingets bidrag på det digitale seminaret var: Present challenges in Sámi education.
+        </p>
+        <p>
+            16. desember 2020 ble det holdt et webinar om utvikling av samisk pedagogikk og samisk språk for foreldre og lærere. Mellom 40 og 50 personer deltok med innledninger og samtaler.
+        </p>
+        <p>
+            <em type="italic">
+                Informasjonsinnhenting
+            </em>
+        </p>
+        <p>
+            SáMOS har samlet inn informasjon om samiske barnehager i hele Sápmi. Det er gjort egne arbeid på norsk, svensk, finsk og russisk side av Sápmi. Det neste skrittet i arbeidet er å samle informasjonen i ett dokument og lage informasjon som kan publiseres på nettet eller i bokform.
+        </p>
+        <p>
+            <em type="italic">
+                Pilotbarnehager
+            </em>
+        </p>
+        <p>
+            Pilotbarnehageordningen skulle starte opp høsten 2020. Den ble utsatt til januar 2021, og startet opp 19. januar 2021 på Samisk høgskole. Utviklingsarbeidet er delt inn i tre deler: Undervisning ved Samisk høgskole, forskning ved forskningsinstitusjoner og utviklingsarbeid ved SáMOS. Det er gjort avtale med pilotbarnehagene, og det er oppnevnt en egen koordinator som skal holde orden på organiseringen og gjennomføringen. Sametinget/SáMOS betaler for utgiftene til pilotbarnehageordningen og for utvikling og utprøving av pilotbarnehageopplæringen som Sámi allaskuvla gir. Barnehagen kan låne datautstyr som barnehagen bruker i prosjektperioden. Det gjøres avtaler om lån av utstyret. Pilotbarnehagene kan også søke om støtte til ekstrautgiftene fra støtteordningen Prosjekter og utviklingsarbeid i barnehagene.
+        </p>
+        <p>
+            <em type="italic">
+                Opplæring for pilotbarnehagen (PBH)
+            </em>
+        </p>
+        <p>
+            I januar 2021 startet pilotbarnehageprosjektet og pilotbarnehageopplæringen som Sámi allaskuvla står for. 19.- 20. januar 2021 ble det gitt undervisning til den første gruppen med ledere og pedagoger. Den andre gruppen, som besto av assistenter, fikk undervisning 26.- 27. januar 2021. Studentene kan ta studiepoeng eller få undervisningen som et kompetanseløft-kurs. På grunn av koronapandemien var undervisningen nettbasert. PHB finansieres i samarbeid mellom Sametinget og Sámi allaskuvla.
+        </p>
+        <p>
+            <em type="italic">
+                Samisk pedagogisk forskning
+            </em>
+        </p>
+        <p>
+            Sametinget har lyst ut en offentlig anbudskonkurranse for et samisk pedagogisk barnehageprosjekt som skal gjennomføres i tilknytning til utviklingen av pilotbarnehagen over to år. Forskningen skal synliggjøre, redegjøre for, og definere samisk pedagogikk og didaktikk i en samisk barnehage. I begynnelsen av februar 2021 ble det klart at Sámi allaskuvla har vunnet anbudskonkurransen og får slik mulighet til å gjennomføre en forskning i tilknytning til pilotbarnehageprosjektet. Forskningen starter i mars 2021.
+        </p>
+        <p>
+            <em type="italic">
+                Språkforskning
+            </em>
+        </p>
+        <p>
+            SáMOS sitt samarbeid med Sámi allaskuvla har gitt resultater. Sámi allaskuvla har høsten 2020 kunngjort fire språkstipendiatstillinger der en av prioriteringene kan knyttes til pilotbarnehageprosjektet. Det er fem søkere til språkstipendiatstillingene ved Sámi allaskuvla. Søknadene skal behandles i løpet av vårvinteren.
+        </p>
+        <p>
+            <em type="italic">
+                Arbeidsgruppe
+            </em>
+        </p>
+        <p>
+            SáMOS har opprettet en arbeidsgruppe som fram til våren 2021 har som oppgave å redegjøre for definisjonen av sterke språkmetoder fordi det er behov for å definere sterke språkmodeller og hvordan de skal fungere i samiske barnehager og også i grunnskolen. Arbeidsgruppen består av den nye språkprofessoren Annikka Pasanen ved Sámi allaskuvla, professor emeritus Jon Todal og språkforsker Inga Lill Sigga Mikkelsen.
+        </p>
+        <p>
+            Tradisjonell kunnskap i ny tid
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Den samiske barnehagen bygger på tradisjonell kunnskap.
+            </p>
+        </list>
+        <p>
+            Tilskudd til samiske barnehager og barnehager med samisk avdeling - søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Samiske barnehager og avdelinger:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske barnehager og samiske avdelinger i norske barnehager har tilbud som bygger på samisk språk og kultur.
+            </p>
+        </list>
+        <p>
+            Sametinget fikk inn totalt 32 søknader innenfor perioden i 2020, og har avsluttet saksbehandlingen av denne ordningen. Resultatet er at det er fordelt 7,5 millioner kroner på 32 barnehager. Sametinget har fått inn 2 søknader i 2021, 1 er ferdigbehandlet og 1 er under behandling.
+        </p>
+        <p>
+            Kunnskap og kompetanse bygger fremtidens barnehager
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Økt kunnskap og kompetanse i barnehagesektoren.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Evaluering av Sametingets tilskudd til barnehager
+            </em>
+        </p>
+        <p>
+            I Sametingets budsjett 2020 var det avsatt 200 000 kroner til evaluering av tilskuddsordningene for barnehager. Det ble i tillegg til dette omdisponert 400 000 kroner fra andre formål til denne evalueringen, slik at oppdragets verdi er på 600 000 kroner inkl. mva. Sametinget har i denne perioden gjennomført en anbudskonkurranse, og gitt oppdraget til PwC. Kontrakten er signert den 27. januar 2021, og oppstartsmøtet gjennomført den 4. februar 2021. Rapport fra evalueringen skal leveres innen 1. mai 2021.
+        </p>
+        <p>
+            Samisk innhold i skolen
+        </p>
+        <p>
+            Mål for innsatsområdet
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske elever og elever med samisk opplæring har kvalitetsmessig god opplæring i og på samisk.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Utviklingsprosjekt for å bedre opplæring i og på lulesamisk for grunnopplæringen
+            </em>
+        </p>
+        <p>
+            Med bakgrunn i Riksrevisjonens undersøkelse av samiske elevers rett til opplæring i og på samisk, og NOU 2016:18 Hjertespråket, har sametingsråd Mikkel Eskil Mikkelsen 7. desember 2020 vært i dialog med Hamarøy kommune, Bodø kommune, Nordland fylkeskommune og Hattfjelldal sørsamiske kunnskapsenter om et utviklingsprosjekt for å bedre opplæring i og på lulesamisk for grunnopplæringen. Sametingsrådet var interessert i å høre hva partene mener er de største utfordringene, hvilke rammer og hva må til for at de ønsker å bli med i utviklingsarbeidet. Momenter i drøftingen var blant annet opprettelse av lulesamisk profilskole, knytte språksentrene til arbeidet og rekruttering av lærere. Konklusjon fra møtet var å opprette en arbeidsgruppe til det videre arbeidet.
+        </p>
+        <p>
+            <em type="italic">
+                Kartlegging av kompetansebehov i det samiske samfunnet
+            </em>
+        </p>
+        <p>
+            Kompetansepolitisk råd ble nedsatt av Kunnskapsdepartementet i 2017, og skal virke frem til 2023. Sametinget har fått invitasjon til å delta i arbeidet om kartlegging av kompetansebehov i det samiske samfunnet fra Kommunal- og moderniseringsdepartementet.
+        </p>
+        <p>
+            <em type="italic">
+                Videregående opplæring
+            </em>
+        </p>
+        <p>
+            Det har ikke vært foretatt store endringer i videregående opplæring siden Reform 94. Gruppen av voksne som har behov for videregående opplæring har endret seg. Regjeringen har startet opp arbeidet med en fullføringsreform der målet er at ni av ti elever skal fullføre og bestå videregående opplæring innen 2030. Regjeringen vil vurdere forslag fra blant annet Liedutvalget om å utvide rettighetene til videregående opplæring, og vil legge frem en stortingsmelding om videregående opplæring i et livslangt læringsperspektiv våren 2021. Sametinget har gitt innspill til Liedutvalget og til Kunnskapsdepartementet om at samisk innhold skal tydeliggjøres i meldingene. For sametingsrådet er det viktig å få et helhetlig kunnskapsgrunnlag og oversikt over situasjonen for samisk videregående opplæring og fremmet dette overfor Kunnskapsdepartementet. Sametinget har bedt om konsultasjon i denne saken før stortingmeldingen vedtas våren 2021.
+        </p>
+        <p>
+            Revidering av læreplaner - prosjekt
+        </p>
+        <p>
+            Vi er nå i Fagfornyelsen del 2, som består av utarbeiding av læreplaner for yrkesfag og for de studieforberedende utdanningsprogrammene. Læreplan for yrkesfagene duodji og reindrift har Sametinget ansvar for å utvikle og fastsette. Disse har vært på høring høsten 2020 og er i etterkant blitt justert etter høringssvarene av Sametinget og av læreplangruppene. Sametinget har i samarbeid med Utdanningsdirektoratet kommet til omforent samisk innhold i de øvrige læreplanene for yrkesfagene.
+        </p>
+        <p>
+            Sametingsrådet har fastsatt læreplanen for Vg2 duodji og Vg2 reindrift 9. februar 2021, som tas i bruk høsten 2022.
+        </p>
+        <p>
+            Læreplanene for Vg3 yrkesfagene skal fastsettes i løpet av våren 2021.
+        </p>
+        <p>
+            Studieforberedende valgfrie programfagene for videregående opplæring Vg2 og Vg3 har vært ute på høring til 28. januar 2021.
+        </p>
+        <p>
+            Sametinget har ansvaret for utvikling og fastsetting av to av programfagene, de to særskilte samiske fagene i videregående opplæring; Samisk visuell kultur og Samisk historie og samfunn. Generelt for disse programfag er at det var færre innspill til læreplanene i høringen. De særskilte samiske læreplanene fikk 7 høringsinnspill. Læreplanene fastsettes etter planen i slutten av mars 2021 og skal tas i bruk høsten 2021.
+        </p>
+        <p>
+            Til læreplanene skal det utarbeides kjennetegn på måloppnåelse. Sametinget har laget kjennetegn på måloppnåelse for samiskfagene. Norsk utgave av kjennetegn på måloppnåelse for alle samiske fag ligger på Utdanningsdiretoratets nettside. Samiske utgaver av kjennetegn på måloppnåelse legges ut på Sametingets nettside etterhvert som de blir oversatt til alle samiske språk. For samisk som førstespråk er kjennetegnene foreløpig oversatt til nord- og sørsamisk.
+        </p>
+        <p>
+            <em type="italic">
+                Obligatorisk samisk for alle i Tana
+            </em>
+        </p>
+        <p>
+            Tana kommune har gjort et vedtak om innføring av samisk opplæring for alle i kommunen, slik de har anledning til i henhold til Opplæringslovens § 6-2 fjerde ledd. Denne bestemmelsen fordrer at kommune ikke har anledning til å pålegge samisk for alle etter gjeldende læreplaner i samisk som første- og andrespråk, heller ikke for samiske elever, da slik opplæring vil være et altfor inngripende tiltak, som også vil unnta elever krav om opplæring i skriftlig sidemål (nynorsk). Lovforarbeidene uttaler videre at den obligatoriske opplæringen i samisk må være noe annet og mindre omfattende enn opplæring etter samisk første- og andrespråksplan. Det innebærer at obligatorisk opplæring i samisk må gi elever adgang til å velge opplæring i samisk etter en lokalt fastsatt læreplan, som i omfang og innhold er mindre krevende enn samisk første- og andrespråk.
+        </p>
+        <p>
+            I den anledning hadde sametingsråd Mikkel Eskil Mikkelsen og statssekretær Anja Johansen ved Kunnskapsdepartementet et møte i desember 2020. Med henvisning til at Sametinget fastsetter læreplaner i samisk (opplæringsloven § 6-4 andre ledd), ba departementet Sametinget vurdere å utvikle en slik læreplan. Sametingsrådet er svært glad for at Tana kommune innfører obligatorisk samisk for alle i kommunen, og ønsker å gi kommunen, og alle andre forvaltningskommuner som gjør et lignende vedtak, de beste rammer for opplæring i samisk. Sametinget vil bistå Tana kommune til å utvikle læreplan i samisk for alle. Sametinget vil imidlertid ikke fastsette en læreplan i samisk som er mindre omfattende enn gjeldende læreplaner i samisk. Sametingsrådet har som mål at kravet om lokalt fastsatt læreplan ved obligatorisk samisk i forvaltningskommunene fjernes i de pågående konsultasjonene om ny opplæringslov.
+        </p>
+        <p>
+            <em type="italic">
+                Samarbeid med Statsforvalter
+            </em>
+        </p>
+        <p>
+            Det er viktig å ha samarbeid med Statsforvalter om aktuelle saker innenfor opplæringssektoren. I perioden har Sametinget hatt møte med Statsforvalteren i Troms og Finnmark der de blant annet presenterte sin fyrtårnssatsing. Sametinget og Statsforvalteren i Troms og Finnmark er enige om å styrke samarbeidet om barn og unge.
+        </p>
+        <p>
+            <em type="italic">
+                Samiske pedagogiske fagdager
+            </em>
+        </p>
+        <p>
+            Sametinget har som praksis å samarbeide og finansiere arrangeringen av samiske pedagogiske fagdager annet hvert år, sammen med StatPed/SEAD og Sámi allaskuvla/Sámi lohkanguovddáš. Dette er en svært viktig arena for utveksling av erfaringer og faglig påfyll for samiske lærere i barnehage og skole. Fagdagene 2020 ble på grunn av koronasituasjonen arrangert som to webinarer, og samlet mange samiske pedagoger og andre fra hele landet. Sametingsråd Mikkel Eskil Mikkelsen åpnet webinaret 26. november 2020. Sametinget hadde i tillegg innlegg om fagfornyelsen på webinaret 2. desember 2020, hvor tema var overordnet del – verdier og prinsipper, samisk innhold i læreplanene og endringer i læreplanstrukturen.
+        </p>
+        <p>
+            Tradisjonell kunnskap i grunnopplæringen – søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Tradisjonell kunnskap i grunnopplæringen:
+        </p>
+        <list>
+            <p type="listitem">
+                Samisk innhold er implementert i læreplanene.
+            </p>
+        </list>
+        <p>
+            Støtteordningen har åpen søknadsfrist. På slutten av året 2020 var statusen at Sametinget i løpet av hele året hadde fått inn til sammen fem søknader. Fire prosjekter oppnådde støtte og en ble avslått fordi den ikke var innenfor ordningen.
+        </p>
+        <p>
+            Sametinget er kjent med at noen skoler ikke har kunnet søke og starte opp prosjekter med tradisjonell kunnskap fordi koronapandemien har hindret skolene i å gjennomføre prosjektene. Strenge smittevernregler og begrensninger gjør det vanskelig å gjennomføre praktiske oppgaver sammen med eksterne ressurspersoner. Noen prosjekter er blitt forsinket på grunn av pandemien fordi skolene en stund var stengte og det stoppet gjennomføringen av prosjektet.
+        </p>
+        <p>
+            Ordningen ble kunngjort på nytt i januar 2021 med en åpen søknadsfrist, og ordningen har for øvrig de samme prioriteringene som i 2020. Søknadene blir behandlet etter hvert som de kommer inn. Til nå har Sametinget fått inn to søknader om støtte fra to skoler, som er under behandling.
+        </p>
+        <p>
+            Læringsmiljø og skoleutvikling
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Gode og trygge læringsmiljøer
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Partnerskap mot mobbing
+            </em>
+        </p>
+        <p>
+            Regjeringen har i høst vedtatt en videreføring av nasjonal partnerskapsavtale mot mobbing med ulike organisasjoner, som skal jobbe med å sette søkelys og fokus på psykososialt miljø for barn og unge. Sametingspresident Aili Keskitalo deltok i ledermøtet høsten 2020, og sluttet seg til vedtaket om at Partnerskap mot mobbing bør videreføres, og at Sametinget fortsatt skal være med i dette arbeidet. Sametingsråd Mikkel Eskil Mikkelsen vil på vegne av Sametinget i mars signere ny partnerskapsavtale i Partnerskap mot mobbing.
+        </p>
+        <p>
+            <em type="italic">
+                Arbeid med barneforum/råd
+            </em>
+        </p>
+        <p>
+            Sametingets mål for opprettelse av barneforum/råd for samiske barn og unge i samfunnet vårt er at det er viktig at deres stemme blir lyttet til. Mål er også forebygging av mobbing for å skape gode og trygge læringsmiljøer i barnehage og skole, og å få kunnskapsgrunnlag slik at man er rustet til å jobbe med forebygging av mobbing blant barn og unge. Det var planlagt at barneforum/råd skulle opprettes parallelt med Sametingets konferanse om mobbeproblematikk i 2020, men på grunn koronapandemien ble dette arbeidet utsatt. Videre var det planlagt at Sametinget høsten 2020 skulle besøke elevråd ved samiske skoler i tre samiske språkområder for å innhente innspill til innhold i barneforumet/rådet. Dette ble også utsatt på grunn av koronasituasjonen. Sametinget gjenopptar arbeidet så snart det er mulig i 2021.
+        </p>
+        <p>
+            Læremidler
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske elever og elever med samisk opplæring har tilgang til samiske læremidler på alle tre samiske språk i alle fag og som er i tråd med læreplanverket for grunnopplæringen.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Evaluering av læremiddelordningen
+            </em>
+        </p>
+        <p>
+            Sametinget har i denne perioden gjennomført konkurranse og gjort avtale med Vista Analyse AS om å evaluere Sametingets søkerbaserte tilskuddsordning for læremiddelutvikling. Målet er å få et kunnskapsgrunnlag for sikre en effektiv organisering, utforming og forvaltning av tilskuddsordning for læremiddelutvikling og informasjon om og tilgang på samiske læremidler. Denne evalueringen er et av tiltakene i Sametingets handlingsplan for læremiddelutvikling og resultatene skal nyttiggjøres når planen skal fornyes.
+        </p>
+        <p>
+            <em type="italic">
+                Kvalitet i læremidler
+            </em>
+        </p>
+        <p>
+            Utdanningsdirektoratet har fått i oppdrag fra Kunnskapsdepartementet om å etablere tiltak for utvikling av kvalitativt gode læremidler, herunder vurdere behov for kvalitetskriterier i flere fag, og det gjelder både LK20S og LK20. Utdanningsdirektoratet holder på å utarbeide veileder for kvalitet i læremidler for alle fag og har opprettet en referansegruppe til arbeidet. Etter krav fra Sametinget er Sámi allaskuvla, NetSam og SÁLAS representert i denne gruppa, som skal påse at samisk innhold i henhold til læreplanene blir ivaretatt.
+        </p>
+        <p>
+            Tilskudd til utvikling av læremidler – søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Utvikling av læremidler:
+        </p>
+        <list>
+            <p type="listitem">
+                Sametinget utvikler læremidler på samiske språk i alle fag og som er i tråd med læreplanverket for grunnopplæringen.
+            </p>
+        </list>
+        <p>
+            Sametinget har ansvar for å følge opp læremiddelprosjekter som Sametinget støtter. I forbindelse med den årlige rapporteringen er det vanlig å holde et samarbeidsmøte med støttemottakere som har flere enn fire læremiddelprosjekter på gang. I januar og februar var det samarbeidsmøter med Aajege/Trøndelag fylkeskommune, Davvi Girji, Solum forlag, ČálliidLágádus og ABC-compnay E-skuvla.
+        </p>
+        <p>
+            Det er nå til sammen 76 saker om læremiddelstøtte på gang og til disse er det satt av 85 millioner kroner i støtte, som utbetales etter hvert som prosjektene blir ferdige. Statusrapporteringen til tilskuddsmottakerne forteller at en del av prosjektene er forsinket i forhold til tidsfristen. Grunnene til forsinkelsene er de samme som Sametinget tidligere har erfart; det er mangel på ressurspersoner, og det er en tidkrevende jobb å rekruttere nye personer til utviklingsarbeid. Koronasituasjonen og de harde begrensningene som er innført i samfunnet er en ny grunn som påvirket utviklingen med prosjektene. Begrensningen i reiser og sammenkomster bremser på utviklingen i prosjektene, og utviklingsarbeidet går saktere enn ellers.
+        </p>
+        <p>
+            I en skriveprosess er det behov for inspirasjon og råd fra andre, og erfaringene til støttemottakerne i koronasituasjonen er at digitale sammenkomster ikke gir like god motivasjon for utvikling som fysiske sammenkomster. Det er også arbeid som de ikke har kunnet gjennomføre på grunn av koronapandemien, som for eksempel lydbåndopptak. Rekruttering av ressurspersoner skjer nå over telefon og andre digitale verktøy.
+        </p>
+        <p>
+            Støttemottakere med prosjekter som er forsinket fremmer søknader til Sametinget om utsettelse, og Sametinget venter på søknader fra alle fem støttemottakere. Så langt Sametinget vet er de fleste forsinkede prosjekter, som det er behov for å vurdere å stoppe og avslutte, sørsamisk- og lulesamiskspråklige prosjekter. Sametingsrådet har blant annet på bakgrunn av Riksrevisjonens gjennomgang av samisk opplæring vedtatt å behandle utsettelser av tidsfrister for prosjektet på politisk nivå i sametingsrådet.
+        </p>
+        <p>
+            Rammeavtale for anskaffelse av læremidler
+        </p>
+        <p>
+            Sametinget har i desember 2020 inngått rammeavtale med Davvi Girji AS, der Sametingets mål er å bestille digitale læremidler for 1.- 10. årstrinn i faget samisk som førstespråk. I fjor bestilte Sametinget læremidler for 1.- 2. årstrinn og disse skal ferdigstilles til desember 2021. Sametinget har igangsatt andre bestilling, som omfatter læremidler for 3.- 4. årstrinn. Arbeidet med anskaffelse av ny liknende rammeavtale er ikke påbegynt.
+        </p>
+        <p>
+            <em type="italic">
+                Lansering av opplæringsmateriellet Uke 6
+            </em>
+        </p>
+        <p>
+            5. februar 2021 deltok sametingsråd Mikkel Eskil Mikkelsen på foreningen Sex og politikk sin lansering av det nordsamiske opplæringsmateriellet
+            <span type="quote">
+                «Uke 6»
+            </span>
+        for ungdomstrinnet, som Sametinget har støttet. Dette er et gratis opplæringsmateriale som omhandler seksualitetsundervisning i grunnskolen. Temaene i materialet er knyttet til relevante kompetansemål. Materialet har lærerveiledning og ulike temaer, oppgaver og øvelser for elever. Sametinget har siden 2019 prioritert tilskudd til utvikling av læremidler som skal fremme forebygging av mobbing, rus, vold og overgrep, og dekke de tverrfaglige temaene folkehelse og livsmestring, og demokrati og medborgerskap. Siden 2020 er det utgitt tre læremidler som omhandler disse temaene, og i 2021 skal det utgis ytterligere to nye. Sametinget er fornøyd med resultatet så langt, og håper skolene har nytte av disse læremidlene.
+        </p>
+        <p>
+            Myndighet, ansvar og roller innen høyere utdanning og forskning
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Sametinget har reell myndighet innen samisk høyere utdanning og forskning gjennom lov og forskrifter, og gjennom konsultasjoner.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Status for prosesser
+            </em>
+        </p>
+        <p>
+            Sametinget har i brev av 1. februar 2021 bedt om informasjon om status for prosessene i arbeidet med ny lov om universiteter og høyskoler og styringsmeldingen. Kunnskapsdepartementet har ikke svart på henvendelsen.
+        </p>
+        <p>
+            <em type="italic">
+                Konsultasjoner
+            </em>
+        </p>
+        <p>
+            Sametinget og Kunnskapsdepartementet har konsultert om tildelingsbrevene for 2021 til Sámi allaskuvla, UiT Norges arktiske universitet og Nord universitet. Sametinget er fornøyd med at Kunnskapsdepartementet i tildelingsbrevene for første gang foreslo et eget kapittel om samarbeid og spesielle oppgaver knyttet til samiske utdanninger. Det var enighet om følgende tilføyelse i brevet til UiT Norges arktiske universitet:
+            <em type="italic">
+                <span type="quote">
+                    «Departementet viser til at det er behov for flere grunnskolelærerkandidater med samisk språk i fagkretsen som kan undervise i samisk som andrespråk. Siden UiT i dag er alene om å tilby grunnskolelærerutdanning med nordsamisk som fag for andrespråksopplæring, forventer departementet at universitetet styrker rekrutteringsarbeidet særlig til dette utdanningstilbudet.»
+                </span>
+            </em>
+        </p>
+        <p>
+            Rekruttering til samisk høyere utdanning og forskning
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Flere barnehage- og grunnskolelærere med samisk språk- og kulturkompetanse.
+            </p>
+        </list>
+        <p>
+            Stipend for høyere utdanning - søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddordningen - Stipend for høyere utdanning:
+        </p>
+        <list>
+            <p type="listitem">
+                Flere barnehage- og grunnskolelærere med samisk språk- og kulturkompetanse.
+            </p>
+        </list>
+        <p>
+            Det er kommet inn 66 søknader om stipend for høyere utdanning for vårsemesteret 2021. 62 er innvilget og 4 er under behandling. Det er tildelt stipender for totalt kr 1 365 000 våren 2021. For vårsemesteret 2021 fordeler hittil innvilgede stipend seg slik under prioriteringene:
+        </p>
+        <list>
+            <p type="listitem">
+                Barnehagelærerutdanning, 7 stipend
+            </p>
+            <p type="listitem">
+                Samisk barnehagelærerutdanning, 5 stipend
+            </p>
+            <p type="listitem">
+                Samisk grunnskolelærerutdanning 1-7, 14 stipend
+            </p>
+            <p type="listitem">
+                Samisk grunnskolelærerutdanning 5-10, 13 stipend
+            </p>
+            <p type="listitem">
+                Grunnskolelærerutdanning med samisk i fagkretsen 1-7, 4 stipend
+            </p>
+            <p type="listitem">
+                Grunnskolelærerutdanning med samisk i fagkretsen 5-10, 6 stipend
+            </p>
+            <p type="listitem">
+                Lektorutdanning 8-13, 10 stipend
+            </p>
+            <p type="listitem">
+                Videreutdanning i samisk for studenter med fullført lærerutdanning, 1 stipend
+            </p>
+            <p type="listitem">
+                Yrkesfaglærer utdanning, 1 stipend
+            </p>
+            <p type="listitem">
+                PPU, 1 stipend
+            </p>
+        </list>
+        <p>
+            Árbediehtu
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Árbediehtu blir vektlagt som kunnskapssystem ved siden av annen kunnskap.
+            </p>
+        </list>
+        <p>
+            Søknad om offentlig PhD om Sametinget og framtidig forvaltning av árbediehtu omtalt i Sametingets budsjett for 2019 og 2020, var klar for oversendelse til Norges forskningsråd ved åpning av søknadsvindu februar 2021. 18. november 2020 ble prosessen stoppet, og søknad vil derfor ikke stiles til Norges forskningsråd. Prosessen vil ikke bli videreført fordi den ansatte som var engasjert til å gjøre arbeidet for Sametinget trakk seg fra prosessen på grunn av stoppvedtaket. Sametinget har satt i gang arbeidet med å lage en helhetlig kompetanseutviklingsplan, hvor også árbediehtu er med.
+        </p>
+        <p>
+            Samisk perspektiv i høyere utdanning og forskning
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samisk perspektiv er implementert i alle relevante utdanninger og forskning.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Møte med Høgskolen i Innlandet
+            </em>
+        </p>
+        <p>
+            Sametingsråd Mikkel Eskil Mikkelsen hadde 2. desember 2020 møte med Høgskolen i Innlandet for samtaler om blant annet ivaretakelse av samisk innhold i profesjonsstudier ved høgskolen.
+        </p>
+        <p>
+            <em type="italic">
+                Møte med Nord universitet
+            </em>
+        </p>
+        <p>
+            Sametingsråd Mikkel Eskil Mikkelsen avholdt møte med rektoratet på Nord universitet 8. januar 2021.
+        </p>
+        <p>
+            Samarbeidsformer ble drøftet, det var enighet om et formalisert samarbeid med årlige møter mellom rektoratet og sametingsrådet.
+        </p>
+        <p>
+            <em type="italic">
+                Møte med Sámi allaskuvla
+            </em>
+        </p>
+        <p>
+            Sametingsråd Mikkel Eskil Mikkelsen avholdt møte med rektoratet på Sámi allaskuvla 13. januar 2021.
+        </p>
+        <p>
+            Tema for møte var kompetanse- og forskningsbehov. Det var enighet om et mer formalisert samarbeid med halvårige møter mellom rektoratet og sametingsrådet, og også at det avtales faste administrative møter mellom institusjonene.
+        </p>
+        <p>
+            <em type="italic">
+                WINHEC-møte
+            </em>
+        </p>
+        <p>
+            Sametinget deltok 24.- 26. november 2020, i det årlige møte i WINHEC World Indigenous Nations Higher Education Consortium. Møtet ble arrangert fra Australia, via Teams.
+        </p>
+        <p type="title">
+            4 Arealer, miljø og klima
+        </p>
+        <p>
+            Samfunnsmål:
+        </p>
+        <list>
+            <p type="listitem">
+                Arealer og naturressurser i samiske området forvaltes med tanke på å sikre kommende generasjoners livsgrunnlag og mulighet til videreføring og utvikling av samisk kultur, næringsutøvelse og samfunnsliv.
+            </p>
+        </list>
+        <p>
+            Forvaltning av arealer
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Naturgrunnlaget for samiske næringer, kultur og samfunnsliv er sikret i all planlegging, og Sametinget er en viktig premissleverandør og konsultasjonspart i forvaltning av arealer.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Webinar om finnmarksloven og Finnmarkskommisjonens rapport om Karasjok
+            </em>
+        </p>
+        <p>
+            Sametingsrådet avholdt 22. januar 2021 et felles webinar for Sametingets representanter og Troms og Finnmark fylkestingsrepresentanter vedrørende finnmarksloven og Finnmarkskommisjonens rapport om Karasjok.
+        </p>
+        <p>
+            Naturressurser
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Uttak av naturressurser i samiske områder skjer på en måte som ivaretar samiske rettighetshavere og lokalsamfunn sine interesser og rettigheter, og er i samsvar med internasjonal folkerett.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Foldvik kraftverk – ikke oppnådd enighet om konsesjon
+            </em>
+        </p>
+        <p>
+            Sametinget fremmet i 2016 innsigelse til utbygging av nedre og Øvre Foldvik kraftverk i Gratangen kommune, med bakgrunn i hensyn til samlet belastning for reindriften. Grovfjord reinbeitedistrikt har motsatt seg regulering av Foldvikvatnet, men de har ikke konsultert om konsesjonen med Olje- og Energidepartementet (OED). Dette med bakgrunn i at OED i første omgang ga avslag. Sametinget gjennomførte i 2017 konsultasjon med NVE hvor Sametinget ikke støttet en utbygging av kraftverket. NVE ga i ettertid tillatelse til utbygging av Nedre og Øvre Foldvik kraftverk. OED avslo søknaden i 2019 med bakgrunn i hensyn til reindrift, naturmangfold og friluftsliv. Avslaget ble påklaget av Gratangen kommune, Småkraft AS, Foldvik Grunneierlag Sameie, og Gratanglaks AS/Astafjord Smolt AS/Astafjord Slakteri AS. Sametinget gjennomførte konsultasjon med OED i 2020 hvor det ikke ble oppnådd enighet om at det kan gis konsesjon. Det ble i etterkant gitt konsesjon til Foldvik kraftverk i kongelig resolusjon. Sametinget vil være oppmerksom på at reinbeitedistriktet blir tilbudt konsultasjon fra OED om miljø, transport og anleggsplan. Denne planen, som må være godkjent før utbygging, har ikke vært oppe til behandling ennå.
+        </p>
+        <p>
+            Naturmangfold
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Vern av naturmangfoldet gir et robust grunnlag for samisk kultur og næringsutøvelse. Forvaltning av verneområder tar utgangspunkt i og muliggjør fortsatt tradisjonell bruk av vernede områder.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Nasjonalparkkonferanse og samling for Sametingets oppnevnte representanter i verneområdestyrene
+            </em>
+        </p>
+        <p>
+            Sametingsråd Silje Karine Muotka og politisk rådgiver Maja Kristine Jåma deltok på nasjonalparkkonferanse 16. februar 2021. Samlingen ble avholdt digitalt i år på grunn av koronasituasjonen. Påfølgende dag, 17. februar, ble det avholdt en digital samling for Sametingets oppnevnte representanter i verneområdestyrene. Sametingsrådets redegjørelse om verneprinsipper, evaluering av ordning med lokal forvaltning av verneområdene, samt takling av hersketeknikker var temaene på samlingen.
+        </p>
+        <p>
+            <em type="italic">
+                Arbeid med sametingsrådets redegjørelse om verneprinsipper
+            </em>
+        </p>
+        <p>
+            I forbindelse med arbeidet med redegjørelsen om samiske verneprinsipper hadde sametingsråd Silje Karine Muotka og politisk rådgiver Maja Kristine Jåma et digitalt møte med Lyngsalpan landskapsverneområdestyre 8. februar 2021. Samme dag ble det avholdt digitale møter med reinbeitedistriktene Ittunjárga/Rendalen og Lahkko-Lakselvdal/Lyngsdal, samt beitebrukere, for å høre deres erfaringer med lokal forvaltning av verneområdene.
+        </p>
+        <p>
+            Klima
+        </p>
+        <p>
+            Sametinget ga 29. januar 2021 et innspill til Miljødirektoratet til det andre utkastet til FNs Klimapanels (IPCC) hovedrapport om virkninger, tilpasninger og sårbarhet, som er på en kommenteringsrunde for eksperter og myndigheter. Kapittel 13 om Europa inneholder flere referanser på nøkkelord som urfolk, samer og reindrift. FNs klimapanel vurderer publisert vitenskapelig litteratur. Rapportene fra FNs klimapanel er det viktigste faglige grunnlaget om klimaendringene for de internasjonale klimaforhandlingene under FNs klimakonvensjon.
+        </p>
+        <p type="title">
+            5 Næringer
+        </p>
+        <p>
+            Samfunnsmål:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske områder skal ha sterke næringer som utvikler og opprettholder livskraftige samiske samfunn
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Interreg
+            </em>
+        </p>
+        <p>
+            Interreg Aurora er det nye navnet på det tidligere Interreg Nord, Kolarctic og Interreg nordlig periferi og arktisk. Sametinget deltar i utarbeidelsen av den nye programmet for Interreg. Arbeidet er delt inn i de valgte innsatsområdene for det nye programmet. Innsatsområdene som er valgt er:
+        </p>
+        <list>
+            <p type="listitem">
+                PO 1 A smarter Europe by promoting innovative and smart economic transformation.
+            </p>
+            <p type="listitem">
+                PO 2 A greener, low-carbon Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate adaptation and risk prevention and management
+            </p>
+            <p type="listitem">
+                PO 4 A more social Europe implementing the European Pillar of Social Rights.
+            </p>
+        </list>
+        <p>
+            Det er ulike arbeidsgrupper tilknyttet de valgte innsatsområdene, og Sametingene i Norge, Sverige og Finland er fordelt mellom disse ulike sub-gruppene. Det er ukentlige koordineringsmøter mellom Sametingene for å sikre det samiske innholdet i utarbeidelsen av programmet for den nye programperioden.
+        </p>
+        <p>
+            Sametingsråd Silje Karine Muotka og politisk rådgiver Eirik Larsen deltok 23. november 2020 på det andre møtet i arbeidsgruppa som Samisk parlamentarisk råd har opprettet i forbindelse med utarbeidelsen av et nytt Interregprogram for 2021-2027. På møtet kom det fram at det norske sametinget har satt av store personellmessige ressurser til å utforme det nye Interregprogrammet. Det var enighet om å løfte samiske entreprenører i Interregarbeidet og samisk kultur og kulturarv der blant annet kreative næringer ble trukket fram. Et annet forhold som ble trukket fram var å videreføre arbeidet med å bruke digitalisering for å styrke samisk språk.
+        </p>
+        <p>
+            Det er gjennomført en spørreundersøkelse blant Interreg-interessenter (potensielle søkere) om hva de ville ha prioritert de neste syv årene. Blant disse var det også noen samiske aktører som svarte. De tre temaene de spurte ville prioritere høyest var konkurransekraft og kompetanse for små og mellomstore virksomhter, forskning og innovasjoner og bruken av digitalisering.
+        </p>
+        <p>
+            De tre programmene har fått utarbeidet en sosioøkonomisk analyse som viser utviklingen i programområdene Norge, Sverige og Finland i januar 2021. Undersøkelsen og denne rapporten danner et viktig grunnlag for videre prioritering av målene for programmene.
+        </p>
+        <p>
+            Sametingene hadde møte 3. februar 2021 med departementene i Norge, Sverige og Finland som har ansvaret for Interregprogrammene. På møtet deltok også koordinatorene for Interreg Aurora. Sametingene etterlyste muligheten for å åpne for flere små virksomheter i den neste Interregperioden, å videreføre den samiske styringskomiteen og å beholde dagens område for delområdet Interreg Sápmi. Departementene var positive til å diskutere dette og det er den felles programkomiteen som fatter den endelige beslutningen i februar 2021. Sametingene foreslo også å heve den norske Interregandelen for tilskudd fra 50 prosent til 65 prosent, slik det er innen EU-landene.
+        </p>
+        <p>
+            <em type="italic">
+                Dialogmøte med Statsforvalteren
+            </em>
+        </p>
+        <p>
+            Sametinget og Statsforvalteren ble høsten 2020 enige om å avholde halvårige dialogmøter. Det første møtet ble avholdt 29. januar 2021, hvor Statsforvalteren informerte om sine satsingsområder. Det var også dialog om pandemisitusjonen, samt landbruk, reindrift, grunnopplæring og Hjertespråket.
+        </p>
+        <p>
+            <em type="italic">
+                Workshop
+            </em>
+        </p>
+        <p>
+            Årlig legger regjeringen frem en stortingsmelding til Stortinget om samisk språk, kultur og samfunnsliv. Årets tema er
+            <span type="quote">
+                «Næringsgrunnlag for levende samiske lokalsamfunn»
+            </span>
+        . Prosessen med meldingsarbeidet ble startet høsten 2020. I februar 2021 ble det arrangert digital workshop med deltakelse fra næringslivet. Det var inviterte gjester som holdt innlegg om ulike temaer. Samiske aktører var blant annet Tech Mindset, Dáiddadallu og reiselivsaktør Ellinor Guttorm Utsi, samt representanter fra kommuner i det samiske området og fra fylkeskommunen. Stortingsmeldingen skal oversendes til Stortinget i begynnelsen av juni 2021. Sametinget mener at som en del av enigheten om den nye budsjettordningen, så skal meldingen behandles på Stortinget i vårsesjonen. De to siste meldingene har ikke blitt fremmet på vårsesjonen, og det er noe som sametingsrådet har påpekt ved flere anledninger.
+        </p>
+        <p>
+            Primærnæringer
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Primærnæringer som bærere av samisk kultur, språk og levesett.
+            </p>
+        </list>
+        <p>
+            Jordbruk
+        </p>
+        <p>
+            Sametingsråd Silje Karine Muotka har 16. desember 2020 hatt møter om innspill til jordbruksavtalen med Troms bondelag, Finnmark bondelag, Nordland Bonde- og småbrukarlag og Finnmark Bonde- og småbrukarlag. Muotka hadde også møte med Troms Bonde- og småbrukarlag 17. desember 2020. På møtene har sametingsrådet også fremmet sine prioriteringer for organisasjonene. Organisasjonene og Sametinget er stort sett enige om flere punkter, blant annet å sikre en forutsigbar landbrukspolitikk, forbedre lønnsomheten i næringen, prioritere grovforbaserte produksjoner, beholde videreforedlingsanleggene i jordbruket, og bedre finansieringsordninger for omlegging til løsdriftsfjøs innen 2034.
+        </p>
+        <p>
+            Marine næringer
+        </p>
+        <p>
+            7. desember 2020 gjennomførte sametingsråd Silje Karine Muotka konsultasjon med Klima- og miljødepartementet (KLD) vedrørende reguleringsforslag til fiske etter anadrom laksefisk i perioden 2021-2025.
+        </p>
+        <p>
+            Sametinget mente at reguleringsforslaget ikke var tilstrekkelig godt utredet, og at en rimelig byrdefordeling i reguleringstiltakene ikke var gjort, noe som også berørte urfolksrettigheter og det materielle kulturgrunnlaget. Sametingsråd Silje Karine Muotka påpekte at det stadig tas avgjørelser på andre området som er skadelig for villaksen, og at Sametinget, til tross for alle møtene og konsultasjonene, ikke får gjennomslag.
+        </p>
+        <p>
+            Sametinget ønsker å få tilbake fisketiden fra 2008 og ønsker en garanti for tilbakeføring av fisketid når det lar seg gjøre. Sametingsråd Silje Karine Muotka etterlyste også en overgangsordning for fiskere i samisk område. Sametinget tok også til orde for at det burde innføres en kompensasjonsordning for fiske i samisk område, der det ytes et økonomisk bidrag ved kjøp av redskap ved omlegging i fiske. En slik ordning kan iverksettes av Sametinget, men til det krever det en realøkning i Sametingets budsjett/bevilgning. Temaet om økonomisk overgangsordning vil bli tatt opp i et eget møte, når KLD har sjekket muligheten for en slik bevilgning, gjennom et samarbeid med Nærings- og fiskeridepartementet (NFD). KLD var enig i at det kan vurderes å øke fisketiden i sjøsamiske områder når bestandssituasjonen tillater det. Sametinget støttet ikke forslaget om et forbud mot fiske i 100-metersonen ved elvemunninger. Det ble konkludert med at partene ikke oppnådde enighet om dette punktet.
+        </p>
+        <p>
+            I forbindelse med regulering av fiske i 2021, har sametingsråd Silje Karine Muotka gjennomført konsultasjon med Nærings- og fiskeridepartementet (NFD) 15. desember 2020. Her ble partene enige om at en i reguleringsspørsmål særlig skulle synliggjøre konsekvensene for fiskere i sjøsamiskrettighetsområde (SFR-området), og at Fiskeridirektoratet i 2021 på linje med 2020 blir særskilt varslet om at dette skal hensyntas og synliggjøres i kommende reguleringsprosesser.
+        </p>
+        <p>
+            I konsultasjon om størrelse på båtkvoten i Kystfiskekvoten, foreslo Sametinget å øke Fiskeridirektoratets kvoteforslag som var på 6 tonn til 10 tonn torsk. Kystfiskekvoten ble fastsatt til 8 tonn. Sametinget fremmet plenumsvedtaket om at flåten i fiske etter blåkveite skulle inndeles i 3 gruppekvoter: 0-13,99 m., 14-19,99 m. og 20-27,9 m, slik at den minste flåten ikke måtte drive et kappfiske med de største båtene som deltar. Departementet viste til at det er lite hensiktsmessig å introdusere en slik inndeling av grenser, og så ingen grunn til å innføre en endring.
+        </p>
+        <p>
+            Sametinget tok videre opp i konsultasjonen at fangstforbud mot trålfiske etter reker i Tana- og Porsangerfjorden opprettholdes, og da spesielt i områder hvor den mindre lokale fiskeflåten fisker med teiner etter reker. Departementet viste til at de planlegger å åpne for et prøvefiske for å få registrert forekomster av sårbare habitater, og at Fiskeridirektoratet ser for seg at dette forsøksfisket vil skaffe god kunnskap om hvordan rekebestanden reagerer på fisket. Departementet viste til at forvaltningen nøye ville følge opp dette prøvefisket i tiden fremover.
+        </p>
+        <p>
+            Sametinget fremmet også forslag om å avsette en egen makrellkvote på 5 000 tonn, for kystfiskebåter under 15 meter, slik det ble gjort i 2014. NFD var ikke avvisende til Sametingets forslag, men ønsket mer klarhet i saken, og da hvordan forslaget til Sametinget skulle kunne fungere i praksis. Sametinget og NFD var enige om at departementet og Sametinget skulle se på saken i 2021, og eventuelt fremme saken i reguleringene for 2022.
+        </p>
+        <p>
+            Sametinget er fortsatt kritisk til både innføringen og forhøyelsen av omsetningskravet i kongekrabbefisket. Sametinget fremmet likevel forslag om at all inntekt fra primærnæringene skulle tas med i omsetningskravene.
+        </p>
+        <p>
+            Partene ble enige om at inntekter fra sjølaksefiske fortsatt skal inngå i omsetningskravet til fiske etter kongekrabbe. Partene ble derimot ikke omforent om at inntekt fra andre primærnæringer også skal inngå i omsetningskravet og kvalifiserer til fiske etter kongekrabbe.
+        </p>
+        <p>
+            I konsultasjonen påpekte Sametinget også at både Sametinget og fylkene i nord er bekymret for ressursene som er tilgjengelige for drift av Fjordfiskenemdas arbeid og sekretariat. NFD lovte å se på saken, og sammen med Sametinget søke å finne løsninger vedrørende finansiering av sekretariatfunksjonen til Fjordfiskenemnda.
+        </p>
+        <p>
+            Sametinget tok også opp Brexit-prosessen med NFD, og uttrykte her et ønske om at Sametinget får innsyn i prosessene og beslutningene om fiskekvoter og ressursfordeling. Fra Sametingets side ble det også pekt på at samene er EUs eneste urfolk, og det er viktig at samene blir ivaretatt i disse forhandlingene. Sametinget viste her til rettsavgjørelsen og dommen i Den internasjonale domstolen i Haag i 1952 i fiskerisaken mellom Storbritannia og Norge. I dommen fikk Norge medhold på grunn av bosetting og at folk på kysten og i fjordene skulle fiske og livnære seg av sine fiskeressurser. Departementet ga her uttrykk for at man vil følge opp denne prosessen på best mulig måte, og til mest mulig gagn for både samer og nasjonale interesser. Reindrift
+        </p>
+        <p>
+            <em type="italic">
+                Møte med Statsforvalteren i Troms og Finnmark
+            </em>
+        </p>
+        <p>
+            Sametingsråd Silje Karine Muotka har hatt dialogmøte 7. desember 2020 med Statsforvalteren i Troms og Finnmark (tidligere Fylkesmannen) om temaet reindrift. Målet med møtet var å utveksle erfaringer, orientere om aktuelle saker og legge til rette for nærmere samarbeid. Sametinget tok opp fjorårets beitekrise, orienterte om reindriftsrettsutvalget, Sametingets innspill til reindriftsavtalen og tilskuddsordningene for primærnæringer reindrift. Partene rakk ikke å snakke om alle punktene og hadde derfor et nytt møte 8. januar 2021, hvor sametingsråd Hans Ole Eira deltok. På dette møtet deltok også Norske Reindriftsamers Landsforbund (NRL). Rovvilt, midlertidige fredninger mot reinbeite og reintallsreduksjonen ble diskutert på dette møtet. Det ble avtalt et tilleggsmøte om rovvilt.
+        </p>
+        <p>
+            <em type="italic">
+                Seminar om likestilling og familieperspektivet i reindriften
+            </em>
+        </p>
+        <p>
+            Sekretariatet for reindriftsrettsutvalget har arrangert et seminar om likestilling og familieperspektivet i reindrift. Seminaret hadde 35 deltakere, i tillegg til rundt 15 tilskuere. Det var satt opp gruppearbeid med ulike oppgaver til gruppene. Det var et stort engasjement hos deltakerne på seminaret og mange gode innspill. Det blir laget seminarrapport, som blir videresendt til reindriftsrettsutvalget.
+        </p>
+        <p>
+            <em type="italic">
+                Sametingets innspill til reindriftsavtalen
+            </em>
+        </p>
+        <p>
+            Sametingsråd Silje Karine Muotka presenterte Sametingets innspill til reindriftsavtalen til Landbruks- og matdepartementet (LMD). I tillegg problematiserte sametingsråden Sametingets svekkede innflytelse i næringspolitiske saker de siste årene. LMD viste til at Sametinget er observatør i forhandlingene og til at rammen i fjorårets reindriftsavtale ble økt.
+        </p>
+        <p>
+            <em type="italic">
+                Konsultasjoner om veileder til plan- og bygningsloven
+            </em>
+        </p>
+        <p>
+            Sametinget har konsultert om veilederen til plan- og bygningsloven og reindrift, som Landbruks- og matdepartementet har utarbeidet. Sametinget hadde i sitt innspill blant annet lagt vekt på tradisjonell kunnskap, tilrettelegging for medvirkning og at konsultasjoner skal gjennomføres i god tro. Partene kom til enighet i de fleste innspillene til Sametinget.
+        </p>
+        <p>
+            <em type="italic">
+                Reindriftsrettsutvalget
+            </em>
+        </p>
+        <p>
+            Det har blitt gjennomført et utvalgsmøte i desember hvor temaet var jordskifteretten, som er aktuelt for å styrke arealrettighetene til reindriften. Det er blitt gjennomført et seminar for Sametingets plenum om arbeidet i utvalget, hvor sametingspresident Aili Keskitalo, statssekretær i Landbruks- og matdepartementet, leder i Norske Reindriftsamers Landsforbund og utvalgsleder for reindriftsrettsutvalget holdt innlegg. Deltakerne i seminaret fikk anledning til å komme med innspill til utvalgsarbeidet.
+        </p>
+        <p>
+            Rovdyr
+        </p>
+        <p>
+            Sametingsråd Hans Ole Eira deltok den 8. januar 2021 på et møte om reindrift og rovvilt med Statsforvalteren i Troms og Finnmark og Norske Reindriftsamers Landsforbund. Sametingsrådet uttrykte bekymring for den økende jervestammen og bemerket at det så langt ikke er blitt felt noen jerv under lisensjakta i Finnmark. Sametingsrådet tok også opp kongeørnprosjektet i Troms, som fortsatt ikke er satt i gang grunnet manglende avtale med et eller flere reinbeitedistrikt. Sametingsrådet har bedt om et møte med Miljødirektoratet for å drøfte videre fremdrift av kongeørnprosjektet.
+        </p>
+        <p>
+            Variert næringsliv
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Etableringsfrekvens nærmere gjennomsnittet for Norge som helhet og 2 % vekst i antall foretak
+            </p>
+        </list>
+        <p>
+            10. februar 2021 arrangerte Sametinget sammen med Forskningsrådet og Innovasjon Norge Arktis et møte med en rekke aktører som jobber med næringsutvikling. Målet er å bidra til mer forskningsbasert innovasjon innenfor det samiske området, med et overordnet fokus på næringsliv, og samtidig bidra til tettere samarbeid med og mellom kunnskapsmiljøer, offentlige aktører og virkemiddelapparatet. Det er ønskelig å etablere faste møtetidspunkter med denne ressursgruppa.
+        </p>
+        <p>
+            Samisk reiseliv - prosjekt
+        </p>
+        <p>
+            <em type="italic">
+                Etiske retningslinjer for reiselivs- og handelsnæringen
+            </em>
+        </p>
+        <p>
+            På grunn av koronapandemien har mange av tiltakene som Sametinget hadde igangsatt, blitt utsatt. Et av disse har vært de etiske retningslinjene for reiselivs- og handelsnæringen i Tromsø, som også vil passe andre steder i landet. Disse har blitt utviklet sammen med Visit Tromsø, Tromsø sentrum AS og næringen. De etiske retningslinjene vil være veiledende og skal gi kunnskap til næringsdrivende. De er et resultatet av prosjektet Vahca, som handler om hvordan man skal forvalte den samiske kulturen i en kommersialiseringsprosess. I den forbindelse deltok sametingsråd Silje Karine Muotka på en rundebordsamtale om masseturisme, som Tromsø Internasjonale Filmfestival og Samfunnsløftet arrangerte.
+        </p>
+        <p>
+            <em type="italic">
+                Bedriftsutviklingsprogrammet Faamoe: Lokalmat
+            </em>
+        </p>
+        <p>
+            Bedriftsutviklingsprogrammet Faamoe: Lokalmat skal drives av Visjona AS på vegne av Sametinget. Det er lokale matserveringssteder fra kommunene Karasjok, Tana, Porsanger, Kautokeino og Nesseby som er målgruppen. Matserveringssteder er viktige møteplasser for lokalbefolkningen, samt en viktig matkulturleverandør til turister. I alle Faamoe-programmene er formålet å styrke bedriftenes merkevare, øke kunnskapen og bevisstheten omkring budsjettplanlegging, kostnadskontroll, samt ha fokus på å øke salgsinntektene.
+        </p>
+        <p>
+            <em type="italic">
+                Johtit – Samisk reiseliv
+            </em>
+        </p>
+        <p>
+            Prosjektet Johtit – Samisk reiseliv hadde styremøte 9. februar 2021. Prosjektet er utsatt til mai 2021. I møtet ble det orientert om satsningsområdene det siste halvåret. Det skal gjennomføres en bedriftssamling og et webinar om samisk reiseliv. I tillegg lages det film om de ulike bedriftene.
+        </p>
+        <p>
+            Kreative næringer
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Flere samiske kulturnæringsutøvere som skaper robuste og lønnsomme kulturnæringsbedrifter med en større overlevelsesgrad.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Šoop Šoop – Sámi Design Days
+            </em>
+        </p>
+        <p>
+            Det er besluttet at Šoop Šoop – Sámi Design Days skal arrangeres i Kunsthallen i Trondheim 6. og 7. september 2021. Den nye nettsiden til Šoop Šoop ( soopsoop.no ) ble lansert i februar. Der kan samiske designere sende inn søknad om deltakelse innen fristen 8. april 2021. Nytt i år er at Šoop Šoop-bálkkašupmi (Šoop Šoop-prisen) skal deles ut. Sametingsrådet har utpekt en jury som skal vurdere bedriftene ut ifra bestemte kriterier. Vinneren får 50 000 kroner, samt en premie laget av en duojár.
+        </p>
+        <p>
+            <em type="italic">
+                Bedriftsutviklingsprogrammet Faamoe: Duodji og Design
+            </em>
+        </p>
+        <p>
+            Bedriftsutviklingsprogrammet Faamoe: Duodji og Design drives av Árvu på vegne av Sametinget. 7 samiske bedrifter deltar. 13. og 14. januar 2021 ble det gjennomført et webinar med følgende overskrifter:
+            <span type="quote">
+                “Bruk av samisk kultur i identitetsbygging”
+            </span>
+        og
+            <span type="quote">
+                “Skap oppmerksomhet med bruk av visuell identitet og foto”
+            </span>
+        .
+        </p>
+        <p>
+            Duodji
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Flere duodjiutøvere som driver med duodji som næring.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Møte om organisering av duodji
+            </em>
+        </p>
+        <p>
+            Sametingsråd Hans Ole Eira har 12. november 2020 deltatt på møte om organisering av duodji. I tillegg til Sametinget deltok representanter fra Sámiid Duodji, Duodjeinstituhtta og Duojáriid Ealáhussearvi. På møtet ble blant annet innspill fra organisasjonene og tidsplanen framover diskutert.
+        </p>
+        <p>
+            Sametinget hadde arbeidsmøte om duodjiorganisering 1. desember 2020 sammen med Arctic Prime. På møte ble gjennomføring av neste fase om kunnskapsgunnlag diskutert.
+        </p>
+        <p>
+            <em type="italic">
+                Næringsavtale for duodji
+            </em>
+        </p>
+        <p>
+            På plenumsmøtet i desember 2020 ble ny næringsavtale for duodji behandlet. Koronapandemien har ført til at bedrifter og næringsliv har opplevd et tap i inntekter. Sametinget har derfor prioritert ekstraordinære tiltak som vil være med på å kompensere for inntektsbortfallet i duodji. Nytt i avtalen for 2021 er derfor en ekstraordinær bevilgning på 810 000 kroner i koronatilskudd.
+        </p>
+        <p>
+            <em type="italic">
+                Fagutvalget i duodji
+            </em>
+        </p>
+        <p>
+            Den 12. februar 2021 behandlet Fagutvalget i duodji to saker. Den ene saken var en klagesaksbehandling, mens den andre saken gjaldt et navneskifte av virksomhet godkjent i duodjiregisteret.
+        </p>
+        <p>
+            Virkeområdet for tilskudd til næringsutvikling (STN-området)
+        </p>
+        <p>
+            Sametinget har mottatt 236 søknader totalt i 2020 i søkerbaserte tilskudd innen næring, mot 195 i 2019. 15 av søknadene i 2020 er merket koronarelatert. 172 søknader er innvilget og det er gitt 64 avslag. Hittil i 2021 er det registrert 13 søknader, hvorav 6 er behandlet. Ingen av søknadene er merket koronarelatert. 5 av disse er innvilget, 1 er avslått.
+        </p>
+        <p type="title">
+            6 Kultur
+        </p>
+        <p>
+            Samfunnsmål:
+        </p>
+        <list>
+            <p type="listitem">
+                Et levende og mangfoldig samisk kunst- og kulturliv av god kvalitet.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Kontaktmøte med Kulturdepartementet
+            </em>
+        </p>
+        <p>
+            Sametinget avholdt halvårig digitalt kontaktmøte med Kulturdepartementet 2. desember 2020. Tema på møtene var blant annet informasjonsutveksling og drøfting av aktuelle saker, koronasituasjonen, tysk-norsk-samisk samarbeidsprosjekt om samiske gjenstander i tyske museer, samisk samarbeid over grensene, innledende innspill til kommende stortingsmeldinger og strategier, status i ulike byggeprosesser, og budsjett 2021 og 2022.
+        </p>
+        <p>
+            <em type="italic">
+                Kontaktmøte med Norsk Kulturråd
+            </em>
+        </p>
+        <p>
+            Sametinget avholdt digitalt kontaktmøte med Norsk Kulturråd 3. desember 2020, hvor tema var orientering og informasjonsutveksling om blant annet partenes generelle virksomhet og virkemidler, kulturpolitiske prosesser, oppnevninger til råd og utvalg, mangfold, koronasituasjonen, samt oppfølging på ulike samarbeidsområder som immateriell kulturarv, internasjonalt samarbeid og museumssektoren.
+        </p>
+        <p>
+            <em type="italic">
+                Landsdelsrådet for kultur i Nord-Norge
+            </em>
+        </p>
+        <p>
+            Landsdelsrådet for kultur i Nord-Norge består av øverste politiske ansvarlige for kultur i Troms og Finnmark fylkeskommune og Nordland fylkeskommune. Sametingsråd Henrik Olsen hadde 11. november 2020 møte med Landsdelsrådet for gjensidig informasjonsutveksling og drøfting av aktuelle saker. Nordnorsk kulturavtale var en av sakene på møtet, og det var enighet om å ha en god prosess rundt revideringen av kulturavtalen i 2021. Et annet tema var felles arena mellom Sametinget, de tre nordligste fylkeskommunene og Kulturdepartementet for drøfting av også samiske kunst- og kultursaker i Trøndelag og Nord-Norge. Sametingsrådet fortsetter den gode dialogen med Landsdelsrådet og ser det som en viktig arena for å fremme saker av Sametingets interesse.
+        </p>
+        <p>
+            <em type="italic">
+                Bodø2024
+            </em>
+        </p>
+        <p>
+            Bodø som Europeisk kulturhovedstad i 2024 vil bli et stort arrangement for Bodø, for Nordland og for hele landsdelen. Det samiske er vektlagt i søknaden/prosjektet og vil få en sentral posisjon i prosjektet. Sametinget hadde i november 2020 møte med organisasjonen Bodø2024 for å se nærmere på et mulig samarbeid. Med utgangspunkt i de positive erfaringene og de gode resultatene fra Tråante2017 er Sametinget enig med Bodø2024 om å forsøke å utvikle et tilsvarende engasjement og rammer rundt dette arrangementet i 2024.
+        </p>
+        <p>
+            <em type="italic">
+                Regjeringens arbeid med internasjonal kulturstrategi
+            </em>
+        </p>
+        <p>
+            Sametinget deltok 15. januar 2021 på innspillsmøte om Regjeringens internasjonale kulturstrategi. Sametinget vil i tillegg sende et skriftlig innspill til strategiarbeidet.
+        </p>
+        <p>
+            <em type="italic">
+                Gjenåpning av kultursektoren
+            </em>
+        </p>
+        <p>
+            Sametingsråd Henrik Olsen deltok 28. januar 2021 med innlegg på et digitalt innspillsmøte for gjenåpning av kultursektoren, etter invitasjon fra Kultur- og likestillingsminister Abid Raja.
+        </p>
+        <p>
+            <em type="italic">
+                Immateriell kulturarv
+            </em>
+        </p>
+        <p>
+            Sametinget har hatt digitale møter med Norsk kulturråd i november og desember om oppfølging av arbeid med samisk immateriell kulturarv og om Norges periodiske rapportering om Unesco-konvensjonen om immateriell kulturarv i 2021.
+        </p>
+        <p>
+            <em type="italic">
+                Besøkte NuorajTV
+            </em>
+        </p>
+        <p>
+            Sametingsråd Henrik Olsen og sametingsråd Mikkel Eskil Mikkelsen var på besøk i NuorajTVs lokaler på Drag 24. november 2020, hvor de fikk en orientering om virksomheten til NuorajTV. Virksomheten består hovedsakelig av produksjon av lulesamiskspråklige videoer som distribueres gjennom egen kanal på YouTube. I tillegg distribueres musikken fra videoene på Spotify. I tillegg til Sametingets direktebevilgning har NuorajTV også mottatt støtte fra Hamarøy kommune.
+        </p>
+        <p>
+            <em type="italic">
+                Møte med referansegruppen for dokumentasjonssenteret for Kautokeino/Alta-saken
+            </em>
+        </p>
+        <p>
+            Sametingspresident Aili Keskitalo deltok i møte med referansegruppen for dokumentasjonssenteret for Kautokeino/Alta-saken og RiddoDuottarMuseat, i Suolovuopmi fjellstue 10. november 2020. Sametinget har tidligere oppnevnt Klemet Erland Hætta, Nils Johan Gaup, Ante Guttormsen og én representant fra Samisk arkiv til referansegruppen. Formålet med møtet var konstituering av referansegruppen, informasjon fra Sametingets side, og avklaring av forventninger.
+        </p>
+        <p>
+            <em type="italic">
+                Møte om samisk forfatterstudie
+            </em>
+        </p>
+        <p>
+            Sametinget hadde møte med Sámi allaskuvla og Sámi dáiddarráđđi. Formålet med møtet var en orientering fra Sámi allaskuvla om oppstartsplaner for samisk forfatterstudie/Sámi girječálli oahppu. Dette skal være en fortsettelse på prosjektet
+            <span type="quote">
+                “Čális fal”
+            </span>
+        , som i dag gjennomføres i samarbeid med Sámi dáiddarráđđi.
+        </p>
+        <p>
+            <em type="italic">
+                Strategimøte i Stiftelsen Lásságámmi
+            </em>
+        </p>
+        <p>
+            Sametinget deltok i strategimøte i Stiftelsen Lásságámmi. Formålet med møtet var å gi innspill til prioriteringer og tiltaksplan til strategiplanen som skal iverksettes i år, og har en varighet til 2023.
+        </p>
+        <p>
+            Gode rammevilkår for samiske kunstnere
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske kunstnere som utvikler sin kunst og utfordrer sitt publikum og det samiske samfunn.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Veneziabiennalen 2022
+            </em>
+        </p>
+        <p>
+            Sametinget har fulgt opp arbeidet mot Veneziabiennalen 2022 sammen med Office for Contemporary Art Norway: OCA, og initiert møter med relevante samiske aktører i den sammenheng.
+        </p>
+        <p>
+            <em type="italic">
+                Jurddabeassi
+            </em>
+        </p>
+        <p>
+            Sametinget har deltatt på Samerådets tankesmie
+            <span type="quote">
+                «Jurddabeassi»
+            </span>
+        , som søker å legge opp til langsiktige strategier på det samiske kunst- og kulturfeltet.
+        </p>
+        <p>
+            Samiske kulturinstitusjoner som arena for formidling og opplevelse av samisk kultur
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Sterke samiske institusjoner som forvalter, formidler og utvikler samisk kunst, kultur og historie.
+            </p>
+        </list>
+        <p>
+            Festivaler
+        </p>
+        <p>
+            <em type="italic">
+                Sámi Music Week
+            </em>
+        </p>
+        <p>
+            Sametinget avholdt i november 2020 et digitalt dialogmøte med Sámi Music Week i Alta. Tema var informasjon om omorganisering og utfordringer i forbindelse med situasjonen med koronapandemien.
+        </p>
+        <p>
+            <em type="italic">
+                DSJ/Julevsáme vahkko
+            </em>
+        </p>
+        <p>
+            Sametingsråd Henrik Olsen hadde dialogmøte med DSJ/Julevsáme vahkko 24. november 2020. Tema var blant annet status, rapportering, budsjettbehov, utfordringer i forbindelse med situasjonen med koronapandemien.
+        </p>
+        <p>
+            Teatre
+        </p>
+        <p>
+            <em type="italic">
+                Beaivváš Sámi Našunálateáhter
+            </em>
+        </p>
+        <p>
+            Sametinget har over mange år arbeidet opp mot regjeringen for å få et nytt bygg til Beaivváš Sámi Našunálateáhter. Kulturdepartementet og Kunnskapsdepartementet har gitt Statsbygg oppdrag om forprosjektering av et samlokalisert nybygg for teateret og Samisk videregående skole og reindriftsskole i Kautokeino. Sametinget deltar i prosjektrådet. Statsbygg lyste i begynnelsen av desember 2020 ut konkurransen for et felles bygg. Anbudskonkurransen har frist 7. mai 2021 og med estimert kontraktsinngåelse i juli 2021.
+        </p>
+        <p>
+            Sametingsråd Henrik Olsen deltok 25. januar 2021, sammen med Kautokeino kommune, Troms og Finnmark fylkeskommune og Beaivváš Sámi Našunálateáhter, på digitalt dialogmøte om finansiering av Beaivváš Sámi Našunálateáhter.
+        </p>
+        <p>
+            Museer
+        </p>
+        <p>
+            <em type="italic">
+                Møte med Árran
+            </em>
+        </p>
+        <p>
+            Sametingsråd Henrik Olsen og sametingsråd Mikkel Eskil Mikkelsen møtte Árran julevsáme guovdásj 24. november 2020 for å diskutere noen av institusjonens behov, spesielt innen museumssaker. Sametinget har økt støtten til de samiske museene budsjettmessig, og de har fått delvis koronakompensasjon for tapte salgsinntekter. Árran holder på å bygge magasin til Hans Ragnar Mathisens kunstsamling, men har behov for økte midler til dette arbeidet. De arbeider for å tilpasse magasiner og utstillingsarealer for å ta imot Bååstede-samlinga, men der er det også behov for økte midler for å kunne betjene låneopptak. De har også behov for samarbeid med Nordland fylkeskommune og Hamarøy kommune i form av driftsstøtte, og det er signaler om at det kan være muligheter for et slikt samarbeid. Om det er behov for omdannelse av stiftelsen Árran til et AS kan det være en vei å gå.
+        </p>
+        <p>
+            <em type="italic">
+                Samisk kunstmuseum
+            </em>
+        </p>
+        <p>
+            Statsbygg har fått i oppdrag å gå gjennom konseptvalgsutredningen for Samisk kunstmuseum og De samiske samlinger i Karasjok. Det er gjort noen visuelt tekniske gjennomganger av eksisterende bygningsmasse for å kunne si noe mer om tilstanden. Sammen med RiddoDuottarMuseat (RDM) ser Sametinget og Statsbygg spesielt på samfunns- og effektmålene for prosjektet. Det er en målsetning at Sametingets plenum skal behandle og slutte seg til disse målene før sommeren 2021. Det er avholdt flere møter mellom RDM, Statsbygg og Sametinget og prosessen har god framdrift. Konseptvalganalysen skal ferdigstilles i løpet av første halvår 2021.
+        </p>
+        <p>
+            <em type="italic">
+                Arbeidsseminar om fremtidens samiske museumsvirksomhet i pitesamisk område
+            </em>
+        </p>
+        <p>
+            Det ble arrangert et seminar om styrking av pitesamisk museumsvirksomhet 10. november 2020. Arrangør var arbeidsgruppa som består av Duoddara Ráfe, Árran, foreninga Pitesamisk museum og Sametinget. Et tjuetalls deltakere deltok, blant andre Nordland fylkeskommune samt Fauske, Bodø og Saltdal kommuner. Seminaret tok opp litt om det som allerede gjøres innen kulturarv i området. Sametingsråd Henrik Olsen la fram fire ulike alternativer for en framtidig organisering, der samarbeid med Nordlandsmuseet kan være en løsning. Det ble fra alle deltakere vist stor interesse for å styrke den pitesamiske museumsvirksomheten uten at det ble enighet om noen endelig løsning. Arbeidsgruppa har i etterkant av seminaret hatt ett ytterligere arbeidsgruppemøte, der partene Duoddara Ráfe, Árran og foreninga Pitesamisk museum fikk i oppdrag å sammen finne et prosjekt eller tematisk vinkling som grunnlag for samarbeid.
+        </p>
+        <p type="title">
+            7 Kulturminnevern
+        </p>
+        <p>
+            Samfunnsmål:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske kulturminner er viktige kilder til kunnskap om vår kulturhistorie og legger premisser for all planlegging og inngrep.
+            </p>
+        </list>
+        <p>
+            Sametingets melding om kulturminnevern ble godkjent av sametingsrådet i januar 2021.
+        </p>
+        <p>
+            Sametinget har gitt høringsuttalelse til forskriftsfesting av Klima- og miljødepartementets tilskuddsordninger under kap. 1429, for postene 70, 71, 72, 73, 74, 75, 77 og 79. I etterkant er det gjennomført konsultasjon med Klima- og miljødepartementet om forskriftsfestingen.
+        </p>
+        <p>
+            Forvaltning av kulturminner
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske kulturminner forvaltes på grunnlag av egen historie og egne verdier.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Bevaringsprogram for utvalgte arkeologiske kulturminne - BARK
+            </em>
+        </p>
+        <p>
+            Riksantikvarens bevaringsprogram for utvalgte arkeologiske kulturminne (BARK) skal sikre et representativt utvalg av arkeologiske kulturmiljøer og tilrettelegge dem for publikum.
+        </p>
+        <p>
+            Sametinget har arbeidet videre med flere tilretteleggingsprosjekter, delvis finansiert av Riksantikvaren. Målsettingen er å synliggjøre og drive skjøtsel av samiske kulturminner. Sametingets arbeid er et viktig bidrag for å holde verdifulle samiske kulturmiljø i god stand. Gjennom skilting av kulturminner øker kunnskapen om samisk historie, bruk og tilstedeværelse. Å kjenne egen historie er grunnleggende for å bevare og videreføre samisk identitet. Sametinget arbeider videre med tilrettelegging og tekster til skilt i det samiske kulturmiljøet Sakriannaboplassen i Lurøy kommune. I tillegg settes det opp skilt som omhandler samisk historie på Lurøy fastland, i bygda Kvina. Prosjektet åpnes våren 2021. Sametinget har i møter med Narvik kommune arbeidet videre med planlegging og oppføring av et minnesmerke over de gravlagte ved Silsandmoen kirkegård. Prosjektet skal åpnes av sametingspresident Aili Keskitalo i 2021. Sametinget arbeider med å tilrettelegge og formidle samiske kulturminner i Snubba, Evenes kommune. Arbeidet skjer i samarbeid med kommunen og lokale ressurspersoner.
+        </p>
+        <p>
+            <em type="italic">
+                Kartlegging og dokumentasjon av kulturminner
+            </em>
+        </p>
+        <p>
+            Sametinget holder fram rapporten fra et av prosjektene som er støttet gjennom tilskuddsordningen Tilskudd til samisk kulturminnevern, som særlig vellykket. Det er rapporten «
+            <em type="italic">
+                Kvænangsbotn og Navitdalen landskapsvernområder: Kulturminneregistreringer og kartlegging av historisk bruk av utmarka
+            </em>
+        ». Prosjektet var et samarbeid mellom representanter fra reinbeitedistriktene, samt fastboende i Kvænangsbotn og Nord-Troms museum. Det har resultert i kartlegging og dokumentasjon av kulturminner i det nevnte området. Prosjektrapporten er publisert på Sametingets nettside.
+        </p>
+        <p>
+            <em type="italic">
+                Reguleringsplan for Arctic Center i Håkøybotn/Rávdnjemuotki (Finnheia), Tromsø kommune - mekling
+            </em>
+        </p>
+        <p>
+            Arctic Center er et planlagt alpinanlegg med hyttelandsby i Håkøybotn/på Rávdnjemuotki (Finnheia) på Kvaløya, rett utenfor Tromsø. Kommunestyret i Tromsø kommune har godkjent plan for nedre del av alpinanlegget mot Sametingets innsigelse. Mekling med Tromsø kommune om dette planforslaget ble derfor igangsatt i desember 2020 og sluttført 3. februar 2021. Statsforvalteren i Troms og Finnmark ledet meklingen og fra Sametinget deltok sametingsråd Hans Ole Eira og politisk rådgiver Maja Kristine Jåma. Før meklingen 3. februar 2021 ble det også gjennomført en befaring av planområdet. Ved meklingen understreket Sametinget viktigheten av kulturminnene på Finnheia, og viste til at disse er unike tidsvitner for en spesiell del av den samiske historien. Sametinget viste videre til at deres motforestillinger mot skitrekket T2 har vært vel kjent for kommunen og at kommunen etter deres syn ikke har tatt hensyn til dette i planprosessen. Kommunen har heller ikke vurdert alternative plasseringer av skitrekket eller gjort vurderinger av å korte ned trekket av hensyn til kulturminnene. Når det gjelder de konkrete negative virkningene T2 representerer for kulturminnene presiserte Sametinget at dette går på to forhold. For det første at skitrekket tilrettelegger for økt bruk av Finnheia som sådan, og øker risikoen for økt ferdsel inn i kulturminneområdet, med dertil risiko for skade. For det andre at alpinanlegget i seg selv, gjennom sin synlighet og bruk, vil kunne påvirke opplevelsen av å besøke kulturminneområdet på en negativ måte. Sametinget la i meklingen fram et siste løsningsforslag med disse punktene for å kunne trekke innsigelsen:
+        </p>
+        <list>
+            <p type="listitem">
+                T2-trasé kortes ned 100 meter fra topp-punkt.
+            </p>
+            <p type="listitem">
+                Det inntas planbestemmelser som sikrer minst mulig inngrep i terrenget.
+            </p>
+            <p type="listitem">
+                Det må gjennom plan sikres at det ikke opparbeides vei i forbindelse med T2-trekket.
+            </p>
+        </list>
+        <p>
+            Tromsø kommune kunne imidlertid ikke godta disse punktene i sin helhet, men gjorde det blant annet klart at det ikke var aktuelt å korte ned skitrekket T2. Det ble derfor ikke oppnådd enighet om et løsningsforslag og meklingen ble avsluttet. Planen vil nå oversendes Kommunal- og moderniseringsdepartementet for endelig avgjørelse.
+        </p>
+        <p>
+            Synliggjøring av den samiske kulturarven
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske kulturminner er grunnlag for kunnskapsproduksjon og verdiskaping.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Fotefar mot nord
+            </em>
+        </p>
+        <p>
+            Sametinget deltar sammen med Trøndelag, Nordland og Troms og Finnmark fylkeskommuner i revitalisering og oppgradering av kulturmiljøene som i sin tid ble tilrettelagt gjennom Landsdelsutvalgets satsing
+            <span type="quote">
+                «Fotefar mot nord»
+            </span>
+        . Tilretteleggingen omfattet ett kulturmiljø i alle kommuner fra Namdalen i sør og videre nordover. Mange av fotefarstedene har en tydelig samisk tilhørighet. De synligjør et bredt spekter av samiske næringer og levemåter gjennom tidene som villreinfangst, fiskeri og fangst, kombinasjonsnæringer, den gamle samiske religionen, gårdsanlegg og ulike boligformer. Sametinget deltar både i arbeidsgruppen og styringsgruppen i denne satsingen. Arbeidsgruppen for revitalisering av Fotefar mot nord har gjort tilstandsvurderinger av flere lokaliteter, her av flere samiske. Vurderingene viser stort behov for oppgradering i form av stimerking, nye skilt, nye klopper etc. Det er ansatt en prosjektleder i 1-årig forprosjekt ved Nordland fylkeskommune. Forprosjektet skal arbeide med løsninger for universell utforming, digital formidling, samarbeid med reiselivet, folkehelse og friluftsliv og finansiering.
+        </p>
+        <p>
+            <em type="italic">
+                Kulturminner i kommunene – KIK
+            </em>
+        </p>
+        <p>
+            I 2021 startet Sametinget et ettårig prosjekt som skal utarbeide kriterier for verneverdige samiske bygninger, og som skal bistå kommuner med å velge ut og ta med verneverdige samiske bygninger i sine kulturmiljø. Prosjektet er finansiert av Riksantikvarens KIK-prosjekt, Kulturminner i kommunene.
+        </p>
+        <p>
+            Videre samarbeider Sametinget med Troms og Finnmark fylkeskommune om en prosjektsøknad til Riksantikvaren. Prosjektet har som mål å undersøke behovet for og organisering av en lokal og regional tjeneste for bygnigsvernrådgivning.
+        </p>
+        <p>
+            <em type="italic">
+                Kulturlandskap av nasjonal interesse - KULA
+            </em>
+        </p>
+        <p>
+            KULA er et prosjekt som forvaltes av Riksantikvaren, og arbeidet skal munne ut i et register med oversikt over slike kulturlandskap. Sametinget deltar i KULA-arbeid i Trøndelag, Nordland og Finnmark.
+        </p>
+        <p>
+            <em type="italic">
+                Utvalgte kulturlandskap i jordbruket
+            </em>
+        </p>
+        <p>
+            Fra 2020 ble ansvaret for UKL-områdene overført til kommunene, men kommunene er avhengige av faglig samarbeid med de statlige og fylkeskommunale forvaltningsinstitusjonene. Siden mange områder er helt eller delvis samiske jordbrukslandskap, deltar Sametinget derfor i referansegruppene for de fire UKL-områdene i Troms og Finnmark fylke, samt i ett samisk UKL-område i Nordland fylke.
+        </p>
+        <p>
+            Bygningsvern
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                God kvalitet og tilfredsstillende vedlikehold på samiske antikvariske bygninger.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Automatisk freda samiske bygninger
+            </em>
+        </p>
+        <p>
+            Sametinget disponerer årlig øremerkete midler fra Riksantikvaren til tilskuddsordningen
+            <span type="quote">
+                «freda samiske bygninger i privat eie»
+            </span>
+        . I statsbudsjettet for 2021 er det i likhet med de tre siste årene, satt av seks millioner kroner, som Sametinget kan benytte til dette formålet. Sametinget har i møter med Riksantikvaren påpekt at regelverket for tilskuddsordning for freda bygninger i privat eie bør justeres, slik at det bedre kan møte de behov som er erfart for freda samiske bygninger. Dette har resultert i at tildelingen for 2021 tillater at Sametinget kan disponere midlene mer fleksibelt. Blant annet kan Sametinget i inneværende år og med tilsagn for 2022 benytte deler av tilskuddet til et eget informasjonsprosjekt som retter seg til private eiere av automatisk freda samiske bygninger. Når dette toårige informasjonsprosjektet er ferdigstilt, har Riksantikvaren forventninger om at Sametinget følger opp arbeidet gjennom egne forvaltningsmidler.
+        </p>
+        <p>
+            Så langt i 2021 er det til denne tilskuddsordningen for automatisk fredete samiske bygninger kommet inn 33 søknader på til sammen kr 8 335 000,-. Søknadene fordeler seg geografisk som vist i tabellen:
+        </p>
+        <p>
+            <em type="bold">
+                Område
+            </em>
+        </p>
+        <p>
+            <p>
+                <span type="quote">
+                    Antall
+                </span>
+            </p>
+        </p>
+        <p>
+            Øst-Finnmark
+        </p>
+        <p>
+            <span type="quote">
+                2
+            </span>
+        </p>
+        <p>
+            Vest-Finnmark
+        </p>
+        <p>
+            <span type="quote">
+                1
+            </span>
+        </p>
+        <p>
+            Nord-Troms
+        </p>
+        <p>
+            <span type="quote">
+                3
+            </span>
+        </p>
+        <p>
+            Sør- og Midt-Troms, samt Nordre-Nordland
+        </p>
+        <p>
+            <span type="quote">
+                18
+            </span>
+        </p>
+        <p>
+            Pitesamisk område
+        </p>
+        <p>
+            <span type="quote">
+                7
+            </span>
+        </p>
+        <p>
+            Sørsamisk område
+        </p>
+        <p>
+            <span type="quote">
+                2
+            </span>
+        </p>
+        <p>
+            <em type="italic">
+                Fartøyvern
+            </em>
+        </p>
+        <p>
+            Sametinget har forvaltningsansvar for samisk fartøyvern. Riksantikvarens tilskuddsmidler til fartøyvern for 2021 har vært lyst ut, og Sametinget er kjent med at det kom inn en søknad på istandsetting av en samisk båt. Søknaden ble ikke funnet støtteverdig av Riksantikvaren. Sametinget har startet et arbeid med å lage en forvaltningsplan for samisk fartøyvern. Det vil i første omgang være en foreløpig plan i påvente av prosessen med en nasjonal verneplan for små og åpne båter.
+        </p>
+        <p type="title">
+            8 Helse, sosial og barnevern
+        </p>
+        <p>
+            Samfunnsmål:
+        </p>
+        <list>
+            <p type="listitem">
+                Det samiske folk har god helse og mottar likeverdige tjenester tilrettelagt deres språklige og kulturelle bakgrunn, og deres rettigheter som urfolk.
+            </p>
+        </list>
+        <p>
+            Helse og omsorgstjenesten
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske pasienter mottar spesialisthelsetjenester der deres språklige og kulturelle bakgrunn har en naturlig plass, og samisk språk kan benyttes i behandlingssammenheng.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Videreutvikling av samisk spesialisthelsetjeneste
+            </em>
+        </p>
+        <p>
+            I arbeidet med videreutvikling av samisk spesialisthelsetjeneste har sametingspresident Aili Keskitalo hatt et møte med styreleder i Helse Nord RHF. I møtet ble det redegjort for begge parters oppfølging av strategien, og videre samarbeidsformer mellom Sametinget og Helse Nord RHF. Sametingspresidenten viser til nødvendigheten av samisk innflytelse i organisering av tjenesten, og at det vil følges opp med sentrale myndigheter. Helse Nord RHF redegjorde blant annet for at det opprettes en arbeidsgruppe som ser på hvilke tiltak som må igangsettes. Sametinget er i etterkant invitert inn i arbeidsgruppen, men har anbefalt at samiske fagfolk inviteres til å delta i arbeidet. Sametingsråd Hans Ole Eira har deltatt med innlegg på overrekkelse av strategidokumenter til helseminister.
+        </p>
+        <p>
+            <em type="italic">
+                Helsetjenester til samiske pasienter på tvers av grensene
+            </em>
+        </p>
+        <p>
+            Sametinget er opptatt av en god og likeverdig helsetjeneste for alle samer. Helse Nord RHF er tildelt et særlig ansvar for ivaretakelse av de samiske pasientene, og behandler også samiske pasienter fra Sverige og Finland gjennom sine tilbud ved Sámi klinihkka. Sametinget er gjort kjent med at behandlere/terapeuter fra norsk side ikke har mulighet til å reise til Sverige og Finland for å gi behandling, selv om dette skulle gjelde de samme pasientene som i dag kommer til Norge for behandling. Helse Nord RHF har informert om at helsepersonell på norsk side i utgangspunktet ikke har autorisasjon til å yte helsehjelp i andre land. Helsepersonell som ønsker å gi helsehjelp i Sverige eller Finland må ha svensk/finsk autorisasjon, og være ansatt i virksomhet eller drive privat praksis i samsvar med det aktuelle lands regulatoriske bestemmelser. Norske myndigheter kan ikke sende personell for å yte helsetjenester i et annet land med mindre det foreligger bindende avtaler mellom nasjonale myndigheter. Sametinget vil følge dette opp med Helse Nord RHF.
+        </p>
+        <p>
+            <em type="italic">
+                Utfordringer med tolketilbudet for samiske pasienter
+            </em>
+        </p>
+        <p>
+            Sametinget er gjort oppmeksom på at samisktalende pasienters rett til å bruke samisk i behandling ved sykehusene i nord ikke ivaretas. Det blir ikke planlagt for tolk selv når pasienter varsler om det på forhånd, og nære pårørende blir bedt om å tolke. Samtidig er ikke tolketjenester tilgjengelig utover vanlig arbeidstid. Sametingsrådet mener mangel på tolketjeneste er en stor fare for pasientsikkerheten, samtidig som taushetsplikten kan brytes. Sametingsråd Hans Ole Eira har påpekt at dagens situasjon er uholdbar og at Sametinget over lang tid har jobbet med å bedre tolketilbudet både i samarbeid med sentrale myndigheter, regionale og lokale helseforetak og gjennom prosjekter. Sametingsrådet vil igjen løfte tolkeutfordringene innenfor helse i møte med helseministeren og Helse Nord RHF.
+        </p>
+        <p>
+            <em type="italic">
+                Fag- og kompetanseutvikling i omsorgssektoren i samiske områder
+            </em>
+        </p>
+        <p>
+            Sametinget har over lang tid sett behov for å styrke fag- og kompetansemiljø for omsorgstjenester for samiske pasienter og brukere over hele landet. Sametinget har i samarbeid med Helsedirektoratet bidratt til etablering av samiske helsefagmiljøer i ulike samiske bosetningsområder. I samarbeid med Sametinget og Helsedirektoratet er det igangsatt prosjekter for å øke kompetansen og bedre tjenestetilbudet for samiske pasienter og brukere på omsorgsfeltet i kommunene. Helsedirektoratet bidrar med tilskudd til Hamarøy kommune, Várdobáiki samisk senter og Åarjelsaemien healsoeviermie/Sørsamisk helsenettverk på Røros. Det er avholdt felles digitale møter med disse, hvor status og fremdrift i prosjektet ble gjennomgått. Alle er kommet godt i gang med tiltak i sine kommuner. Det søkes også om videre prosjektmidler fra Helsedirektoratet for 2021, slik at arbeidet kan videreføres. Av de andre kommunene som ikke er direkte involvert i prosjektet, har Sametinget hatt samarbeids- og oppfølgingsmøte med Kåfjord kommune. Kommunen har igangsatt prosjekt «Samisk pasient», og har to ansatte i prosjektet. Utviklingssenter for sykehjem og hjemmetjenester for den samiske befolkningen i Karasjok og Senter for omsorgsforskning bistår også i arbeidet.
+        </p>
+        <p>
+            <em type="italic">
+                Demensplan 2025
+            </em>
+        </p>
+        <p>
+            Sametinet har konsultert på regjeringens nye Demensplan 2025. Gjennom konsultasjonene har Sametinget i planen fått ivaretatt retten til språklige og kulturelt tilrettelagte tjenester, samiskspråklig diagnostisering og oppfølging, behovet for informasjon og kunnskapsformidling om utfordringer samiske pasienter møter, behovet for personsentrert omsorg tilrettelagt samiske pasienter, og behovet for samiskspråklige digitale hjelpemidler.
+        </p>
+        <p>
+            <em type="italic">
+                Møte med Tannlegehjelpen
+            </em>
+        </p>
+        <p>
+            Sametinget har hatt et møte med Tannlegehjelpen, som er en bedrift som skal utvikle en digital tjeneste for profesjonell rådgivning om munn- og tannhelse, både til pasienter og hjelpepersonell. Digital rådgiving innen tann- og munnhelse vil være særlig aktuelt for eldre brukere og pasienter som ikke kan benytte seg av ordinær tannhelsetjenste, eller der tilgangen til slike tjenester er begrenset. Tannlegehjelpen ønsker å teste sitt produkt i samiske områder, samt oversette det til samisk. Sametinget har oppfordret Tannlegehjelpen til å ta kontakt med samiske kommuner.
+        </p>
+        <p>
+            <em type="italic">
+                Møte mellom Sametinget og Norges Røde Kors
+            </em>
+        </p>
+        <p>
+            Sametinget har hatt møte med Norges Røde Kors, ved leder for enhet for humanitære programmer. Tema for møtet var sosiale og humanistiske utfordringer hos den samiske befolkningen, hvordan Sametinget jobber og Røde Kors sitt ønske om å få presentert noen av temaene i et digitalt seminar. Det ble også snakket om fremtidige samarbeidsmuligheter mellom Sametinget og Norges Røde Kors.
+        </p>
+        <p>
+            En likeverdig barneverntjeneste
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samiske barns rettigheter og behov er sikret i møte med barnevernet.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Ny barnevernslov
+            </em>
+        </p>
+        <p>
+            Regjeringen arbeider med ny barnevernslov. Ny barnevernslov bygger på Barnevernslovutvalgets forslag som ble lagt fram i NOU 2016:16 Ny barnevernslov – Sikring av barnets rett til omsorg og beskyttelse. Barne- og familiedepartementet (BFD) har valgt å følge opp Barnevernslovutvalgets forslag over flere løp. I 2019 igangsatte BFD en full gjennomgang av lovens språk og struktur, med sikte på en enklere og mer tilgjengelig lov. Senere varslet de at arbeidet med loven ble noe forsinket.
+        </p>
+        <p>
+            Konsultasjoner mellom Sametinget og BFD er nå tatt opp igjen.
+        </p>
+        <p>
+            <em type="italic">
+                Styrking av fagkompetanse i barnevern
+            </em>
+        </p>
+        <p>
+            Regulering av kompetanse i barnevernet er en del av arbeid med endringer i barnevernsloven. I høringsnotatet foreslås en rekke tiltak for å styrke kompetansen i tjenestene, deriblant krav til barnevernfaglig eller annen relevant masterutdanning til ansatte i barnevernet. Høringsrunden er ferdig, og konsultasjoner på forskrift for masterutdanningene innenfor barnevern er igangsatt.
+        </p>
+        <p>
+            Ekstern sakkyndig komité for samisk helseforskning
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samisk helseforskning skal styrke samers kollektive rettigheter som urfolk i forskningsprosjekter.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Endring av Helseregisterloven
+            </em>
+        </p>
+        <p>
+            Sametingsrådet ble fra samisk forskningmiljø gjort kjent med at endringer i Helseregisterloven (Prop.63L 2019-2020) ville fremmes for Stortinget i november 2020. I proposisjon foreslås det én felles nasjonal organisatorisk og teknisk løsning for helsedata, der data fra alle nasjonale og regionale befolkningsbaserte helseundersøkelser skal tilgjengeliggjøres. Dette gjelder også data fra samiske befolkningsundersøkelser som SAMINOR, som er definert som en regional helseundersøkelse. Gjennom å etablere denne plattformen vil eierskap og styring av befolkningsbaserte helsedata sentraliseres. Loven ville følges av en forskrift som deriblant skal regulere hvilke befolkningsundersøkelser som skal tilgjengeliggjøres i plattformen.
+        </p>
+        <p>
+            Sametinget har påpekt ovenfor Stortinget at regjeringen ikke har fulgt opp konsultasjonplikten. Sametinget har ikke vært involvert eller orientert om lovendringen. Sametingsrådet uttrykte også bekymring over regjeringens forslag til fremtidig organisering av helsedata, da dette også får konsekvenser for eierskap og forvaltning av data fra samiske befolkningsundersøkelser. Styring og eierskap til forskningsmateriale fra samiske befolkningsundersøkelser er avgjørende for samisk selvbestemmelse innenfor helseforskning, og for forskningens legitimitet i det samiske samfunnet. Sametingsrådet beklager også at samiske rettigheter og status ikke er vurdert eller ivaretatt i arbeidet med endring av helseregisterloven, og ber Stortinget om å følge opp saken i dialog med regjeringen.
+        </p>
+        <p>
+            Stortinget ber regjeringen konsultere Sametinget før forskrift etter paragraf 20 i helseregisterloven, som skal regulere hvilke helseregistre som skal tilgjengeliggjøres i helseplattformen, sendes på høring. Dette med mål om å oppnå enighet om sikring av urfolks kontroll med innsamling, tilgang til, analyse og fortolkning av helserelaterte data. Konsultasjoner er igangsatt
+            <em type="italic">
+                .
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                Innlegg under Arctic Frontiers 2021 – "Arctic health and social inequalities in health"
+            </em>
+        </p>
+        <p>
+            Sametingspresident Aili Keskitalo hadde 1. februar 2021 en digital åpningshilsning på Arctic Frontiers 2021. I tillegg var sametingspresidenten hovedtaler på sesjonen om helse- og levevilkår i Arktis, der urfolksperspektivet ble vektlagt. Sametingspresidenten hadde fokus på storsamfunnets holdninger og press mot tradisjonelle urfolksnæringer, arealer og livsgrunnlag, og hvordan det påvirker den fysiske og psykiske helsen i negativ retning. Videre påpekte sametingspresidenten viktigheten av å sette fokus på hvordan fremtidig politikk kan påvirke urfolks helse og levekår i nordområdene. Avslutningsvis viste sametingspresidenten til at urfolk må inkluderes og involveres i fremtidig utvikling, og løsninger og tiltak må ta utgangspunkt i urfolks egen forståelse av situasjonen, og urfolks språk, kultur og verdier.
+        </p>
+        <p>
+            <em type="italic">
+                Tilskudd
+            </em>
+        </p>
+        <p>
+            Sametinget har i perioden gitt tilskudd til to prosjekter ved UiT Norges arktiske universitet. Universitetet skal igangsette et internasjonalt prosjekt om forskning på samisk ungdoms helse. Forprosjekt er en del av et større internasjonalt samarbeidsprosjekt. Samiske ungdommer skal selv definere de områder som er deres styrke og utfordring og hvilke faktorer som kan bidra til å påvirke disse. Senter for samisk helseforskning ved UiT er 25 år i år. I den anledning skal de utgi et jubileumshefte, som de har fått tilskudd til. Det skal være en populærvitenskapelig publikasjon som skal formidle forskningskunnskap knyttet til helse- og levekårsrelaterte temaer med fokus på den samiske befolkningen.
+        </p>
+        <p>
+            Sørsamisk helsenettverk/Åarjelsaemien healsoeviermie har fått tilskudd til prosjektet Samisk helseteam. Nettverket har etablert et samisk helseteam som skal jobbe med å utvikle likeverdige helsetjenester til samisk befolkning. Dette gjøres gjennom kunnskapsformidling og informasjon til kommuner og helseforetak. Prosjektarbeid, forskning og klinisk arbeid vil være deler av utviklingsarbeidet. Gjennom prosjektmidler ønsker Sametinget at sørsamisk helsenettverk kan bidra med modellutvikling for fremtidige helsetjenester for samiske pasienter.
+        </p>
+        <p type="title">
+            9 Urfolksrettigheter, internasjonalt samarbeid og likestilling
+        </p>
+        <p>
+            Samfunnsmål:
+        </p>
+        <list>
+            <p type="listitem">
+                Rettigheter som er anerkjent i FNs erklæring om urfolksrettigheter er implementert i lovverk og praktisk politikk.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Endringer i rettskretser i Finnmark og domstolsreformen
+            </em>
+        </p>
+        <p>
+            Sametingspresident Aili Keskitalo hadde 13. januar 2021 møte med justis- og beredskapsminister Monica Mæland vedrørende endringer i rettskretser i Finnmark og øvrige tiltak for å styrke den samiske dimensjonen i domstolene. Bakgrunn for møtet var Stortingets vedtak om endring i rettskretser i Finnmark uten at Sametinget på forhånd var konsultert om dette. Dette innebærer at Porsanger kommune blir flyttet ut av Indre Finnmark tingrett og blir en del av Vest Finnmark tingrett. Sametingspresidenten la fram de utfordringene dette innebærer og den mulig svekkelsen dette gir for berørte parter i Porsanger.
+        </p>
+        <p>
+            Allerede i desember 2020 henvendte presidenten seg til justis- og beredskapsminister Monica Mæland, viste til avtalen som var gjort i Stortinget og ba om konsultasjoner i saken. Presidenten viste til at såpass omfattende endringer som man her har blitt enige om i Stortinget utløser en plikt til å konsultere Sametinget. Departementet henviste til at saken i realiteten var avgjort i Stortinget og inviterte derfor til et møte og ikke konsultasjoner.
+        </p>
+        <p>
+            Sametinget er for øvrig i en konsultasjonsprosess med Justis- og beredskapsdepartementet, der man følger denne saken og ser saken i sammenheng med oppfølgingen av Domstolkommisjonens siste delrapport som har høringsfrist 27. april 2021.
+        </p>
+        <p>
+            Sametingspresident Aili Keskitalo la i tillegg fram forslag om at den utvidede rettskretsen i øst må få et navn som gjenspeiler Indre Finnmark. Dette ble imøtesett og rettskretsen får navnet Sis- ja Nuorta-Finnmárkku diggegoddi/Indre og Østre Finnmark tingrett. Presidenten understrekte også betydningen av å sikre samiskspråklig kompetanse på alle nivå, samt la også fram et ønske om smidigere regler for dagpendlere på den norsk-finske grensen.
+        </p>
+        <p>
+            Samisk samarbeid
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Samisk språk, kultur og samfunnsliv bevares og utvikles både innenfor den enkelte nasjonalstat og på tvers av statsgrensene.
+            </p>
+        </list>
+        <p>
+            Sametinget i Norge overtok ledervervet for Samisk parlamentarisk råd (SPR) på plenumsmøte 25. januar 2021. På møtet ble også en uttalelse om vindkraft i samiske områder vedtatt. Handlingsplan for neste periode ble vedtatt. SPR vil for perioden spesielt prioritere følgende fagområder:
+        </p>
+        <list>
+            <p type="listitem">
+                Samisk språk (målet er at Nordisk fag- og ressurssenter for samisk språk, Giellagáldu, etableres på permanent basis)
+            </p>
+            <p type="listitem">
+                Nordisk samekonvensjon (SPR er opptatt av å få i havn en konvensjon det er brei faglig og politisk støtte for og ønsker å få foretatt noen få, men likevel viktige endringer av forslaget til konvensjonstekst)
+            </p>
+            <p type="listitem">
+                Samordning av sametingsvalg i Finland, Norge og Sverige
+            </p>
+            <p type="listitem">
+                Identifisere konkrete grensehindringer i samiske områder, med mål om å fjerne og bekjempe det som hindrer samarbeid i samiske områder
+            </p>
+            <p type="listitem">
+                Grenseoverskridende samarbeid angående felles strategi i rovdyrpolitikken
+            </p>
+            <p type="listitem">
+                Følge opp sluttdokumentet fra FNs World Conference on Indigenous Peoples (WCIP)
+            </p>
+        </list>
+        <p>
+            Foreløpig plan for sameparlamentarikerkonferansen er at den avholdes i Anár/Inari i Finland i august 2021. Sametinget i Finland står som arrangør for arrangementet.
+        </p>
+        <p>
+            Styret i SPR har i perioden avholdt 2 digitale styremøter, 7. og 28. desember 2020. Saker til behandling var blant annet midlertidige vedtekter og arbeidsordning for Giellagáldu. Vedtektene gjelder for perioden 1. januar - 31. desember 2021.
+        </p>
+        <p>
+            <em type="italic">
+                Nordisk ministermøte
+            </em>
+        </p>
+        <p>
+            Sametingspresident Aili Keskitalo deltok 18. november 2020 på møtet mellom ministrene med ansvar for samiske spørsmål og sametingspresidentene i Finland, Norge og Sverige. Agenda for møtet var blant annet den fortsatte prosessen med å få på plass en nordisk samekonvensjon. Målet er fortsatt å få den ratifisert, men teksten er ikke omforent. Sámi Giellagáldu var også på sakslista. Ministrene og sametingspresidentene har bedt Nordisk embetsmannsorgan for samiske saker (NÄS) følge opp etableringen av den nye organisasjonen. Også koronapandemiens innvirkning for samene og utfordringer ved grensestengninger, og å forbedre mulighetene for å bruke de samiske språkene digitalt ble løftet som tema. Sametingspresidentene og de nordiske ministrene ble også enige om å sende ut en felles kronikk som et tilltak mot rasisme og hatytringer mot samer. Denne ble offentliggjort i slutten av januar 2021.
+        </p>
+        <p>
+            Nordområdene
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                En bærekraftig utvikling for folkene som bor i nord.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Konferanse om FNs bærekraftsmål
+            </em>
+        </p>
+        <p>
+            Sametingspresident Aili Keskitalo har deltatt digitalt på en konferanse om FNs bærekraftsmål 11. februar 2021 i regi av Universitetet i Bergen. Der drøftet sametingspresidenten et av hovedinnleggene om hvordan dynamikken i økonomiene våre kan transformeres til et grønnere kretsløp. Videre deltok sametingspresidenten i en parallell sesjon på den samme konferansen om urfolks kapasitet til å handle for bærekraft.
+        </p>
+        <p>
+            <em type="italic">
+                Sesjon om urfolk og bærekraftig utvikling
+            </em>
+        </p>
+        <p>
+            16. februar 2021 holdt sametingspresident Aili Keskitalo et innlegg på en tematisk sesjon om urfolk og bærekraftig utvikling som ble arrangert av Nordisk Ministerråd. Fokuset i innlegget var på hvordan fornybar energi ikke alltid er bærekraftig for urfolk.
+        </p>
+        <p>
+            <em type="italic">
+                Kirkeneskonferansen 2021
+            </em>
+        </p>
+        <p>
+            17. februar 2021 var sametingspresident Aili Keskitalo innleder i åpningssesjonen om det geopolitiske Barents, i en digital sending fra Kirkeneskonferansen 2021.
+        </p>
+        <p>
+            Urfolksrettigheter
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                FNs erklæring om urfolks rettigheter er implementert i lovverk og praktisk politikk.
+            </p>
+        </list>
+        <p>
+            International Decade of Indigenous Languages 2022-2032 – prosjekt
+        </p>
+        <p>
+            Det internasjonale året for urfolksspråk (IYIL2029) ble avsluttet formelt i januar 2021. Sametingspresident Aili Keskitalo var en av lederne i styringsgruppa og representerer det arktiske området. Styringsgruppa hadde sitt siste møte 11. januar 2021, hvor de evaluerte språkåret. Det kom fram at urfolksspråkåret har lyktes veldig bra i noen regioner og mindre bra i andre regioner. Det arktiske området fikk status «Best Practice» («eksempel til etterfølgelse») i forbindelse med aktivitetene i språkåret. Det er vedtatt at det skal arrangeres et internasjonalt tiår for urfolksspråk, International Decade of Indigenous Languages 2022–2032. Sametingspresident Aili Keskitalo ble utnevnt til styringsgruppen for urfolksspråktiåret, der hun fungerer fram til oktober 2021.
+        </p>
+        <p>
+            Likeverd og solidaritet
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Det vises solidaritet med andre urfolk.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Møte med Norad
+            </em>
+        </p>
+        <p>
+            Sametingspresident Aili Keskitalo hadde 8. februar 2021 møte med direktør Bård Vegar Solhjell i direktoratet for utviklingssamarbeid (Norad). På møtet ble Norads tilskuddsordninger diskutert, og Sametinget understreket at arbeid med urfolks rettigheter fremdeles må prioriteres når støtte til organisasjoner tildeles. Helt konkret drøftet partene avslaget til International Work Group for Indigenous Affairs (IWGIA, København) ved utdeling av midler (2020-2024) til sivilsamfunnsorganisasjoner innenfor Norges klima- og skogsatsing. Norad understreket at de ikke bare gir støtte til store organisasjoner, men at de også prioriterer små og lokale urfolksorganisasjoner som jobber mer på bakkenivå. De antydet også at de ønsker å fortsette sitt langvarige samarbeid med IWGIA, og at de vil oppfordre IWGIA til å søke på nye konkrete prosjekter innenfor andre tilskuddsordninger som Norad forvalter. Norad er en fagetat under Utenriksdepartementet, men i saker som gjelder klima- og skogsatsingen, er Norad underlagt Klima- og miljødepartementet. Sametinget vil følge opp saken i møter med utviklingsministeren, og klima- og miljøministeren. Her vil også norske investeringer i urfolksområder som kommer i konflikt med urfolks rettigheter og interesser bli drøftet. Landkonflikter mellom industri og urfolk fører altfor ofte til drap på menneskerettighetsforkjempere og miljøforkjempere. FNs offisielle tall fra 2017 viser at halvparten av de 400 dødsofrene var urfolk. Det er statene Brasil, Colombia, Mexico og Filippinene som er de farligste landene for miljø- og menneskerettighetsforkjempere.
+        </p>
+        <p>
+            <em type="italic">
+                Møte med Finansdepartementet
+            </em>
+        </p>
+        <p>
+            Sametinget har fulgt opp sitt høringssvar til NOU 2020: 7 Verdier og ansvar – Det etiske rammeverket for Statens pensjonsfond utland, med å ha et møte med Finansdepartementet 9. januar 2021. Finansinstitusjoner har et etisk ansvar om at urfolks rettigheter respekteres når det investeres i urfolks områder. Sametinget argumenterte for at dette må synliggjøres på et konkret vis i forskriften om retningslinjene som gjelder for Etikkrådet for Statens pensjonsfond utland og Norges Banks arbeid med observasjon og utelukkelse av selskaper fra Statens pensjonsfond utlands portefølje.
+        </p>
+        <p type="title">
+            10 Samarbeidsavtaler
+        </p>
+        <p>
+            Samfunnsmål:
+        </p>
+        <list>
+            <p type="listitem">
+                Et styrket samisk språk, kultur og samfunnsliv.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Møte med Kommunesektorens organisasjon KS
+            </em>
+        </p>
+        <p>
+            3. februar 2021 var det møte i Karasjok mellom Sametinget og Kommunesektorens organisasjon KS om oppfølging av samarbeidsavtalen. På møtet deltok sametingspresident Aili Keskitalo og styreleder i KS Bjørn Arild Gram. Samarbeidsavtalen ble underskrevet i 2019, og formålet er å sikre et formalisert og systematisk samarbeid mellom Sametinget og KS i saker av felles interesse, og også å utvikle tjenestetilbudet til den samiske befolkning. KS åpnet 12. november 2020 et samisk kommunenettverk for landets kommuner som er med i forvaltningsområdet for samiske språk.
+        </p>
+        <p>
+            Regionalt samarbeid
+        </p>
+        <p>
+            Mål for innsatsområdet:
+        </p>
+        <list>
+            <p type="listitem">
+                Et aktivt og målrettet samarbeid med regionale og lokale myndigheter for å styrke og utvikle samisk kultur, språk og samfunnsliv.
+            </p>
+        </list>
+        <p>
+            <em type="italic">
+                Oslo kommune
+            </em>
+        </p>
+        <p>
+            I februar 2021 har Sametinget tatt kontakt med Oslo kommune i forbindelse med pågående prosesser av utforming av samisk profil i nye undervisningslokaler, og rekrutteringer av nøkkelpersonenr innenfor samisk opplæring. Sametinget ønsker orientering om nevnte prosesser i Oslo kommune, men henblikk til intensjonene i samarbeidserklæringen.
+        </p>
+        <p>
+            <em type="italic">
+                Møte med Vadsø kommune
+            </em>
+        </p>
+        <p>
+            Sametinget har ikke samarbeidsavtale med Vadsø kommune. I februar 2021 har Sametinget og Vadsø kommune hatt et møte med intensjon om å utrede muligheten for en egen samarbeidsavtale. Ordfører i Vadsø kommune ser det som viktig at kultur, næringer, planverk og samiske barns rettigheter til samisk barnehagetilbud og samisk språk, løftes frem i en eventuell samarbeidsavtale mellom Sametinget og Vadsø kommune.
+        </p>
+        <p>
+            <em type="italic">
+                Møte med Sør-Varanger kommune
+            </em>
+        </p>
+        <p>
+            Sametinget har ikke samarbeidsavtale med Sør-Varanger kommune. Sametingsråd Silje Karine Muotka og Sør-Varanger kommune har hatt innledende møter, blant annet i januar 2021, om områder partene skal styrke samarbeidet på i en eventuell samarbeidavtale. Temaer som er trukket frem er samiske barns rettigheter til samisk barnehagetilbud, opplæring i og på samisk, samiske næringer, kunst og kultur, samiske eldre og andre aktuelle enkeltprosjekter og tiltak. Det skal videre jobbes med utarbeidelse av forslag til samarbeidsavtale.
+        </p>
+        <p>
+            <em type="italic">
+                Møte med Hamarøy kommune
+            </em>
+        </p>
+        <p>
+            Sametingsråd Mikkel Eskil Mikkelsen og sametingsråd Henrik Olsen hadde møte med Hamarøy kommune 24. november 2020. I møtet oppfordret de Hamarøy kommune til å starte opp arbeidet med samarbeidsavtalen mellom kommunen og Sametinget, og komme med forslag til Sametinget om hvilke språkutviklingstiltak kommunen vil ha med i avtalen. De oppfordret også kommunen om å lage en tiltaksplan for samisk språk. Sametinget følger opp disse sakene både administrativt og politisk.
+        </p>
+        <p>
+            <em type="italic">
+                Møter med Nordland fylkeskommune
+            </em>
+        </p>
+        <p>
+            Sametinget har 11. november 2020 og 2. desember 2020 hatt et oppfølgende digitalt møte med Nordland fylkeskommune om samarbeidsavtalen mellom Sametinget og Nordland fylkeskommune 2019-2022, med gjennomgang av avtalen og drøfting av ulike saker.
+        </p>
+        <p>
+            <em type="italic">
+                Møte med Troms og Finnmark fylkeskommune
+            </em>
+        </p>
+        <p>
+            I november 2020 var det et administrativt møte mellom Sametinget og Troms og Finnmark fylkeskommune om samarbeidsavtale. På møtet ble blant annet tidligere og nytt tekstforslag diskutert.
+        </p>
+        <p>
+            29. januar 2021 var det igjen et administrativt møte. På møtet ble hele avtaleutkastet drøftet, samt revidert framtidsplan. Behov for politiske avklaringer og sektorvise møter ble også avklart. Målsettingen er at samarbeidsavtalen mellom Sametinget og Troms og Finnmark fylkeskommune skal kunne vedtas politisk til våren 2021.
+        </p>
+        <p type="title">
+            11 Andre tiltak
+        </p>
+        <p>
+            Tilskudd til samiske hovedorganisasjoner – søkerbasert tilskudd
+        </p>
+        <p>
+            Mål for tilskuddsordningen - Tilskudd til samiske hovedorganisasjoner:
+        </p>
+        <list>
+            <p type="listitem">
+                Opprettholde et variert organisasjonsliv og sikre organisasjonene et stabilt økonomisk fundament.
+            </p>
+        </list>
+        <p>
+            Det søkerbaserte tilskuddet til samiske hovedorganisasjoner er publisert i Sametingets nettside, og ny søknadsfrist var 1. februar 2021. Det er kommet inn to søknader. Søknadene er ennå ikke behandlet.
+        </p>
+        <p type="title">
+            12 Politisk nivå
+        </p>
+        <p>
+            Sametingsrådet
+        </p>
+        <p>
+            Feiringen av samenes nasjonaldag 6. februar 2021 ble feiret i hovedsak digitalt landet over, og sametingspresident Aili Keskitalo bidro med en videohilsen til det samiske folk, som ble distribuert til de samiske språksentrene, samt andre arrangører av digitale 6. februar-markeringer. Hilsningen ble også publisert på Sametingets sosiale medier.
+        </p>
+        <p>
+            Sametingspresidenten deltok med åpningshilsen på Tromsø kommunes offisielle markering i regi av Gáisi språksenter, og var blant annet studiogjest på NRK Helgemorgen, TV2 Nyhetskanalen, NRK Sápmis TV-sending om samenes nasjonaldag, og Ávvirs nettsending. I tillegg var det flere andre medier som intervjuet både sametingspresidenten og sametingsrådet. Sametingsrådet og politiske rådgivere forøvrig deltok på lokale og digitale markeringer i Máze, Alta, Harstad, Kåfjord, Hamarøy, Snåsa og Trondheim.
+        </p>
+        <p>
+            Sametingets eldreråd
+        </p>
+        <p>
+            Sametingets eldreråd har avholdt to digitale møter i perioden, i november 2020 og i februar 2021. På møtet i november deltok også Sámi allaskuvla med informasjon om samisk sykepleierutdanning. Eldrerådet har gitt innspill til forskrift om nasjonal retningslinjer for samisk sykepleierutdanning og oppnevnt Kristine Julie Eira som medlem i referansegruppe for samisk sykepleierutdanning. Eldrerådet har også gitt innspill til ny Nasjonal ernæringsstrategi, samt gitt en uttalelse til NRK Sápmi om deres programtilbud i radio, der i blant deres manglende programtilbud for samiske eldre.
+        </p>
+        <p>
+            Det nasjonale eldreombudet Bente Lund Jacobsen var invitert til eldrerådets digitale møte i februar. Hun redegjorde for eldreombudets oppgaver og arbeid fremover. Ombudet informerte om at de ikke har samisk kompetanse og at de har liten kunnskap om samiske eldre, men ønsker mer kunnskap om samiske forhold generelt og om samiske eldres situasjon spesielt. Eldreombudet vil se på muligheten til å ansette folk med kompetanse i samiske spørsmål.
+        </p>
+        <p>
+            Sametingets eldreråd behandlet i møtet i februar sak om samarbeid med kommunale eldreråd i samiske kommuner, kommunenes arbeid med den nye Demensplanen, og samisk tekst og språk i innkallinger fra helseforetakene. Videre er Sametingets eldreråd misfornøyd med hvordan tolking på sykehusene foregår, og ber sametingsrådet arbeide for at dette blir rettet opp så fort som mulig.
+        </p>
+        <p type="title">
+            13 Kunngjøring av nye saker – oppfølging
+        </p>
+        <p>
+            Sametingsrådets oppfølging av nye saker som er meddelt i plenum under sak 51/20.
+        </p>
+        <p>
+            <em type="italic">
+                Forslag 1 - Representant Per Mathis Oskal, Arbeiderpartiet
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                Fremtidens reindrift
+            </em>
+        </p>
+        <p>
+            Klimaendringene er den største trusselen mot den tradisjonelle samiske reindrifta. Fremtidens reindrift er beviselig en tvungen hånd som resultat av klimaendringene. De største og raskeste endringene i klima skjer i Arktis, spesielt i Sibir, men også Sápmi. Vintrene blir varmere, men med større variasjoner i temperatur og nedbør, noe som igjen øker frekvensen av kriseår.
+        </p>
+        <p>
+            Erfaring viser at reindrifta evner å takle variasjoner til en viss grad, men klimaendringene vil ha dramatisk innvirkning på den tradisjonelle samiske reindrifta i årene fremover. Allerede ser man flere skogbranner i reinbeiteland, mer snø i vinterbeiteområder, varmere sommere og dermed flere insekter.
+        </p>
+        <p>
+            Klimaendringene og effektene av den kan tvinge reindrifta til å snu beitemønsteret -slik at sommerbeitene blir vinterbeiter og vice versa. Islåsing av vinterbeiter blir vanligere, og kombinert med store snømengder vil behovet for ekstrafôring komme hyppigere. Det er dog knyttet stor usikkerhet til hvordan fôring påvirker den tradisjonelle samiske reindriften.
+        </p>
+        <p>
+            Behovet og verdien av beiteland øker i takt med klimaendringene, og signaliserer at vern av beiteland ikke bare blir viktigere, men også helt nødvendig. Reindrifta møter utfordringer på mange fronter. Rovdyrbestander som holder kalveprosenter langt under bærekraftig nivå, inngrep i reindriftas arealer. Kombinert blir det et enormt press på både dyr og mennesker. FN sitt klimapanel sin rapport av 2014 sier blant annet om reindrift: «Den viktigste tilpassningsstrategien ved klimaendringer er beskyttelse av beitelandet».
+        </p>
+        <p>
+            Forslag: Sametinget fastslår at klimaendringene er den største trusselen mot den tradisjonelle samiske reindriften. Sametinget ber Sametingsrådet starte forhandlinger med regjeringen om opprettelsen av et prosjekt for “fremtidens reindrift” som får i oppgave å forske på problemstillinger knyttet til klimaendringer og andre trusler mot reindrifta. Prosjektet skal resultere i konkrete, gjennomførbare løsningsforslag både for forvaltning og utøvere.
+        </p>
+        <p>
+            <em type="italic">
+                Sametingsrådets oppfølging:
+            </em>
+        </p>
+        <p>
+            Klimaendringer preger allerede hverdagen i reindriften, og vil være en stor utfordring i fremtiden. Den største utfordringen er nok tapet av beitearealer, som er en nødvendig forutsetning for at reindriften kan tilpasse seg i vanskelige perioder der det er utfordrende å finne beiter. Den beste strategien for at reindriften skal kunne tilpasse seg fremtidige klimaendringer er å beskytte reinbeiteområdene (Eira, Oskal, Hanssen-Bauer og Mathiesen 2018).
+        </p>
+        <p>
+            Sametinget jobber daglig med arealinngrepssaker som berører reindriften, og sametingsrådet har støttet opp under en rekke prosjekter som har støttet opp under reinbeitedistriktenes saksbehandling. Her kan nevnes «Planfaglig ressurs for reinbeitedistriktene i Nord-Trøndelag», samt etableringen av det nye ressurs- og kompetansesenteret i Kautokeino, som skal bidra til at reinbeitedistriktene får mer støtte og veiledning i ulike saker, som for eksempel arealinngrepsaker.
+        </p>
+        <p>
+            Sametinget har i innspillet til årets reindriftsavtale påpekt behovet for å styrke plankompetansen for reinbeitedistriktene, slik at reindriften er i stand til å delta i planprosesser. Det er behov for finansiering til denne styrkingen. Sametinget har også påpekt utfordringen med klimaendringer i reindriften. Klimaet og været er blitt mer uforutsigbart, og reindriften har de siste årene erfart både mye snø, regn på senhøsten eller vinteren, samt skogbranner. Her har Sametinget anmodet avtalepartene om å etablere et klimatilpasningsfond. Fondet kan gi reineiere mulighet til, blant annet, å investere i infrastrukturtiltak for å kunne tilpasse seg fremtidige klimaendringer.
+        </p>
+        <p>
+            Reindriftens Utviklingsfond (RUF) gir muligheter til å gjennomføre forskning på aktuelle temaer som angår reindriften. Sametinget kan til neste års reindriftsavtale fremme innspill om å sette av midler til prosjekt som får i oppgave å forske på problemstillinger knyttet til klimaendringer og andre trusler mot reindrifta.
+        </p>
+        <p>
+            <em type="italic">
+                Forslag 2 - Representant Toril Bakken Kåven, Nordkalottfolket
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                Egen næringslov for utmarksnæring og kulturell høsting
+            </em>
+        </p>
+        <p>
+            Utmarksnæringene som bærsanking, innlandsfiske, vedhogst er nærmest dødd ut. Det har fra statens side vært en usynliggjøring og diskriminering av samiske næringer, ved at man har lovfestet av innlandsfiske og bærsanking ikke er næring (Motorferdselloven §4c). Tiden er nå overmoden for å løfte utmarksnæringene, og sørge for at de får levelige og likeverdige vilkår som andre næringer. Dette kan skape hundrevis av arbeidsplasser i utmarka, arbeidsplasser som er bærekraftige, fornybare og samtidig styrker og videreutvikler den samiske naturnærheten, som er så viktig for overlevelse av samisk kultur i nord.
+        </p>
+        <p>
+            Sametinget ber Sametingsrådet starte arbeidet med en egen næringslov som innbefatter utmarksnæring på land som innlandsfiske, reindrift, duodji, sanking av bær og urter, skogsdrift, og ulike kombinasjonsnæringer. En næringslov må være fremtidsrettet, miljøfokusert, fremme naturbasert nytenking, og ivareta lokalbefolkningens rett til å drive utmarksnæring og kulturell høsting, og samtidig sørge for god rekruttering med aktiv utmarksbruk.
+        </p>
+        <p>
+            Reindriften har i dag egen reindriftslov, og man bør søke å innlemme denne også i en næringslov for alle utmarksnæringer. Om dette kompliserer arbeidet for mye, kan reindriftsloven fortatt være i egen lov, men man må sikre likeverdighet mellom ulike næringer, og legge til rette for at «verddesystemet», dvs et utstrakt samarbeid og samhold, er mulig. Dette kan kun sikres gjennom likeverdig behandling av alle næringer.
+        </p>
+        <p>
+            <em type="italic">
+                Sametingsrådets oppfølging:
+            </em>
+        </p>
+        <p>
+            Sametinget arbeider hele tiden med å sikre det samiske næringslivet best mulige rammevilkår. Dette gjør Sametinget blant annet ved å konsultere med regjeringen i lovarbeid og andre tiltak som er av vesentlig betydning for samiske næringer. Når Sametinget konsulterer om næringslover med tilhørende forskrifter, er det overordnede formålet å sikre en mer helhetlig næringslovgivning tilpasset samiske forhold. Ved arealinngrepssaker har Sametinget muligheten til å sette vilkår om at tiltak skal ta hensyn til samiske næringer og samisk kulturutøvelse. Sametingsrådet følger de strategiene som går fram av arealmeldingen i 2016 der to av strategiene er:
+        </p>
+        <list>
+            <p type="listitem">
+                Sametinget vil arbeide for at regulering av motorferdsel i utmark tar hensyn til samiske lokalsamfunns tradisjonelle bruk og nye former for praksiser.
+            </p>
+            <p type="listitem">
+                Sametinget vil arbeide for en helhetlig gjennomgang av regelverk tilknyttet til motorferdsel i utmark. Reglene må vurderes opp mot folkerettslige forpliktelser ovenfor samene og vår rett til å opprettholde og utvikle våre tradisjonelle livsformer og næringer.
+            </p>
+        </list>
+        <p>
+            Sametingsrådet tok i 2020 initiativ til å lage et forprosjekt om regelverk knyttet til samisk utøvelse av kultur og motorferdsel i utmark. Hensikten med forprosjektet er å skape et kunnskapsgrunnlag som kan presenteres for sentrale myndigheter deriblant Klima- og miljødepartementet. Dette forprosjektet skal så danne grunnlag for å endre motorferdsel i utmark slik at den er bedre tilpasset utmarksutøvere i samiske områder. Arbeidet er imidlertid hemmet av koronapandemien, men rådet har intensjon om å videreføre dette arbeidet i 2021. Sametinget har satt av kr 209 000 til pilotprosjektet. Fem pilotkommuner er involvert i dette arbeidet. Dette initiativet er i samsvar med forslaget fra Sametingets Utmarksutvalg av 2019.
+        </p>
+        <p>
+            Sametinget har prioritert satsningen på utmarksnæringer over en lang periode. Sametinget har blant annet jobbet for å tillate vårjakt på ender i Kautokeino, få opp interessen for innlandsfiske, legge til rette for kulturell høsting av utmarksprodukter, prioritere utmarksbaserte virksomheter som turisme. I tillegg til dette har Sametinget gode finansieringsordninger for utmarksnæringer. De som vil investere innen utmarksnæringer kan få inntil 50 % tilskudd mot 35 % i andre næringer. Det finnes også en etablerertilskuddsordning for de som vil etablere seg innen utmarksnæringen.
+        </p>
+        <p>
+            Sametingsrådet kan ikke se at det er realistisk å etablere en egen næringslov for utmarksnæringer og kulturell høsting. Sametingsrådet ser heller ikke noen realisme i å lage en næringslov som skal omfatte både utmarksnæringer, duodji, jordbruk, skogbruk og reindrift. En sånn felles lov vil bli meget komplisert og for omfattende til at disse næringene kan samles i en felles lov. Disse næringene er regulert gjennom særlover og plan- og bygningslov, og det er heller å foretrekke at innsatsen settes inn for å forbedre de eksisterende lover og forskrifter slik Sametinget gjør med reindriftsloven i dag.
+        </p>
+        <p>
+            <em type="italic">
+                Forslag 3 - Representant Toril Bakken Kåven, Nordkalottfolket
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                Ti nye kyst- og fjellstuer i Troms og Finnmark
+            </em>
+        </p>
+        <p>
+            Sametinget vil jobbe for å få flere bærekraftige arbeidsplasser i utmarka. Vi vet at turismen dreier i en retning hvor man ønsker mer naturnærhet og mindre grupper. Lengre sør i landet fins det et bredt nettverk av fjellstuer som tilbyr overnatting og servering for fjellfarende. Sametinget vil jobbe for at vi får samme nettverk av fjellstuer også i nord. På den måten bidrar Sametinget til bedre fasiliteter for naturnære opplevelser, samtidig som man styrker reiselivet, skaper bærekraftige arbeidsplasser og gjør Troms og Finnmarks vidde og fjellheim mer attraktiv for farende folk.
+        </p>
+        <p>
+            Sametinget vil invitere til prosjekt sammen med Troms og Finnmark Fylkeskommune for å få bygget 10 nye kyst- og fjellstuer i offentlig regi i regionen. Fefo og Statsskog vil være naturlige samarbeidspartnere. Fjellstuene kan drives etter åremålsprinsippet: unge voksne får mulighet til å leie og drive fjellstuene for en gitt periode, med mulighet for forlengelse. Dette vil fokus på naturbasert turisme i nord. Det er flott tilbud for alle de som ikke har mulighet til egne hytter, til de som ønsker å dra fra stue til stue. Målet må være at man skal ha et nettverk av fjellstuer som gjør at man kan bevege seg gjennom hele nord, med passe dagsmarsjer imellom. Med et slikt tiltak, får man tilbud som gir muligheter for å komme ut i naturen for flere, samtidig som det offentlige bidrar til de tunge investeringene som ofte gjør det vanskelig å drive små, naturbaserte overnattingssteder.
+        </p>
+        <p>
+            <em type="italic">
+                Sametingsrådets oppfølging:
+            </em>
+        </p>
+        <p>
+            Bygging av nye kyst- og fjellstuer vil føre til økt bruk av utmarka. Det vil kunne føre til konflikter og andre utfordringer. Erfaringer fra Tromsøområdet har vist at økt trafikk fører til mer forsøpling og at folk «tar seg til rette». Det er en fin balansegang mellom vern og kommersialisering av utmarka. Det er derfor viktig at bruken skjer på premissene til lokalbefolkningen og reindriften. Det bør utarbeides en plan på hvordan bruk av utmarka skal foregå, og at lokalbefolkningen og reindriftsnæringen involveres tidlig og får en definisjonsmakt.
+        </p>
+        <p>
+            Sametinget har, i forbindelse med satsinga på reiselivet, antatt at de eksisterende fjellstuene er et uutnyttet reisemål. Derfor gjennomførte Sametinget i 2018 et forstudie kalt “Duottarstobut”. Fjellstuene som var inkludert i studien var Jotka, Jergul, Mollisjok, Nedre Mollisjok, Šuoššjávri og Ravnastua. Målet med forstudien var å:
+        </p>
+        <list>
+            <p type="listitem">
+                Utarbeide en status-/situasjonsanalyse for fjellstuene som beskriver dagens situasjon
+            </p>
+            <p type="listitem">
+                Vurdere behov og foreslå tiltak som kan bedre samarbeid mellom fjellstuene for økt konkurransekraft innen reiseliv
+            </p>
+            <p type="listitem">
+                Avklare aktørenes vilje og rolle til å følge opp tiltak som blir avdekket
+            </p>
+        </list>
+        <p>
+            Forstudiens anbefaling var å danne et bedriftsnettverk (gjennom Innovasjon Norge) av fjellstuene, med formål om å øke konkurransekraft, lønnsomhet og grunnlag for videre vekst blant fjellstuene.
+        </p>
+        <p>
+            Prosjektet stoppet opp da fjellstuene ikke var interessert i å videreføre prosjektet. Grunner for ikke å delta videre var manglende behov for inntjening og flere besøkende og fordi de ikke eide stedet selv (statseid).
+        </p>
+        <p>
+            <em type="italic">
+                Forslag 4 - Representant Ann Finbog, SfP Samisk kompetanse- og veiledningssenter mot vold og overgrep i samiske samfunn
+            </em>
+        </p>
+        <p>
+            Den første redegjørelsen om likestilling ble behandlet på Sametingets plenum i 2004. Regjeringen har nå på trappene en handlingsplan mot vold og overgrep, med et eget kapittel om vold og overgrep i samiske samfunn. Vi vet at det er overrepresentasjon av vold og overgrep i samiske samfunn. 49% av samiske kvinner utsettes for vold og overgrep. Vi vet også at ofrene for vold og overgrep ofte blir møtt med taushet og manglende tiltak. Det eneste samiske krisesenteret med samiskspråklig kompetanse, i Karasjok, ble nedlagt i 2018. Norsk Senter for Menneskerettighet (NIM) kom i 2018 med et eget kapittel om vold og overgrep i samiske samfunn. Det ble fokus på det som skjedde, det ble medieoppmerksomhet og mange mente at taushetskulturen i det samiske samfunnet ble brutt. Etter dette veiskillet ble alt stille. Handlingsplanen som regjeringen har bebudet, er enda en gang utsatt. Sametinget må be regjeringen sette fortgang i dette arbeidet. Første skritt er å snakke om problemet og bevisstgjøre samfunnet. Men det er ikke nok å snakke. Vi må våge å dykke ned i tematikken. Vi må ta de som har vært utsatt for vold og overgrep på alvor og vi må iverksette tiltak. Metoo, som skyllet inn over samfunnet i 2017, skapte et rom for å målbære det alle visste. Noen sa endelig høyt det andre bare visket om. Og, det ga håp om endring. Nå skyller en ny bølge av metoo over samfunnet. Bokbransjen snakker ut, folkemusikere har kommet med et opprop. I Aftenposten mandag 30. november, sier politiet at de ser en økning i overgrep mot barn etter at koronakrisen traff landet. Vi kan ikke stoppe opp. Vi må komme videre. Vi må ta ansvar for våre barn og kvinner. Samefolkets Parti og Nordkalottfolket ber derfor om at Sametingsrådet iverksetter arbeidet med få på plass et Samisk kompetanse- og veiledningssenter mot vold og overgrep i samiske samfunn. Dette senteret må ha samisk språk- og kulturkompetanse.
+        </p>
+        <p>
+            <em type="italic">
+                Sametingsrådets oppfølging:
+            </em>
+        </p>
+        <p>
+            Forslaget er oversendt Justisdepartementet som et representantforslag i prosessen med utarbeidelse av handlingsplanen mot vold i nære relasjoner, som har et eget innsatsområde om forebygging og bekjempelse av vold og overgrep i samiske samfunn. Arbeidet med handlingsplanen er noe forsinket fra regjeringens side, men beregnes ferdigstilt våren 2021.
+        </p>
+        <p>
+            <em type="italic">
+                Forslag 5 - Representant Kjellrun Willhelmsen, Nordkalottfolket
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                Prinsipper for Finnmarkseiendommen
+            </em>
+        </p>
+        <p>
+            Da Finnmarkseiendommen og Finnmarksloven kom, var det etter mye forhandlinger, og med konklusjonen at vi fikk landet tilbake til Finnmarkingene, og at det skal styres med særlig fokus på samisk kultur, næring og samfunnsliv. For å ivareta rettigheter som folk kan ha ble samtidig Finnmarkskommisjonen opprettet, med tanke om at rettigheter på Finnmarkseiendommen må avklares. Sametinget var aktiv i forhandlingene, og sa ja til Finnmarksloven. En del av grunnlaget for å si ja til denne, er at samer har bodd i området i lang tid. Et viktig urfolksprinsipp er at jorda tilhører oss alle i fellesskap, sammen med fremtidige generasjoner. Dette er også helt i tråd med hva som ble foreslått av Smithutvalget i forhold til fjordressursene: ressursene eies av folket langs fjordene i fellesskap, og ikke av staten eller enkeltpersoner. Kommisjonen synes å dreie rettighetsarbeidet over mot å privatisere Finnmarkseiendommen bit for bit, uten at dette er rotfestet i enkeltpersoners, familiers eller bygders opparbeidede rettigheter. I stedet tar man utgangspunkt i en administrativ geografisk enhet, og kaller dette en bygd. Sametinget stadfester at samer som urfolk anser Finnmarkseiendommen å være et felleseie som eies av oss alle fellesskap og fremtidige generasjoner, da med anerkjennelse og repsekt for de opparbeidede rettigheter som enkeltpersoner, familier eller bygder kan ha etter alders tids bruk.
+        </p>
+        <p>
+            <em type="italic">
+                Sametingsrådets oppfølging:
+            </em>
+        </p>
+        <p>
+            Kartlegging av samers og andres rettigheter var en forutsetning for Sametingets tilslutning til Finnmarksloven. Dette kan omfatte både bruks- og eiendomsrett. Finnmarkskommisjonen er opprettet med det som formål.
+        </p>
+        <p>
+            <em type="italic">
+                Forslag 6 - Representant Ronny Wilhelmsen, Arbeiderpartiet
+            </em>
+        </p>
+        <p>
+            Joik er en stor kulturbærer og kan sammenlignes med andre kulturers nedskrevne historier. De tradisjonelle joikene tar med seg ord og uttrykk som kanskje ikke blir brukt så mye i dag, og beskriver ting som ellers kunne gått tapt i historien.
+        </p>
+        <p>
+            Pr 2020 blir ikke utgivelser av tradisjonell joik fullfinansiert av Sametinget, og kostnadene ved utgivelse av slike album på eksempelvis Spotify er vesentlig høyere enn bevilgningene fra Sametinget. Kostnadene ved utgivelse kan virke avskrekkende for forlagene og resultere i at utgivelse av tradisjonell joik nedprioriteres. I følge utøverne selv må en CD spilles 60 000 ganger på radio, Spotify og andre medier, før man får inn engangsbeløpet det kostet å legge ut albumet på Spotify. Det sier seg selv at de aller færreste album med tradisjonell joik har mulighet å oppnå dette.
+        </p>
+        <p>
+            Sametinget anmoder Sametingsrådet om å se på finansieringsløsningene for tradisjonell joik på nytt, og vurdere om det er mulig å fullfinansiere utgivelsene, evt. minske gapet mellom støttebeløp og de reelle kostnadene ved utgivelser.
+        </p>
+        <p>
+            <em type="italic">
+                Sametingsrådets oppfølging:
+            </em>
+        </p>
+        <p>
+            Det er høyt fokus på tradisjonell joik på Sametinget, og nylig har vi fått på plass Sametingets egen joik, som nå begynner å bli en veletablert praksis i plenumssammenheng. Joik og joikeutgivelser er høyt prioriterte ved Sametinget, blant annet ved arbeidet rundt immateriell kulturarv som kommer joiketradisjoner til gode.
+        </p>
+        <p>
+            I 2020 ble det gitt støtte til 9 musikkutgivelser med tradisjonell joik, som igjen står for rundt 38 prosent av alle søknadene til musikkutgivelser i 2020. Disse utgivelsene fikk i gjennomsnitt dekket 87 prosent av sine søknadssummer. Det vil si at man har en praksis på at musikkutgivelser med tradisjonell joik får dekket 100 prosent av sine utgifter om prosjektet blir identifisert som immateriell kulturarv, i motsetning til andre musikkutgivelser som får dekket 80 prosent av utgiftene.
+        </p>
+        <p>
+            Når det gjelder bortfall av inntektsgrunnlaget ved digital distribusjon, blant annet ved bruk av strømmetjenester slik som Spotify og liknende, så er det en større problemstilling som ikke Sametinget kan løse ved å kompensere for det. Sametinget har lite innsikt i utregningsgrunnlaget til de store bransjeaktørene, og i tillegg har Sametinget begrensede budsjetter til å løse denne problemstillingen, som er en utfordring for hele bransjen, og ikke bare den samiske musikkbransjen.
+        </p>
+        <p>
+            Avslutningsvis kan det nevnes at plateselskap, forlag og andre som jobber med musikkutgivelser av tradisjonell joik, også har muligheten til å søke en egen ordning under kulturrådet som tar sikte på å bevare og tilgjengeliggjøre musikkarven i Norge. Dette er en ordning som i liten grad blir brukt av samiske aktører, og som ville kunne utgjøre en viktig del av inntektsgrunnlaget ved musikkutgivelser av tradisjonell joik.
+        </p>
+        <p type="title">
+            Sametingsrådets innstilling overfor Sametinget:
+        </p>
+        <p>
+            Sametinget tar Sametingsrådets beretning om virksomheten i perioden til orientering.
+        </p>
+    </body>
+</document>

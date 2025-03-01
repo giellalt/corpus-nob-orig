@@ -1,0 +1,174 @@
+Error at: 119
+<string>:1:0:ERROR:VALID:DTD_INVALID_CHILD: Element p is not declared in p list of possible children
+<document {http://www.w3.org/XML/1998/namespace}lang="nob" id="no_id">
+    <header>
+        <title>
+        </title>
+        <genre code="admin">
+        </genre>
+        <author>
+            <unknown>
+            </unknown>
+        </author>
+        <wordcount>
+            222
+        </wordcount>
+        <conversion_status type="standard">
+        </conversion_status>
+        <availability>
+            <license type="standard">
+            </license>
+        </availability>
+        <multilingual>
+        </multilingual>
+        <origFileName>
+            Girjealmmuheapmi nob.docx
+        </origFileName>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="dan" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="eng" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fin" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fit" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="fkv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="ger" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="isl" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kal" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="kpv" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nno" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="nob" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="rus" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sma" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sme" location="girjealmmuheapmi_sme.docx">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smj" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="smn" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="sms" location="">
+        </parallel_text>
+        <parallel_text {http://www.w3.org/XML/1998/namespace}lang="swe" location="">
+        </parallel_text>
+        <metadata>
+            <uncomplete>
+            </uncomplete>
+        </metadata>
+        <version>
+            XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$;
+        </version>
+    </header>
+    <body>
+        <p>
+            <em type="italic">
+                Boklansering
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                Sametingsvalg
+            </em>
+        </p>
+        <p>
+            Tilhørighet, deltakelse, partipolitikk
+        </p>
+        <p>
+            Sámediggeválga
+        </p>
+        <p>
+            Gullevašvuohta, oassálastin ja bellodatpolitihkka
+        </p>
+        <p>
+            <em type="italic">
+                Fredag 10.09 2021 kl 11.00
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                Cafe Tamsøy
+            </em>
+        </p>
+        <p>
+            <em type="italic">
+                UiT Campus Alta
+            </em>
+        </p>
+        <p>
+            <p>
+            </p>
+        </p>
+        <p>
+            Fram til 13. september i år kjemper politikerne om velgernes gunst i sametingsvalget. Men hva mener velgerne om hvem som bør kunne stemme ved valg til Sametinget? Hva er forskjellen mellom partiene som stiller til sametingsvalg? Hvordan driver man valgkamp i Sør-Norge valgkrets?
+        </p>
+        <p>
+            I boka
+            <em type="italic">
+                Sametingsvalg -
+            </em>
+            <em type="italic">
+                Tilhørighet, deltakelse, partipolitikk
+            </em>
+        , har forskere søkt å gi svar på disse spørsmålene og flere til.
+        </p>
+        <p>
+            Har du lyst å høre mer om sametingsvalget fra de som har forsket på dette, eller høre hva tre samepolitikere tenker om valgkampen og forskningsbasert kunnskap, kan du komme på lanseringen av boka. Dette skjer på UiT Campus Alta fredag, 10.09.21 kl. 11.00
+        </p>
+        <p>
+            <em type="italic">
+                Program:
+            </em>
+        </p>
+        <p>
+            11.00 Velkommen
+        </p>
+        <p>
+            11.05
+            <em type="italic">
+                Politisk avstand ved sametingsvalg: En kartlegging av det samiske ideologiske landskapet i Norge
+            </em>
+        v/Jo Saglie, Institutt for samfunnsforskning.
+        </p>
+        <p>
+            11.15
+            <em type="italic">
+                Hvem kan/bør/vil delta i det samiske demokratiet? Om ulike typer holdninger til Sametingets valgmanntall i Norge
+            </em>
+        . v/Torunn Pettersen, Sámi allaskuvla.
+        </p>
+        <p>
+            11.25
+            <em type="italic">
+                Sametingsvalg på sørnorsk, Valgkamp i en utfordrende valgkrets og informasjonsbehov
+            </em>
+        v/Mikkel Berg-Nordlie, NIBR/Oslo Met
+        </p>
+        <p>
+            11.35 Sametingspresident Aili Keskitalo, Norgga Sámiid Riikasearvi (NSR)
+        </p>
+        <p>
+            11.45 Sametingsrepresentant Ronny Wilhelmsen, Bargiidbellodat (Ap)
+        </p>
+        <p>
+            11.55 Sametingsrepresentant Torill Bakken Kåven, Nordkalottfolket
+        </p>
+        <p>
+            12.05-1300 Spørsmål og kommentarer
+        </p>
+        <p>
+            Servering av Kaffe, te, kaker og rundstykker
+        </p>
+        <p>
+            Arr: UIT Alta og Sámediggi/ Sametinget
+        </p>
+    </body>
+</document>

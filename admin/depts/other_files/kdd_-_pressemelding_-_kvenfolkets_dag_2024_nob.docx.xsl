@@ -12,13 +12,13 @@
         https://giellalt.uit.no/ling/CorpusTools.html#add_files_to_corpus
     -->
     <xsl:variable name="filename" select="'/Users/tobiaskvalness/OneDrive - Kvensk institutt/Tekstit_korpukseen/KDD - Pressemelding - kvenfolkets dag 2024 nob.docx'"/>
-    <xsl:variable name="text_encoding" select="''"/>
+    <xsl:variable name="text_encoding" select="'Pressemelding - kvenfolkets dag'"/>
     <xsl:variable name="title" select="''"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
+    <xsl:variable name="author1_fn" select="'KDD'"/>
     <xsl:variable name="author1_ln" select="''"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -74,7 +74,7 @@
     <!-- The values are either: published or unpublished -->
     <xsl:variable name="publChannel" select="''"/>
     <!-- Publication year -->
-    <xsl:variable name="year" select="''"/>
+    <xsl:variable name="year" select="'2024'"/>
     <xsl:variable name="ISBN" select="''"/>
     <xsl:variable name="ISSN" select="''"/>
     <xsl:variable name="place" select="''"/>
@@ -155,7 +155,7 @@
         then the document is checked for all supported languages.
     -->
     <xsl:variable name="mlangs">
-        <!-- <language xml:lang="dan"/> -->
+         <language xml:lang="fkv"/> 
     </xsl:variable>
 
     <!--
